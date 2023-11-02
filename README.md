@@ -25,7 +25,7 @@ Moreover, disclosure similarities emerged among companies from the same region o
 Lastly, we investigate which factual aspects impact the most on companies' ESG scores using our findings and other company information.
 This analysis unveiled that companies' disclosures affect ESG scores more than other financial or company characteristics.
 
-KEYWORDS: ESG Dimensions, Non-financial Disclosures, Large Language Models, In-context Learning, Knowledge Graphs, Bipartite Graph Analyses, Interpretability
+KEYWORDS: *ESG Dimensions*, *Non-financial Disclosures*, *Large Language Models*, *In-context Learning*, *Knowledge Graphs*, *Bipartite Graph Analyses*, *Interpretability*
 
 ## Repository structure
 ### Data

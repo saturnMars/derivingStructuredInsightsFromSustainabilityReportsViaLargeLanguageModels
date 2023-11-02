@@ -1,0 +1,58 @@
+1 CISCO 2021 SASB INDEX. 
+Cisco 2021 Sustainability Accounting Standards Board (SASB) Response. 
+SASB standards were published in late 2018. In the current version of the standards, the SASB Materiality Map establishes 26 issue categories grouped into five dimensions. These issue categories are then applied by SASB across 11 industry sectors broken into 77 industries.
+Cisco is classified by SASB in the Hardware industry category under the Technology & Communications sector. On the SASB Materiality Map, five issue categories are identified as material for the Hardware industry.
+As our existing Software and Services offerings continue to expand, we plan to evaluate disclosures aligned to the SASB Software & IT Services industry metrics that are relevant and applicable to our business in the future.
+The following table provides Cisco’s SASB disclosure for the Hardware industry. Disclosure guidance was taken from the SASB Hardware Sustainability Accounting Standard (October 2018) as informed by the SASB Hardware Basis for Conclusions report (October 2018).
+Topic SASB Code SASB Accounting Metric. 
+Disclosure. 
+Data Security TC-HW-230a.1. 
+Description of approach to identifying and addressing data security risks in products. 
+We hold ourselves accountable for resolution of security and privacy incidents. When issues arise with Cisco’s solutions, our global Product Security Incident Response Team (PSIRT) responds swiftly, using a playbook with documented resolution procedures. When security or privacy incidents occur, our Computer Security Incident Response Team (CSIRT) and/or our Data Incident Response Team (DIRT) kicks into gear. These 24/7 teams perform comprehensive incident investigation and prevention through threat assessment and detection, mitigation planning, incident trend analysis, and security architecture review.
+Employee Engagement, Diversity & Inclusion. 
+TC-HW-330a.1. 
+Percentage of gender and racial/ ethnic group representation for (1) management, (2) technical staff, and (3) all other employees 1) Management: -Vice Presidents: 25% Women, 75% Men (global); 61.1% White/ Caucasian, 28.5% Asian, 5.7% Hispanic/Latino, 3.5% African American/ Black, 0.9% Two or more races (Not Hispanic or Latino), 0.3% American Indian or Alaska Native -People Leaders: 26% Women, 74% Men (global); 58.5% White/ Caucasian, 31.1% Asian, 5.5% Hispanic/Latino, 3.2% African American/ Black, 1.2% Two or more races (Not Hispanic or Latino), 0.2% American Indian or Alaska Native, 0.2% Native Hawaiian/Other Pacific Islander -Executive Leadership Team: 42% Women, 58% Men; 63.6% White/ Caucasian, 18.2% Asian, 18.2% Hispanic/Latino -Cisco Board: 64% Women, 36% Men; 80% White/Caucasian, 29% African American/Black and Native American, 9% Asian (2) Technical workforce: 17% Women, 83% Men (global); 41.3% White/ Caucasian, 48.4% Asian, 5.0% Hispanic/Latino, 3.6% African American/ Black, 1.3% Two or more races (Not Hispanic or Latino), 0.2% American Indian or Alaska Native, 0.1% Native Hawaiian/Other Pacific Islander (3) All other employees: -Non technical workforce: 41% Women, 59% Men; 62.1% White/ Caucasian, 21.7% Asian, 7.5% Hispanic/Latino, 5.9% African American/ Black, 2.3% Two or more races (Not Hispanic or Latino), 0.3% American Indian or Alaska Native, 0.2% Native Hawaiian/Other Pacific Islander
+
+
+2 CISCO 2021 SASB INDEX. 
+Topic SASB Code SASB Accounting Metric. 
+Disclosure. 
+Product Design and Life-cycle Management. 
+TC-HW-410a.1. 
+Percentage of products by revenue that contain IEC 62474 declarable substances 100% of our electronic products may contain small amounts of some of the chemicals on the IEC 62474 declarable substances list. We have tracked and restricted the substances of concern in our products that have been identified as highest priority for restriction in jurisdictions worldwide. Any remaining uses of substances of concern in products are for applications that lack viable alternatives or substances of lower regulatory priority.
+Electronics companies still have products which claim RoHS exemptions or REACH candidate substances when there is no currently viable alternative. For example, 100% of electronics products still contain some amount of lead used in specialized applications that are allowed under RoHS exemptions. Also, ethylene glycol dimethyl ether (EGDME), for which there is no known replacement, is used in all coin cell batteries.
+Product Design and Life-cycle Management. 
+TC-HW-410a.2. 
+Percentage of eligible products, by revenue, meeting the requirements for EPEAT registration or equivalent 65%
+During FY21, Cisco sold products in the following product categories: Servers and Network Equipment.
+Product Design and Life-cycle Management. 
+TC-HW-410a.3. 
+Percentage of eligible products, by revenue, meeting ENERGY STAR® criteria 61%
+During FY21, Cisco sold products in the following Energy Star product categories: Enterprise Servers, Large Network Equipment and Telephones.
+Product Design and Life-cycle Management. 
+TC-HW-410a.4. 
+Weight of end-oflife products and e-waste recovered, percentage recycled 1. Product return: Weight of product returned from customers, stock rotations or Cisco-internal sources, including via recycling request or Return Materials Authorization (RMA)
+FY21: 9481 metric tonne 2. Refurbish, resell and reuse: Material redeployed to Cisco services, Cisco Refresh, or internal. 
+FY21: 1336 metric tonne (14.1%) 3. All material not refurbished, resold or reused is redirected for component and commodity harvesting. Landfill material only consists of nonelectronic waste materials—such as broken pallets, wet cardboard, and shrink wrap—accompanying Cisco product returned by customers.
+FY21: 0.08% to landfill. 
+Supply Chain Management TC-HW-430a.1. 
+Percentage of Tier 1 supplier facilities audited in the RBA Validated Audit Process (VAP) or equivalent, by (a) all facilities and (b) high-risk facilities. 
+We require RBA audits of all manufacturing partners every two years.
+Each year, RBA or Cisco audits at least 25% of component supplier facilities that are deemed high risk according to our risk assessment and are required to conduct RBA audits.
+Cisco 2021 Sustainability Accounting Standards Board (SASB) Response
+
+
+3 CISCO 2021 SASB INDEX. 
+Topic SASB Code SASB Accounting Metric. 
+Disclosure. 
+Supply Chain Management TC-HW-430a.2. 
+Tier 1 suppliers’ (1) non-conformance rate with the RBA Validated Audit Process (VAP) or equivalent, and (2) associated corrective action rate for (a) priority non-conformances and (b) other nonconformances. 
+Number of RBA audit nonconformances by category for fiscal 2021: Labor: -Total component supplier: 271 -Total contract manufacturer: 46 -Nonconformances identified as priority: 23 -Nonconformances identified as major: 236 -Nonconformances identified as minor: 58 Health and Safety: -Total component supplier: 177 -Total contract manufacturer: 23 -Nonconformances identified as priority: 4 -Nonconformances identified as major: 150 -Nonconformances identified as minor: 46 Environment: -Total component supplier: 61 -Total contract manufacturer: 3 -Nonconformances identified as priority: 0 -Nonconformances identified as major: 49 -Nonconformances identified as minor: 15 Ethics: -Total component supplier: 25 -Total contract manufacturer: 1 -Nonconformances identified as priority: 0 -Nonconformances identified as major: 10 -Nonconformances identified as minor: 16 Management System: -Total component supplier: 81 -Total contract manufacturer: 6 -Nonconformances identified as priority: 2 -Nonconformances identified as major: 56 -Nonconformances identified as minor: 29 Details about the associate corrective action rate can be found here.
+Details about our RBA VAP audit program can be found in the ESG Hub.
+Further details about the audit nonconformances can be found here.
+Materials Sourcing & Efficiency. 
+TC-HW-440a.1. 
+Description of the management of risks associated with the use of critical materials. 
+Cisco’s Partner Business Continuity Plan Program is a collaborative effort that allows our suppliers to provide and identify business continuity data about their manufacturing site locations, recovery capabilities (alternate production capabilities and recovery times for sites and specific components), and are assessed against a Cisco Business Continuity Plan standard to gauge the quality and resiliency levels of the sites.
+The information allows Cisco to identify vulnerabilities that may exist in the overall supply chain. Cisco can proactively direct resources to prioritize and develop mitigation plans and procedures in those areas of opportunity through continuous improvement practices. Examples include supplier financial risk assessments, product standardization, Business Continuity Plan compliance, dual-sourcing, diversification, and buffer-inventory. In a major disruption, this data provides Cisco with the information required to assess potential impact and enable quick response to ensure minimal impact to our customers.
+Cisco 2021 Sustainability Accounting Standards Board (SASB) Response

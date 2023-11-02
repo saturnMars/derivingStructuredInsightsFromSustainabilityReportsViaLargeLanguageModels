@@ -1,0 +1,500 @@
+Sustainability Report 2021
+
+
+2 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Table of contents 4 From the desk of Gary Guthart, CEO 6 History 8 Focus on customers and their patients 9 Adding capabilities for sustainable growth 11 Training expansion 15 Sustainable and reliable growth practices 18 Talent and workplace experience 19 Our employee experiences 20 Inclusion and diversity (I&D) 24 Enhancing the workplace experience 29 Creating stronger communities 30 Intuitive community programs 31 Community programs in collaboration with the Intuitive Foundation 33 Intuitive Foundation community programs 34 Outreach initiatives 36 Supply chain sustainability 37 One-team approach 37 Supplier symposium, development, and portal 37 Supplier selection, training, and evaluation 39 Environmental stewardship 40 Expanding our global presence 41 Sustainability in facilities and construction 43 Product distribution programs 43 Waste management
+
+
+3 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Table of contents 45 Governance 45 Our board 47 Anti-bribery, anti-corruption, and ethical business conduct 48 Compliance training 49 Conclusion 50 Summary of metrics appendix 51 Innovation: Focus on customers and their patients 52 Talent and workplace experience 52 Creating stronger communities 53 Supply chain sustainability 53 Environmental stewardship 53 Governance
+
+
+4 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+From the desk of Gary Guthart, CEO. 
+We are pleased to present you with our 2021 Intuitive® Sustainability Report. Intuitive is now entering our 27th year working to improve surgery and acute interventions. We are committed to building technology-enabled ecosystems that can help deliver clinical benefits and economic value in the hands of our customers, which requires sustained effort over many years. We approach governance of our company and our sustainability efforts with the same long-term perspective as we do our innovations. We start with the end in mind—value creation for our stakeholders—and apply thoughtful prioritization and a one-team approach to achieve our milestones.
+Value creation at Intuitive starts with patients and the physicians, care teams, and hospitals who care for them. We measure value creation through our customers’ lenses and in alignment with our goal of delivering on the Quadruple Aim: better clinical outcomes, improved patient experiences, improved care team experiences, and lower total cost to treat per patient episode.
+We believe great products and services are created by great teams. For our employees, value creation means building an environment where outstanding individuals can contribute to our mission, and grow and flourish in their careers. Intuitive prioritizes development, engagement, achievement, and employee health and well-being in an environment that seeks to be inclusive, fair, and equitable while reflecting the diversity of our communities and our customers. We invest in the communities in which we live and work, through direct engagement and by providing time, talent, and financial resources to support initiatives aligned with our mission and our culture.
+For shareholders, we seek to first fulfill our mission of delivering safe and effective solutions to our healthcare customers. Second, we seek to differentiate our company through outcomes-focused, value-generating innovations and economies of scale. Third, we seek to be careful stewards of our financial resources such that we expect to achieve appropriate returns on our investments. Finally, we practice business processes that emphasize transparent and compliant governance.
+Our Mission. 
+We believe that minimally invasive care is life-enhancing care. Through ingenuity and intelligent technology, we expand the potential of physicians to heal without constraints.
+
+
+5 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+The COVID-19 pandemic of 2020 and 2021 has stressed our global health community and demanded agility, creativity, and flexibility. We have responded by developing sustainable solutions to meet customers’ needs in new ways. Some of these include:
+High-quality training delivered locally: Given travel restrictions during the pandemic, we have launched local training centers closer to surgeons and care teams who are unable to or wish to minimize travel. We have expanded our cloud-based training curricula to include new program areas and a greater focus on the broader care team. We have also advanced our digital support for training, including the expansion of our online Intuitive Learning platform, updated our SimNow® virtual-reality training content, deployed additional Intuitive Telepresence remote case observation sites, and launched our training integration with our My Intuitive mobile app.
+Flexible, customer-focused solutions: In 2020 and 2021, we reallocated our field and manufacturing resources to help customers address challenges; from new sites of care for their Intuitive programs to managing supply chain disruption. We also expanded our Extended Use Program around the globe to help hospitals lower the total cost of care and reduce overall medical instrument waste.
+Expanding at a global scale: Despite the pandemic, we have continued to lay our foundation for operations and facilities to serve our customers globally. We expanded our presence in key campus hubs including Peachtree Corners, Georgia, and Freiburg, Germany, in addition to growth at our headquarters in Sunnyvale, California, and our established operations campus in Mexicali, Mexico.
+In this, our third sustainability report, we provide more detail on the programs and innovations highlighted above, as well as an overview of the current state of our sustainability strategy, including our areas of focus, key actions taken over the past year, and the results achieved to date.
+Sustainable solutions • High-quality training delivered locally • Flexible, customer-focused solutions • Expanding at a global scale. 
+Gary Guthart, PhD Chief Executive Officer
+
+
+6 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+History 10 million+
+Number of minimally invasive procedures performed globally through 2021 using the da Vinci® surgical system 6,730 da Vinci systems around the world 52 States and territories* 69 Countries * Includes Washington, D.C. and Puerto Rico
+
+
+7 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022 1.5 million+
+Number of procedures performed globally in 2021 using the da Vinci system 19.8 seconds How often a surgeon begins a procedure using the da Vinci system 129 Ion® endoluminal systems placed at customer sites
+
+
+8 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Focus on customers and their patients. 
+Outcomes-focused innovation and enhancing physician and care team performance, efficiency, and potential to improve patient outcomes are at the core of what Intuitive does as a business, and are a vital part of our sustainability work in 2021. We made significant progress on systems developments, learning enhancements, and service initiatives in 2021, each designed to help customers improve and expand access to minimally invasive care. Many of these initiatives contributed to our overall efforts to reduce our environmental footprint and provide a more sustainable future.
+
+
+9 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Adding capabilities for sustainable growth. 
+Clinical video management With the integration of Orpheus Medical’s advanced clinical media management capabilities, we expanded our digital ecosystem and our integrated informatics platform. Physicians and patient care teams now have ready access to their data based on the clinical video management platform.
+An important benefit for Intuitive of acquiring Orpheus Medical in February 2020 was that the company’s vendor-neutral platform aligned with our mission to advance minimally invasive care. The plug-and-play server connects with multivendor videos and image sources across a range of provider surgical specialties to provide an enterprise-level media management solution to capture and share clinical videos.
+Through the use of this technology, we can provide care teams tools to use their own data, empowering them to find and scale efficiencies in their practices. By capturing visual content through various two- and threedimensional (2D and 3D) camera-equipped procedural systems, the platform can be used across various clinical settings including endoscopy, orthopedic surgery, ophthalmology, and neurology. The multispecialty approach and flexible capabilities we offer our customers with this platform reflects our desire to innovate with purpose, giving our customers the ability to improve workflow efficiency.
+29,000+ peer-reviewed scientific articles that reference Intuitive technologies* 3,700+
+New peer-reviewed scientific articles that reference Intuitive technologies added in 2021 (included in total above)* * As of November 16, 2021.
+
+
+10 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022 3D modeling and procedure planning. 
+In 2021, we continued the pilot of our 3D modeling and procedure planning tool that transforms a patient’s CT images into 3D models that surgeons can view from every angle. 3D visualization capability allows surgeons to use the models during preoperative planning and patient education, as references during surgery, and in postoperative discussions with patients and families.
+My Intuitive We started our incremental rollout of the My Intuitive mobile app to the United States (U.S.) with a pilot phase in April, and gradually expanded to include more than 2,500 surgeons by the end of the year. The app provides surgeons with a gateway to their operative data captured on da Vinci X® and XI® systems. This secure data allows surgeons the opportunity to analyze their da Vinci instrument utilization, console time, case volume, and other insights. It also enables surgeons to set their ergonomic and energy preferences, manage their training activities by connecting to the Intuitive Learning platform, and maintain profiles available through our online surgeon locator.
+
+
+11 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+My Intuitive began as a mobile app for surgeons in early 2021 and has expanded with the opportunity for increased value for our customers through pathways linking to online tools and resources for training, case data, and robotics program management. My Intuitive now helps surgeons easily navigate their da Vinci X or Xi systems and instruments usage data and skills learning.
+“Data is power with referring physicians to show outcomes, with insurance companies when negotiating contracts, and with administration when showing patient trends, identifying block time, and highlighting efficiencies. We no longer have to create our own spreadsheet with manual data entry with the My Intuitive App.”
+Peter Sarantos, MD North Florida Regional Medical Center. 
+Extended Use Program In 2020, we introduced the Extended Use Program for da Vinci X and Xi instruments in the U.S. and Europe to help hospitals lower the total cost of care and reduce overall medical/instrument waste by increasing the number of times customers could use core instruments. Product teams enhanced instrument design, materials, manufacturing process, and testing protocols to help improve instrument reliability over time. Extended Use Program instruments underwent rigorous electrical, mechanical, and reprocessing testing to validate that they could meet our current 10-use performance and reliability standards at a greater number of uses. In 2021, a majority of European and all U.S. customers migrated to using da Vinci X and Xi extended-use instruments. We also introduced the program in India, Japan, Taiwan, and Korea.
+Training expansion. 
+We introduced a number of innovations over the past two years to meet customer needs during the COVID-19 pandemic and beyond. Customer training is a vital area where we have accelerated innovation and adoption of a host of new training technologies and modalities. By engaging thoughtfully with our customers, we refined and expanded our virtual training programs globally and opened additional training centers worldwide designed to minimize travel for physicians and care teams attending in-person courses.
+Ion and da Vinci SP system training With the increased number of Ion systems and the 2019 expansion of indications for the da Vinci SP® system to include certain head and neck surgeries, we increased training on both devices. Intuitive provides technology training on the use of our systems, and we work with experienced independent physicians who deliver procedure training. In 2021, we gathered key opinion leader physicians who bring clinical training on Ion and da Vinci SP systems directly to our customers. The support from experienced physicians made it possible to offer peer-to-peer training in multiple locations this year.
+4,200+
+Active patents with rights granted to or owned by or exclusive field-of-use licensed to Intuitive* 2,100+
+Active patent applications or pending exclusive licenses* * As of December 31, 2021.
+
+
+12 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Telepresence Our telepresence live-streaming feature allows surgeon peers, students, and proctors to view procedures performed using da Vinci systems in real time. Intuitive Telepresence can allow surgeons to experience surgery as if they were viewing it through a 2D console in the same room. The ability to remotely observe surgeries as they are taking place will continue to increase surgeon and care team access to distant training and mentoring opportunities. This helps minimize some in-person surgical viewing and mentoring, which can reduce the environmental impact associated with travel.
+Intuitive Learning platform 2020 brought a considerable increase in traffic to our online Intuitive Learning platform. In 2021, we continued to meet that interest with expanded features, including additional customized training pathways. We integrated the platform with our telepresence live-streaming capabilities, and updated the SimNow simulation program and hospital learning management (HLM) tools. We also integrated data from the My Intuitive mobile app and added filtering features to aid searches within our large and ever-growing library of clinical videos.
+Our goal is to meet each learner where they are and provide the appropriate content and delivery approach to meet their needs. Put another way, we strive to provide the right training in the right place at the right time. By significantly expanding the quantity, quality, and reach of our training programs in 2021, we continued to make progress on these goals.
+
+
+13 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+KindHeart surgical models With our acquisition of KindHeart in 2021, we were able to increase accessibility to hands-on training globally. KindHeart surgical simulation models replicate the positioning of human anatomy and live tissue behavior to provide physicians with a near-real experience when learning to use the da Vinci system. Use of these models facilitates a standardized, reproducible training experience, enabling both the learner and the teacher to focus entirely on skill development. These representative tissue models allow for an increase in regional training opportunities without the need for specialized facilities or equipment, and with minimal waste disposal.
+Regional training centers Initially started to minimize physician and care team travel during the COVID-19 pandemic, we have expanded our regional training centers worldwide for da Vinci Xi, da Vinci SP, and Ion systems. As a result, in-person training numbers grew throughout the year while reducing the environmental impact associated with travel. For example, in late 2020, we opened a regional training center in Taiwan. We trained 60 surgeons in Taiwan on the use of da Vinci systems in 2021.
+* As of December 31, 2021.
+Scotland training center In 2021, Intuitive supported National Health Service Scotland to expand robotic-assisted surgery technologies nationwide, increasing access to minimally invasive surgical care through investing in 10 da Vinci Xi dual-console systems, taking the total number across Scotland to 13.
+To help support Scotland’s scalable implementation and access to training, Intuitive is collaborating with the Royal College of Surgeons of Edinburgh to provide a national training hub. Opened in late 2021, the hub helps Scotland strengthen its robotic-assisted technical and system skills training.
+6,800+
+Number of training sessions performed globally this year* 35,000+
+Number of surgeons trained to use da Vinci systems in the U.S.* 1,000+
+Number of active registered proctors globally* 25,000+
+Number of surgeons trained to use da Vinci systems outside the U.S.*
+
+
+14 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Genesis program The care team in any surgical or procedural suite is at the center of a remarkable group of talented individuals who make minimally invasive interventions possible. Our Genesis program supports these care teams by providing bestpractice training, resources, and consulting to help hospitals optimize their use of Ion systems, da Vinci systems, instruments, accessories, and services, often resulting in a reduction in medical waste and valuable procedure time.
+Helping hospitals realize the most value from our systems, instruments, and accessories is key. To that end, we addressed the topic of after-hours care by incorporating training on best practices from hospitals that have incorporated da Vinci systems into their after-hours and emergency surgery programs.
+In 2021, we enhanced our Genesis virtual offerings and expanded our focus to include topics like scheduling and sterile processing. This year, we also began working with the Association of periOperative Registered Nurses (AORN), which provides continuing education to its members. We sponsored a virtual live webinar series to provide training on best practices and new strategies to help care teams improve quality, lower costs, and increase patient and care team satisfaction.
+Each year we learn from the previous how to further help our customers improve optimization of their Ion and da Vinci programs, reflecting our continued commitment to creating value for our customers and to our sustainability efforts.
+1,667 Total global Genesis engagements in 2021* * As of December 31, 2021.
+
+
+15 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Sustainable and reliable growth practices. 
+Services When designing a new system or product feature, we design with reliability in mind from the beginning. This reliability-by-design approach helps our customers minimize their service needs with the introduction of each new product feature. The advanced technology, mechanical complexity, operational precision, and human interaction required for each procedure make our relentless pursuit of the highest possible reliability a top priority. We have built a highly skilled, diverse, and ambitious service team dedicated solely to Intuitive products. They have the training and specialized tools— including remote monitoring, diagnostics, and software upgrades—to help minimize unplanned service events. Our secure remote diagnostics capability allows our service team to troubleshoot and solve many events without a scheduled visit. In situations where a physical visit is required, remote diagnostics assist our service team in determining the appropriate replacement parts, helping them resolve issues in a single visit.
+To help our customers manage their da Vinci and Ion programs, we completed a redesign of our customer service portal this year with plans to integrate it under the My Intuitive digital umbrella. The functional and secure portal features new analytic tools and at-a-glance dashboards that help customers independently evaluate their data, gain insight into their da Vinci system and instrument utilization, and manage their service needs. Customers can also use the portal to view instruments and accessories inventory, transactions, and returns and exchanges. This allows customers to monitor the efficacy of their programs and maintenance of their systems.
+“I especially like the readily available graphs in the system utilization report, which helped me see and understand trends to maximize the utilization of my systems.”
+Sherry Rogers Program Director, Emory Health 99+% System uptime*,† 9,800+
+Global customer portal users† * Excludes Intuitive-owned systems at noncustomer sites. † As of December 31, 2021.
+
+
+16 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022 780 Intuitive’s BitSight score*
+Cybersecurity Maintaining security of our surgical platforms, embedded systems, digital products, and our back-office systems and infrastructure is a major focus at every level of the organization. With full support from Intuitive’s board of directors and executive leadership, we continue to invest in and expand our cybersecurity programs, procedures, processes, and capabilities. Since 2019, we have more than doubled the number of cybersecurity-focused employees. We stay attuned to known and emerging threats by directing resources to safeguard data and systems through actions including, but not limited to: • Mandatory employee training on security policies, data protection, and security awareness • Review of risk notifications provided by global threat intelligence resources followed by appropriate action as required • Remote-access protection to control access to our network, applications, and data • Use of advanced technology tools for cyberthreat management • Privacy and data protection for online meetings, webinars, and other virtual collaboration activities. 
+As we grow within the U.S. and abroad, we are implementing appropriate security infrastructure programs to meet evolving cybersecurity requirements. Where we have expanded through acquisition, we are standardizing security systems and processes to maintain service levels and apply appropriate controls.
+* As of December 29, 2021.
+
+
+17 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022 99+% Completion rate for all QMS compliance training. 
+Data privacy Before this year, we managed privacy and data protection from multiple locations throughout the organization. In 2021, we realized that to sustainably maintain our focus across the numerous regions we serve, it was important to consolidate many data privacy-related functions. This consolidation happened under the stewardship of our data privacy operations team, a team focused solely on compliance with applicable privacy laws, including the European Union’s General Data Protection Regulation (GDPR). The team reviews and maintains an inventory of all products and applications that collect, store, and process personal data. All new and enhanced products and applications are reviewed for compliance with applicable privacy laws. The team receives guidance and implements requirements from the legal department’s privacy team.
+Another function of the data privacy operations team is managing data subject access requests (DSARs) from individuals. Depending on the jurisdiction, individuals may have certain rights allowing them to update, correct, or delete their personal data as provided by applicable law. The data privacy operations team oversees these requests to facilitate timely response.
+In the third quarter of 2021, the data privacy operations team implemented a formal privacy-by-design program, which verifies that data privacy and protection processes are integrated into the technologies and products we are developing. Though integrating data privacy and protection into our technology has been a long-standing practice at Intuitive, the privacy-bydesign initiative closely tracks the GDPR’s specific requirements in this area.
+Quality management Our quality teams drive continuous improvement through our quality management system (QMS). Our QMS is ISO 13485:2016 certified and complies with the Medical Device Single Audit Program (MDSAP) requirements and other global regulations. It consists of a quality manual and procedures that contain specific responsibilities for establishing, implementing, and maintaining our QMS. Methods for monitoring our QMS include establishing and tracking quality goals and metrics, quality data management reviews, internal and external audits, and corrective and preventive actions. Through the diversity of thought within our organization, we have instituted procedures and processes to help our internal auditors be responsive and agile when they perform holistic reviews, self-identify issues, and take action to improve over time.
+In 2021, we completed 23 compliance audits, including 10 internal audits, two building-certification audits, and 11 regulatory agency audits that reviewed and provided feedback for continuous improvement. We achieved a greater than 99% completion rate for all QMS compliance-related employee training. Certification training on building various products was completed by 976 technicians across our worldwide operations.
+976 Technicians completed product-build certification training in 2021
+
+
+18 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Throughout 2021, our spirit of engagement, agility, and resilience allowed our employees to raise awareness around fast-evolving environmental and social justice issues, explore new pathways in various areas, and continue to align as one team around our shared mission.
+The Power of One Intuitive …
+One Mission, One Vision, One Culture, One Team. 
+Changes resulting from the COVID-19 pandemic continued to impact our teams and caused us to think and work creatively throughout 2021. Staying true to our mission and culture, while flexibly adapting the what and the how of our work, has allowed us to develop resilience in our existing team, recruit and grow new talent, and strongly position Intuitive for the future.
+Talent and workplace experience * As of December 31, 2021.
+10.3% Turnover rate based on rolling 12 months of data* 9,700+
+Total number of employees*
+
+
+19 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022 88+% Employee experience survey response rate*
+Our employee experiences. 
+Employee experience surveys We value our employees’ insights and feedback and recognize that they are the best equipped to tell us how to improve in meaningful ways. In April 2021, we fielded our most recent employee experience survey to better understand employee experience, sentiment, and actions we can take to evolve a culture that continues to inspire each of us to do our best work. This year’s survey included a robust set of categorized questions that helped us learn about our employee engagement drivers, identify what makes Intuitive a great place to work, and uncover areas for improvement. This is guiding us to build and improve programs to support our talented workforce and identify ways to amplify our one-team approach. Throughout the summer, our leaders shared survey results with their teams, engaged employees in discussions and created action plans to improve the employee experience. More than 6,800 (88+%*) global employees provided feedback.
+In September, we launched a process to send out quarterly pulse surveys based on the employee experience survey to stay current with employee perspectives and regularly assess our performance on attributes key to maintaining a positive work environment.
+Talent development Through surveys and other feedback channels, employees tell us they consider talent development and opportunities for career growth vital to their well- being. That is why we put both at the forefront of our efforts to continue attracting, engaging, and retaining top talent. Our employee development programs focus on improving employee skills to help us drive innovations forward, scale our organization for growth, and deepen our bench of management talent.
+One area in which our talent particularly excels is our sales organization. Sales of regulated medical devices require unique management experience and training that must be regularly updated to maintain a knowledgeable and engaged sales force. To accommodate those needs and the team’s geographic diversity, we provide a tailored program for sales and sales management development. This program’s structure aligns with the People Leadership Success Model used throughout the company, and additionally includes content specific to meeting sales team needs.
+In 2021, several employee-development programs were redefined. Our global internal careers program now offers an updated internal careers and referrals website and a Talent Action Plan tool, which enables each employee to create a personalized development plan. More than 700 employees completed Talent Action Plans within the first 60 days of the updated program’s global rollout in July.
+People Leadership Success Model * Based on global employee population as of April 1, 2021.
+Product Delivering quality work output from a team. 
+Process Ensuring Intuitive business processes and practices allow for the best work. 
+People Attracting, developing, and retaining our people
+
+
+20 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+New-hire integration content updates added a “getting connected” section, expanding our new employee orientation program. The all-virtual onboarding program dives deeper into our history, culture, employee resource groups, sustainability, and Intuitive Foundation activities to promote earlier awareness of, and engagement with, various employee programs.
+Our annual global performance review cycle continued to see high levels of engagement, with more than 97% of employees completing self-evaluations. As managers and employees continue to leverage the upgraded performance management system that rolled out across 2019 and 2020, we saw the recorded overall delivery of manager feedback increase by 5% in 2021 to 86%. This year-end review is an opportunity for our employees and managers to capture critical milestones, recognize achievements from the previous year, and engage in future-focused conversations on what success looks like going forward. While we hold our employees and leaders accountable for completing this important activity, as a company, we are dedicated to the continued evolution of performance management in support of continuous alignment, on-going feedback, and employee development.
+Inclusion and diversity (I&D)
+At Intuitive, we are committed to empowering our employees and customers from every background to fully contribute toward our shared purpose—to expand the potential of physicians to heal without constraints. We believe that inclusion, diversity, and fair treatment should be integral to how we engage and support our employees, communities, and customers.
+97+% Employee performance self-evaluation completion rate in 2021
+
+
+21 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+A four-part strategy guides our progress: • Diverse workforce: Increase leader and employee representation to fuel innovation and better mirror our customers and their patients. This includes diverse talent sourcing, strengthening our hiring process rigor and training, and thoughtful succession and talent planning.
+• Inclusive experience: Help employees from all backgrounds feel welcome, supported, and valued. This includes supporting our employee resource groups (ERGs) for underrepresented identities, providing inclusion training and education, enhancing leader support, and considering all employees’ needs in areas such as facilities and benefits.
+• Fair practices: Openly share progress and continuously improve our people practices in areas such as representation, pay equity, and promotions.
+• Industry engagement: Engage with our customers and their patients, our employees, communities, suppliers, and other stakeholders to drive positive change.
+From an inclusion and diversity perspective, 2021 was a year of listening carefully to determine where we are, identify gaps, set strategy, and build infrastructure. Key to our strategy was the August hire of a vice president of global inclusion and diversity to spearhead our I&D initiatives in partnership with our I&D Council. We made progress in I&D education and training to help employees expand inclusion efforts in recruitment, workplace culture, and leadership. We also added resources in people analytics and talent acquisition, strengthened our support for ERGs, and improved hiring and employee development programs.
+Our 2021 employee experience survey contained a set of questions to help us further assess and evolve our I&D multiyear strategic roadmap and better understand the workplace experience of our diverse workforce. We engaged a team of I&D consultants that deeply explored the experiences of our employees through focus groups and interviews. They listened intently to understand where we are today, what we are doing well, and how we can make improvements. As a result, we have a robust roadmap of opportunities to be incorporated into our future strategic plans.
+We have committed to publishing population metrics in this report annually, disclosing our global gender representation, people of color representation within the U.S., and 3-year trends associated with each. This year, as part of our effort to expand management diversity, we added our leadership population metrics. We use the data we collect to inform decisions that will move us toward greater inclusion.
+Employee resource groups Our ERGs are volunteer-led groups that provide community and support for employees from underrepresented backgrounds. We have six ERGs serving employee communities that include those identifying as women, Black, Asian/Pacific Islander, veterans, LGBTQ+, and those having a disability. We have experienced strong growth and engagement among these organizations with activities ranging from recruitment and employee development initiatives to educational speaker series events. Following are a few select highlights of the many inclusive actions taken by our ERGs throughout 2021.
+9,600+ employee engagements at ERG events in 2021
+
+
+22 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Women Intuitive Network (WIN) In 2021, our WIN ERG and our I&D Council piloted a women’s leadership development program to develop and support women being considered for advancement. The process began with identifying high-potential women through a cross-business nomination process. The candidates then entered a program to build their leadership skills and address some of the common headwinds women face in business.
+Intuitive Pan-Asian Community (InPAC) In June, following highly publicized hate crimes in the U.S., our InPAC team engaged employees across our ERG community to collaborate in presenting a global One Intuitive Vigil to express solidarity with the Asian American Pacific Islander (AAPI) community within and beyond our company. The vigil grew into a larger conversation about how we can support one another across our global community and how to access the health and wellness resources, including mental health and resilience, available to employees.
+* As of December 31, 2021. † As self-disclosed. See additional detail on page 46.
+Gender metrics. 
+Race/ethnicity metrics 36% Female representation on our board of directors 2019 33.2% 2020 33.6% 2021 35.6%
+Female representation across all levels (Globally)* 2019 17.3% 2020 19.4% 2021 22.9%
+Female representation at or above the VP level (Globally)* 2019 29.0% 2020 28.1% 2021 30.1%
+Female representation at director and manager levels (Globally)* 2019 49.7% 2020 50.7% 2021 52.7%
+People of color representation across all levels (U.S. only)* 2019 16.7% 2020 17.8% 2021 20.4%
+People of color representation at or above the VP level (U.S. only)* 2019 40.0% 2020 41.0% 2021 43.9%
+People of color representation at director and manager levels (U.S. only)* 27% People of color representation on our board of directors†
+
+
+23 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Veterans Engaged for Teamwork and Support (VETS) ERG At Intuitive, our VETS ERG is dedicated to improving the health, welfare, and career opportunities of employees who served in any branch of the U.S. military and those who remain active in the National Guard or military reserves. The group, which welcomes military-affiliated Intuitive employees and their allies, inspires camaraderie and expands members’ potential through recruitment, development, and service.
+Our VETS ERG engaged with our government affairs and patient advocacy teams to sponsor a midsummer virtual event hosted by ZERO – The End of Prostate Cancer (zerocancer.org). The event was titled “What Veterans Need to Know About Prostate Cancer and How to Get Care in Their Community.” It provided education on prostate cancer and how to access prostate cancer screening and treatment within the Veterans Health Administration or through the VA Community Care Network.
+6,100+
+ZERO webinar recording views* * As of October 26, 2021.
+VETS members taking supplies to help support communities impacted by Hurricane Ida in Louisiana.
+
+
+24 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Enhancing the workplace experience. 
+Commitment to pay equity At Intuitive, we encourage our employees to strive to pursue and achieve the highest standards of performance for themselves, their colleagues, patients, customers, and shareholders. Our policy is to employ, retain, promote, and otherwise treat all employees based on merit, qualifications, and competence, regardless of an employee’s gender, race/ethnicity, or any other protected characteristic. Fair and equitable pay is integral to our commitment to our employees; and our executive team and our board of directors strongly support this commitment.
+We conduct pay equity reviews regularly to help us understand whether our compensation structure is appropriate and identify what improvements can be made. In addition, we utilize a robust inspection process with an independent consulting firm for gender and race/ethnicity, hiring, promotion and wage equity to determine whether any statistically significant pay differences exist between gender identities, and between the various race/ethnicity categories. If pay disparities are identified, we conduct further evaluation to determine whether remedial adjustments are appropriate. In addition, employees can raise issues regarding pay equity with their manager, their human resources partner, or confidentially through our anonymous reporting helpline. Our commitment to pay equity is embodied in our statement found here.
+43:1 Ratio of the annual total CEO compensation to the annual total compensation of the median employee for 2020
+
+
+25 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Future ways of working The pandemic set in motion internal processes to rethink how we work. One of the markers of sustainability is the ability to adapt to a future where work does not default to an office or production environment. While work for many has shifted outside a 9 a.m. to 5 p.m. window, five days a week in an office, the disruption from COVID-19 created an opportunity for changes that could strengthen our culture and appeal to a diverse group of new employees.
+In June, a future ways of working survey specifically gathered employee input into how we can retain our world-class talent moving forward. Our future ways of working team helped to redefine job classifications to include fully remote and hybrid work arrangements, setting new expectations around how we work. We surveyed employees for their ideas around how work could evolve during and after the pandemic. Inputs resulted in more outdoor working spaces, self-service information technology (IT) equipment procurement, on-demand mental health care and resilience resources, ergonomics review and new furniture choices for those working from home, new scheduling systems for reserving on-site workspaces, and more thoughtful approaches to facility cleaning and access to common areas. Employees working remotely placed orders through our internal websites for direct delivery to their homes. Keeping in mind employee health and safety, Intuitive has prepared for a post-pandemic future where employees can return to an Intuitive workspace with peace of mind.
+With many employees working from home for much of 2021, the advantages of increased flexibility became clearer. That insight informed planning that incorporates more flexible arrangements into job descriptions and team work processes going forward. Offering different ways to work aims to help attract and retain world-class talent without sacrificing the connectivity some teams require.
+Surveys of employees addressing future ways of working reinforced the value of in-person collaboration for building alignment and community, strengthening our beliefs and values, uncovering innovative opportunities, and maximizing productivity.
+
+
+26 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+On-site work safety Citing the resurgence of COVID-19 in the U.S., in September, our future ways of working and COVID-19 response teams joined to announce a delay in fully reopening our U.S. facilities until early 2022. The announcement included support for strategic, on-site, in-person activities and gatherings with meeting and event protocols in place to help minimize the exposure risk. Each Intuitive location manages overall safety with guidance based on regional, country, and local regulations and best practices.
+Investments in building upgrades and facility safety improvements in 2021 included improved-efficiency HVAC filters and restrooms equipped with touchless faucets, toilets, towel dispensers, and door kickplates, where possible. We also increased cleaning frequency for restrooms and common areas.
+Mexicali employee health and safety Our Mexicali manufacturing team established a multidisciplinary ergonomics committee to help maintain low injury rates. The committee identified 12 improvements for 2021 related to posture, work positioning, and repetitive motion. We instituted those improvements and initiated two programs based on similar programs used at our Sunnyvale location. The first is a sevenminute warm-up and stretching program at the start of, and at intervals during, every shift. In addition, we introduced a task rotation program that moves technicians to a new task every two hours. Both programs help to limit repetitive stress injuries by reducing the length of time employees remain in one position repeating the same motions.
+Mexicali safety committees and community health Intuitive has always emphasized the importance of being agile and responsive to our environment. This is particularly important when it comes to ensuring and investing in the health and safety of employees. And it is paramount in our international facilities and manufacturing environments that needed to stay operational and continue manufacturing our products throughout the challenges of the last several years.
+Our Mexicali team took immediate steps to establish employee committees, which met up to three times a week, providing us with a direct link to hearing the needs of our employees. These committees reviewed safety protocols, informed by Mexico’s Ministry of Health, and sent feedback to the facility leadership team related to health and safety compliance. As protocols were implemented or changed, we kept employees up to date through communication campaigns and required each employee to complete online training that included educational videos. By maintaining open lines of communication between employees and leadership, establishing employee committees, and enforcing health and safety protocols, we remained operational and limited COVID-19 exposure at our facilities.
+* Rolling 12 months as of December 31, 2021 for North America manufacturing locations only, rate per 100 employees, calculated as reported to U.S. Occupational Health and Safety Administration (OSHA) 0.08 Lost time incident rate (LTIR)* 1.19 Total recordable incident rate (TRIR)*
+
+
+27 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Facilitated through the local industrial business association, our Mexicali team also assisted other companies in the region to stay open and running. We developed a thorough checklist based on the Ministry of Health’s COVID-19 health guidelines that was shared with a dozen other manufacturing companies. The checklist and on-site inspections conducted by our employees helped enable these companies to pass federal inspections and remain operational. We were also able to share our best practices with local universities, so that schools could stay open for staff, even when school was not in session. The industry association honored our work with an award for our contributions. We are grateful for the opportunity to connect with fellow companies in the manufacturing industry community and support the economic strength of the Mexicali region.
+University collaboration in Mexicali We believe in supporting our employees and the communities where we live and work. Building sustainable growth also means being responsible stewards of the growth and success of those around us and the environments we have the privilege to live and work in. This includes engaging with local universities to introduce students to our company and provide opportunities for professional work experience.
+Our Mexicali team started an intern program three years ago. This year, they collaborated directly with a nearby university’s engineering program on a real-world Intuitive project. The students engaged with our equipment engineering team to solve a warehouse space and process challenge. Students, employee mentors, and teachers developed various proposals to address the issue. The collaborative team then built the selected proposal.
+Our Mexicali team has worked with multiple universities over the last few years to provide students with exposure to Intuitive, the types of work we do, and mentorship opportunities. We believe that it is critical to invest in our communities and the students who live and study there.
+
+
+28 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Awards and recognition At Intuitive, we strive to integrate human needs with technology’s potential. To that end, our diverse teams come together to innovate on the design and user experience of our various products, processes, and communications. From needs identification to designing for usability, prototyping to testing, story development to film making, our teams—including industrial, interaction, graphics, user experience, brand, creative, and multimedia specialists —strive to help advance minimally invasive care via our products, services, and experiences.
+In addition, we continue to be recognized as a great place to work by Glassdoor and receive other recognition for our valued engagement with our customers, employees, communities, and stakeholders.
+Throughout 2021, we are proud of our talented teams and their work that has been recognized for its impact.
+“On behalf of Intuitive, we are thrilled to receive the SF Design Week award for our design system. This is a wonderful testimony to the importance of design/UX and the dedication Intuitive teams put into creating great user experiences.”
+John White Senior Visual Design Manager Intuitive Design/UX Team. 
+Medical Design Excellence Awards (MDEA) • Bronze for our da Vinci SP system in the ER and OR Tools, Equipment, and Supplies category • Bronze for our Ion system in the Radiological, Imaging, and Electromechanical Devices category. 
+Brand Film Awards: Honorable mention in the Healthcare category: Best creation of awareness of a healthcare issue or disease/condition in regulated markets for our film, “The Future Is Intuitive”
+Gold Telly Award in the Branded Content: Science and Technology category for Intuitive and Freethink’s video, “Robotic Surgery Unlocks a New Era of Medicine”
+The 2021 San Francisco Design Week Award for Systems Design. Our design system provides a foundational language of design components and guidelines within a shared library. The system serves a wide range of designers creating products and services for healthcare professionals in demanding working environments.
+2021 GOOD DESIGN Award: Interactive Media for The Intuitive Design System | 2020 #41 Glassdoor’s Best Places to Work 2021 #64 Glassdoor’s Top CEOs for 2021
+
+
+29 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Creating stronger communities. 
+Throughout 2021, we continued to increase our efforts to positively and sustainably impact our customers, employees, and communities. Our community-based programs include efforts directly supported by Intuitive and those supported in collaboration with the Intuitive Foundation. With a mission to reduce the global burden of disease and suffering through philanthropy, research, and education aimed at better outcomes for patients everywhere, the Intuitive Foundation focuses its efforts on clinical research; emerging enabling technologies; ideas and methods that reduce variability and improve access to healthcare; tools and support for the next generation of engineers, physicians, and care teams; and philanthropic giving.
+
+
+30 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Intuitive community programs. 
+Taiwan personal protective equipment (PPE) donations We are committed to positively impacting communities around the world. This means working with and assisting those working in the healthcare space who continue to be challenged, especially with shortages of necessary PPE for hospitals. Building on our 2020 efforts that included completion of an $85 million customer financial relief program, in 2021, we launched a program to purchase and donate over 43,000 N95 masks to hospitals across Taiwan. These masks are being distributed to 36 hospitals over several months.
+Social responsibility in India To both oversee and execute corporate social responsibility (CSR) activities, Intuitive employee volunteers in India formed a working team named Ek Prayaas. The team focused their efforts on education in late 2020, identifying Agastya International Foundation (AIF) as a recipient of our support. AIF is a Bangalore-based education trust and nonprofit organization founded in 1999. AIF’s activities spread across 21 states in India, supporting 250,000 teachers, and reaching 13 million children.
+AIF’s mission is “to spark curiosity, nurture creativity, and instill confidence” in economically disadvantaged children and government school teachers by bringing imaginative and innovative hands-on science education, and projectbased and peer-to-peer learning to schools, towns, and villages across India.
+Ek Prayaas sponsored an AIF education kit consisting of 15 activities. With Intuitive India’s donation, the AIF team developed 800 education kits and identified two districts, Kolar and Tumkur, which have many underserved government schools. These kits were distributed to 675 schools and 156 young-instructor leaders (active students who are keen to learn and have the ability to teach other students). We received overwhelming positive feedback from both teachers and children. In 2021 and 2022, we are sponsoring the distribution of over 500 Young Instructor Leader kits in areas near Bangalore.
+“It is an excellent initiative by Intuitive supported by AIF. I always believed that experiential is more impactful for children; the education kit sponsored by Intuitive is helping us fulfill that requirement in our school. My students are eager to learn the process of experiment and curious to know the outcome. This is the right age to spark curiosity amongst children, which sets a strong foundation for the future. Government schools like ours may not otherwise have access to such material. We want to express our heartfelt gratitude to the organization for considering our school.”
+Mr. Shekar M Shettihalli Middle School teacher Tumkur 16,800 Masks distributed to Taiwan* * As of December 15, 2021.
+
+
+31 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Community programs in collaboration with the Intuitive Foundation. 
+Building on programs launched during, and in some cases, before the pandemic, the Intuitive Foundation continued to make progress aligned with its mission, including the creation of several matching fundraising campaigns for employee donations to promote health, advance education, boost sustainability, and reduce human suffering. The foundation is a nonprofit organization established by Intuitive in 2018 and funded by Intuitive.
+Museum projects In collaboration with the foundation, Intuitive donated a da Vinci system to the Edinburgh Surgeons’ Hall Museums to be part of the new Body Voyager exhibition. The da Vinci system will be a focal point in the new exhibition galleries. Visitors to the exhibit will be able to participate in a simulated robotic-assisted surgical procedure experience.
+“Our Body Voyager Galleries will look at the future of surgery and try to address changes that have taken place in recent years,” said Chris Henry, director of heritage at the Surgeons’ Hall Museums. “The da Vinci surgical system is a fantastic addition to the galleries and will give visitors a unique opportunity to operate one of the most advanced pieces of surgical equipment currently available.”
+
+
+32 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Da Vinci Research Kit (dVRK) Intuitive and the foundation also collaborate to support telerobotic surgery research efforts through the dVRK program, which provides research institutions with controllers and hardware. Through this program, Intuitive donates the system and instruments from retired da Vinci systems that are still versatile and valuable as parts of research platforms for exploring innovative new concepts in minimally invasive care. These dVRKs utilize an open-source software framework developed in large part by Johns Hopkins University that is shared and maintained by the dVRK community. This shared research platform supports collaboration across university groups to stimulate and accelerate research in the field.
+In April, The New York Times noted the program’s success in seeding new areas of exploration around surgical robotics. To date, 38 dVRK programs have been established in research labs across 11 countries worldwide.
+Sunnyvale Community Services (SCS) Intuitive and the foundation continued to support SCS, a local nonprofit that provided Sunnyvale area students of families in need of assistance with new backpacks stocked with school supplies, food, and gift cards to purchase new shoes.
+For the third year, our company and the foundation helped SCS meet its annual goal in their back-to-school drive, contributing more than 1,700 backpacks. Employees stuffed backpacks as team-building events.
+dVRK programs in 38 research labs across 11 countries
+
+
+33 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Intuitive Foundation community programs. 
+The Intuitive Foundation pursues and supports a large variety of community programs. To support these programs, Intuitive regularly donates personnel time to provide front-end or back-end support. For example, Intuitive employees are often the mentors, instructors, judges, or fulfill other critical roles.
+The Intuitive Foundation provides monetary support to community programs. For example, in 2021, the foundation provided a donation through the Silicon Valley Leadership Group for the Valley Medical Center Foundation, which in collaboration with other Silicon Valley-based companies funded a new mobile vaccine/health unit for Santa Clara County.
+Global Surgical Training Challenge (GSTC) One of the foundation’s signature programs, the GSTC is inspiring innovation to help expand healthcare access around the world. Launched in 2020, GSTC came together when the Intuitive Foundation worked with MIT Solve and Nesta Challenges to recruit teams and offer a prize pool of up to $5 million for winning concepts that help enable better access to care.
+Global innovator teams in the contest are developing training modules that teach surgical procedures and techniques in low-resource settings. The contest supports the development of lower-cost, validated, simulation-based surgical training. The GSTC began with a series of MIT-hosted Solveathon virtual workshops to build multidisciplinary teams in low- and middle-income countries in five global regions to strengthen their GSTC applications.
+In December 2020, the top 10 teams received discovery award grants to develop and test early prototype modules. After identifying the most promising teams for grants, the contest organizers held a prototype showcase in August that attracted attendees from 45 different countries to see the progress made by GSTC entrants. Teams developed surgical simulation training modules that were assessed by a panel of judges that included a physician, innovator, and healthcare educator.
+The open-source designs allow for global adoption with assistance from the Appropedia Foundation where all the program and project content will be housed. Contest winners are expected to be announced in early 2022.
+Foothill College emergency medical technician (EMT) certification support In 2020, the Intuitive Foundation embarked on a program to help Foothill College provide psychomotor skills training for students working to become EMTs. Material covers the skills required to earn an EMT certification in California. Used in two of the Foothill College EMT training classes, approximately 75 Foothill College students were provided with opportunities to develop, practice, and demonstrate skill performance during 2021. Additionally, the material was used in the fall of 2021 by a cohort of 32 students in the Foothill College paramedic program. The students used the training model to reinforce basic life support skills.
+$2.9 million+* Donated from all Intuitive Foundation monetary giving programs $1.4 million+* Through employee contributions $1.2 million+* Through matching gifts $258,000+* Through credits * Figures provided are as of December 31, 2021, and may not be inclusive of all matching gifts for donations made at year end.
+
+
+34 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+As COVID-19 continues to impact our communities and education system, helping Foothill College continue their EMT program in a virtual, distance- learning environment increases training opportunities for frontline healthcare professionals. The EMT psychomotor skills training model is being made available via an open-source platform in collaboration with the Appropedia Foundation, helping make the program accessible to institutions throughout the world.
+Outreach initiatives. 
+The Intuitive Foundation engages with professional societies and nonprofits to create internships and support leadership development for underrepresented student populations. As stated earlier, Intuitive regularly donates personnel time to support community programs, and our employees volunteer their own time serving as mentors, instructors, and judges, as well as fulfilling other needed roles. The Intuitive Foundation also continues to support programs that empower young people of all backgrounds to participate in roboticscentered events to inspire their education in science, technology, engineering, and math (STEM).
+Health Career Collaborative The Health Career Collaborative (HCC) is a national program that connects mentors with high school students from diverse backgrounds to encourage study in healthcare fields. After pivoting to a virtual environment in 2020 to bring experiences with a da Vinci system to high schools in low-income areas, HCC engaged with four additional schools across the U.S., impacting more than 600 students throughout 2021.
+FIRST robotics The Intuitive Foundation continued its tradition of supporting FIRST (For Inspiration and Recognition of Science and Technology) by sponsoring high school robotics teams that compete in FIRST events. In 2021, FIRST issued Intuitive Foundation-funded grants to 100 teams from the U.S., Canada, and Mexico. This foundation support directly enhanced the STEM experience of the more than 3,900 robotics team members. FIRST challenged teams to identify a real-world problem, design a solution, build a business model around it, and deliver a pitch to compete with other teams.
+Two foundation-sponsored teams shared runners-up honors for their innovative concepts. Breakthrough Robotics Engineering and Design (BREAD), a team consisting of 65 students from Design Tech High School in Redwood City, California, created a product called Circulatio, which is compression sportswear that is wearable technology. And Palo Alto Robotics created a product called SightWalk, a portable chest-mounted device to help visually impaired individuals navigate their surroundings. The foundation is proud to note that eight teams it supported received the Chairman’s Award, FIRST’s most prestigious honor, recognizing the team from each region that best embodies the FIRST mission and serves as a model for other teams to emulate.
+100 FIRST robotics teams supported in 2021
+
+
+35 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Project Invent Project Invent is a national organization that teaches high school students engineering, entrepreneurship, and hands-on problem-solving skills through project-based learning. At sites across the U.S., teachers receive training and curriculum to guide their students through identifying and investigating a problem in their community, and developing a design, prototype, and business model for a product that addresses it. At the end of the school year, students present their products to judges at a regional showcase event.
+For the 2021-2022 school year, the Intuitive Foundation is sponsoring five teams at Title 1,* low-income, federally funded schools, and equivalent sites. The foundation’s support also provides training for five teachers and an end-of-year showcase event, including plans to host an Intuitive career day event for participants.
+Comp-U-Dopt Recognizing that inequality is often driven by a digital divide around computer access, the Intuitive Foundation supported Comp-U-Dopt for an April distribution event in the Atlanta area. One hundred and fifty low-income families received reconditioned laptops to help children gain access to essential learning resources. The program also provided adults with resources to use the computers for job search and other community programs. A second donation event occurred in November in Southhaven, Mississippi, where 144 low-income families also received computers.
+Comp-U-Dopt collaborates with corporations to distribute computers and offers recipients two years of free technical support for the devices. The Intuitive Foundation is pleased to support their efforts financially, with Intuitive providing volunteers to help with the distribution and event space in communities where some of our U.S.-based offices are located.
+* cde.ca.gov/sp/sw/t1/
+
+
+36 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Our supply chain story for 2021 is one of appreciation for the grit, agility, and resourcefulness our suppliers demonstrated throughout a challenging year. The ongoing pandemic and a series of climate-related challenges impacted global supply chains. Shortages in computer chips, metals, resins, lumber, and other materials made headline news. Despite these difficulties, our suppliers consistently came through to help us deliver our systems, instruments, and accessories to customers.
+Supply chain sustainability
+
+
+37 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+One-team approach The care we have taken in selecting the right suppliers, maintaining close working relationships, and supporting their success has been a core pillar of our supply chain work and strategy. Our suppliers are a vital part of our extended network that enables us to meet our customers’ needs and quality expectations. We took action to build ahead and maintain safety stock in light of potential challenges (COVID-19 related and otherwise) as we entered 2021. The concerted efforts of our supplier teams with our internal staff helped us meet shipping deadlines.
+Supplier symposium, development, and portal We hold a supplier symposium every two years. We delayed the 2020 symposium until April 2021 and convened a two-day virtual event. More than 90% of our strategic suppliers—defined by spend level—attended the event, with others able to access the recorded general session content and breakout sessions through our supplier collaboration portal.
+Following the symposium’s success, our supplier development team began hosting a regular series of webinars for sharing best practices. More than 500 attendees participated across 16 webinars in 2021 on topics including first article and certification inspections, production part qualification, change control processes, and supplier corrective actions. Recorded sessions were added to our growing library of training content available through the supplier portal.
+During 2021, we granted more than 1,000 supplier employees access to the supplier development site within the collaboration portal. The development site provides a self-service training path to help suppliers achieve and maintain preferred-supplier status. For new and developing suppliers, we also provide an active onboarding process and targeted coaching to provide the support they need to acquire the necessary compliance, environmental, and other requirements needed to become a preferred supplier.
+Supplier selection, training, and evaluation Each potential supplier goes through a rigorous vetting process that includes evaluating quality, capacity, technical ability, performance, on-time delivery, financial health, regulatory certifications, legal compliance, and business management.
+Once selected, suppliers must complete extensive ongoing training, and their products must pass stringent quality reviews. We conduct annual supplier business reviews and produce scorecard ratings for key suppliers. Our top-tier, preferred suppliers go through two rating and review processes each year. We continue to refine our scorecard rating system. In 2021, changes included expanding our expectations of social and environmental responsibility. In addition, we expect and verify that suppliers maintain ISO certifications— ISO 13485 for quality management systems specific to the medical device industry and ISO 9001 for quality management systems—and comply with all applicable laws and regulations.
+As part of the supplier onboarding process, all Intuitive suppliers must read, agree to, and sign our Supplier Code of Conduct, which can be found here.
+500+ supplier attendees in training programs* * As of December 31, 2021.
+
+
+38 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+U.S. Small Business Administration In support of the U.S. Small Business Administration mission, we sourced 76.2% of our supply chain spend on direct materials used in our products from U.S.-based small businesses as reported through September 30, 2021.
+Key expectation pillars of our supplier code of conduct include: • Putting product quality and performance first with commitment to continuous improvement • Maintaining ethical business practices including confidentiality, integrity, and legal compliance • Commitment to social responsibility and environmental stewardship • Employee engagement practices that include training and development, environmental health and safety, and human rights. 
+Small Business Administration. 
+Actuals (Oct. 1, 2020–Sept. 30, 2021) 76.2%
+
+
+39 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+We achieved some notable milestones in environmental sustainability this year and laid the groundwork for others to come. In February, we received official notification from the U.S. Green Building Council (USGBC) of Leadership in Energy and Environmental Design (LEED) Gold certification for our newest building on the Sunnyvale campus. The building meets our goal of minimizing our environmental impact while creating a high-functioning environment for our teams.
+Environmental stewardship
+
+
+40 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+In addition to working to LEED standards, we apply Swiss Minergie guidelines to our European-based facilities and projects. We are also working toward WELL Building Standards (WELLv2), which expand on the human health and well-being measures we incorporate into our new and existing buildings. Our rapid growth requires that we continually plan for and prioritize sustainability as we work on facility expansion. We are in the design and construction phases on several projects in North America and Europe. With these projects, our goal is to reach or surpass each host country’s sustainability standards while making environmentally responsible decisions based on geographic location.
+Commitment to disclosure Our company is committed to formalizing its external reporting in alignment with a number of well-recognized disclosure standards, including those used by CDP, within the next two years. We are currently working to scope this commitment appropriately, so that the disclosure methodology we develop is appropriate and can be sustainably reported alongside other well-recognized global disclosure standards. Further clarity about our proposed timeline for aligning with CDP standards is planned to be available in 2022.
+Expanding our global presence After more than 18 months of planning, in August, we launched a multiyear strategy to further develop an integrated campus approach, where we can co-locate certain functions including manufacturing, engineering, commercial operations, customer and sales training, and various administrative areas. Co-locating our teams into these hubs can enhance collaboration among our employees, have a positive impact on our company culture, provide for a consistent employee experience, enhance physician and customer experiences, and create efficiencies through scale. Our hubs will be located in geographies where we can support our customers, and that can provide access to highly talented and diverse labor pools, create more efficient supply chain access, and help reduce our environmental impact.
+In executing our hub strategy, in 2021, we announced and commenced expansion in four geographies, Freiburg, Germany; Peachtree Corners, Georgia; Sunnyvale, California; and Mexicali, Mexico.
+In Freiberg, Germany, we announced expansion and integration of our imaging systems research and production operations with our commercial operations, surgeon and sales training, and other administrative operations. A noted medical technology center, Freiberg has proximity to central and eastern European customers, our supplier base, and a strong local pool of technology talent supported by the University of Freiberg.
+In August, we announced plans to expand our existing Peachtree Corners campus outside of Atlanta, Georgia, in Gwinnett County. For more than a decade, Peachtree Corners has been the center of our U.S. commercial operations, serving as a primary training location for East Coast-based surgeons and care teams.
+Our expansion plans include building more than $500 million in facilities and adding nearly 1,200 talented diverse employees in coming years across a variety of functional areas including manufacturing, production, distribution, engineering, sales, customer training, and administrative operations. Construction of the new Peachtree Corners facilities is scheduled to begin in 2022.
+
+
+41 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+At the same time, we remain committed to our Sunnyvale, California, headquarters campus. In 2021, we received approvals from the city of Sunnyvale to add 1.2-million square feet to our campus. The Sunnyvale expansion will provide an 847,000–square-foot facility for our system design and manufacturing teams, a new 364,000–square-foot headquarters building, and two parking garages.
+In Mexicali, Mexico, we added approximately 270,000 square feet of manufacturing space in May 2021. We have operated in Mexicali for more than 13 years, manufacturing instruments and accessories, and supporting administrative operations.
+Our new hub campus facilities will integrate green and sustainable building design. Initiatives include installing solar roof panels for renewable energy, recycling water for irrigation purposes, and installing flushless toilets. Plans include incorporating gender-neutral restrooms, mothers’ and prayer rooms, exercise space, indoor and outdoor cafe areas, expansion of electric vehicle (EV) charging stations, and electrical power from green sources. We are also working to provide easy and affordable access to public transportation for our employees. Campus design plans focus on fit with the local architecture and maintaining water-conserving green landscaping.
+Sustainability in facilities and construction To help us meet our environmental commitments, we expanded our building construction and maintenance teams and established a facility-specific sustainability committee that meets regularly to develop incremental goals, monitor progress, and review compliance with our sustainability policies. The committee is composing a quantifiable program with goals for reducing carbon generation, water consumption, and climate impact while improving the workplace experience for employees. Understanding that sustainability goals are easier to achieve in new construction, the committee is working towards setting goals for retrofitting existing campuses and buildings where practical.
+Renewable energy This year, we added 500 kilowatt hours (kWh) of potential energy-producing capacity through our global portfolio of solar photovoltaic arrays for a total of 2.2 megawatt hours (MWh) of potential energy-producing capacity and are solidifying plans to add more solar generation in the near and long term.
+We are also actively pursuing our goal of purchasing energy from verifiedrenewable, green sources where possible. This deep-green energy initiative includes targeting the replacement of fossil fuel–powered generators used in our redundant power systems with batteries charged through renewableenergy sources in the U.S.
+Air quality Following LEED, Swiss Minergie, and WELL v2 frameworks during construction leads to improved indoor air quality. In existing buildings, including those constructed several decades ago, achieving excellence in indoor air quality presents a greater challenge. We continue to improve air quality in our locations by selecting building materials, paint, and furnishings that meet low volatile organic compound (VOC) emission ratings.
+Awards For our Sunnyvale, California building at 1050 Kifer Rd., which opened in November 2020:
+USGBC LEED Gold certification. 
+Silicon Valley/San Jose Business Journal 2021 Structures Award for Office/Industrial Built Project
+
+
+42 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Mexicali environmental initiatives We manufacture many of the advanced instruments used with da Vinci systems in our Mexicali, Mexico facility. The production facility continues to expand, and with each new construction activity, aligns to high environmental standards. In 2021, potential energy-generation capacity from Intuitive’s Mexicali facility’s solar panels totaled approximately 500 kWh, with more potential energy-generation capacity planned as the facility expands.
+In addition to sustainable construction initiatives, ongoing collaborative efforts between Mexicali team leaders, employees, and the greater community are setting an example of environmental responsibility. In September, we collaborated with local nonprofit Verde Mexicali Verde (Green Mexicali Green) to beautify a kilometer of the median strip that runs in front of our main building. A volunteer workforce of more than 40 Intuitive employees and family members painted the strip and planted 160 trees and other low water-use plants. As the trees grow, their shade can provide a cooler surrounding environment.* When they reach maturity, the trees could absorb roughly 3.4 metric tons of carbon dioxide each year.†
+The Mexicali team is embracing recycling at home as well as at work. The state of Baja, Mexico, offers limited recycling, so the company set up a program that invites employees to bring plastics and aluminum from home to work for recycling. The program is generating strong interest, especially among our employees’ children.
+We have also provided funding and volunteer support to a local nonprofit working to clean up and protect Laguna Mexico Park, located a few kilometers from our Mexicali location. The urban park’s lake, lagoons, and wetlands provide nesting sites for several bird species and homes to many native plants and animals.
+* onetreeplanted.org/blogs/stories/planting-trees-reduce-carbon-footprint † onetreeplanted.org/blogs/stories/planting-trees-offsets-carbon
+
+
+43 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Product distribution programs In 2020, we announced our intention to move 50% of our large-volume, weekly, and semimonthly replenishment shipments of instruments, accessories, and endoscopes to our distribution centers located outside the U.S. to ocean freight by the end of 2021. While we closed the year at more than 34% and remain focused on shifting from air to ocean shipping, the pandemic-related challenges to cargo transport moved that goal out of reach for this year. We pushed our 50% goal to 2022 while continuing to use ocean transport where we could without delaying customer deliveries.
+In addition, we began using collapsible, reusable shipping containers and reusable corrugated totes that protect instruments during shipment. Our packaging design group continues to work on densification approaches that reduce package sizes and the amount of materials used without increasing content damage risk. Our goals are to use the most environmentally responsible materials and reduce the amount of packaging waste for our customers, as well as ourselves.
+We are working towards aligning environmental metrics tracking across our logistics suppliers. We negotiated logistics contracts with high-quality providers to encourage timely delivery and invoicing. This is another important step and safeguard we can take to help preserve on-time delivery to our customers while monitoring environmental impact.
+Waste management We continue to look for new ways to reduce, reuse, and recycle waste to limit our environmental impact. For more than a decade, we’ve pursued a policy of refurbishing or breaking down and reusing returned parts and used systems. This year, we were again able to recycle parts from da Vinci Si systems, with approximately 95% of the surgeon console and approximately 55% of the patient cart components being used to build da Vinci X systems. We are also working towards improving alignment in environmental metrics tracking across suppliers of waste management services.
+Laptop recycling We began our corporate laptop donation program in 2021 after completing a pilot in late 2020. Now, when an employee turns in a laptop that meets functional qualifications, we donate the retired laptop to Tech Exchange, a nonprofit based in Oakland, California. Once refurbished by a technician in training, laptops are donated to families in need.
+535.77+ Metric tons (MT) of waste collected and recycled in 2021* 517,000+ Gallons of water saved* 996.37+ MT of green house gases reduced* * As of December 31, 2021, in North America.
+
+
+44 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+On-site services With the resurgence of COVID-19, we extended our work-from-home policy through 2021 for employees who could continue to work remotely. Though fewer employees were working at our Sunnyvale facilities in 2021, we relaunched some pre-pandemic programs, such as our Caltrain commute passes. We added EV charging stations, bringing the total number of Level 2 charging ports to 157 at U.S.-based locations.
+We introduced a reusable lunch container program on our Sunnyvale campus. Despite the relatively smaller number of employees working on-site, the program averted more than 8,000 pounds of waste.
+Our water-dispenser program made its debut in September. The dispensers allow employees to fill reusable bottles, reducing our consumption and disposal of individual beverage containers.
+In the fall, we began piloting a community tri-bin program to centralize trash, recycling, and compost collection. The program replaces cubicle trash and recycling containers with bins located in office spaces, cafes, and common areas. Our waste management provider then disposes of the collected waste using approved vendors for recycling, repurposing, composting, or disposal, as appropriate.
+157 Level 2 EV charging ports across the U.S.* * As of December 31, 2021.
+
+
+45 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Governance. 
+Our board Our board of directors’ most important responsibility is exercising their business judgment in the best interests of both the company and our stockholders The board reviews our long-term strategy, discusses and assesses any risk exposures and how to best manage them, and evaluates our holistic performance, including economic, environmental, and social factors.
+
+
+46 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+We value inclusion and diversity at all levels of the organization, and within and across our employee base, our leaders, and our board of directors. Our board of directors is composed of leaders with broad and diverse experience in different arenas, including management of large global entities, technology and innovation leadership, and healthcare experience, both from the clinician/surgical perspective and as a healthcare leader. When evaluating the composition and future membership of our board, we consider candidates who bring deep knowledge and experience in their fields, possess unique and/ or business-critical skills, and can provide diverse perspectives with respect to business experience, professional expertise, gender, and ethnic background.
+Maintaining a mix of backgrounds and experience in our board is vital, so that we are able to understand, meet, and reflect the needs of our diverse stakeholders. Currently, four of our 11 board members (36%) are women. We have three members (27%) who self-identify as Hispanic, Middle Eastern/ Asian, and African American.
+In April 2021, Dr. Monica Reed, a former AdventHealth executive, was appointed to our board of directors. Dr. Reed is an experienced leader of large regional health systems and community hospitals and has been named one of Modern Healthcare’s Top 25 Minority Executives in Healthcare and one of Legacy Central Florida’s Most Impactful Black Professionals. Her experience as a leader within healthcare systems will help us better serve our physician, hospital, and healthcare system customers.
+Craig H. Barratt, PhD. 
+Don R. Kania, PhD. 
+Amal M. Johnson. 
+Alan J. Levy, PhD. 
+Jami Dover Nachtsheim Monica P. Reed, MD Mark J. Rubash. 
+Joseph C. Beery. 
+Amy L. Ladd, MD Keith R. Leonard, Jr.
+Gary S. Guthart, PhD
+
+
+47 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Except for President and Chief Executive Officer Gary Guthart, all Intuitive directors are independent as required by the NASDAQ Stock Market listing standards.
+Governance and Nominating Committee. 
+The role of the Governance and Nominating Committee is to review and assess our performance on environmental and sustainability matters. Each year, management reports to the Governance and Nominating Committee on sustainability priorities, progress, and future goals and objectives.
+Sustainability Steering Committee Our Sustainability Steering Committee, which was first created in 2018, implements the company’s sustainability strategy and targets. The committee includes members from different business units and functional groups across Intuitive, including medical affairs and legal, human resources, finance, and our product and commercial teams, with our general counsel and chief medical officer leading the committee. Throughout the year, the committee sets our sustainability priorities and communicates those priorities to help our business model integrate sustainability principles throughout the company.
+For more information about our governance structures and board charters, please see our latest proxy statement filed with the Securities and Exchange Commission, sec.gov.
+Anti-bribery, anti-corruption, and ethical business conduct At Intuitive, we believe that every employee is responsible for safeguarding our company’s reputation by acting ethically and with integrity. An ethical culture starts at the top, with our leadership expectations. One of those expectations is to lead by example, and we strive to achieve that each day.
+We engage and educate employees on ethics in several ways, including through our code of conduct, annual review process, employee training, and communications. We have a formal disclosure document that outlines the requirements and processes we have developed and use to maintain the highest standards of business conduct when interacting with healthcare professionals. This disclosure has been published on our website and can be found here.
+Sustainability Steering Committee Co-Chairs: Myriam J. Curet, MD, Chief Medical Officer Kara Andersen Reiter, General Counsel, Chief Compliance Officer. 
+Board of Directors Chair: Craig H. Barratt, PhD. 
+Compensation and Management Development Committee Chair: Amal M. Johnson. 
+Governance and Nominating Committee Chair: Alan J. Levy, PhD. 
+Audit Committee Chair: Mark J. Rubash
+
+
+48 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Our global code of business conduct and ethics policy provides guidance to employees and can be found here.
+We abide by applicable anti-bribery laws that exist in the countries in which we operate. This position is also reflected in our policies and contracts with distributors and suppliers, where we require our employees, distributors, and suppliers to comply with applicable anti-bribery and anti-corruption laws and regulations. Our supplier code of conduct is published on our corporate website here.
+To address compliance concerns, we use the Intuitive ComplianceLine as a secure and anonymous channel for all employees, contingent workers, customers, third-party agencies, and others to anonymously report suspected violations. Throughout each year, we issue periodic reminders to employees of their obligation to raise concerns related to ethics and compliance via the ComplianceLine and other channels.
+Compliance training Our compliance training and policies on anti-bribery, anti-corruption, and ethical business conduct are regularly reviewed and updated. Training on our code of conduct and business ethics policy is available in seven languages: French, German, Spanish, Korean, Japanese, Chinese, and English to facilitate understanding throughout our global workforce. The training covers our expectations and requirements regarding inclusion and diversity, anti-bribery and anti-corruption, harassment and discrimination prevention, and safeguarding data and data privacy.
+Our compliance training was completed by more than 99% of our employees within 60 days of assignment in 2021. We require all global employees to complete this important training at the time of hire, annually, or as local regulations require, and each employee must demonstrate knowledge and awareness through an end-of-course assessment.
+Internal controls To help monitor compliance by the third parties with whom we conduct business, we perform periodic audits for compliance with anti-bribery and anti-corruption laws. Moreover, we continually refine our internal controls, including strengthening training and certification requirements of third parties with whom we work.
+Tax transparency We are committed to supporting strong corporate governance and financial transparency. Our commitment to tax transparency is embodied in our global tax policy statement found here.
+
+
+49 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+The current healthcare environment demands agility, creativity, and flexibility. At Intuitive, we relentlessly pursue innovation with the belief that improvement is both possible and necessary, and that together, as one team, we can make a difference by addressing challenges swiftly and thoughtfully to create a positive impact on the world.
+Our approach to value creation rests on the foundation of our mission; is embedded in our corporate values, founding principles, and culture; and informs our approach to long-term governance, guiding us to make a difference globally in how we innovate, operate, and serve. In light of fast-moving global events, we continue to rely on our values to reinforce our sustainability efforts, which help us creatively navigate new challenges as they arise.
+Our commitment to corporate sustainability means creating lasting value for those we serve: our customers (physicians, care teams, and their patients), employees, the communities in which we live and work, and our suppliers and global stakeholders. To do so, we believe that with each product we develop, we should be building sustainably. With each staff engagement, we remember the value of investing in our people. And with each exploration in surgical care and diagnostics, we remember our goal of expanding the potential and benefits of minimally invasive care.
+Through it all, our one Intuitive team has engaged and collaborated with our customers, our suppliers, and each other in deeper ways than ever before. We are pleased to have shared these highlights of our ongoing work in sustainability and social responsibility with you in this report.
+Conclusion
+
+
+50 of 53 PN1074653-01-US RevB 1/2022 Intuitive Sustainability Report 2021. 
+Summary of metrics appendix
+
+
+51 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Innovation: Focus on customers and their patients. 
+Item 2019 2020 2021. 
+States and territories 50 50 521. 
+Countries 67 67 69. 
+Da Vinci systems globally 5,582 5,989 6,730. 
+Procedures performed using da Vinci systems since inception 7.2 million+ 8.5 million+ 10 million+
+Procedures performed using da Vinci systems in specified year 1.2 million+ 1.2 million+ 1.5 million+
+How often a procedure using a da Vinci system begins (seconds) 26 25.4 19.8. 
+Ion systems placed at customer sites 129. 
+Active patents or exclusive field-of-use licenses 2,900+ 3,400+ 4,200+2. 
+Active patent applications or pending exclusive licenses 1,900+ 2,100+ 2,100+2. 
+Total of peer-reviewed scientific articles that reference Intuitive technologies 21,000+ 24,000+ 29,000+3. 
+New peer-reviewed articles this year 2,800+ 3,000+ 3,700+3. 
+Training sessions performed in specified year globally 6,500+ 6,800+
+Active registered proctors globally 1,100+4 1,000+
+Surgeons trained on the use of da Vinci systems in the U.S. 32,800+ 33,000+ 35,000+
+Surgeons trained on the use of da Vinci systems outside the U.S. 19,800+ 22,000+ 25,000+
+Genesis total engagements in specified year 2,400+5 892 1,667. 
+Service uptime >98% >99% >99%
+Customer portal users (globally) 4,100+ 5,500+ 9,800+
+BitSight rating Advanced (790) Advanced (780)
+Audits internal 9 10. 
+Audits external 13 136. 
+Completion rate for all QMS compliance-related training >99% >99%
+Technicians completing product-build certification training 690 976. 
+Note: all figures as of December 31 in the respective year unless otherwise noted. 1. Includes Washington, D.C. and Puerto Rico. 2. Exclusive field-of-use licensing to Intuitive included in 2021. 3. As of November 16, 2021. 4. Previously reported all registered proctors. 5. Initial engagements since 2011 program inception. 6. Includes two building-certification audits.
+
+
+52 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Talent and workplace experience. 
+Item 2019 2020 2021. 
+Total number of employees 7,100+ 8,000+ 9,700+
+Annual turnover rate 6.4% 10.3%
+Employee engagement survey global participation rate >88% >88%7. 
+Employee performance review completion rate 81%8 86%8. 
+Female representation (global)9 33.2% 33.6% 35.6%
+Female representation in manager and director levels9 29.0% 28.1% 30.1%
+Female representation at or above VP levels9,10 17.3% 19.4% 22.9%
+People of color representation (U.S. only)9 49.7% 50.7% 52.7%
+People of color representation in manager and director levels9 40.0% 41.0% 43.9%
+People of color representation at or above VP levels9,10 16.7% 17.8% 20.4%
+Lost time incident rate (LTIR)11 .09 .0812. 
+Total recordable incident rate (TRIR)11 1.27 1.1912. 
+Recognition 2019 2020 2021. 
+Glassdoor’s Best Places to Work ranking #7 #12 #41. 
+Glassdoor’s Top CEOs ranking #9 * #64. 
+Wall Street Journal Top 250 Best-Managed Companies #51 #72 #109. 
+Design awards 13 0 6 7. Percentage based on employee population as of April 1, 2021. 8. Based on review period of January 1 through December 31 of the prior year. 9. Data reflects Intuitive employees who have voluntarily disclosed their global gender and U.S. race and ethnicity data. 10. Board considered separately. 11. For North America manufacturing locations only, rate per 100 employees, calculated as reported to U.S. OSHA (osha.gov/laws-regs/standardinterpretations/2016-08-23). 12. Rolling 12 months as of December 31, 2021. * No 2020 rank due to COVID-19.
+Creating stronger communities: Intuitive and the Intuitive Foundation together achieved the following:
+Item 2019 2020 2021. 
+Total Da Vinci Research Kit research labs/countries 32/10 36/11 38/11. 
+Donations (Intuitive Foundation) $1,304,014 $2.8 million+ $2.9 million+ • Through employee contributions $775,422 $1.4 million+ $1.4 million+ • Through matching gifts $519,917 $1.2 million+ $1.2 million+ • Through credits $8,675 $64,000+ $258,000+
+Outreach programs (Foundation-sponsored programs) • FIRST robotics teams supported 40 teams 127 teams 100 teams
+
+
+53 of 53 Intuitive Sustainability Report 2021 PN1074653-01-US RevB 1/2022. 
+Supply chain sustainability. 
+Item 2019 2020 2021. 
+Suppliers receiving scorecard assessments by total supply chain spend, rolling 12 months 66% 82% 81%
+Supplier symposium attendance (biennial event) 165 376. 
+Supplier training sessions attendance 78 573. 
+Small Business Administration total spend with U.S. small businesses 74% 74.5% 76.2%
+Environmental stewardship. 
+Item 2019 2020 2021. 
+Waste collected and recycled (MT)13 247.07+ 376.02+ 535.77+
+Gallons of water saved 86,000+ 131,000+ 517,000+
+GHG reduced through recycling (MT) 344.45 498.95 996.37+
+Hazardous waste (MT)14 10.45 11.06 40.2815. 
+Laptop recycling 29,644 pounds electronics recycled16 45 425. 
+EV level 2 charging stations in the U.S. 150 155 157 • EV charging station registered users 534 606 746. 
+Outside of U.S. instrument, accessories and endoscope shipments to distribution centers via ocean freight >33% >34%17. 
+Governance. 
+Item 2019 2020 2021. 
+Female representation: board18 30% 30% 36%
+People of color representation: board18 10% 20% 27%
+Compliance training completion rate >94% >99% 13. In North America. 14. U.S. only reported through December 31, 2021. 15. U.S. locations had a 2021 project to clear outdated hazardous materials. 16. 2021 program start, converted from prior electronics recycling. 17. Unforeseen events impacted ocean freight use. 18. As self-identified or disclosed by our board members.

@@ -1,0 +1,1544 @@
+2021 ESG Report 1 2021 ESG Report
+
+
+2021 ESG Report 2. 
+Uber’s 2021 ESG Report highlights our perspectives on the environmental, social, and governance (ESG) issues that matter most to our business and our stakeholders—including platform users (drivers, delivery people, merchants, and consumers), employees, cities, regulators, and investors. The report is intended to provide a high-level overview of Uber’s views on, approach to, and performance on key ESG issues. Additional content regarding these issues, and more, can be found on Uber.com.
+Data is as of December 31, 2020, unless otherwise noted. The narratives in the report may cover issues through July 2021.
+2021 ESG Report 2
+
+
+2021 ESG Report 3. 
+Uber’s ESG vision 4. 
+Letter from our CEO 5. 
+Our business 6. 
+About this report 7. 
+Uber and the SDGs 9. 
+Governance 13. 
+COVID-19 response 20. 
+Driver and delivery person well-being 27. 
+User safety 35. 
+People and culture 42. 
+Local impact 50. 
+Integrity and trust 56. 
+Climate change and environmental sustainability 63. 
+Performance data 75. 
+Indexing 93. 
+Table of contents 2021 ESG Report 3
+
+
+2021 ESG Report 4. 
+Uber’s ESG vision 2021 ESG Report 4. 
+Seamless integration of ESG principles into business decision-making to promote long-term value for our stakeholders.
+
+
+2021 ESG Report 5. 
+Letter from our CEO 2021 ESG Report. 
+Around the world, in 2020, communities experienced devastating impacts from the COVID-19 pandemic. We did not, however, experience them all equally. COVID-19 exacerbated existing inequalities and brought into focus long-standing issues, including systemic racism; unequal access to work, benefits and protections; and the need for shared action on climate change.
+Early in the pandemic, Uber recognized a need for partnership—and leadership—on these issues. Building on prior initiatives, we made a number of bold commitments to address these and other issues. We have supported our commitments through investments and actions as we work to build a stronger, more sustainable business and to improve quality of life for all our stakeholders.
+A few examples from 2020 include: • Leading the industry in innovative approaches to combating. 
+COVID-19, including by introducing new health safety technology; providing financial assistance to drivers and delivery people diagnosed with COVID-19 or directed to selfquarantine or self-isolate by a doctor or public health official; successfully advocating to help ensure protections and benefits were available to them; and committing to giving out tens of millions of discounted and free rides, meals, and deliveries to those in need around the world, including most recently to support greater access to vaccines.
+• Advocating for earners’ flexibility, new benefits and protections through our IC+ model in markets around the world.
+• Making public commitments toward being an anti-racist company. Progress on this critical work is detailed in our 2021 People and Culture Report.
+• Committing to be a net-zero-emissions company globally by 2040, and backing that up by signing up for the rigor and accountability of the Science-Based Targets initiative. We also expanded our reporting responsive to the recommendations of the Task Force on Climate-Related Financial Disclosures.
+Progress on these initiatives and more is detailed in the pages of this report, in our other publications, and on our website. In all we do, we are guided by our most important cultural norm: Do the right thing, period.
+Dara Khosrowshahi Chief Executive Officer 5
+
+
+2021 ESG Report 6. 
+Uber is a global tech platform operating at massive scale.
+10K cities² ~ 71 countries $56B gross bookings Delivery +109% YoY³ 93M MAPCs⁴ Delivery +66% YoY⁵ 3.5M drivers 657K merchants 5B trips. 
+Mobility Delivery Freight 46%¹ 52%¹ 2%¹
+Our business. 
+Gross Bookings, Trips are FY 2020. MAPCs, Drivers, Merchants are as of Q4 2020 ¹As a percentage of Gross Bookings ²Based on our internal definition of city, which includes metropolitan areas that include several cities ³Gross Booking YoY growth rates shown in constant currency ⁴Monthly Active Platform Consumers ⁵YoY growth excluding exited markets
+
+
+2021 ESG Report 7. 
+Uber performed a materiality assessment to inform the company’s ESG reporting and strategy. This assessment was originally completed in June 2020 amid the active COVID-19 pandemic, a divisive political environment, civil unrest regarding systemic racism and inequality, and a deeply recessed global economy. The assessment captured the ESG issues deemed to be of greatest relative importance to Uber as of that time. The results of this assessment continue to form the basis of our 2021 reporting.
+This report is also informed by the reporting standards of the Sustainability Accounting Standards Board and the Task Force on Climaterelated Financial Disclosures (TCFD). Based on feedback from our stakeholders, we have expanded our reporting responsive to TCFD, and introduced a section on alignment with the United Nations Sustainable Development Goals (SDGs). As part of our corporate commitment to continual improvement, we expect to build on ESG content and analysis on our website and in future iterations of this report.
+ESG materiality assessment. 
+About this report 01 Identified stakeholders Identified the stakeholders who rely on Uber, and on whom Uber relies for its long-term business success. For 2021, we have focused our reporting on investors, employees, cities, platform users (drivers, delivery people, merchants, and consumers), and regulators.
+02 Generated universe of ESG issues Generated a universe of ESG issues that may be relevant to Uber or its stakeholders. To create this list, we considered emerging sustainability trends, global ESG reporting frameworks, stakeholder requests for information, rater/ranker evaluations, peer reporting, news articles, and Uber’s regulatory filings.
+03 Evaluated relevance to our business Considered whether, and the degree to which, the identified ESG issues could potentially affect Uber’s business, financial condition, operating results, prospects, or stock price. This included a review of Uber’s SEC filings, enterprise risk list, earnings call transcripts, leadership agendas, and Board of Directors and Board Committee charters.
+04 Evaluated importance to stakeholders Considered whether, and the degree to which, the identified ESG issues may affect or be of interest to Uber’s key stakeholders. This included interviews with internal stakeholder representatives and subject matter experts from Policy, People, Finance, Law, Research and Insights, Operations, and Communications. We also leveraged insights gained from prior external stakeholder engagements and survey work.
+05 Mapped issues on a matrix Mapped each issue according to the scores generated in steps 3 and 4 to populate an initial ESG materiality matrix. Each stakeholder category was equally weighted.
+06 Engaged external and internal stakeholders Engaged a variety of stakeholders to refine. The draft materiality matrix was reviewed and refined through conversations with internal focus groups and external stakeholders, including sustainability experts, governance experts, and institutional investors. Following refinement, the Board’s Nominating and Governance Committee reviewed the final matrix.
+07 Established material issues While all identified issues are important, the content of Uber’s 2021 ESG Report focuses primarily on the 9 issues in the upperright quadrant of the matrix on the following page—those determined to be the most material to our business and to our stakeholders. Other issues are included in our reporting as appropriate.
+Our ESG materiality assessment involved the following steps:
+
+
+2021 ESG Report 8. 
+About this report ESG materiality matrix. 
+Importance to business. 
+Importance to stakeholders. 
+Higher. 
+Board composition. 
+Climate change. 
+COVID-19 response. 
+Cybersecurity. 
+Diversity, inclusion, and culture. 
+Driver/delivery person well-being. 
+Ethics and compliance. 
+Local impact. 
+User privacy. 
+User safety. 
+Energy efficiency. 
+Human rights in the supply chain. 
+Local air quality. 
+Renewable energy. 
+Waste reduction/recycling. 
+Water consumption. 
+Executive compensation. 
+Political activities. 
+Higher. 
+Our ESG materiality assessment was designed to identify the most relevant, or material, issues from an ESG perspective, which is a broader standard than that used in our financial disclosures. The use of “material” when referring to ESG topics throughout this report is intended to flag the most important issues from our ESG assessment. It does not speak to the materiality of those issues to Uber as a whole. Within boxes, issues are depicted in alphabetical order. They are unchanged from 2020.
+
+
+2021 ESG Report 9 2021 ESG Report 9. 
+Uber and the Sustainable Development Goals (SDGs)
+Uber contributes to the United Nations SDGs through its core business and social impact activities.
+
+
+2021 ESG Report 10. 
+Uber and the SDGs Our impact. 
+Uber reimagines the way the world moves for the better. This offers a considerable mandate for positive impact as we create value that we believe benefits people and places around the world. We know that the power of movement transcends simply getting from point A to B. Movement is access—to safe spaces, to economic opportunities, and to sustainable futures. Movement is freedom— to thrive and to be empowered to drive your own destiny.
+Now, in the wake of COVID-19 and its exacerbating effect on inequalities around the world, Uber has laid out the company’s ambition for our technology to help make movement equal for all. To realize this ambition, we’ve looked across the business to connect our purpose and operations to fulfill global and local needs.
+01 Economic empowerment: From drivers and delivery people to small businesses and communities, we’re committed to creating positive opportunities for all.
+03 Sustainability: From electric vehicles to food waste reduction, we’re working to protect the future of our planet.
+02 Safety: Working to improve the safety of our platform through safety features, policies, procedures, and our commitment to transparency.
+04 Equity: Through anti-racism and gender equality commitments, accessible services, and more, we help move people beyond biased systems.
+Our work is focused across 4 pillars:
+
+
+2021 ESG Report 11. 
+Gender equality: Achieve gender equality and empower all women and girls.
+Reduced inequalities: Reduce inequality within and among countries.
+Climate action: Take urgent action to combat climate change and its impacts.
+Good health and well-being: Ensure healthy lives and promote well-being for all at all ages.
+Decent work and economic growth: Promote sustained, inclusive, and sustainable economic growth; full and productive employment; and decent work for all.
+Sustainable cities and communities: Make cities and human settlements inclusive, safe, resilient, and sustainable.
+The United Nations Sustainable Development Goals. 
+Uber and the SDGs. 
+In 2015, all United Nations (UN) member states adopted 17 goals to achieve sustainable global economic, social, and environmental development as part of a shared 2030 Agenda. Focused on people, planet, and prosperity, the SDGs set out an ambitious agenda to eradicate poverty, strengthen institutions, eliminate inequality, and protect the planet.
+Inspired by the goals, Uber has identified ways in which our core business and operations can contribute to building a better future for everyone.
+We proudly contribute to the achievement of many of the 17 goals, and due to the nature of our business and operations we primarily focus on 6.
+
+
+2021 ESG Report 12. 
+Impact in action. 
+Uber and the SDGs. 
+SDGs SDGs SDGs SDGs. 
+Safety. 
+By helping people move safely and focus on what matters most.
+Sustainability. 
+By creating opportunities for everyone to move and live in environmentally friendly ways.
+Equity. 
+By focusing on ways to rid our platform of discrimination and promote equality within and outside our company.
+Economic empowerment. 
+By offering new models of earning opportunities to drivers, delivery people, and merchants.
+We are committed to promoting prosperity, equity, and a better quality of life for our stakeholders as we work to make movement equal for all. Please visit the Indexing section of the report for more examples of Uber’s impact in action.
+
+
+2021 ESG Report 13. 
+Governance. 
+Our Board is committed to best-in-class corporate governance.
+2021 ESG Report 13
+
+
+2021 ESG Report 14. 
+Governance Uber’s Board of Directors. 
+Global Company Leadership. 
+Financial Expertise. 
+Consumer and Digital Experience. 
+Innovation, Technology, and High-Growth Experience. 
+Government, Policy, and Regulatory Experience. 
+Sustainability and Human Capital Management 11 10 7
+6 9
+8 Global Company Leadership. 
+Financial Expertise. 
+Consumer and Digital Experience. 
+Innovation, Technology, and High-Growth Experience. 
+Government, Policy, and Regulatory Experience. 
+Sustainability and Human Capital Management 11 10 7
+6 9
+8. 
+Global Company Leadership. 
+Financial Expertise. 
+Consumer and Digital Experience. 
+Innovation, Technology, and High-Growth Experience. 
+Government, Policy, and Regulatory Experience. 
+Sustainability and Human Capital Management 11 10 7
+6 9
+8. 
+Global Company Leadership. 
+Financial Expertise. 
+Consumer and Digital Experience. 
+Innovation, Technology, and High-Growth Experience. 
+Government, Policy, and Regulatory Experience. 
+Sustainability and Human Capital Management 11 10 7
+6 9
+8. 
+Global Company Leadership. 
+Financial Expertise. 
+Consumer and Digital Experience. 
+Innovation, Technology, and High-Growth Experience. 
+Government, Policy, and Regulatory Experience. 
+Sustainability and Human Capital Management 11 10 7
+6 9
+8. 
+Global Company Leadership. 
+Financial Expertise. 
+Consumer and Digital Experience. 
+Innovation, Technology, and High-Growth Experience. 
+Government, Policy, and Regulatory Experience. 
+Sustainability and Human Capital Management 11 10 7
+6 9
+8. 
+Independent (10) Non-independent (1)
+Ethnic minorities (3) Not ethnic minorities (8)
+Female (4) Male (7) 45-55 (5) 56-65 (4) 66+ (2) <2 years (4) 2-4 years (6) >4 years (1) 91%
+Independent 2.6. 
+Avg years of tenure 27%
+Ethnic minorities 36%
+Female 58. 
+Avg director age 85% of S&P 500 directors are independent. 7.9 years is the average tenure of S&P 500 boards.
+20% of all directors of the top 200 S&P 500 companies are ethnic minorities.
+Note: Data above is as of March 29, 2021.
+28% of S&P 500 directors are female. 63 years is the average age of S&P 500 directors.
+Global company leadership. 
+Sustainability and human capital management. 
+Government, policy, and regulatory experience. 
+Innovation, technology, and high-growth experience. 
+Consumer and digital experience. 
+Financial expertise. 
+Our Board of Directors is committed to best-inclass corporate governance and firmly believes that we must be transparent with, and accountable to, our stockholders with respect to our culture, governance, and corporate responsibility. In our journey to build out a world-class public company governance structure, we have strengthened and developed a Board of Directors with a diverse set of backgrounds, skills, and experiences.
+Board independence Board tenure. 
+Ethnic diversity Skills, experience, and background. 
+Gender diversity Director age
+
+
+2021 ESG Report 15. 
+Board oversight. 
+ESG program. 
+User safety. 
+COVID-19 response. 
+Ethics and compliance. 
+Driver and delivery person well-being. 
+Privacy and cybersecurity. 
+Employee diversity, inclusion, and culture. 
+Local impact. 
+Climate change. 
+Full Board. 
+Nominating and Governance Committee. 
+Compensation Committee. 
+Audit Committee. 
+Governance. 
+The ESG issues identified in our assessment are important to the long-term success of our business and our business strategy. As such, and as appropriate, they are overseen by Uber’s Board of Directors and the Board’s independent Audit, Compensation, and Nominating and Governance Committees. Below is a high-level summary of how the Board and its committees have overseen these key issues in 2020 and early 2021.
+Audit Committee: Amended its charter to explicitly oversee issues related to data privacy.
+Compensation Committee: Amended its charter to explicitly provide oversight for the company’s human capital strategies, initiatives, and programs with respect to our culture, talent, recruitment, retention, and employee engagement.
+Nominating and Governance Committee: Amended its charter to oversee environmental, social, and governance matters, including explicit reference to environmental sustainability as well as corporate political activities and contributions and lobbying activities.
+
+
+2021 ESG Report 16. 
+Board oversight. 
+Governance. 
+Below are key examples of Board and committee oversight of ESG issues:
+Climate change: Uber’s Board of Directors and Nominating and Governance Committee periodically receive updates on policy and regulatory trends at the local, state, and national levels concerning climate- and emissions-related developments and receive reports on Uber’s climate-change commitments. Uber’s SVP of Mobility and Business Operations and the SVP of Marketing and Public Affairs share responsibility for climate change–related issues and policies within the company. These executives oversee the work of the Global Sustainability Policy Lead, who is responsible for measuring Uber’s emissions footprint, evaluating potential related business and regulatory risks (such as limits on emissions), and assessing options for emissions reduction. Uber’s Executive Leadership Team reviews Uber’s major climate commitments and endorses emissionsreduction programs.
+COVID-19 response: Uber convened leadership from across the globe and established a dedicated Steering Committee led by Uber’s SVP of Mobility and Business Operations to guide and coordinate Uber’s response—quickly, responsibly, and empathetically. Uber’s Board of Directors was closely involved, initially receiving daily— then weekly, and eventually quarterly—updates from leadership as the company took decisive action focusing on the safety and well-being of employees and platform users and partnering with local communities to help slow the spread of the virus. The Board received updates from leadership regarding financial and operational impacts to the business in addition to comprehensive reports on safety efforts around the world, and the company’s efforts to increase accessibility to, and facilitate distribution of, the COVID-19 vaccine.
+Driver and delivery person (“Drivers”) well-being: Uber’s Board of Directors considers the well-being and status of drivers, in some form, at nearly every Board meeting. Driver satisfaction, retention, and classification are among the issues considered by the Board when evaluating Uber’s risk management processes and when guiding strategy or reviewing major plans of action. The Compensation Committee tied executive compensation for our most senior executives to the achievement of driver satisfaction and retention metrics in addition to safety improvement metrics.
+Employee diversity, inclusion, and culture: The Board receives quarterly reports from the Office of Diversity and Inclusion regarding Uber’s progress toward its diversity goals. There is also an annual organizational review that includes succession planning and a talent review. The Compensation Committee considers diversity and inclusion metrics when developing compensation plans and includes diversity, inclusion, and cultural goals as metrics in the compensation for Uber’s most senior executives. The Compensation Committee also receives summaries of employee engagement survey results and related matters. At the management level, our CEO meets with each of his direct reports quarterly to review progress against D&I operating targets and plans. The CEO also meets with our employee resource group (ERG) leaders regularly, including once a year with all ERG leads together to review plans and budget requests.
+
+
+2021 ESG Report 17. 
+Ethics and compliance: The Board and its committees play a critical role in overseeing how we develop and maintain the workplace culture that we want. Uber’s Chief Ethics and Compliance Officer (CECO) and our Global Head of Internal Audit meet with the Audit Committee quarterly regarding the state of compliance and ethics, internal investigations, and the operation of the company’s Integrity Helpline. Aspects of the compliance and ethics program are incorporated into the performance evaluations of executive officers, while company culture is overseen by the Compensation Committee and the Nominating and Governance Committee. The CECO and the Global Head of Internal Audit report to the CLO and CFO, respectively, and work with the company’s executive leadership team (ELT) as part of our enterprise risk management program. Working with the ELT and the Audit Committee, the CECO is responsible for implementing an ethical culture throughout the business and ensuring the continuous enhancement of the global compliance program.
+Local impact: Uber’s Board of Directors periodically receives updates on emerging policies at the local, state, and national levels. The Board also receives reports from executive leadership on city-specific and regional commitments. The Board has regular discussions with senior management regarding media coverage and regulatory, legislative, and public sentiment involving Uber.
+User safety: Uber’s Board of Directors receives updates on user safety at least twice a year. The Compensation Committee has tied executive compensation for our most senior executives to the achievement of safety metrics, including reducing safety incidents and increasing transparency and trust.
+Privacy and cybersecurity: The Board oversees the senior management team’s efforts to address cybersecurity and data privacy risks. Uber’s Chief Information Security Officer provides quarterly reports to the Audit Committee and is responsible for a range of cybersecurity activities. In addition, the Audit Committee annually reviews Uber’s risk profile with respect to cybersecurity matters. Our Chief Privacy Officer provides reports to the Board annually and as requested from time to time. In 2020, the Audit Committee amended its charter to explicitly oversee issues related to data privacy.
+17. 
+Board oversight. 
+Governance
+
+
+2021 ESG Report 18. 
+Head of ESG Strategy and Engagement. 
+Head of Investor Relations. 
+Head of Diversity and Inclusion Strategy and Planning. 
+Head of Global Sustainability Policy. 
+Head of Work and Economic Policy. 
+Director, Policy for Cities and Transportation. 
+Public Policy Manager, Safety. 
+Public Policy Manager, Consumer Protection and Safety. 
+Director, Social Impact. 
+Global Sustainability Program Manager, Workplace. 
+Senior Counsel, Legal Compliance. 
+Manager, Strategy and Planning, Uber Eats. 
+Senior Manager, Strategy and Planning, Uber Transit. 
+Senior Associate, Strategy and Business Development, Uber Freight. 
+Chief Executive Officer. 
+Chief Financial Officer. 
+Senior Vice President, Chief Legal Officer and Corporate Secretary. 
+Chief Diversity and Inclusion Officer. 
+Senior Vice President, Chief People Officer. 
+Senior Vice President, Marketing and Public Affairs. 
+Senior Vice President, Mobility and Business Operations. 
+Senior Vice President, Delivery. 
+Chief Technology Officer. 
+Vice President, Core Services. 
+Senior Vice President, Chief Product Officer. 
+Head of Uber Freight. 
+Governance Governance of ESG at a glance. 
+Audit Committee. 
+Compensation Committee. 
+Nominating and Governance Committee Board committees. 
+Leadership. 
+ESG working group. 
+Executive leaders at the company. 
+More than 50 FTEs across the Mobility, Delivery, Policy, Workplace, Finance, and Legal teams focus on various aspects of Uber’s sustainability and ESG efforts, including:
+
+
+2021 ESG Report 19. 
+How executives are compensated tells an important story about a company’s strategy and priorities. At Uber, we have incorporated ESG metrics into executive compensation since 2018. We have incorporated ESG metrics into both performancebased equity and our annual bonus plan.
+Performance-based equity Our performance-based equity program includes diversity and inclusion and safety metrics. The graphic at right illustrates the evolution of our performance-based restricted stock unit (PRSU) program and our commitment to ESG performance.
+Our 2020 PRSUs included the following ESG metrics:
+D&I: The key performance indicators we established consist of growing the percentage of women at Uber’s manager level and above to 35% and growing the percentage of US underrepresented minority employees at the senior analyst level and above to 14%, as further detailed in our 2021 People and Culture Report. We have seen evidence that this strategy is effective in holding leaders accountable, given our positive progress in representation, particularly for women and underrepresented talent in leadership roles.
+Safety improvement: We determined that the achievement of certain safety goals, including reductions in US motor vehicle fatalities and critical sexual assaults, was an appropriate addition to the 2020 PRSUs. These metrics are further defined in our US Safety Report.
+Our 2020 annual bonus plan included the following ESG metrics:
+Improvements in motor fatality, assault and sexual assault incident rates, food safety, and perceptions of safety among Drivers.
+Improvements in Driver satisfaction and retention, in relation to our efforts to improve overall Driver well-being and the experience of independent work.
+Improvements in performance against employee diversity, inclusion, and cultural goals.
+Governance ESG in executive compensation. 
+FY19. 
+FY20. 
+FY20. 
+FY21. 
+FY21. 
+FY21. 
+FY22. 
+FY22 FY23. 
+Gross Bookings. 
+Mobility &
+Delivery Segment Adjusted EBITDA. 
+Adjusted EBITDA. 
+Fiscal 2021. 
+Key financial targets 2020 PRSUs 3-year D&I Goal (12.5%) 3-year D&I Goal (12.5%)
+Year 1 (25%)
+Year 2 (25%)
+Year 3 (25%) 2019 PRSUs 3-year Diversity and. 
+Inclusion ("D&I") Goal (25%)
+Year 1 (25%)
+Year 2 (25%)
+Year 3 (25%)
+EBITDA Margin. 
+Fiscal 2021. 
+Key financial targets 2021 PRSUs 3-year Safety Goal (10%) 3-year D&I Goal (10%)
+Relative TSR Modifier. 
+Year 1 (13.3%)
+Year 2 (13.3%)
+Year 3 (13.3%) 3-year average revenue growth (40%) 19. 
+PRSU Program—ESG elements
+
+
+2021 ESG Report 20. 
+COVID-19 response. 
+During the COVID-19 crisis, we’ve combined compassion, resources, and innovation to improve safety and to support our communities.
+2021 ESG Report 20
+
+
+2021 ESG Report 21. 
+COVID-19 response 30 million Masks/face covers that Uber purchased and distributed to more than 2.5 million drivers and delivery people around the world.
+$50 million Committed to help provide access to disinfectants, sanitization sprays and wipes, and ear-loop face masks to drivers, freight carriers, and delivery people.
+231 million Mask verifications completed.
+99.5% Of trips had no reported mask issues as of the end of 2020.
+200+ Partnerships initiated to support our communities around the world.
+$20 million Donated to help support local restaurants in the US and Canada as part of our “Eat Local” campaign.
+$30 million Paid out through our global financial assistance policy, which provides up to 14 days of financial assistance for drivers and delivery people who are diagnosed with an active case of COVID-19 or directed to selfquarantine or self-isolate by a doctor or public health official.
+2021 ESG Report 21
+
+
+2021 ESG Report 22. 
+Mobilizing to support our communities. 
+COVID-19 response. 
+At Uber, safety is a top priority. Since the earliest days of the pandemic, Uber mobilized internal teams, listened to experts, and worked to support the health and well-being of employees, platform users, and the cities and communities we serve. Uber will continue to be a partner in recovery to our cities and stakeholders as we define and turn to a new normal.
+Encouraging riders to stay home: At the outset of the pandemic, we sent messages to riders in the app and on social media asking them to stay home, if they could, to support stay-at-home efforts and help slow the spread of the virus.
+Supporting healthcare workers, first responders, and communities: Uber provided 10 million free or discounted rides and food deliveries to frontline workers, seniors, and people in need, partnering with organizations such as the Bill and Melinda Gates Foundation, Feeding America®, Save the Children, UNESCO, and World Central Kitchen to provide free rides, food, and essential supplies for vulnerable populations worldwide. By the end of 2020, we had delivered over 1.4 million prescriptions with the Bill and Melinda Gates Foundation and the Western Cape Department of Health in South Africa. By the end of June 2020, our teams had initiated more than 200 partnerships across 54 countries.
+Through our Freight platform, Uber moved nearly 1,000 loads of donated freight with over 50 partners to over 300 unique destinations throughout the US and Canada. This totaled over 30 million pounds of essential goods, including food, water, and PPE.
+Providing health and sanitization supplies: We committed $50 million to help provide access to disinfectants, sanitization sprays and wipes, and ear-loop face masks to drivers, freight carriers, and delivery people. We have purchased about 30 million masks/face covers, and have distributed them to more than 2.5 million people around the world.
+
+
+2021 ESG Report 23. 
+Mobilizing to support our communities. 
+COVID-19 response. 
+Supporting local restaurants: As restaurants shifted to takeout, we highlighted local independent restaurants in-app and provided new options such as leave-at-door delivery. We also introduced a feature in some markets through which customers could contribute to their favorite local restaurants directly from the app. In 2020, customers gave more than $20 million using the new contributions feature. In the US, Uber matched every contribution to the National Restaurant Association Educational Foundation’s Restaurant Employee Relief Fund up to a total commitment of $6 million to support their important work and help provide critical funds to restaurant workers affected by COVID-19. We have committed to provide $20 million in support efforts to help local restaurants in the US and Canada during the pandemic as part of our “Eat Local” campaign.
+India COVID-19 crisis: We rallied support during the spring 2021 pandemic crisis in India through a number of actions. We provided in-kind donations to many national nonprofits including the American India Foundation, Go Dharmic, HelpAge India,
+Project Mumbai, The Good Quest Foundation, and more. We also set up an employee-giving campaign with GiveIndia, through which we matched employee donations. We established a hardship fund for drivers and their families who were affected by COVID-19. We paid for vaccinations for 150,000 drivers and offered free rides for communities more broadly as part of our global 10 million rides offer. And Uber was a major contributor to the Pledge 1% Global Coalition.
+Supporting freight carriers: Many freight carriers faced backed-up facilities, closed restaurants, and closed rest areas and truck stops while helping to keep essential goods like food, toilet paper, and sanitization supplies moving across the country and stocked on our shelves. We supported these carriers during the pandemic by providing those hauling Uber Freight loads with Uber Eats credits to make sure that they were fed.
+
+
+2021 ESG Report 24. 
+New safety features. 
+COVID-19 response. 
+To promote safety, Uber rolled out a global mask mandate for riders and drivers, redesigned the endto-end app experience with new safety and health precautions, and implemented new technology to verify that drivers and riders are wearing a mask. As of the end of 2020, 99.5% of trips had no reported mask issues.
+Driver checklist We introduced a Go Online Checklist, where drivers and delivery people must confirm that they aren’t showing symptoms of COVID-19 and that they have taken certain preventive measures, such as sanitizing the vehicle, before driving. They must also confirm that they’re wearing a face cover or mask.
+Rider in-app list Riders see a similar list and must confirm that they will also take preventive actions, such as wearing a face cover, sitting in the back seat, and opening the window, if possible, for ventilation before being able to request a trip. If a driver reports to us that a rider wasn’t wearing a mask, the rider will be required to take a selfie with their face covered before they’re able to take another trip with Uber.
+Face cover verification We launched Face Cover Check technology to help verify compliance with our mask policy by prompting drivers to take a selfie with a mask on in order to start accepting trips. We completed 231 million mask verifications across Mobility and Delivery while the feature was active.
+
+
+2021 ESG Report 25. 
+Access to vaccines. 
+COVID-19 response. 
+Access to vaccines for drivers and delivery people: In the days following approval for the first vaccines, we encouraged policymakers to ensure that the drivers and delivery people who use Uber could get access to vaccines quickly, easily, and for free. In the US, we wrote to the Centers for Disease Control and Prevention (CDC) and to governors in all 50 states.
+10 million free or discounted rides: At the end of 2020, we offered to provide 10 million free or discounted rides to healthcare workers, seniors, and people around the world for whom transportation access to vaccination centers may be a barrier.
+In the US, we launched this initiative in partnership with the National Urban League, Morehouse School of Medicine, and National Action Network, organizations with deep ties to communities of color that have been disproportionately impacted by the pandemic. Internationally, major partners include the International Federation of Red Cross and Red Crescent Societies, UNESCO, and the Bill and Melinda Gates Foundation.
+In-app vaccine booking: We partnered with Walgreens in the US to make getting a vaccine as easy as booking a ride with Uber. With just the tap of a button, platform users can reserve a vaccination appointment as well as a ride there, all through the Uber app.
+Vaccine Access Fund: In addition to our global 10 million rides offer, we have teamed up with PayPal and Walgreens to create the Vaccine Access Fund in the United States, which, with help from the Local Initiatives Support Corporation (LISC), allows us all to fund even more rides to communities in need. We also launched an in-app feature that allows users to donate to the fund.
+White House: Uber worked with the White House to make it as easy as possible for all Americans to get vaccinated. We built a new easy-to-use in-app experience, integrating vaccines.gov data directly into the Uber app, where users can find nearby available vaccination appointments from tens of thousands of local providers. Users can also get information about supply and manufacturers at each location. We offered free rides (up to $25 each) for every leg of the trip to help people get to and from both shots.
+
+
+2021 ESG Report 26. 
+Helping our employees. 
+COVID-19 response. 
+Uber’s employees have been and continue to be profoundly affected by the COVID-19 pandemic in many ways. Recognizing this, we strengthened our work-from-home policies and looked for new ways to support our employees as they navigated this crisis in their personal and professional lives. This means we’ve provided even more attention and flexibility to caregivers by providing resources, tools, and support, and amplified our focus on mental health and well-being. In April 2020 we canceled our midyear performance review cycle, allowing our employees to focus on efforts to keep our business running and adjusting to the demands of the workfrom-home environment.
+In September 2020 we instituted the Global Caregiver Enhanced Flexibility Policy, in effect throughout the extended work-from-home period.
+This policy provides clarity around the flexible work options available to parents and caregivers, so employees can balance work with caring for those who matter to them most. The policy provides 3 broad options for caregivers: flexibility throughout the day, redistributing work hours, and the ability for employees to request shift changes to better align with their schedules. We have extended our voluntary work-from-home policy until September 2021 to provide our team with flexibility, choice, longer-term clarity, and time to plan ahead.
+
+
+2021 ESG Report 27. 
+Driver and delivery person well-being. 
+Uber will continue to work tirelessly to earn the trust and business of the drivers and delivery people who use our platform for work.
+2021 ESG Report 27
+
+
+2021 ESG Report 28. 
+Uber is one of the largest open platforms for work in the world, providing accessible, flexible work in 71 countries. Between 2016 and 2020, approximately 26 million people have used Uber’s platform to earn money. In total, these workers have earned over $134 billion and another $4 billion in tips over this time.
+The drivers and delivery people who get work through Uber are as diverse as the cities and countries they serve. They include professional drivers, veterans, students, parents returning to work, people supplementing a primary income, and everything in between.
+Open access to flexible work Individuals who earn using platforms like Uber’s do not need to wait for a job opening or even interview for a role. While regulatory requirements vary across countries and cities, in many of Uber’s markets, virtually anyone looking for new income opportunities can sign up and start earning within a few days after passing a background screening and, if driving or delivering in a vehicle, satisfying a set of driver requirements.
+Low barriers to entry ensure that workers from all backgrounds, regardless of race, ethnicity, gender, sexual orientation, education, or other characteristics, have equal access to work. Low barriers to entry and protection from discrimination also attract diverse groups of workers who may have traditionally been locked out of the labor market.
+Driver and delivery person well-being 18-29 (30%) 30-39 (34%) 40-49 (21%) 50+ (15%)
+White or Caucasian (49%)
+Black or African American (14%)
+Latino or Hispanic (17%)
+Asian or Pacific Islander (14%)
+Native American (2%)
+Other (1%)
+Don’t know/prefer not to answer (8%)
+Age (global)7. 
+Driver and delivery person demographics6. 
+Race and ethnicity (US only)8. 
+Driver and delivery person well-being 6Except where otherwise noted, statistics are based on the population of drivers and delivery people that took a trip in the fourth quarter of 2020. 7Global data is aggregated. Due to differing data collection methods, reliability may vary across markets. 8Total adds to more than 100% as respondents were allowed to select as many races or ethnicities as are applicable to them. Survey was completed by a third party.
+89% of drivers and delivery people are online with Uber fewer than 40 hours per week, and 62% are online fewer than 20 hours per week.
+11% of drivers and delivery people globally are female.7 In the US, 17% of drivers are female, and 41% of delivery people are female.
+
+
+2021 ESG Report 29. 
+Using Uber for work during the pandemic. 
+Driver and delivery person well-being. 
+Below are a few examples of the steps Uber has taken—and continues to take—to protect the drivers and delivery people who use Uber’s platform for work. More information can be found in the COVID-19 section of this report and here on our website.
+Financial assistance: Our global financial assistance policy, which we launched in the first week of March 2020, provides up to 14 days of financial assistance for drivers and delivery people who are diagnosed with an active case of COVID-19 or directed to self-quarantine or self-isolate by a doctor or public health official. To date, we have paid out over $35 million in financial assistance.
+We also worked with policymakers around the world to ensure that independent workers were included in government relief packages. And we published government relief guides—for all 50 US states and 28 countries—featuring up-to-date information about government financial support for which drivers and delivery people may be eligible and how they can request it.
+Safety: We launched a global campaign to “Move What Matters,” encouraging riders to stay home and stop moving and drivers and delivery people to stay home if they are sick. We’ve allocated $50 million to purchase supplies like masks, disinfectant sprays and wipes, hand sanitizer, and gloves.
+In many of Uber’s markets, we are still requiring that both riders and drivers wear a mask or face cover and, in some markets, we’re verifying this with technology. We’re also encouraging drivers and riders to cancel trips if they don’t feel safe, with no penalty.
+We worked with the US Centers for Disease Control and Prevention and the World Health Organization (WHO) to create COVID-19 safety tips for ridesharing and launched an in-app resource center and a series of education campaigns focused on safety information and relevant updates.
+We continue to advocate for access to vaccines. We have taken steps to make it easier for drivers and delivery people to navigate the vaccine appointment process by enabling them to provide eligibility proof through an in-app card and sharing information about eligibility via online local and state guides. To date, nearly one million drivers and delivery people have received the in-app essential worker card. In addition, we recently agreed to cover the cost of vaccines for 150,000 drivers in India.
+Access to earning opportunities: We developed and launched a Work Hub, which provides drivers and delivery people a new way to find other work, whether with Uber or another company, and expanded work options on our platform with the introduction of Uber Medic for healthcare workers and Uber Direct or Connect for package delivery.
+Where licensing arrangements allow, we made it as easy as possible for people who’ve historically driven with Uber to find a new way to earn by delivering food with Uber Eats. 70% of drivers and delivery people surveyed in the US told us they thought Uber had either done enough or gone above and beyond for drivers during the pandemic.9 9https://www.uber.com/us/en/u/your-voices-create-change/
+
+
+2021 ESG Report 30. 
+Drivers and delivery people who earn with Uber have total, real-time control over their working hours, times, and locations of work. There are no minimum hours, only reasonable constraints on maximum continuous driving hours to promote safety, in keeping with relevant regulations. Workers can work across multiple apps, with no restrictions on using competitor apps. A 2019 survey found that nearly 80% of US rideshare drivers work using more than one platform.
+Researchers discovered that this kind of flexibility has real monetary value: the ability to freely set and adapt schedules to unpredictable shocks is roughly equivalent to $150 per week of surplus on average.10 A further study found that younger people, women, and lower-income people tend to benefit the most from flexible work arrangements and that the short-term estimate of lost surplus from decreasing flexibility is significant.11 Given this, it’s not surprising that 34% of drivers and delivery people change their hours by more than 50% from week to week, on average.12. 
+The flexible work experience. 
+Driver and delivery person well-being 10https://www.nber.org/system/files/working_papers/w23296/w23296.pdf 11https://conference.nber.org/conf_papers/f133011.pdf 12Based on the population of drivers and delivery people that took a trip in the fourth quarter of 2020.
+72% considered flexibility and independence to be some of the most important aspects of their work with Uber Eats, according to a September 2020 survey of French delivery drivers.
+86% chose app-based driving to have flexibility in their schedule and 86% would no longer be able to drive if it didn’t offer a flexible schedule, according to a July 2020 survey of US drivers and delivery people.
+82% of drivers in London agreed that being able to choose their own hours is more important than having holiday pay and a guaranteed minimum wage, a 2018 study found.
+78% of Australian drivers value the flexibility of the Uber platform and 3 in 5 wouldn’t work for a “traditional company” without flexibility, according to a 2019 survey.
+2x drivers on average in Chile and Mexico would need their pay to be more than doubled in order to be willing to switch to a traditional employee job, according to a 2019 study.
+The vast majority of drivers and delivery people surveyed consistently report that flexibility is why they chose app-based independent work
+
+
+2021 ESG Report 31. 
+Improving the quality of independent work. 
+While digital apps and platforms have been and continue to be powerful forces for creating economic opportunity, it is clear that more can be done to improve the quality and security of platform work. The COVID-19 crisis has brought into sharp focus the need for everyone, regardless of their employment status, to be able to find good-quality, rewarding work; be able to work in the way they choose; and have access to adequate protections and benefits.
+Unfortunately, legal frameworks in some countries force platforms and workers to make a choice between flexibility and added security for workers. Just like employees, independent workers should have the same ability to protect themselves and their loved ones if they are injured at work, get sick, or want to retire.
+We are committed to partnering with drivers and delivery people and their advocates, governments, and other platform companies to improve the quality of independent work. Over the last year, we have advocated on behalf of drivers and delivery people in markets around the world to preserve flexibility of work while expanding access to benefits and protections.
+In the US, European Union, and Canada, we put forward proposals to improve the quality of independent work, calling on policymakers, platform companies, and social representatives to work together on a new approach to platform work—one where having access to protections and benefits doesn’t come at the cost of flexibility and job creation.13. 
+In California, we welcomed the passage of Proposition 22, which introduces new requirements for platform companies like Uber to provide benefits, including healthcare stipends, injury protection insurance, and safety training, and fully implemented its requirements.14 Recent independent research with drivers and delivery people in California found that 4 out of 5 drivers are happy Prop 22 passed (82%), and more than 3 in 4 drivers (76%) agree that “Prop 22 benefits me personally.”15. 
+In India, we welcomed the passage of national legislation that requires platform companies, or aggregators, to make contributions toward a social security fund for gig and platform workers.
+In the UK, we announced that all UK drivers will be treated as workers and receive additional rights and protections going forward.16 Pursuant to this change, drivers who use Uber’s platform will earn at least the National Living Wage for time spent actively working, be paid holiday pay, and will be enrolled into a pension plan if eligible. We have also announced a partnership with labor union GMB to provide an even stronger voice to drivers and to raise the standard of flexible work across the industry.
+Driver and delivery person well-being 13https://ubernewsroomapi.10upcdn.com/wp-content/uploads/2020/08/Working-Together-Priorities.pdf 14https://www.uber.com/blog/california/p22-independent-work/ 15https://www.uber.com/newsroom/prop-22-survey-results/ 16https://www.standard.co.uk/comment/comment/uber-chief-executive-dara-khosrowhahi-drivers-rights-turningpage-b924529.html
+
+
+2021 ESG Report 32. 
+Ensuring that drivers and delivery people have a meaningful voice benefits both drivers and platforms. We’re committed to capturing their diverse perspectives while providing transparency into the state of the driver experience.
+During 2020, we held over 300 engagement and listening sessions with drivers and delivery people around the world and conducted more than 50 surveys to gather feedback on the app, our support services, and other matters. We also hold regular meetings with drivers’ and delivery people’s associations.
+We want to further empower drivers and delivery people to provide input on decisions affecting their lives and livelihoods. To this end, over the last year, we conducted surveys of all drivers and delivery people in the US,17 Canada,18 and Australia,19 and released reports on the results. Over 125,000 drivers and delivery people responded. We’ll use feedback from these surveys to help improve the Uber experience. For example, in Australia, we’ve already taken a number of responsive actions, including improvements to support, new driver advisory forums, and transparency around common reasons that drivers and delivery people may lose access to their accounts.
+Labor unions play a key role in European social democracies and help advance policy debates. In Spain, Uber and other gig economy companies have reached a best practice agreement with delivery workers’ associations. In Italy, platforms have a bargaining agreement with a trade union. In the UK, Uber and labor union GMB have announced a partnership as well. In many other European countries and cities, Uber nurtures relationships with local associations as well as labor unions.
+Listening to drivers and delivery people. 
+Driver and delivery person well-being 17https://www.uber.com/us/en/u/your-voices-create-change/ 18https://www.uber.com/ca/en/u/your-voices-create-change/ 19https://www.uber.com/au/en/u/your-voices-create-change/
+
+
+2021 ESG Report 33. 
+Where it’s possible for us to do so, we partner locally to provide and facilitate a wide range of perks and protections for drivers and delivery people, including through our Uber Pro loyalty program.
+Insurance products: We partner with leading insurance companies to offer a range of protection solutions, including on-app coverage for accidents and injuries on the job around the world and, in some markets, income protection when drivers or delivery people can’t work due to injury or sickness. Examples include Uber’s partnerships with: • AXA in the UK and Europe, where Uber fully funds both on-app accident protection and off-app benefits for eligible drivers and couriers including maternity and paternity payments.
+• Chubb in Australia, where Uber fully funds on- trip accident protection, including payments for certain common injuries, permanent disability and accidental death compensation, and lump sum benefits in certain events such as hospitalization or assault.
+Partnering on benefits. 
+Driver and delivery person well-being
+
+
+2021 ESG Report 34. 
+Learning and growth: We partner with academic and learning institutions to make opportunities available to drivers, delivery people, and their family members through bachelor’s degree programs and courses on entrepreneurship, skills development, and language learning. Examples include Uber’s partnerships with: • International Finance Corporation, Endeavor, and Sebrae in Latin America to provide drivers and delivery people with access to online micro courses in financial education, formalization, future of work, personal marketing, time management, and customer service.
+• Arizona State University in the US to offer drivers, delivery people, and their family members access to 100+ undergraduate degree programs online with full tuition coverage, including upskilling courses on English language learning and entrepreneurship.
+• African Management Institute to launch a free learning program focused on skills development and entrepreneurship for drivers and delivery people in sub-Saharan Africa.
+• Open University in the UK to offer drivers or a family member to take a fully funded undergraduate degree-level course, or other short courses.
+• LOI in the Netherlands to offer drivers access to 6 months of training content.
+• WERO in France to provide delivery people with access to tailored courses on French language, professional development, and other subjects.
+In 2020, the Compensation Committee of the Board tied executive compensation for our most senior executives to the achievement of driver and delivery person retention and satisfaction. See our 2021 Proxy Statement for more.
+Driver and delivery person well-being Partnering on benefits
+
+
+2021 ESG Report 35. 
+User safety. 
+Safety is a top priority.
+2021 ESG Report 35
+
+
+2021 ESG Report 36. 
+User safety. 
+Uber’s approach to safety focuses on 4 key pillars: 01. 
+Driver compliance. 
+Elevate industry standards with clear platform protocols, strong governance, and robust screening technology.
+02. 
+Product experience. 
+Strive to help reduce safetyincident rates by building new technology solutions as a core part of the app.
+03. 
+Insurance and response. 
+Universally support riders and drivers with empathy and care in times of need.
+04. 
+Commitment. 
+Demonstrate Uber’s responsibility, accountability, and commitment to safety in a way that effectively builds trust among core audiences.
+2021 ESG Report 36
+
+
+2021 ESG Report 37. 
+User safety User safety. 
+Uber strives to be the safest and most trusted choice for the movement of both people and things. Even one critical safety incident is unacceptable because it represents the lived experience of someone in the Uber community, and that is why we’re dedicated to developing innovative tools, seeking guidance from experts, and refining our policies and processes to put safety at the heart of everything we do. Whether someone is a driver, delivery person, rider, merchant, or member of a community we partner with, their safety is a top priority.
+Uber has pioneered a number of new safety technologies and features, many of which have now been adopted by other companies in the rideshare industry.
+
+Access to the platform. 
+We continue to elevate industry standards on driver screenings.
+Industry Sharing Safety Program: We launched a first-of-its-kind effort to share information with our rideshare and delivery peers about the drivers and delivery people deactivated for the most serious safety incidents. Our goal is to further enhance the safety of the rideshare and delivery industries and equip participating companies with important safety information they may use to help further protect their customers.
+Continuous Checking Technology: In addition to a rigorous background check conducted before a driver can start earning on the app, we use technology that proactively obtains criminal offenses from a number of data sources. If an offense involving an active driver is identified, we’ll review these notifications to determine whether they’re still eligible to drive with Uber.
+
+
+2021 ESG Report 38. 
+User safety. 
+User safety. 
+Promoting safe on-trip experiences. 
+We’re continuing to invest in features that help create an on-trip experience that prioritizes user safety and peace of mind.
+Share My Trip/Follow My Ride Gives riders, drivers, and delivery people the option to share their trips with designated loved ones who can then follow their trip on a map in real time and know when they’ve arrived.
+In-app emergency button Connects riders and drivers directly to their local public emergency number with the simple tap of a button. In some cities, trip details and location can be shared digitally with first responders, and riders can send a text message to emergency dispatch.
+Real-Time ID Check Prompts drivers to take a live photo of themselves in the Driver app before they can accept rides, which helps verify that the properly screened driver is behind the wheel.
+Verify your ride Riders can choose to receive a unique 4-digit PIN to verbally provide to the driver. The driver will only be able to start the ride once the correct PIN has been entered. This added layer of verification can help ensure that riders get in the right car and drivers are picking up the correct rider.
+Supporting users. 
+On-trip reporting This feature allows riders to report a nonemergency safety issue during an Uber trip, when it is top of mind, so they don’t have to wait until after the trip ends.
+24/7 Uber support If anything happens, 24/7 support is available in the app from a specialized team of Uber agents who are trained to handle sensitive reports.
+Ride Check Detects rare events such as unexpected long stops on a trip or possible vehicle crashes. The technology proactively checks in with riders and drivers to see if everything is OK, and the app provides resources that they can use to get help.
+
+
+2021 ESG Report 39. 
+User safety. 
+User safety. 
+Like all companies, at the beginning of the COVID-19 pandemic, we acted quickly to address the evolving concern of health and hygiene safety.
+Uber was quick to launch a Door-to-Door Safety Standard consisting of COVID-specific measures, policies, programs, and features intended to help keep everyone on the Uber platform safe during the pandemic. In addition to the measures described in the COVID-19 section of this report, we worked with health and safety experts, like the CDC, to provide drivers and delivery people with educational videos and guidance on how to use masks and sanitizers correctly and developed an in-app COVID-19 Resource Hub to centralize information on safety and financial assistance for drivers and delivery people.
+We also launched a number of campaigns aimed at popularizing the use of face covers and other health safety tips, including: • No Mask, No Ride • We Protect Each Other • Wash, Wear, Air. 
+In July 2020, we launched an updated Public Health Portal where public health officials can submit requests to Uber for emergency responses to infection spread and data needed for contact tracing.
+
+
+2021 ESG Report 40. 
+User safety. 
+User safety. 
+Although COVID-related health and safety was top of mind during 2020, our safety teams never took their eyes off other pressing public safety issues, such as: 1. Sexual assault and misconduct education for drivers: In partnership with RAINN, the largest anti-sexual-violence organization in the US, we launched mandatory sexual misconduct education for all drivers in the US and are rapidly expanding this education globally, in partnership with local anti-gender-basedviolence organizations.
+2. Uber Survivor Resources Hotline and Fund:
+Launched in partnership with RAINN, this dedicated hotline offers immediate, confidential, and trauma-informed support for survivors reporting critical sexual assault incidents related to the Uber app in the United States. The hotline is staffed by RAINN support specialists who are experienced in working with survivors of sexual violence.
+3. Human trafficking education: In partnership with leading anti-human-trafficking advocacy organizations, we launched a multi-continent anti-human-trafficking campaign to commemorate World Day Against Trafficking in Persons in 2020 and in January 2021 during Human Trafficking Prevention Month in the US. The campaigns included new resources, podcasts, videos, tips on identifying human trafficking, and a first-of-its-kind in-depth education video developed by Polaris that was sent to drivers and delivery people.
+4. Road safety education: We partnered with the Governors Highway Safety Association, National Safety Council, Mothers Against Drunk Driving, and the League of American Bicyclists to create a road safety coalition and road safety tips to help address top concerns as traffic volumes and crashes increased throughout the second half of the pandemic.
+5. Bicycle and motorcycle delivery safety: We continued to invest in making it safer for people to deliver by bike, motorcycle, and moped. In partnership with leading road safety advocates, we launched a bike safety checklist, a helmet detection product feature, road safety education, and safety gear stores for delivery people. We first launched these initiatives in Australia and are continuing to roll out globally.
+
+
+2021 ESG Report 41. 
+User safety. 
+Commitment For an in-depth view of our existing in-app safety features, response protocols, background-check procedures, and prevention programs in the US, please see the “Safety investments” section of our 2017-2018 US Safety Report. As the first comprehensive publication of its kind in the industry, it also shares data on the most serious safety incidents that occur on the platform, including sexual assault, motor vehicle fatalities, and physical assault fatalities. We have committed to publishing a US Safety Report every 2 years to share Uber’s safety progress, with the next report planned for publication in 2021.
+To drive results and reduce incidents, user safety metrics have been embedded in our most senior executives’ compensation packages. See our 2021 Proxy Statement for more.
+99.9% of Uber trips ended without any safety-related issue 0.0003% of trips had a reported critical safety incident (the incidents in the US Safety Report) 3.1M trips per day in the US during 2017 & 2018, the period covered in the US Safety Report. 
+Figures are sourced from Uber’s US Safety Report and reflect 2017-2018 data.
+User safety 41
+
+
+2021 ESG Report 42. 
+People and culture. 
+There is no place for racism in our workforce or on our platform.
+2021 ESG Report 42
+
+
+2021 ESG Report 43. 
+In July 2020, Uber announced our 14 commitments to be a more antiracist company. We did so during a time of social unrest that followed the killings of George Floyd, Breonna Taylor, Ahmaud Arbery, and too many other Black Americans. These commitments are at the core of our company’s priorities, and we continue to expand and evolve them.
+In making these commitments, we acknowledge our unique role and responsibility to help fight racism and, particularly, its disparate impact on the Black community.
+Among our first actions to support these commitments to building racial equity internally and externally, within our products, services, and advocacy, Uber established the Racial Equity Leadership Council (RELC). The RELC is composed of 16 senior leaders across Uber’s business units and geographies, as well as ERG leaders from Asian at Uber, Black at Uber, and Los Ubers, working to ensure accountability and to operationalize the commitments.
+Below are the commitments Uber made in 2020 and 2021, supported by examples of our work in moving them forward.
+People and culture 2021: The year of action 2021 ESG Report 43
+
+
+2021 ESG Report 44. 
+Our racial equity commitments. 
+People and culture. 
+Driving equity in the community $10 million to support Black-owned businesses: We are committing to a $10 million investment from 2020 through 2022 to advance the success of Blackowned small businesses by driving demand through promotions and other merchant support. In addition to our $10 million commitment to help Black-owned businesses not only survive but thrive, we partnered with local nonprofits to establish a comprehensive financial education program to support Black restaurant owners.
+$0 delivery to Black-owned restaurants: In 2020, we successfully rolled out this initiative for Black-owned restaurants across the US from June 4 to December 31. We achieved 3 million $0 delivery trips, and around 3,500 SMBs (small and medium businesses) identified as Black-owned. We applied our learnings from this to further our impact within our $10 million commitment to Black-owned businesses.
+Double supplier spend with Black-owned minority business enterprises: We’re strengthening and expanding our supplier diversity program with the goal of doubling spending with Black-owned businesses and contractors and have begun identifying suppliers to partner with. We recently launched a Supplier Diversity website, where prospective businesses can apply to be included in our supplier diversity program.
+Double supplier spending with Black-owned businesses: We’re strengthening and expanding our supplier diversity program with the goal of doubling spending with Black-owned businesses and contractors and have begun identifying suppliers to partner with. We are well on our way to launching a supplier diversity website, where prospective businesses can apply to be included in our supplier diversity program.
+Pledge for criminal justice reform: Uber renewed our commitment to support Voices for a Second Chance (VSC) and the Campaign for the Fair Sentencing of Youth (CFSY). VSC offers comprehensive services to each of the 11,000 individuals processed through the Washington, DC, correctional system annually who need assistance, and their families. CFSY is a national nonprofit that leads efforts to ban juvenile life without parole and other extreme sentences for children in the US and creates opportunities for those returning home to prosper. Uber’s donations will support the organizations’ missions by helping to facilitate staff visits to clients and helping formerly incarcerated people get necessary access to food and transportation.
+MDI Keeper’s Fund: We invested $50 million in support of minority and underserved communities, committing $25 million to the MDI Keeper’s Fund (a privately sponsored investment fund) and allocating another $25 million of unrestricted cash through deposits to qualifying minority depository institutions, such as banks and credit unions that give underrepresented communities access to credit and lending.
+Rides to vaccines: We committed 10 million free or discounted rides to help make sure that transportation is never a barrier to getting the vaccine. We launched this initiative in partnership with the National Urban League, National Action Network, Morehouse School of Medicine, and LULAC—organizations with deep ties to the communities of color that have been disproportionately hurt by the pandemic.
+
+
+2021 ESG Report 45. 
+People and culture Our racial equity commitments. 
+Ridding our platform of racism. 
+No commitment, no ride: Our Community Guidelines explicitly prohibit racist behavior, and we’ll continue to strive to ensure that everyone using our platform understands what’s expected when using our apps and commits to the rules.
+Anti-racism education for riders and drivers: Together with experts, we’re developing new anti-racism education for our community. We kicked off our first pilot in Brazil with one of our local partners, Instituto Promundo, providing access to high-quality educational material to all riders, drivers and delivery people in the country. We’ll leverage these learnings to further shape our educational strategy for our users around the world.
+Specialized customer support: We are working diligently to offer our customer support agents specialized training on bias and discrimination, and we commit to improving our apps to make it easier for anyone to report discrimination issues to us.
+Fighting racism with technology. 
+Inclusive product design: We continue to make great strides in our efforts to build out systems and permanent roles that drive inclusion through everything we do in Uber’s Tech org. In February 2021, we introduced our Inclusive Design plans to the company at our Global All Hands meeting for all our employees, and in March we welcomed a new Inclusive Design Lead.
+Marketplace fairness: We launched a Fairness Research Team, dedicated to measuring and understanding the impact that our pricing, matching, and safety products have on users from underserved communities.
+
+
+2021 ESG Report 46. 
+People and culture Our racial equity commitments. 
+Sustaining equity and belonging for all. 
+Diverse teams for diverse customers: To further expand the pipeline of Black and other underrepresented technical workers, we’re broadening our internship and fellowship programs in partnership with trusted global NGOs.
+Pay equity, full stop: Four years ago, we analyzed our salary data and made adjustments to achieve pay equity on the basis of race and gender and we continue to analyze annually and continue to see pay parity across all groups.
+Double Black representation in leadership: Within our organization, we plan to double Black representation in leadership* by 2025 through pipeline development and hiring. The Uber Executive Networking (UEN) program was rolled out to proactively cultivate relationships between members of the Executive Leadership Team (ELT) and external Black, female, and Latinx executives.
+Transparency on our progress: With strong commitments, it’s important to hold ourselves accountable and keep our audiences engaged with the work we’re accomplishing. This year, we’re executing a comprehensive plan for sharing representation data with our internal and external audiences. Transparency clarifies our biggest opportunities as well as enables the sharing of our wins.
+Double the talent pipeline: We’re creating pathways for drivers, delivery people, and Uber customer support staff, many of whom are people of color, to advance their careers. We aim to double the pipeline of people who want to pursue corporate or other opportunities within Uber by 2025.
+Training on cross-cultural management: We understand it’s our responsibility as an organization to help managers create an inclusive environment. Training for all Uber managers on inclusive management and cross-cultural competency is planned for the second half of 2021 through 2022.
+Additionally, we launched an Inclusive Recruiting training course to leadership teams across Mobility and Marketing that includes a deep dive into the Mansfield Rule to get back to the basics of recruiting with our talent acquisition partners.
+Accountability for senior leaders: In order to keep our leadership teams committed to meeting our goals, we tied the compensation for our most senior executives to company-wide diversity goals. The DEI key performance indicators we established consisted of growing the percentage of women at Uber’s manager level and above to 35% and growing the percentage of US underrepresented populations (URPs) at the senior analyst level and above to 14%. We also launched a formalized DEI strategic planning process for 2021. In that process, the CEO’s direct reports and senior directors and above with teams of 100 people or more—about 50 leaders total—established comprehensive plans and operational targets to improve representation of women and URPs in the US at all levels.
+
+
+2021 ESG Report 47. 
+Workforce diversity at Uber. 
+People and culture. 
+Since our first Diversity Report in 2017, we’ve continued to use data to inform our priorities and actions; to keep ourselves accountable for creating positive change in diversity, equity, and inclusion; and to motivate our leaders to keep improving. Additionally, we’ve continued to prioritize transparency because we believe that it is an important step in doing the right thing.
+Building diversity in the workforce is a key priority for the company, and the CEO and ELT are monitoring progress closely. This year we pulled workforce data as of March 31, 2021. Compared with our representation reported in August 2020, we continue to see progress in overall representation of women and URPs,* with an increase of 1.9 percentage points in representation of women overall, an increase of 1.2 percentage points of women in leadership positions, an increase of 5 percentage points of URPs overall, and an increase of 2.9 percentage points of URPs in leadership positions.
+Looking deeper into race/ethnicity in the US, we see a 2.8-percentage-point increase of Black or African American employees overall and a 0.3-percentagepoint decrease of Black or African American leaders.** Within our Asian and Hispanic or Latinx populations, we see the opposite pattern. Asian representation in the US overall decreased by 2.5 percentage points, but Asian leaders increased by 2.5 percentage points. Although we see a slight 0.4-percentage-point decrease in Hispanic or Latinx representation in the US, there is a 1.4-percentagepoint increase of Hispanic or Latinx leaders.
+The increase of women in leadership positions is primarily due to a combination of hiring and promotions, while the increase in URPs in leadership is mostly due to hiring. We continue to focus on the development, promotion, and retention of women and URPs, especially those in leadership positions.
+*At Uber, we include employees identifying as Black, African American, Hispanic, and Latinx in the category of Underrepresented People (URP), as these groups are underrepresented within Uber compared with the overall US population. **The overall headcount of Black or African American talent in leadership remained the same since August 2020; the percentage appears to dip because our overall non-Black leadership headcount increased.
+
+
+2021 ESG Report 48. 
+Hiring the Uber way: inclusive talent. 
+People and culture. 
+Diversity through hiring At Uber, we’re committed to bringing in and developing diverse talent at all levels of our organization because it introduces new ways of thinking and brings unique perspectives to decisionmaking and problem-solving. We believe that diverse teams make higher-quality decisions and can better serve a diverse customer base. We know we need to widen the industry’s definition of talent and expand our search for great people, starting with the diverse talent we already have at entry levels in our organization. When we bring people in, we also have to work hard to keep them here, and to sustain a diverse pipeline of internal leaders. On the following pages are some examples of how we work to build and maintain a healthy pipeline of diverse, highperforming talent.
+Attracting the right people Uber’s objective to increase diversity in hiring is achieved by implementing processes throughout the organization and measuring progress. The Mansfield Rule was completely rolled out by June 2021, ensuring that we have considered women, LGBTQIA+ individuals, people with disabilities, and underrepresented talent by requiring that a certain percentage of candidates considered for leadership roles come from historically underrepresented groups.
+In terms of tracking progress, all global candidates will be asked to voluntarily complete a Candidate Self-ID form, enabling aggregate reporting on military veterans or partners (MVP), people with disabilities, and LGBTQIA+ individuals. Engaging current employees to attract new talent has also proven to be positive.
+Experiencing diversity at the recruiting stage Through the ERG Ambassador program, candidates can speak to current ERG members with shared interests, giving them a sense of what Uber could be like for them. It provides an opportunity for our candidates to meet with an ERG of their choosing during their on-site or video interview to get greater insight and understanding about the culture and experience from someone who comes from a similar ethnic, gender, or affinity group. It's an informal conversation that will in no way be scored as part of the candidate's interview process. Additionally, through the ERG Ignite pilot program, we’re partnering with ERGs to identify high-quality diverse talent and to develop a community strategy to reach untapped talent pools.
+
+
+2021 ESG Report 49. 
+Hiring the Uber way: inclusive talent. 
+Retention Our goal is to help employees be their best selves by providing programs and resources that promote health and productivity. This helps our diverse employee base manage life’s expected and unexpected events. Globally, Uber offers competitive benefits packages to our employees and their families. We strive for traditional benefits as well as offerings tailored for our unique population.
+Global Self-ID In our Global Self-ID anonymous survey, we asked our Board of Directors and Uber employees around the world to voluntarily share with granularity how they identify, so we can better recognize and support the diverse populations already represented in our workforce. In addition to asking about race, ethnicity, sexuality, and socioeconomic status, we included questions about gender identity, veteran status, disability, and caregiver status. The Global Self-ID program is ongoing. We look forward to digging into the data in the coming months, because recognizing the complexity of our authentic selves, celebrating differences, and ensuring that every Uber team member feels seen, heard, and valued are essential to fostering a more welcoming Uber.
+Fairness Working Group Marketplace fairness: We launched a Fairness Research Team, dedicated to measuring and understanding the impact that our pricing, matching, and safety products have on users from underserved communities.
+In 2020 and 2021, we have worked to formalize and expand our internal Fairness Working Group (FWG). The FWG has more than 30 members from across the company—a mix of lawyers, data scientists, product managers, policy experts, and members of Uber’s ERGs, who meet regularly to review and evaluate the fairness implications of new product and business initiatives. They help us capture a greater diversity of perspectives when conducting fairness assessments.
+People and culture. 
+View our full 2021 People and Culture Report here.
+2021 People and Culture Report
+
+
+2021 ESG Report 50. 
+Local impact. 
+We work to make the real world easier to navigate for everyone.
+2021 ESG Report 50
+
+
+2021 ESG Report 51. 
+Uber is available in over 10,000 cities globally. We believe that our global platform should work in service of the cities and communities where our users live and enjoy our products. Our platform is a hub for people getting where they want to go and getting the things they need, all at their fingertips. We aim to maximize access to places and things for people in cities, no matter where they live or what they do, and to do so seamlessly and affordably.
+More ways to go Reduced car travel from stay-at-home orders during the pandemic gave us a glimpse of what our cities could be like with less congestion and cleaner air. In 2020, we doubled down on our investments in—and integration with—local transit, micromobility, and other vehicles as part of our commitment to provide zero-emission rides globally by 2040 and in the US, Canada, and Europe by 2030. (See the “Climate change” section for more on our global sustainability commitment.)
+Riders can now check real-time transit times and plan their transit journeys in more than 40 cities, including a door-to-door, multimodal journey with UberX in Sydney, Chicago, London, and Mexico City. They can confidently take subsidized last-mile. 
+Local impact Go anywhere 59% of UK riders without cars say that the availability of ridehailing services was important to their choice.²¹ 69% of UK riders agree that having the option of Uber reduces their need to drive a car.21 500 transit agency partnerships (and counting) 21https://www.uber.com/en-GB/newsroom/the-impact-of-uber-in-the-uk/ or late-night rides in dozens of cities around the world, buy transit tickets in the app, and even figure out how to use transit in conjunction with UberX for longer journeys across a city. Bikes and scooters are available in over 100 cities through our partnership with micromobility services, and we launched electric boda-bodas in Kenya and motos in Kondapur, Hitech City, Madhapur, and Gachibowli.
+We have also developed many offerings to empower transit agencies. Our partnerships with Marin Transit and Cape May County in New Jersey demonstrate the value of our software as a service offering, where the agencies using our software can deploy their vehicles with their drivers. The integration of Routematch, a software platform that helps transit agencies provide on-demand transportation, brings Uber’s transit service to hundreds more cities and agencies. Transit Horizons, an Uber-led thought paper with input from transit industry experts about the future of transit agencies, lays out a vision of agencies becoming mobility managers with many modes and management tools at their disposal, including Uber software, and where efficiency increases could improve services to underserved populations.
+
+
+2021 ESG Report 52. 
+Go anywhere. 
+Local impact. 
+Increasing access Many communities experience barriers to transportation for a variety of reasons. Lack of supportive transportation can be a barrier to other essential needs, such as work, healthcare, and medicine. Increasing access to movement and eliminating acts of racism and discrimination are core to Uber’s offerings.
+Over 2,000 organizations within the continuum of care, such as healthcare providers, non-emergency medical transportation brokers, and others, use Uber Health to reduce no-shows and late arrivals to appointments—and support improved health outcomes. The Promise Fund uses Uber Health to ensure that breast and cervical cancer patients have a way to get to their appointments;22 local community senior centers, like the Solon Senior Center in Ohio, use Uber Health to offer older adults rides throughout the city;23 and many other organizations use Uber Health to transport medical staff and increase access to vaccination appointments and other key moments of holistic care. In the last year, Uber Health has expanded pilots in several international markets too, where the product is used to get patients to their primary care appointments and increase access to women’s health centers.
+As a company that believes that everyone should have the right to move freely and safely, racial justice is an important priority. “Hailing while Black” was a well-documented discriminatory practice that ridesharing helps lessen. As part of Uber’s commitment to become an anti-racist company, we hired an Inclusive Design Lead, specialized support for Customer Support, and anti-racism education for riders and drivers. We also expanded and formalized our internal Fairness Working Group. In addition, as part of our $10 million commitment to support Black-owned restaurants, we partnered with local nonprofits to establish a comprehensive financial education program to support Black restaurant owners, starting with expanding outdoor dining space during COVID-19.
+22https://www.survivornet.com/articles/susan-g-komen-founder-nancy-brinker-talksto-survivornet-about-latest-passion-cancer-screenings-treatment-for-uninsuredwomen/ 23https://www.clevelandjewishnews.com/features/special_sections/destination/solonsenior-center-offers-variety-of-services-activities/article_71bb61fa-cd03-11ea-8281e7b0845242b9.html
+
+
+2021 ESG Report 53. 
+Go anywhere. 
+COVID-19: Supporting our communities To support the need for essential workers to arrive at work and to keep families fed during the pandemic, Uber provided 10 million free or discounted rides and meals to hundreds of communities around the world. We partnered with transit agencies to provide latenight rides when transit service was limited due to budget cuts.
+Uber Health has played a key role in vaccine access efforts targeted at vulnerable communities because the product does not require that riders have smartphones, credit cards, or Uber accounts. Cities like Jersey City, NJ, and Vernon, CT, created services to book rides for residents who called into a hotline, and Uber Health partnered with 211 Connecticut and Community Health Center to similarly enable Uber Health rides to be booked through Connecticut’s Vaccine Appointment Assist Line.
+Local impact
+
+
+2021 ESG Report 54. 
+Go anywhere. 
+Left panel: Changes in Uber pickup volume by Census tract between April 2019 and April 2020 in the Bay Area. Darker colors show relatively more Uber usage during shelter-inplace. Tracts are plotted only if they averaged at least one Uber pickup per day in April 2019.
+Right panel: HUD-designated lowincome Census tracts.
+Left panel: Changes in Uber pickup volume by Census tract between April 2019 and April 2020 in the Los Angeles metropolitan area. Darker colors show relatively more Uber usage during shelter-in-place. Tracts are plotted only if they averaged at least one Uber pickup per day in April 2019.
+Right panel: HUD-designated lowincome Census tracts.
+Ratio of Uber pickup volume in April 2020 versus April 2019 in California Census tracts, plotted against median household income in each tract (income data from the 2014–2018 American Community Survey 5-year estimates). Only tracts averaging more than one pickup per day in April 2019 are plotted.
+Bay Area Los Angeles metropolitan area. 
+Uber trip ratio by median household income. 
+Local impact. 
+Income-related usage during the pandemic: Middle- and lowerincome households used Uber more consistently before and during the pandemic. For example, during COVID-19 shelter-in-place policies, demand for rides in lowerincome neighborhoods in California remained at similar levels as preCOVID, whereas demand dropped precipitously in higher-income neighborhoods.
+
+
+2021 ESG Report 55. 
+Get anything. 
+Local impact. 
+Our Uber Eats platform grew significantly during the COVID-19 crisis to help move what matters and support small businesses, especially restaurants. A survey of restaurant owners found that 84% of operators believe that third-party delivery has allowed them to reach new customers while improving their ability to reach existing customers.
+We believe that the addition of convenience stores, our partnership with the online grocery delivery platform Cornershop, and our acquisition of the delivery company Postmates significantly augment the delivery offering on the platform, providing access to more items in more communities and offering more earnings opportunities for merchants and delivery people. We also added new product lines, like flower delivery in France.
+Delivery isn’t just for consumer needs; it can also overcome barriers to essential needs. DotHouse Health, a federally qualified health center in the Boston area, is using the Uber platform to deliver food boxes to food-insecure patients and other vulnerable community members who need access to food the most. In the past year, Uber introduced prescription delivery in some markets as well.
+Local impact We’re proud to report that on average, 80% of the revenue generated on our platform stays local. A recent report conducted by Public First estimated that every million trips Uber makes in a UK city generates £7 million for the local economy, contributing £164 million total to the nighttime economy in the UK.24 In addition, Uber unlocked CAN$6.5 billion in economic value across Canada in 2020 alone.25 82% believe that Uber Eats has been crucial to their business during COVID-19 81% would have had to lay off staff members 75% of operators said they would have had to close their businesses if not for Uber Eats 92% of operators report that they plan to continue working with third-party delivery services post-crisis 40%+ increase in sales for some partners using Uber Eats 66%+ of operators surveyed consider Uber Eats to be their preferred delivery partner. 
+COVID-19 restaurant owner survey26 24https://www.uber.com/en-GB/newsroom/the-impact-of-uber-in-the-uk/ 25https://ubercanada.publicfirst.co/#top 26https://uber.app.box.com/s/hxhyoxm08brg2pjnhny8hw78h6xdm33y
+
+
+2021 ESG Report 56. 
+Integrity and trust. 
+Do the right thing. Period.
+2021 ESG Report 56
+
+
+2021 ESG Report 57. 
+Integrity and trust 91% of our employees have completed our Rules of the Road training course covering subjects such as antitrust, intellectual property, and privacy in 2021.
+Competitive Intelligence Policy. 
+Corporate Policy on Conflicts of Interest. 
+Lobbying Policy. 
+Policy Against Bribery and Corruption. 
+Third Party Anti-Corruption Due Diligence Policy. 
+US Corporate Political Activity Policy. 
+Uber’s compliance policies and procedures address specific risk areas27. 
+Ethics and compliance. 
+Our Ethics & Compliance team’s mission is to:
+Foster and enable a culture of ethical decision-making.
+Promote compliance with applicable laws, regulations, internal policies, and best practices.
+Guide Uber to Do the right thing. Period.
+To achieve this mission, the Ethics & Compliance team has built and maintains a comprehensive program of policies, processes, and controls to prevent, detect, and respond to conduct that is unlawful, unethical, or violates Uber’s policies, and monitor company risks to continuously evolve and improve the program.
+The cornerstone of our comprehensive program is our Business Conduct Guide (BCG), which provides our employees with clear expectations for the proper course of action when faced with ethical decision-making. Within 30 days of hire, every Uber employee is required to complete training on, and acknowledge, our BCG. The training and acknowledgment are then repeated every 2 years. We have a suite of specific compliance policies and procedures that address identified risk areas, including those listed at right, among others.
+Many of our ethics and compliance policies have a dedicated internal web page with a welcome email from our Chief Ethics & Compliance Officer where employees can access FAQ, one-page learning aids, and optional mini training modules.
+We’ve also benchmarked our workplace policies and practices around harassment, discrimination, bullying, and retaliation with other companies through our participation with the Purple Campaign and earned a score of 100 to receive our Purple Certification.
+57 27A selection of Uber policies and information on Uber’s US political engagement can be found at investor.uber.com/governance.
+
+
+2021 ESG Report 58. 
+Ethics and compliance. 
+Integrity and trust. 
+Training: A key element of our comprehensive program is our risk-based ethics and compliance training curriculum that assigns training to employees based on the risk level of their role, location, and management responsibility, resulting in higher, medium, lower and no risk categorizations. Employees falling in a higher risk category receive live training, and employees falling into medium or lower risk categories are assigned additional on-line courses beyond those required of employees generally. All training is translated to maximize comprehension by employees. Currently, there are more than 7,000 employees globally who have earned the Ethics & Compliance Champions designation after completing a specific suite of ethics and compliance training courses.
+Risk assessments: To continually improve our global compliance program and to align our program priorities to critical risks facing the company, our Ethics & Compliance team conducts periodic, independent external assessments as well as internal risk assessments. Uber’s compliance risk assessment approach involves surveying employees at various levels of the company as well as across the globe to gauge both awareness for compliance topics and perceived risk. In 2020, 18 ethics and compliance risk areas were assessed, and the results of the assessment informed our 2021 compliance program enhancements. For example, in Q1 2021, we updated our Conflicts of Interest Policy to create more clarity around this important and complex topic. Approved by the Board of Directors, the updated Conflicts of Interest Policy was launched globally with multilingual training and videos to facilitate comprehension of the core principles. Employee engagement was high as we saw an increase in the volume of disclosures during the period following the launch.
+Uber encourages its employees to act like owners and take an active role in protecting the company from risks. Every year during Ethics & Compliance Week, the company refreshes its commitment to supporting a “Stand up, speak up” culture by raising awareness for the Integrity Helpline and encouraging our employees and third parties to “Stand up, speak up” if they have a concern or if they see something they believe is inconsistent with our cultural norms or policies. This awareness effort is coordinated with Ethics & Compliance teams across the globe. For example, in India, invitations to join events were extended by senior leadership. Further, the campaign featured fireside chats with noted academics, panel discussions on important ethics programs across the company, and even a movie screening where the protagonist did the right thing, period.
+We maintain an independent third-party, multilingual Helpline where anyone, anywhere, anytime can raise a concern or report a suspected violation of our policies, procedures, or the law. Uber publicizes its Integrity Helpline through the Business Conduct Guide, provides a link on the company’s intranet and internet sites, and promotes the Helpline in online and inperson training sessions. Uber strictly prohibits retaliation for good-faith reporting to the Integrity Helpline or to any resource. A report can be made anonymously, whether by phone or online. Reports are investigated, and any necessary disciplinary and/or remedial action is taken as appropriate. We maintain metrics of Helpline effectiveness, including our intake and responsiveness. We’ve benchmarked our Helpline metrics against the Navex Global 2020 Risk and Compliance Hotline Benchmark Report, and our metrics compared favorably.
+
+
+2021 ESG Report 59. 
+Ethics and compliance. 
+Integrity and trust. 
+In response to the COVID-19 pandemic, Uber committed to donate over 20 million free or discounted rides globally. Our Ethics & Compliance team leveraged our third-party risk mitigation procedures and internal controls to complete due diligence on over 500 recipient organizations, including NGOs and municipalities, to specifically identify and detect COVIDrelated fraud and ensure that the appropriate entities were the recipients.
+Anti-corruption: We oppose corruption in all its forms. Corruption corrodes the fabric of society and undermines people’s trust in the political system, in its institutions, and in its leadership. Corruption affects societies politically, economically, socially, and environmentally. Our global compliance program is built on the essential elements of an effective compliance program as defined by the US DOJ/FCPA Compliance Program Hallmarks, the Official Guidance – UK Bribery Act, and the Good Practice program guidelines endorsed by the Organisation for Economic Co-operation and Development.
+Third-party risk management: We have a riskbased, automated third-party due-diligence program that assesses all third parties onboarded for corruption and bribery risks to ensure that the organizations we work with engage in ethical business practices. We maintain a global Supplier Code of Conduct, in the spirit of the United Nations Guiding Principles on Business and Human Rights, the United Nations Universal Declaration of Human Rights, and the International Labour Organization Declaration on Fundamental Principles and Rights at Work, that sets forth the expectation for suppliers working on our behalf to comply with all laws and to act ethically and with integrity at all times. Additionally, we have designed our mergers and acquisitions due-diligence procedures to ensure a proper focus on pre-acquisition due diligence and post-acquisition integration of acquired entities to maintain our strong ethics and compliance culture.
+Political activities: Uber responsibly participates in federal, state, and local public policy discussions on matters that may affect our business. We participate in a nonpartisan way to help shape public policy and advocate for government action that is consistent with our ethics and supports our business objectives. In 2020, Uber formally added oversight of political activities and lobbying to the charter of the Nominating and Governance Committee.
+In addition to the US Corporate Political Activity Policy, our Ethics & Compliance Team in EMEA launched an Advocacy Policy for the region in 2021. This policy launch included in-person training and external partner acknowledgments to guide those interacting with the government on behalf of Uber through the landscape of regulations.
+59
+
+
+2021 ESG Report. 
+Data privacy and security. 
+Integrity and trust. 
+At Uber, we believe that proper data management is key to responsible innovation. Uber’s mission is to be a trusted steward of our users’ personal data in every market where we operate. To bring this mission to life, Uber focuses on consumer privacy and data protection every day. These are shared responsibilities in which every employee is expected to participate. Uber has a large and diverse team of privacy and security professionals from all over the world and across legal, engineering, product, and public policy organizations, who are dedicated to, and passionate about, protecting user data.
+Privacy Principles Uber is guided not only legally by its obligations under global privacy laws, but also ethically by its Privacy Principles, modeled after the Fair Information Practice Principles (FIPPs). The FIPPs have formed the foundation of many countries’ privacy and data protection laws around the world over many years. Applying the concepts from the FIPPs to our business, Uber created and published the following Privacy Principles, which provide common goals for the responsible collection and use of personal data, regardless of where our users live or travel.
+We do the right thing with data. Uber’s Privacy Principles start with one of our core values: Do the right thing. Period. Our focus on law and ethics forms a strong foundation on which we build trust and confidence in a consistently positive user experience around the world. And as a data-driven company, we believe it’s everyone’s job to understand how that data is used, managed, and protected. All fulltime employees receive mandatory data privacy and security training during their onboarding process and annually thereafter. Uber employees may also receive additional privacy and security training based on their role, or if they volunteer for Uber’s Privacy Champion program.
+We build privacy into our products from start to finish. Uber’s Privacy-by-Design process identifies potential personal data privacy legal and ethical risks, evaluates those risks, and identifies ways to appropriately mitigate them. The process is applied not only to Uber’s product development and engineering activities, but also to its marketingrelated activities and other initiatives that involve managing personal data. For example, in many markets, we use address anonymization to obscure precise pickup and dropoff details from driver receipts post-trip, and we use phone anonymization to allow drivers and riders to communicate without sharing their personal phone numbers.
+60
+
+
+2021 ESG Report 61. 
+Data privacy and security. 
+Integrity and trust. 
+We collect only what we need. Data minimization is a goal for all teams, and not just our privacy and security experts. For Uber products, campaigns, and services, we keep a specific objective in mind when collecting, using, or handling personal data that is consistent with our values. One example is Mask Verification, a feature that detects whether a user is wearing a mask without relying on biometric information.
+We are transparent about our data practices. We keep our users informed about our data collection and use practices in our layered Privacy Notice, our Help pages, and our app and website, where users have the ability to edit their data, modify their privacy settings, request a copy of their personal information, and more. Additionally, in 2020, we launched 2 new features: an Explore Your Data feature where, once authenticated, users can find a convenient summary of personal data including a summary of trips, Uber Eats deliveries, rider rating, and basic account information; and a View as Driver feature, which provides riders with visibility into the personal information drivers can see about them before, during, and after a trip.
+We give users choices about their data. At Uber, we don’t believe privacy has to come at the expense of innovation. In fact, we think protecting consumer privacy is essential to being a truly innovative company. Our privacy product team is responsible for building tools and features in our mobile apps that can help protect privacy while using Uber’s services. Some of these features can be found in the Privacy Settings menu, including controls for sharing location data with Uber or with trusted contacts, for notifications received from us, and for deleting an account. Users also have control over how their personal data is used for marketing purposes, and may opt out of having their data used for these purposes.
+We safeguard personal data. Our users trust us to protect their personal information whenever they use our apps. Uber’s information security program, which is based on the industry-recognized ISO 27001/2 framework, includes written policies, processes, and standards designed to protect the security, confidentiality, and integrity of Uber’s data environment. Uber has maintained ISO 27001 certification for its enterprise business line (Uber for Business, Uber Central, and Uber Health) since 2019 and in 2021 obtained the certification for its core rides business. Additionally, in 2020, Uber obtained SOC 2 certification and was assessed by an independent assessor against NIST 800-171 for its Uber for Business commercial offerings to become approved as a US government contract service.
+
+
+2021 ESG Report 62. 
+Engaging with law enforcement Uber is different from other tech companies. Because we put real people in real cars, we are committed to working with law enforcement and public health officials to respond quickly to valid data requests from government agencies. In fact, we built a dedicated portal for both local law enforcement and public health officials to submit inquiries to Uber in a secure manner consistent with our Guidelines for Law Enforcement. Examples of how our responses to these requests assists with public safety include investigations related to financial fraud, locating missing persons, and preventing exposure to infectious diseases (such as COVID-19).
+For US law enforcement, Uber will disclose information where required by legal process issued pursuant to the Electronic Communications Privacy Act (ECPA) and other legal authorities. All law enforcement requests for data must be supported by legal process, with the exception of emergency requests. Uber reserves the right to reject legal process for any reason, including requests that do not have a valid legal basis; are overbroad, vague, or otherwise inappropriate; or if Uber cannot verify the legitimacy of the request. Our team of highly trained public safety response professionals will work with law enforcement personnel to ensure that all requests are narrowed in scope to disclose only what is minimally necessary in response to the legal process.
+Every year, we produce a Transparency Report outlining the number of US and Canada government requests we’ve received and how we responded to them in certain markets. Our transparency report is the first in the mobility space and one of a few in the ICT industry that discloses information about how non-law enforcement entities, like transportation agencies, request data from our business.
+Data privacy and security 10 Number of external assessments of our privacy and/or security programs²⁸ 657 Technical Privacy Reviews completed 16,174 Number of personnel who took at least one privacy training²⁹ 553 Number of bug bounty reports submitted 189 Number of FTEs dedicated to privacy and security 950 Privacy Impact Assessments completed³⁰
+Organizational. 
+Reviews and assessments. 
+Integrity and trust ²⁸Assessments performed by independent third parties. ²⁹Full-time employees and contracted personnel who completed at least one of Uber's five privacy-related trainings in 2020. ³⁰Total number of Privacy Impact Assessments completed, or updated. ³¹Number represents user data downloads requested and completed in 2020. 62. 
+Data collected as of December 31, 2020.
+43 Number of privacy features available to riders, drivers, or Uber Eats users 25,245 Number of user data downloads through Download Your Data feature³¹
+User controls and requests
+
+
+2021 ESG Report 63. 
+Climate change and environmental sustainability. 
+Uber is committed to net-zero emissions by 2040.
+2021 ESG Report 63
+
+
+2021 ESG Report 64. 
+Climate change and environmental sustainability 100% of rides in US, Canada, Europe in battery EVs, micromobility, or through public transit (sustainable rides)
+Net-zero total climate emissions across scopes 1, 2 & 3 100% sustainable rides globally $800M to support drivers’ transition to battery EV. 
+Net-zero climate emissions from all corporate operations 100% renewable electricity for US offices 2025 2030 2040. 
+Rides platform. 
+Corporate operations. 
+Climate change. 
+Uber is committed to net-zero emissions globally by 2040. 
+As the largest mobility platform in the world, we see it as our responsibility to more aggressively tackle the challenge of climate change and work in partnership with others to help cities build back better.
+To reach our goals, we are taking 5 actions to reduce emissions from riders served by our mobility platforms and corporate operations: 01 Building convenient and affordable low-emission products for riders 02 Supporting drivers’ fair transition to greener and electric vehicles 03 Expanding multimodal options to provide sustainable alternatives to personal cars, including through public transit and micromobility 04 Being transparent and accountable to the public by reporting on emissions and other environmental impacts 05 Greening corporate operations by switching to renewable electricity and transitioning to healthy, efficient workplaces and IT infrastructure
+
+
+2021 ESG Report 65. 
+More green mobility options 1,500+ Cities with Uber Green 500+ Partnerships with transit agencies 100+ Cities where micromobility options are integrated right in Uber’s app. 
+Climate change. 
+Increasing consumer choice and engagement is a key part of our climate change and environmental sustainability strategy, and electrification is a critical strategy for driving more sustainable urban mobility. We are also investing in high-occupancy transit and micromobility to meet sustainable urban development needs.
+Uber Green Uber Green is the most-available low-emission on-demand mobility product in the world. Today, consumers can push a button and get a ride in a battery EV or hybrid in over 1,500 cities around the globe. Each Uber Green trip results in 33% to 100% fewer tailpipe carbon emissions.³² ³³ The product is integrated into Uber Pass membership service and riders receive rewards for every trip taken. Additionally, in many markets, drivers can earn more for trips taken through Uber Green.
+Transit and micromobility Integration with transit and micromobility is another important part of our strategy. Riders in more than 100 cities around the world can see and book nearby e-scooters or e-bikes in the Uber app, making it easier than ever to choose clean, active mobility options. The more transportation modes people have at their fingertips, the easier it becomes to get around without owning a car.
+In addition to micromobility, we’re redoubling our investment in Uber Transit solutions. See Uber’s Transit Horizons white paper to learn more about Uber’s views and insights that we hope will spark ideas as we work together toward a more sustainable future.
+32In the US and Canada—where Uber Green includes hybrid, plug-in hybrid and battery electric vehicles (BEVs)—average carbon intensity of trips completed on Uber Green was 33% lower than that of trips on UberX according to real-world trip data from Q1 2021. In European markets where Uber Green offers trips in BEVs only—including London, Amsterdam, Berlin, and Portugal—tailpipe emissions from trips are, by definition, 100% lower than trips on UberX or any taken in average personal cars. 33The GHG Protocol establishes these boundaries based on what companies have reasonable access to and influence over. Therefore, as it relates to the Rides business, we define scope 3, category 11 ("use of products sold") emissions to include direct CO₂e emissions from the tailpipes of drivers’ vehicles resulting from vehicle-miles recorded while the driver is using the Uber app. Per the GHG Protocol guidance, we do not include: Upstream and downstream emissions related to the production or disposal of the vehicle used by drivers or the production of fuel (e.g. gasoline, diesel, compressed natural gas, electricity) used by drivers to power their vehicle; or Direct emissions produced by drivers’ vehicles while commuting (but not online, using the app).
+65
+
+
+2021 ESG Report 66. 
+Fair transition. 
+Key partners. 
+Climate change. 
+To increase zero-emission, all-electric trips on Uber, we must find more ways to help drivers make an equitable transition to electric vehicles.
+Uber has committed to making $800 million available to assist hundreds of thousands of drivers transition to battery EVs by 2025. This includes new earnings opportunities for drivers with greener and electric vehicles, including a Zero Emission Incentive of an extra $1 per trip for every battery EV driver in the US and Canada. We have also negotiated discounts and savings for drivers that use Uber’s platform on electric vehicles and EV charging offered by our partners.
+Supporting EV charging infrastructure is another important piece of our commitment to a fair transition. Historically, EV infrastructure and policies have been developed to support personal car ownership. As a result, most plugs for EV charging are available in affluent neighborhoods or retail locations, and in office parking facilities. Uber is working with EV charging experts like bp, EVgo, EnelX, Izivia by EDF, Total, Powerdot and others to help drivers access more affordable fastcharging solutions in high traffic urban areas, where commercial drivers tend to operate, and more overnight charging options in areas where drivers tend to live, including multi-unit dwellings and underserved neighborhoods.
+Collaboration with governments and industry partners is critical to increasing affordable access for drivers. This is why our climate change strategy calls for enabling policy environments and includes partnerships with global automakers, EV charging companies, fleet management and rental companies, and electric utilities.
+Uber’s wide-ranging actions and partnerships further underscore Uber’s commitment to address the impacts of climate change now and in the future. The world is at a critical juncture, and we all have a role to play. Uber is aiming high to build the most efficient, decarbonized, and multimodal platform in the world for on-demand mobility. 3.5M Number of trips have taken place in fully electric vehicles in London since the launch of the London Clean Air Plan, as we work toward a fully electric platform in the city by 2025.
+
+
+2021 ESG Report 67. 
+Transparency. 
+Climate change. 
+Uber’s 2020 SPARK! Report outlines Uber’s most ambitious commitments to electrifying ride-hailing in Europe and examines the barriers and solutions to driving shared, electric mobility over the next decade. The report looks at how best to address the financial, logistical, infrastructure, and policy barriers to electrification. It also describes Uber’s plans to accelerate a fair transition to EVs for drivers and our recommendations for policies that can accelerate EV uptake among ride-hail drivers, other higher mileage commercial drivers, and the wider public.
+Uber’s 2021 Transit Horizons white paper explores the future of transportation to 2030 and offers ideas on how to create resiliency through new business models, service models, cost structure, and technologies as cities transition to a lowercarbon world.
+Uber’s 2020 Climate Assessment and Performance Report shares results on carbon intensity, electrification and other impact metrics for the more than 4 billion trips users completed on Uber in the US and Canada from 2017 to 2019. In this report, we estimate that platform-wide efficiency gains resulted in the avoidance of half a million metric tons of CO2 emissions and 56 million gallons of gasoline by drivers. We also found that a ride taken on the Uber platform is as much as 44% less carbon-intensive than traditional taxi services, the incumbent form of on-demand urban mobility.
+Climate Assessment and Performance Report 2017–2019. 
+SPARK! Partnering to electrify in Europe. 
+Towards a New Model of Public Transportation. 
+How Uber is offering public transportation agencies new tools to operate more efficient, connected and equitable mobility networks. 
+Transit Horizons
+
+
+2021 ESG Report 68. 
+Corporate operations. 
+Climate change. 
+Reducing our own corporate emissions is another important piece of Uber’s climate change strategy.
+We are continually improving the sustainability of our workspaces. To support this, we are actively improving our data collection processes and launching energy savings initiatives throughout our global footprint. We’ve also strengthened our design standards, providing sustainable design guidelines to new builds and Talent Hubs, while also improving our operational standards. Standards for sustainability preferences are presented during supplier engagement, and we factor environmental considerations into site selection of workplaces and data center strategy and planning.
+Our Talent Hubs are a part of WELL Portfolio, and along with WELL, we are pursuing other green building certifications such as LEED. Four of our larger locations around the globe have achieved LEED Gold certification, and our HQ offices in San Francisco and Sunnyvale have achieved WELL Precertification and WELL Health and Safety seals.
+In 2019, we made a commitment to match 100% of energy use in our US offices with renewable energy by 2025. Pursuant to this, in March 2021, we announced a renewable energy purchasing agreement, where Uber agreed that, each year, it will buy all the electricity generated by 10 MW of Enel Green Power’s Azure Sky wind farm in Texas. By supporting the production of renewable energy, Uber is investing in a carbon-free future and carbon neutrality for our US workspaces.
+For example, 100% of electricity in our Phoenix center is matched with renewable energy. Our goal is to match 100% of all energy used in global corporate operations with renewables, steering us closer to net-zero emissions by 2030.
+
+
+2021 ESG Report 69. 
+Planning for the future. 
+At Uber, we believe that sustainability is integral to the success of our business and recognize that Uber’s financial performance and prosperity can only be built alongside the prosperity of our key stakeholders.
+We believe that addressing climate change, reducing our own emissions, and helping Uber platform users move toward a lower-carbon future is the right thing to do and beneficial for long-term stockholder value.
+Governance Good governance is key to achieving our climatechange goals. The Governance section of this report describes ways in which Uber’s Board, the Nominating and Governance Committee and senior management have overseen and managed Uber’s climate-change strategy and risk management. See page 16 in the Governance section of this report for more.
+Climate change. 
+Management of climate change at Uber. 
+Board of Directors Oversight of strategy. 
+Executive leadership Approval, development, and implementation of strategy objectives.
+ESG working group Uber’s ESG Working Group. 
+Sustainability team. 
+The Board Nominating and Governance Committee (NGC) has formal oversight of environmental sustainability, including climate change. The NGC periodically receives updates on policy and regulatory trends at the local, state, and national levels concerning climate- and emissions-related developments and receives reports on Uber’s climate-change commitments.
+Uber’s SVP of Mobility and Business Operations and the SVP of Marketing and Public Affairs share responsibility for climate change– related issues and policies within the company. Uber’s Chief Legal Officer oversees the company’s ESG strategy and engagement efforts, in addition to reporting responsive to the recommendations of SASB and the TCFD.
+Uber’s ESG Working Group has more than 50 FTEs across the Mobility, Delivery, Freight, Policy, Workplace, Finance, and Legal teams that work together to guide Uber’s strategy, reporting, and other aspects of Uber’s sustainability and ESG efforts.
+Uber’s global Sustainability Team includes members from policy, legal, workplace and data science functions, among others. The team manages Uber’s electrification strategy, climate-related reporting and verification, and Uber’s path to net zero by 2040.
+
+
+2021 ESG Report 70. 
+Planning for the future. 
+Climate change. 
+Strategy and Risk Management In 2021, Uber held a series of internal workshops and tailored interviews with key business functions, business lines and leaders to better understand Uber’s potential exposure to the physical and transition risks of climate change, as well as emerging opportunities.
+The workshops’ dynamic conversations highlighted 3 significant climate themes relevant to Uber’s corporate strategy and risk management functions: 1. Market shifts toward electric vehicles and lower carbon business models may influence behavior of riders, drivers, delivery people, freight carriers, shippers, merchants, technology platforms, and ways of thinking and working.
+2. National and local climate and vehicle emissions- related regulations may affect Uber’s ability to operate and/or affect market conditions.
+3. Increasing severity and frequency of extreme weather events, or chronic weather pattern changes may result in business disruptions, damage to infrastructure, driver, delivery person, or carrier shortages, or reduced demand from riders, consumers or shippers; and opportunities for Uber to use its technology and massive network to move people out of harm’s way and improve resilience in storm-affected areas.
+These workshops were designed to better identify and prioritize key climate change-related risks as well as opportunities, in the short, medium, and long term.
+To learn more about Uber’s strategy to best transition to a lower-carbon economy, see our 2020 Climate Assessment and Performance Report34 and SPARK! Report where we discuss our approach to moving our business toward electrification and net-zero emissions by 2040. In addition to providing transparency on real-world emissions associated with Uber’s platform, we also explore the hurdles, challenges, and opportunities we may face along our journey to zero.
+As a global company, these hurdles, challenges, and opportunities differ according to policy and local contexts, but the goal is the same: do our part to help the world meet the goals of the Paris Agreement, while building long-term value for our stakeholders.
+³⁴Uber plans to publish an updated Climate Assessment and Performance Report in 2021.
+
+
+2021 ESG Report 71. 
+Planning for the future. 
+Climate change. 
+Like all companies, Uber faces a range of potential climate-related risks and opportunities across a variety of time frames. These include those related to the world’s transition to a lower-carbon economy, and those related to physical impacts stemming from acute and chronic weather changes.
+Uber evaluated climate-related risks and opportunities based on likelihood and potential impact on Uber’s business, estimated from low to very high. We then overlaid a timeline for when we estimated the potential risks and opportunities might meaningfully manifest for Uber’s business. Short-term impacts were defined as those within 2 years, medium-term impacts were in 2-5 years, and long-term impacts are those potentially experienced more than 5 years in the future.
+Very High High Medium Low. 
+Likelihood. 
+Impact. 
+Medium High Very High Low. 
+Short term. 
+Impact Timeline. 
+Prioritization Matrix. 
+Medium term Long term. 
+Multi-modal transit. 
+Reporting requirements. 
+Community resilience. 
+Supply chain impacts Corporate operations Human capital. 
+Access to capital Recruitment & retention. 
+Carrier barriers Reputation impacts. 
+Shareholder value. 
+Human capital. 
+Service impacts. 
+Climate advocacy. 
+Driver barriers Strategy & planning. 
+Loss of riders & Uber Eats users Delivery person barriers. 
+Indirect climate and vehicle emissions related regulation. 
+Platform adaptability Reputation building. 
+Direct climate regulation Loss of B2B customers. 
+Impact. 
+Carrier barriers Human capital Supply chain impacts Loss of riders & Uber Eats users Human capital Corporate operations Service impacts Recruitment & retention. 
+Driver barriers Reputation impacts Loss of B2B customers Platform adaptability Direct climate regulation Access to capital Shareholder value Reputation building Multi-modal transit Resilience. 
+Reporting requirements Indirect climate and vehicle emissions related regulation Strategy & planning Climate advocacy. 
+Transition risk Physical risk Opportunity. 
+Transition risk Physical risk Opportunity
+
+
+2021 ESG Report 72. 
+TCFD climate-related risks and opportunities. 
+Below are brief definitions of climate-related transition risks, physical risks, and opportunities that may affect Uber's business or operations over the short, medium, or long term. Many risks and opportunities are interrelated and may overlap.
+Climate change. 
+Risk or opportunity. 
+Transition risk. 
+Carrier barriers Battery EV and greener vehicle supply markets, supportive charging and green refueling infrastructure, government regulations and incentives, and other factors will contribute to the economic and perceptual switching costs carrier fleets face for switching to lower emission vehicles.
+Direct climate regulation Direct climate-related policy and regulation on Uber, such as California’s Clean Miles Standard, which regulates transport network companies (TNCs), including Uber, on emissions resulting from and electric vehicles used to serve rides booked on TNC passenger mobility apps.
+Driver/delivery person barriers Battery EV and greener vehicle supply markets, supportive charging and green refueling infrastructure, government regulations and incentives, urban land use policies, consumer preferences, and other factors will contribute to the economic and perceptual switching costs drivers and delivery people face for switching to lower emission vehicles.
+Human capital Challenges to employee acquisition, retention, and productivity if Uber does not meet expectations for climate change impacts.
+Indirect climate and vehicle emissions related regulation Policies including fees, taxes, fuel or engine type urban access restrictions, and other regulations that impact drivers’ , delivery people’s and carriers’ total cost of vehicle ownership or acquisition and, by extension, likelihood of using Uber’s app to offer mobility services.
+Loss of B2B customers Loss of B2B customers (e.g., U4B clients, shippers) who have made lowcarbon commitments and/or net-zero pledges that Uber does not meet.
+Loss of riders and Uber Eats users Consumer preferences including increased demand for sustainable goods and services; additionally, lower demand, higher acquisition costs and lower retention due to increased prices resulting from increased supply chain, compliance and driver acquisition costs due to climate related impact.
+Platform adaptability High cost to adapt platform for EV transition and to meet expectations and requirements of stakeholders.
+Reporting requirements Greater reporting requirements and associated costs.
+Reputation impacts Losing business to competing forms of transportation; reputational risks based on stakeholder perceptions and performance relative to competitors.
+Supply chain impacts Higher costs as a result of indirect supply chain impacts (e.g., IT infrastructure, vendors) and direct supply chain impacts (e.g., shortage of raw materials).
+Physical risk. 
+Corporate operations Uber’s offices and infrastructure may face operational disruptions and rising costs due to extreme weather events. This may include increased insurance costs.
+Human capital Uber’s employees may face health and safety risks, and cost of health and other insurance may rise due to extreme weather, both chronic and acute.
+Service impacts Uber’s service may face disruption due to extreme weather events, including infrastructure impacts (roads, bridges, electricity). This may negatively impact Uber’s revenue and users’ access to earn on the platform. Chronic weather changes may also affect the density of city centers.
+Opportunity. 
+Access to capital Debt becomes more affordable as climate-related factors are factored into pricing.
+Climate advocacy Build partnerships with policymakers to support EV and low-carbon transition.
+Community resilience Assess likelihood of and plan ahead for climate disasters in communities, and provide support during extreme weather events, including public transit agencies, logistics and movement of people and things.
+Multi-modal transit Further integrate with multi-modal transit.
+Recruitment and retention Improve ability to more effectively recruit and retain high-quality talent looking for a climate-conscious company.
+Reputation building Be the rideshare and delivery option of choice for green transport, and develop reputation as a climate leader.
+Shareholder value Some investors will prefer Uber as a result of positive climate performance.
+Strategy and planning Further integrate climate risks and opportunities into business strategy and planning decisions.
+Transition risk Physical risk Opportunity
+
+
+2021 ESG Report 73. 
+Our view on offsets. 
+Climate change. 
+Our plan for shifting passenger-based mobility services to zero-tailpipe-emissions vehicles and achieving net zero emissions across all scopes intentionally avoids carbon-offset purchasing as a primary strategy. At best, offsets focus only on climate-related emissions, leaving harmful local air pollutants unaddressed. Additionally, researchers continue to critique the various weaknesses of carbon offsets, including verification challenges. With our operational excellence and global footprint, we believe we can play a more catalytic role in decarbonizing on-demand mobility without offsets that effectively pay to make it someone else’s responsibility.
+We do recognize, however, that reaching net zero emissions by 2040, from a corporate accounting standpoint—across emissions scopes 1, 2, and 3—may require high-quality carbon offsets to address emissions segments that are difficult to decarbonize and hard for us to influence. These could include employee business travel by air, offsetting emissions from corporate operations in the early years for activities where zero carbon alternatives remain inaccessible or unavailable, or net zero carbon mobility products like Uber Planet launched in markets where drivers face unreasonably high switching costs to access battery EVs.
+
+
+74 2021 ESG Report. 
+Climate change Sustainability in action. 
+Local air pollution (Mobility) While climate change affects everyone everywhere, local air pollution—including oxides of nitrogen and particulate matter—poses more direct human health hazards. Uber’s move to electrification is expected to help to reduce urban air pollution. The American Lung Association estimates that a full transition to battery electric vehicles (BEVs) will result in an 82% reduction in ozone and oxides of nitrogen (NOx) and a 62% reduction in particulate matter (PM).
+Waste reduction (Delivery) We all have a role to play in reducing waste and the use of plastic. Research suggests that single-use plastics harm the environment by disrupting the productivity of natural systems like our oceans and clogging urban infrastructure. Uber Eats took a step forward to help reduce plastic waste by requiring consumers globally to request straws, utensils, and other additional items when placing an order, rather than including them by default. Over 300 million Uber users, and counting, have chosen not to request these items all over the world.
+“Bundles” (Freight) According to the American Transportation Research Institute, for the average truck driver, roughly 20% of miles are unloaded. Empty truck miles are estimated to be responsible for 1.5% of US greenhouse gas emissions. Moreover, these are unpaid miles. In talking to carriers, it was clear that they are seeking loads that can be combined for a high utilization trip, typically a round trip. To meet this carrier need and improve the overall carrier utilization, we launched the Bundles product in 2019. So far, we have bundled more than 29,000 trips. For each bundle, we increase utilization by an estimated 9%, corresponding to roughly 34.5 reduced empty miles and, resulting in savings of about 2,782 metric tons of CO₂.
+
+
+2021 ESG Report 75. 
+Performance data 2021 ESG Report 75
+
+
+2021 ESG Report 76. 
+Environmental indicators. 
+Indicator 2020 Unit Scope. 
+Scope 1: Stationary emissions. 
+Total Scope 1 & 2 emissions. 
+Scope 2: Electricity: location-based Global 131,701 tCO₂e. 
+Global. 
+Global 1,121 132,822. 
+Scope 3, Category 6 (business travel, air travel only) 4,629 tCO₂ tCO₂e³ tCO₂e. 
+Global. 
+Emissions¹ ²
+Absolute emissions. 
+Scope 3, category 11 (use of products sold)
+Scope 3, category 11 (use of products sold)
+Scope 3, category 11 (use of products sold)
+Scope 3, category 11 (use of products sold)
+Scope 3, category 11 (use of products sold)
+Scope 3, category 11 (use of products sold)
+Scope 3, category 11 (use of products sold)
+Sum Scope 3, category 11 (use of products sold)
+Scope 3, category 11 (use of products sold)
+Scope 3, category 11 (use of products sold)
+France. 
+United Kingdom 17,121 2,527,123 tCO₂ tCO₂
+Belgium. 
+Portugal. 
+Canada. 
+Spain. 
+Germany. 
+United States. 
+Netherlands. 
+Sum of countries 232,789 19,463 77,158 182,326 11,721 4,917 29,483 3,102,101 tCO₂ tCO₂ tCO₂ tCO₂ tCO₂ tCO₂ tCO₂ tCO₂
+Rides only⁴
+ESG performance indicators. 
+Global
+
+
+2021 ESG Report 77. 
+Environmental indicators. 
+Indicator 2020 Unit Scope. 
+Total Scope 1 & 2 emissions. 
+Percentage from renewables⁹
+Percentage natural gas. 
+Percentage renewables. 
+Percentage grid electricity. 
+Total Scope 1 & 2 emissions. 
+Total Scope 1 & 2 emissions. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global 11.92 32% 100% 0% 100% 5.84 0.14 tCO₂e/$1 million revenue. 
+Percent. 
+Percent. 
+Percent. 
+Percent tCO₂e/employee tCO₂e/m² floor area. 
+Scope 1. 
+Total fuel consumed. 
+Total energy consumed. 
+Scope 1. 
+Scope 1. 
+Scope 2: Location-based. 
+Scope 2: Location-based. 
+Scope 2: Location-based. 
+Global. 
+Global. 
+Global 11.82 5.79 0.14 tCO₂e/$1 million revenue tCO₂e/employee tCO₂e/m² floor area. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global 0.10 22,305 329,893,416 0.05 0.00 tCO₂e/$1 million revenue. 
+Gigajoules kWh⁸ tCO₂e/employee tCO₂e/m² floor area. 
+Emissions intensity² ⁵
+Fuel consumption⁶
+Energy use⁷
+ESG performance indicators
+
+
+2021 ESG Report 78. 
+Environmental indicators. 
+Indicator 2020 Unit Scope. 
+Total water consumed. 
+Total water. 
+Total water. 
+Total water. 
+Supplied water¹⁰
+Supplied water¹⁰
+Extremely high. 
+High. 
+Medium-high. 
+Low-medium. 
+Low. 
+Supplied water¹⁰
+Supplied water¹⁰
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global. 
+Global 1,013,210 1.06 44.52 90.96 1,013,210 1.06 8% 36% 5% 36% 15% 44.52 90.96. 
+Cubic meters (m³) m³/m² floor area m³/employee m³/$1 million revenue. 
+Cubic meters (m³) m³/m² floor area. 
+Percent. 
+Percent. 
+Percent. 
+Percent. 
+Percent m³/employee m³/$1 million revenue. 
+Water use. 
+Water use intensity⁵
+Water use in water-stressed regions¹¹
+ESG performance indicators
+
+
+2021 ESG Report 79. 
+Workforce diversity (global)¹² % of support¹⁸ % of operations¹⁶ % of gen & admin¹⁷ % of tech¹⁴ % of non-tech¹⁵ % overall¹³
+Male. 
+Female 23.2% 49.3% 42.2% 52.7% 48.6% 51.9% 76.8% 50.7% 57.8% 47.3% 51.4% 48.1%
+Workforce diversity (US) % of support¹⁸ % of operations¹⁶ % of gen & admin¹⁷ % of tech¹⁴ % of non-tech¹⁵ % overall¹³
+White. 
+Asian. 
+Hispanic or Latinx. 
+American Indian or Alaska Native. 
+Black or African American. 
+Native Hawaiian or other Pacific Islander. 
+Multiracial/2 or more races 20.5% 14.1% 34.7% 52.3% 14.7% 20.0% 0.4% 0.3% 10.2% 11.5% 0.4% 0.5% 5.4% 5.8% 10.3% 4.8% 0.3% 0.1% 8.0% 5.3% 0.3% 0.2% 4.1% 2.6% 2.3% 31.2% 37.8% 0.4% 5.9% 0.5% 18.4% 0.7% 8.1% 0.4% 7.6% 4.7% 34.7% 48.3% 42.2% 32.8% 47.8% 49.2%
+Race or ethnicity²⁰
+Gender. 
+Social indicators (Workforce diversity data is as of March 31, 2021) ESG performance indicators. 
+Workforce diversity (regional)¹² EMEA LatAM APAC US & Canada. 
+Male. 
+Female 50.1% 39.8% 44.1% 40.9% 49.9% 60.2% 55.9% 59.1%
+Gender
+
+
+2021 ESG Report 80. 
+Workforce diversity - women (US)²¹ % of support¹⁸ % of operations¹⁶ % of gen & admin¹⁷ % of tech¹⁴ % of non-tech¹⁵ % overall¹³
+White. 
+Asian. 
+Hispanic or Latinx. 
+American Indian or Alaska Native. 
+Black or African American. 
+Native Hawaiian or other Pacific Islander. 
+Multiracial/2 or more races 10.8% 7.3% 12.2% 14.0% 9.8% 13.6% 0.1% 0.1% 5.2% 5.9% 0.2% 0.3% 3.0% 3.2% 6.5% 2.4% 0.1% 0.1% 3.6% 1.7% 0.2% 0.0% 2.0% 0.8% 1.5% 16.5% 26.9% 0.2% 3.6% 0.1% 10.1% 0.5% 4.1% 0.2% 4.3% 2.8% 7.5% 23.4% 16.3% 16.1% 22.6% 24.8%
+Race or ethnicity. 
+Social indicators ESG performance indicators. 
+Workforce diversity - men (US)²¹ % of support¹⁸ % of operations¹⁶ % of gen & admin¹⁷ % of tech¹⁴ % of non-tech¹⁵ % overall¹³
+White. 
+Asian. 
+Hispanic or Latinx. 
+American Indian or Alaska Native. 
+Black or African American. 
+Native Hawaiian or other Pacific Islander. 
+Multiracial/2 or more races 9.7% 6.8% 22.6% 38.4% 4.9% 6.5% 0.3% 0.2% 5.0% 5.6% 0.2% 0.2% 2.3% 2.6% 3.8% 2.4% 0.2% 0.1% 4.4% 3.6% 0.2% 0.2% 2.0% 1.7% 0.8% 14.6% 11.1% 0.2% 2.3% 0.4% 8.3% 0.3% 4.1% 0.1% 3.3% 1.8% 27.1% 24.9% 25.9% 16.5% 25.2% 24.5%
+Race or ethnicity
+
+
+2021 ESG Report 81. 
+Workforce diversity leadership (US)
+Workforce diversity leadership (global)¹² % of gen & admin¹⁷ ¹⁹ % of gen & admin¹⁷ ¹⁹ % of operations¹⁶ ¹⁹ % of operations¹⁶ ¹⁹ % of tech¹⁴ ¹⁹ % of tech¹⁴ ¹⁹ % of non-tech¹⁵ ¹⁹ % of non-tech¹⁵ ¹⁹ % overall¹⁹ % overall¹⁹
+White. 
+Male. 
+Asian. 
+Female. 
+Hispanic or Latinx. 
+American Indian or Alaska Native. 
+Black or African American. 
+Native Hawaiian or other Pacific Islander. 
+Multiracial/2 or more races 22.2% 28.4% 18.0% 38.3% 32.4% 58.9% 33.6% 5.2% 3.0% 0.0% 0.0% 7.3% 1.5% 0.0% 0.0% 2.4% 1.5% 3.8% 0.0% 0.0% 0.0% 5.2% 0.0% 0.0% 0.0% 2.3% 2.1% 19.9% 42.3% 31.4% 6.1% 0.0% 9.4% 0.0% 2.8% 82.0% 38.9% 61.7% 62.9% 66.4% 56.3% 57.7% 61.9% 68.6% 65.7%
+Race or ethnicity²⁰
+Gender. 
+Social indicators ESG performance indicators
+
+
+2021 ESG Report 82. 
+Workforce diversity leadership - women (US)²¹ % of gen & admin¹⁷ ¹⁹ % of operations¹⁶ ¹⁹ % of tech¹⁴ ¹⁹ % of non-tech¹⁵ ¹⁹ % overall¹⁹
+White. 
+Asian. 
+Hispanic or Latinx. 
+American Indian or Alaska Native. 
+Black or African American. 
+Native Hawaiian or other Pacific Islander. 
+Multiracial/2 or more races 8.1% 4.5% 8.8% 10.5% 2.8% 3.0% 0.0% 0.0% 2.8% 1.5% 0.0% 0.0% 1.2% 0.0% 2.0% 0.0% 0.0% 0.0% 2.0% 0.0% 0.0% 0.0% 0.9% 0.0% 9.4% 2.8% 0.0% 3.3% 0.0% 1.7% 7.4% 25.9% 20.8% 26.5% 24.2%
+Race or ethnicity. 
+Social indicators. 
+Workforce diversity leadership - men (US)²¹ % of gen & admin¹⁷ ¹⁹ % of operations¹⁶ ¹⁹ % of tech¹⁴ ¹⁹ % of non-tech¹⁵ ¹⁹ % overall¹⁹
+White. 
+Asian. 
+Hispanic or Latinx. 
+American Indian or Alaska Native. 
+Black or African American. 
+Native Hawaiian or other Pacific Islander. 
+Multiracial/2 or more races 14.2% 24.2% 23.7% 48.4% 2.4% 0.0% 0.0% 0.0% 4.5% 0.0% 0.0% 0.0% 1.2% 1.5% 1.8% 0.0% 0.0% 0.0% 3.2% 0.0% 0.0% 0.0% 1.5% 2.1% 10.5% 3.3% 0.0% 6.1% 0.0% 1.1% 31.6% 36.8% 35.4% 35.4% 40.9%
+Race or ethnicity. 
+ESG performance indicators
+
+
+2021 ESG Report 83. 
+Workforce diversity (new hires)²²
+Workforce diversity (new hires)²² % of leadership overall¹⁹ % of leadership overall¹⁹ % of support¹⁸ % of support¹⁸ % overall¹³ % overall¹³
+White. 
+Male. 
+Asian. 
+Female. 
+Hispanic or Latinx. 
+American Indian or Alaska Native. 
+Black or African American. 
+Native Hawaiian or other Pacific Islander. 
+Multiracial/2 or more races 26.6% 1.6% 54.8% 41.4% 17.8% 48.7% 0.5% 0.5% 6.5% 9.5% 0.3% 0.9% 3.8% 4.8% 34.1% 35.0% 2.4% 0.0% 2.4% 0.0% 4.9% 44.5% 58.6% 45.2% 65.0% 56.1% 33.9%
+Race or ethnicity²⁰
+Gender. 
+Social indicators ESG performance indicators
+
+
+2021 ESG Report 84. 
+Workforce diversity - women (new hires) (US)²¹ ²²
+Workforce diversity - men (new hires) (US)²¹ ²²
+White. 
+White. 
+Asian. 
+Asian. 
+Hispanic or Latinx. 
+Hispanic or Latinx. 
+American Indian or Alaska Native. 
+American Indian or Alaska Native. 
+Black or African American. 
+Black or African American. 
+Native Hawaiian or other Pacific Islander. 
+Native Hawaiian or other Pacific Islander. 
+Multiracial/2 or more races. 
+Multiracial/2 or more races 0.9% 0.7% 9.7% 17.0% 35.6% 13.6% 0.2% 0.4% 5.6% 3.9% 0.6% 0.4% 3.0% 1.9% 11.6% 6.3% 0.1% 0.4% 2.6% 3.8% 0.2% 0.1% 2.0% 1.7% 15.0% 20.0% 0.0% 2.5% 0.0% 0.0% 0.0% 2.5% 0.0% 0.0% 2.5% 2.5% 18.4% 14.9% 17.9% 26.5% 20.0% 35.0%
+Race or ethnicity²⁰
+Race or ethnicity²⁰
+Social indicators % of leadership overall¹⁹ % of leadership overall¹⁹ % of support¹⁸ % of support¹⁸ % overall¹³ % overall¹³
+ESG performance indicators
+
+
+2021 ESG Report 85. 
+Workplace safety (US) Quantity. 
+Total recordable incident rate (TRIR) for direct employees (non-EXTs)²⁴
+Fatalities (direct employees) 0 0.30. 
+Employee engagement (global)
+Total number of employees surveyed. 
+Employees who returned survey. 
+Employees who perceive Uber’s mission favorably³⁰
+Employees who are “actively engaged”³⁰ ³¹
+Employees who feel treated fairly at Uber regardless of their personal background³⁰
+Employees who are proud to work for Uber³⁰ % of total respondents²⁷ 90.5%²⁸ 64.2% 80.0%²⁹ 76.0%²⁹ 85.8%²⁹ -
+Number 17,593 11,144 13,875 13,216 14,873 19,433 2020 Pulse Survey²⁵ ²⁶ % of full-time employees receiving regular performance assessments³² 100.0%
+Employee development (global) Percentage. 
+Foreign national²³ 15.4%
+Employees in naturalization categories (global) Percentage. 
+Social indicators ESG performance indicators
+
+
+2021 ESG Report 86. 
+In the US, the National Highway Traffic Safety Administration (NHTSA) makes annual traffic fatality information available to the public through the Fatality Analysis Reporting System (FARS). The motor vehicle fatality data in Uber’s US Safety Report is built off the data standards established by FARS. Each fatal crash in the Uber dataset was reconciled to a fatal crash in the FARS database. For a fatal motor vehicle crash to be included in the Safety Report, the crash must have involved the vehicle of at least one driver using the Uber platform and the death of at least one person within 30 days of the crash. Fatal crashes are included in the US Safety Report regardless of whether the deceased party was an Uber user or whether a driver using the Uber platform or their vehicle was the cause of the crash or was carrying the deceased parties.
+Please see the ‘Methodology’ section of Uber’s US Safety Report for more information on these metrics.
+Safety data³³
+Social indicators. 
+Motor vehicle fatalities (US rides)
+Motor vehicle fatalities by vehicle miles traveled. 
+Motor vehicle fatalities by trips. 
+Motor vehicle fatalities by vehicle miles traveled³⁴
+Motor vehicle fatalities by trips³⁶ (Per 100 million VMT) 2018 2018. 
+Uber rate³⁵ # of Uber-related fatalities 2017 2017. 
+Uber rate³⁵ # of Uber-related fatalities 0.57 58 0.59 49 8.2 billion 1.0 billion 10.2 billion 1.3 billion. 
+Total miles. 
+Total trips. 
+ESG performance indicators
+
+
+2021 ESG Report 87. 
+Fatal physical assaults (US rides)³⁴
+Sexual assaults (US rides)³⁷
+Fatal physical assaults. 
+Non-consensual kissing of a non-sexual body part. 
+Attempted non-consensual sexual penetration. 
+Non-consensual touching of a sexual body part. 
+Non-consensual kissing of a sexual body part. 
+Non-consensual sexual penetration. 
+Subcategory. 
+Subcategory. 
+Safety data³³ % of total trips³⁸ % of total trips³⁸ # of fatalities # of incident reports 2018 % of total trips % of total trips³⁸ # of fatalities # of incident reports 2017 0.000001% 0.00006% 0.00003% 0.0001% 0.00004% 0.00002% 10 307 570 1,440 390 229 1.0 billion 1.0 billion 0.000001% 0.00005% 0.00002% 0.0001% 0.00003% 0.00002% 9
+594 280 1,560 376 235 1.3 billion 1.3 billion. 
+Total US trips. 
+Total US trips. 
+Brief subcategory definitions Non-consensual kissing of a non-sexual body part Defined as: without consent from the user, someone kissed, licked, or bit, or forced a kiss, lick, or bite on any non-sexual body part (e.g., hand, leg, thigh) of the user. Attempted non-consensual sexual penetration Includes clothing removal and attempted clothing removal. Defined as: without explicit consent from a user, someone attempted to penetrate the vagina or anus of a user with any body part or object. Any attempted removal of another person’s clothing to attempt to access a sexual body part will be classified as ‘Attempted Non-Consensual Sexual Penetration.’ This also includes attempted penetration of the user’s mouth with a sexual organ or sexual body part; however, it excludes kissing with tongue or attempts to kiss with tongue.
+
+Non-consensual touching of a sexual body part Defined as: without explicit consent from the user, someone touched or forced a touch on any sexual body part (breast, genitalia, mouth, buttocks) of the user.
+Non-consensual kissing of a sexual body part Includes kissing on the mouth. Defined as: without consent from the user, someone kissed or forced a kiss on either the breast or buttocks of the user. This would include kissing on the lips or kissing while using tongue.
+Non-consensual sexual penetration Defined as: without explicit consent from a user, someone penetrated, no matter how slight, the vagina or anus of a user with any body part or object. This includes penetration of the user’s mouth with a sexual organ or sexual body part. This excludes kissing with tongue.
+For more information, please see Uber’s Safety Report.
+Social indicators ESG performance indicators
+
+
+2021 ESG Report 88. 
+Drivers and delivery people satisfied³⁹ Percentage. 
+Global⁴⁰
+Brazil⁴¹
+US⁴¹
+Australia⁴¹
+Canada⁴¹
+United Kingdom⁴¹
+Mexico⁴¹ 82% 83% 84% 82% 85% 81% 79%
+Social indicators ESG performance indicators
+
+
+2021 ESG Report 89. 
+Law enforcement and public health requests. 
+Data privacy and security. 
+Liabilities and fines related to data privacy. 
+Liabilities and fines related to anti-competitive behavior regulations. 
+Number of requests for user data made by law enforcement⁴²
+Number of material cybersecurity breaches⁴⁵
+Percentage of public health requests that resulted in Uber’s disclosing the requested information, or some subset thereof. 
+Private civil litigation⁴⁶
+Number of users whose data was disclosed to law enforcement⁴³
+Number of requests for user data made by public health authorities⁴⁴
+Enforcement/regulatory actions. 
+Percentage of law enforcement requests that resulted in Uber’s disclosing the requested information, or some subset thereof. 
+Number of users whose data was disclosed to public health authorities⁴³
+Number of requests for user data made by law enforcement⁴²
+Percentage of public health requests that resulted in Uber’s disclosing the requested information, or some subset thereof. 
+Number of users whose data was disclosed to law enforcement⁴³
+Percentage of law enforcement requests that resulted in Uber’s disclosing the requested information, or some subset thereof. 
+Number of requests for user data made by public health authorities⁴⁴
+Number of users whose data was disclosed to public health authorities⁴³
+Governance indicators. 
+Quantity. 
+Quantity. 
+Quantity. 
+Quantity. 
+Scope. 
+Scope. 
+Scope. 
+Scope 8,046 460 $0. 
+US. 
+Canada. 
+Global 411 78.9% 507 55.2% 324 2,684 58.3% 1,763. 
+Canada. 
+Canada. 
+Canada. 
+Canada. 
+US. 
+US. 
+US. 
+Canada 4,973 0
+74.4% $241,000. 
+US. 
+Global. 
+US. 
+Global. 
+Global. 
+Global $241,000 $4,980,838. 
+Total. 
+Total amount of monetary losses as a result of legal proceedings associated with anti-competitive-behavior regulations⁴⁷ ⁴⁸
+ESG performance indicators
+
+
+2021 ESG Report 90 1For Scope 1 and 2, the Greenhouse Gas Protocol methodology for compiling GHG data was used to assess carbon footprint. This includes the following material GHGs: CO2 (carbon dioxide), N2O (nitrous oxide), and CH4 (methane). The following emission conversion factor sources are used in calculations: Natural gas combustion emission factors: UNFCCC (2020) Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2018. Purchased elecricity AUS: National Greenhouse and Energy Reporting (Measurement) Amendment (2019 Update) Determination 2019. Indirect Factor—NGA workbook (where applicable), published Aug 2019. Purchased electricity US: EPA eGRID 2018. Purchased electricity UK: Defra 2020 UK Government conversion factors for Company reporting. Purchased electricity non-UK, non-US, non-AUS: International Energy Agency—Emission Factors 2020.
+2Scope 1 emissions are calculated from natural gas used at our offices and data centers. Scope 2 emissions are calculated from electricity consumption data. Scope 2 market-based emissions are equivalent to Scope 2 locationbased emissions, and therefore are not reported in the table. Where data were not available, assumptions were applied. The greenhouse gas emissions data disclosed in this report have received limited assurance from Lloyd’s Register Quality Assurance.
+3Tonnes of carbon dioxide equivalent.
+4Figure is based on all rides completed in Belgium, Canada, France, Germany, Netherlands, Portugal, Spain, the United Kingdom, and the United States in 2020.
+5Intensity figures are calculated using square meters of Uber floor area (952,296 m²), employee (22,759), and revenue ($11.14 million).
+6Fuel consumption represents natural gas used at our facilities.
+7Calculations include global offices and data centers, and exclude co-working spaces.
+8Kilowatt-hours.
+9This number represents renewable energy matched by our data center providers.
+10Supplied water refers to water provided from public utilities.
+11Figures calculated using WRI Aqueduct Water Risk Atlas classification. Accessed March 28, 2021.
+12Numbers as reported in Uber’s 2021 People and Culture Report. Data represents employees employed as of March 31, 2021, who self-reported gender.
+13Total employees includes all active full-time employees, excluding casual employees and interns.
+14Includes Engineering, Product, and Freight orgs. This year’s calculation excludes ATG and Elevate, as they were divested from Uber’s business.
+15Excludes Engineering, Product, and Freight orgs. This year’s calculation excludes ATG and Elevate, as they were divested from Uber’s business.
+16Calculation includes our core businesses, including global mobility and delivery.
+17Calculation includes our corporate functions.
+18Calculation includes our customer service support workforce, which consists of Community Specialists at our Centers of Excellence and Greenlight Hubs.
+19Calculation includes executives and senior management (Director-level and above).
+Notes from performance data
+
+
+2021 ESG Report 91 20Calculation excludes employees who did not self-report race/ethnicity. Denominator for these figures is “total men and women in selected org.” 21Calculation excludes employees who did not self-report gender and race/ ethnicity. Denominator for these figures is total men and women in selected org.
+22Data represents new hires starting employment from April 1, 2020, through March 31, 2021.
+23Foreign national is defined as any employee requiring a visa for work in the country in which they were employed as of December 31, 2020. Uber uses multiple immigration counsel services. The number represented here is an aggregate of records and estimates from these companies.
+24TRIR refers to the number of recordable incidents per 100 full-time employees during a one-year period (40 work hours x 50 weeks per 100 employees, or 200,000 hours). An injury or illness is considered a recordable incident if it results in any of the following: death; days away from work; restricted work or transfer to another job; medical treatment beyond first aid; or loss of consciousness.
+25The 2020 Pulse Survey, conducted in August 2020, refers to Uber’s global employee engagement survey sent to all full-time employees. The survey is used to gauge employee sentiment and enable organization-wide planning.
+262020 was a challenging year, and our Pulse Survey results reflect this. In response to these results, and input received in targeted listening sessions, Uber’s leadership has taken, and continues to take, action to respond to and support employees.
+27Percentages are based on the total number of responses for each question, after accounting for missing data (i.e., not all questions had full response rates).
+28Denominator for this figure is total number of employees surveyed.
+29Denominators for these figures only include employees who returned a completed survey and responded to the question.
+30Calculation represents the number of employees who responded 5 or 6 on a 6-point scale where 1 = Strongly Disagree and 6 = Strongly Agree.
+31Score is a composite of 5 questions relating to engagement.
+32Excludes Community Specialists (who are evaluated under a separate program), interns, and fixed-term employees.
+33“Relation to the Uber platform” or “Uber-related” is in reference to data classification for the purposes of data sourced from Uber’s US Safety Report only.
+34Uber occasionally receives notice of a possible safety incident well after the trip was taken (sometimes years after). This is extremely rare for fatalities, but for this reason the data may change over time. The data presented is accurate as of October 31, 2019.
+35Uber yearly rates are rounded.
+36Uber occasionally receives notice of a possible safety incident well after the trip was taken (sometimes years after). This is extremely rare for fatalities, but for this reason, the data presented in this report may change over time. The motor vehicle data presented includes incident reports resolved on or before October 31, 2019. The motor vehicle data in this report reconciled to the 2018 FARS Release published October 22, 2019.
+Notes from performance data
+
+
+2021 ESG Report 92 37This report reflects audited sexual assault reports that were classified into one of these categories. Uber occasionally receives notice of a potential sexual assault well after the trip has ended. The sexual assault data presented includes incident reports resolved on or before October 31, 2019, and for this reason may change over time.
+38Incident reports as a percent of total trips are rounded.
+39Percent of respondents indicating that they are either somewhat satisfied or very satisfied with their experience with Uber.
+40Surveys are performed at the line-of-business level within each country of interest. Country-level results have been aggregated to a global level by creating a weighted average based on each country’s total gross bookings in 2019.
+41Survey frequencies vary. Monthly line-of-business surveys are weighted, and averaged over the course of the year. The line-of-business results are then aggregated at a country level, using a weighted average based on gross bookings as of November 2020.
+42“User data” refers to any information that relates to or is associated with an identified or identifiable natural person. To learn more about our process and requirements for responding to law enforcement requests in the US, see Uber’s Guidelines for Law Enforcement Authorities. Uber gives an extensive overview of information provided to federal and state regulators and law enforcement agencies in the US and Canada here.
+43Value represents the number of users whose data Uber disclosed in response to a valid request from law enforcement or public health authorities. It is distinct from the number of users whose information was “requested.” We use “disclosed” to reflect that requests are not necessarily or consistently account- based. Due to the nature of our business, we may receive requests for an undefined number of users based on a specific set of parameters (i.e., date and time, geography). Our team may work with the requesting agency to narrow the scope of an inquiry or inquiries to minimize the number of users impacted. Thus, we have determined that the number of user accounts with data disclosed is a more meaningful metric than the number of user accounts with data requested.
+44“User data” refers to any information that relates to or is associated with an identified or identifiable natural person. To learn more about our process and requirements for responding to public health requests, see Uber’s Guidelines for Public Health Authorities. “Requests” include any response related to outbreaks of infectious diseases such as the novel coronavirus (COVID-19).
+45A cybersecurity breach is material if it could have an adverse effect on our business, financial condition, operating results, or prospects.
+46Amount refers to 3 private settlements in the US related to the 2014 and 2016 data incidents that were paid out in 2020.
+47Amount includes all judgments, fines, and penalties paid as a result of antitrust-related legal proceedings. The entire amount for CY 2020 is related to the divestiture of Uber’s Southeast Asia business to Grab in 2018.
+48Payment made in local currency; USD figure calculated using exchange rate as of December 31, 2020.
+Notes from performance data
+
+
+2021 ESG Report 93 2021 ESG Report 93. 
+Indexing
+
+
+2021 ESG Report 94. 
+This report includes metrics responsive to the recommendations of the Sustainability Accounting Standards Board (SASB). Because no one set of industry reporting standards encompasses the full scope of Uber’s business model, we have included applicable reporting standards from both the SASB Internet Media and Services and SASB Road Transportation standards. In some cases we have made modifications or omissions to these reporting standards to better reflect Uber’s actual operations and the data that is available for consistent, quality measurement and reporting. We have also provided information responsive to aspects of the allsector recommendations of the Task Force on Climate-related Financial Disclosures on governance, strategy, risk management, metrics, and targets. We expect to build on this work in future versions of the report.
+p. 6 (MAPCs) Entity-defined measure of user activity p. 89 pp. 60-62 also see the 2020 ESG Report, p. 20. 
+Number of material cybersecurity breaches. 
+Description of approach to identifying and addressing data security risks, including use of third-party cybersecurity standards pp. 79-84; People and Culture Report. 
+Percentage of gender and racial/ethnic group representation for 1 leadership, 2 technical staff, and 3 all other employees p. 78 Percentage of total water consumed in regions with high or extremely high baseline water stress pp. 60-62 Description of policies and practices relating to behavioral advertising and user privacy p. 89 Total amount of monetary losses as a result of legal proceedings associated with user privacy p. 85 Percentage of employees who are foreign nationals p. 85 Employee engagement as a percentage p. 89. 
+Total amount of monetary losses as a result of legal proceedings associated with anti-competitive-behavior regulations p. 89; Transparency Report 1 number of law enforcement requests for user information, 2 number of users whose information was disclosed, 3 percentage resulting in disclosure. 
+SASB - Internet Media and Services. 
+Topic Location p. 77 Percentage renewables p. 77 p. 68. 
+Total energy consumed. 
+Integration of environmental considerations into strategic planning for data centers p. 77 Percentage grid electricity p. 78 Total water consumed. 
+Indexing
+
+
+2021 ESG Report 95. 
+SASB - Road Transportation. 
+Topic Location p. 85 p. 77 1 total recordable incident rate (TRIR) 2 fatality rate for direct employees 1 total fuel consumed 2 percentage natural gas 3 percentage renewables p. 76 Gross global Scope 1 emissions pp. 63-74; also see the Climate Assessment and Performance Report; and our climate change commitments. 
+Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets.
+p. 86; US Safety Report Number of motor vehicle fatalities (platform)
+Task Force on Climate-related Financial Disclosures (TCFD)
+Topic Notes Location pp. 15-16, 69 Governance Disclose the organization’s governance around climate-related risks and opportunities.
+Strategy Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s business, strategy, and financial planning where such information is material.
+Metrics and targets Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+pp. 63-74 pp. 63-74. 
+Also see the Climate Assessment and Performance Report, SPARK! report; and our climate change commitments. 
+Also see the Climate Assessment and Performance Report, SPARK! report; and our climate change commitments pp. 64, 76-78 Also see the Climate Assessment and Performance Report and our climate change commitments. 
+Risk management Disclose how the organization identifies, assesses, and manages climate-related risks.
+Indexing. 
+Also see Uber's 2021 Proxy Statement
+
+
+2021 ESG Report 96. 
+Priority SDGs and targets. 
+Topic. 
+Economic empowerment 3.8: Achieve universal health coverage, including financial risk protection; access to quality essential healthcare services; and access to safe, effective, quality, and affordable essential medicines and vaccines for all.
+8.5: By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.
+Example activities. 
+US: Implemented Proposition 22 in California, requiring platform companies like Uber to provide minimum earnings guarantees and healthcare stipends for independent drivers and delivery people.
+UK and Europe: Partnered with AXA in the UK and Europe, where Uber fully funds both on-app accident protection and off-app benefits for eligible drivers and couriers, including maternity and paternity payments.
+Internal: Achieved WELL Health Safety Rating at HQ, LEED at HQ and in India.
+Global: At the end of 2020, we offered to provide 10 million free or discounted rides to healthcare workers, seniors, and people around the world for whom access to vaccination centers may be a barrier. For more on Uber’s efforts to promote access to vaccines, see the COVID-19 section of this report.
+US and Canada: $250 million driver stimulus to support new and returning drivers getting back on the road as cities reopen.
+Global: Advocated for flexible work around the globe while expanding access to independent contractor benefits and protections.
+Global: Worked with policymakers around the world to ensure that independent workers were included in government relief packages. We have advocated for driver and delivery person access to testing and, more recently, vaccines.
+India: Supported the passage of national legislation that requires platform companies, or aggregators, to make contributions toward social security for gig and platform workers.
+Internal: We launched an Inclusive Recruiting training course for leadership teams across Mobility and Marketing that includes a deep dive into the Mansfield Rule to get back to the basics of recruiting with our talent acquisition partners.
+US: Launched initiative to support Black-owned businesses disproportionately affected by COVID-19.
+US: Partnered with local nonprofits to establish a comprehensive financial education program to support Black restaurant owners, starting with expanding outdoor dining space during COVID-19 and looking beyond surviving to thriving.
+UK: Launched a business builder program with Enterprise Nation in which 75 couriers and drivers took part.
+Uganda: Launched a pilot with the Tent Partnership for Refugees to help refugees in Uganda to become drivers by 2022.
+Internal: Employee Resource Groups aim to enrich internal and external communities, and spearhead global change at Uber. Our ERG communities include Able at Uber, Asian at Uber, Black at Uber, Equal at Uber, Immigrants at Uber, Interfaith at Uber, Los Ubers, Parents at Uber, Pride at Uber, Sages at Uber, Veterans at Uber, and Women at Uber.
+Internal: D&I initiatives, and the linking of senior executive compensation to D&I objectives.
+Internal: Initiatives to strengthen and expand our supplier diversity program with the goal of doubling spending with Black-owned businesses and contractors. Launched supplier website where prospective businesses can apply to be included in our supplier diversity program. uber.com/supplierdiversity.
+10.2: By 2030, empower and promote the social, economic, and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion, or economic or other status.
+Indexing. 
+Uber proudly contributes to many of the United Nations Sustainable Development Goals. Due to the nature of our business and operations, we primarily contribute to 6: Good Health and Well-Being; Gender Equality; Decent Work and Economic Growth; Reduced Inequalities; Sustainable Cities and Communities; and Climate Action. The following pages include a few examples of Uber’s contributions to the goals, with an emphasis on our contributions in 2020 and the early part of 2021. Where activities span several goals and targets, we have chosen to include them only once.
+
+
+2021 ESG Report 97. 
+Priority SDGs and targets. 
+Topic. 
+Example activities. 
+Safety 3.6 US: Launched road safety coalition with leading advocates; distributed road safety tips in collaboration with GHSA, NSC, MADD, and League of American Bicyclists.
+Australia: Launched package of 2-wheel safety products and commitments to make it safer for people delivering by bike, motorcycle, and moped.
+Australia: Partnered with Chubb to fully fund on-trip accident protection, including payments for certain common injuries, permanent disability and accidental death compensation, and lump sum benefits in certain events such as hospitalisation or assault.
+Taiwan: Launched Earner Road Safety Program, with up to 3 hours of online courses, offline workshops, and other video resources aimed at increasing road safety awareness.
+3.8 Global: Pledged 10 million free or discounted rides to help make sure that transportation is not a barrier to getting the vaccine.
+US: Launched the Vaccine Access Fund initiative in collaboration with PayPal, LISC, and Walgreens to facilitate rides to vaccination appointments for vulnerable populations.
+US: Launched Uber Donate to allow riders to donate a ride to vaccination appointments for those in need.
+US: Worked with CDC to provide drivers and delivery people with educational videos and guidance on how to use masks and sanitizers correctly, and developed an in-app COVID-19 Resource Hub to centralize information on safety and financial assistance.
+US: Launched an updated Public Health Portal where public health officials can submit requests to Uber for emergency responses to infection spread and data needed for contact tracing.
+US: We partnered with the White House to offer all Americans free rides (up to $25 each) to and from vaccination centers.
+3.6: By 2020, halve the number of global deaths and injuries from road traffic accidents. 3.8: Achieve universal health coverage, including financial risk protection; access to quality essential healthcare services; and access to safe, effective, quality, and affordable essential medicines and vaccines for all.
+5.2: Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.
+Global: Committed $2.6 million in funding for organizations working to end gender-based violence and advance women’s equity around the globe.
+Global: In partnership with leading anti-human-trafficking advocacy organizations, we launched multi-continent anti-human-trafficking campaigns to commemorate World Day Against Trafficking in Persons in 2020 and in January 2021 as Human Trafficking Prevention Month in the US.
+US: Launched mandatory sexual misconduct education for drivers in collaboration with RAINN, the largest anti-sexual-violence organization in the US. We are further expanding this education globally, in partnership with local anti-gender-based-violence organizations.
+Australia: Expanded partnership with WESNET (Women’s Services Network) to provide 3,000 free rides for WESNET partner organizations to support those needing safe travel to or from shelters and domestic violence support services.
+Internal: Benchmarked our respectful workplace policies and practices around harassment, discrimination, bullying, and retaliation with other companies through our participation with the Purple Campaign and earned a score of 100 to receive our Purple Certification.
+11.5: By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the economic losses relative to gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.
+Global: Upcoming partnership with IFRC on global disaster response.
+US: Provided free rides for residents and free meals for first responders during the California wildfires.
+US: Uber Freight helped move more than 100,000 gallons of water and other supplies donated by Children’s Hunger Fund and other nonprofit organizations.
+India: Committed over $5 million in corporate donations, free and discounted rides, and other means as a response to India’s COVID-19 crisis.
+Lebanon: Transported people to areas of safety during the Beirut explosions.
+Indexing
+
+
+2021 ESG Report 98. 
+Priority SDGs and targets. 
+Topic. 
+Sustainability 11.2: By 2030, provide access to safe, affordable, accessible, and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities, and older persons. 11.6: By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.
+Example activities 11.2 Global: Launched new multimodal journeys with UberX in Sydney, Chicago, London, and Mexico City.
+Global: Partnered with Lime in 85 cities to offer bikes and scooters.
+Global: Committed to making $800 million available to assist hundreds of thousands of drivers in the US, Canada, and Europe transition to battery EVs by 2025. This includes new earnings opportunities for drivers with greener and electric vehicles, such as our Zero Emissions incentive of an extra $1 per trip for every battery EV driver in the US and Canada.
+US: Worked in cooperation with the City of Houston to plan, develop, and deploy bp charging stations that help drivers make a fair transition to electrification.
+11.6 Global: Committed to matching 100% of our US offices with renewable energy by 2025, and extended that effort to net zero emissions from global locations by 2030.
+UK: Raised £135 million from our London Clean Air Plan and committed more than £5 million to invest in new electric vehicle charging infrastructure in less-affluent parts of London.
+France: Launched Clean Air Plan, setting aside money and including matching commitment by Uber to support EV purchases made by French drivers.
+Global: Committed to the reduction of single-use plastics by making utensils optional on Uber Eats.
+France: Launched a promo campaign for restaurants with eco-friendly packaging.
+13: Take urgent action to combat climate change and its impacts. 13.1: Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries. 13.3: Improve education, awareness-raising, and human and institutional capacity on climate change mitigation, adaptation, impact reduction, and early warning.
+13 Global: Uber will be a net-zero-emissions company, with a fully electric rides platform by 2040. To support this, Uber has signed up for the rigor and accountability of the Science Based Targets initiative and aspirations and actions laid out in the Climate Pledge.
+Global: Used the WRI Aqueduct Water Risk Atlas classification to help us understand water use in regions of high and extremely high water stress. We are building our workspaces to increase the reuse of water, which can be seen at our Mission Bay campus in San Francisco, estimated to save around 2.5 million gallons per year.
+13.1 US: Partnered with the governors’ offices in states at high risk of natural disasters (CA, LA, FL, TX) to provide rides for evacuation and medical care.
+13.3 Global: Launched Uber Green, a low-emission ride option that connects riders with hybrid and fully electric vehicles, in over 1,500 cities.
+US: Retained EVNoire and GRID Alternatives to advise Uber on interventions that we and our partners can take and policy actions we can support to enable an equitable transition to EVs for drivers from economic and environmental justice communities and communities of color.
+Internal: Strengthened our design standards, providing sustainable design guidelines to new builds and Talent Hubs, while also perfecting our operational standards. New furniture purchases prioritize environmental and healthy product disclosures, and it is our goal to expand this program to more of our footprint when applicable.
+Internal: Prepared reporting partially responsive to the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD), which details how companies can prepare for the financial impacts of climate change and transitioning to a lower-carbon economy, with an aim to building on this reporting in future iterations of the report.
+Internal: Convened workshops and interviews with internal stakeholders across multiple business functions throughout the company in order to evaluate key climate change risks as well as opportunities.
+7.2: By 2030, increase substantially the share of renewable energy in the global energy mix. US: Announced involvement in a renewable energy purchasing agreement, where Uber agreed that, each year, it will buy all the electricity generated by 10 MW of Enel Green Power’s Azure Sky wind farm in Texas. This means that we get to match the electricity consumption from our US offices with clean, renewable energy.
+Kenya: Launched electric motorbike offering in Kenya, reducing running costs to drivers by up to 45% and benefiting the local environment.
+Indexing
+
+
+2021 ESG Report 99. 
+Priority SDGs and targets. 
+Topic. 
+Equity 5.5: Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic, and public life.
+10.3: Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies, and practices and promoting appropriate legislation, policies, and action in this regard.
+8.3: Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity, and innovation, and encourage the formalization and growth of micro-, small-, and medium-sized enterprises, including through access to financial services.
+Example activities. 
+Internal: Launched multiple Uber growth and development initiatives to promote and support women at Uber. South Africa: Partnered with AMI to launch the Skills for the Future and Micro-enterprise accelerator program—personal development and entrepreneurship programs aimed at helping women drivers develop their skills and thrive as independent entrepreneurs. Canada: Partnership with the Forum for Women Entrepreneurs, an NGO aimed at providing women entrepreneurs access to the resources and community they need to thrive in business.
+Global: Offered anti-discrimination training across several regions, including the US and LatAM.
+US: Promoted the Get Out to Vote initiative to help get people registered, to the polls, and fed while waiting.
+US: Partnered with Hollaback! as part of our pledge to stop AAPI hate.
+UK: Conducted a focus group with Be Inclusive Hospitality to understand the impact of COVID-19 on Black- and ethnic minority-owned restaurants.
+Internal: Formed a Racial Equity Leadership Council and made commitments toward racial equity and anti-racism.
+Internal: Expanded and formalized our Fairness Working Group of data scientists, product managers, and operations leaders to advise on how to build products that take into account issues of fairness and equity.
+Internal: Added an Inclusive Design Lead.
+Internal: Achieving pay equity. In 2020, women at Uber globally earned $1.00 for every $1.00 (total cash) earned by men performing similar job functions. In that same time period in the US, in aggregate, employees from underrepresented racial backgrounds earned $1.00 for every $1.00 (total cash) earned by non-underrepresented peers at the same job level.
+US: Agreed to match every contribution to the National Restaurant Association Educational Foundation’s Restaurant Employee Relief Fund up to a total commitment of $6 million to support their important work and help provide critical funds to restaurant workers impacted by COVID-19.
+US: Partnered with Arizona State University to offer drivers, delivery people, and their family members access to 100+ undergraduate degree programs online with full tuition coverage, including upskilling courses on English language learning and entrepreneurship.
+US and Canada: Committed to provide $20 million in support of efforts to help local restaurants in the US and Canada during the pandemic as part of our “Eat Local” campaign.
+UK: Worked with Open University to offer drivers or a family member to take a fully funded undergraduate degree-level course, or other short courses.
+Netherlands: Partnered with LOI to offer drivers access to 6 months of training content.
+France: Partnered with WERO in France to provide delivery people with access to tailored courses on French language, professional development, and other subjects.
+LatAM: Partnered with International Finance Corporation, Endeavor, and Sebrae in Latin America to provide drivers and delivery people with access to online micro courses in financial education, formalization, future of work, personal marketing, time management, and customer service.
+Indexing
+
+
+2021 ESG Report 100. 
+Forward-looking statements This report may contain forward-looking statements regarding our future business expectations, which involve risks and uncertainties. Actual results may differ materially from the results predicted, and reported results should not be considered as an indication of future performance. Forward-looking statements include all statements that are not historical facts and can be identified by terms such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “hope,” “intend,” “may,” “might,” “objective,” “ongoing,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” or “would” or similar expressions and the negatives of those terms. Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by the forward-looking statements. These risks, uncertainties, and other factors relate to, among others: the outcome of a tax case before the UK tax authority related to classification as a transportation provider, developments in the COVID-19 pandemic and the impact on our business and operations, competition, managing our growth and corporate culture, financial performance, investments in new products or offerings, our ability to attract drivers, consumers and other partners to our platform, our brand and reputation and other legal and regulatory developments and proceedings, particularly with respect to our relationships with drivers and delivery persons. In addition, other potential risks and uncertainties that could cause actual results to differ from the results predicted include, among others, those risks and uncertainties included under the captions “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended December 31, 2020 and subsequent Form 10-Qs and Form 8-Ks filed with the Securities and Exchange Commission. Information in this report is based on assumptions that we believe to be reasonable as of publication. We undertake no duty to update this information unless required by law.
+2021 ESG Report 100. 
+Greenhouse gas emissions data in this report has been verified by Lloyd’s Register Quality Assurance. LRQA’s verification statement can be found here.
+
+
+2021 ESG Report 101

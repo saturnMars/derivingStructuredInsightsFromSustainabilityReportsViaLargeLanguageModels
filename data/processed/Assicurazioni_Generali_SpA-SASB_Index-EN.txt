@@ -1,0 +1,34 @@
+Sustainability Accounting Standards Board (SASB) Index- Insurance Sector Standard. 
+Topic SASB Disclosure Disclosure. 
+Code Reference1. 
+Transparent Information & Fair Advice for Customer. 
+Customer retention rate FN-IN-270a.3. 
+AIR & CFS1 2021, p.48 - Number of customers at end of December 2021 and change compared to 2020 Strategy “Lifetime Partner 24: Driving Growth” (slide 37) ESG Presentation, p. 18. 
+Description of approach to informing customers about products FN-IN-270a.4. 
+AIR & CFS 2021: p. 22-23, 46-47, 48-49, 60, 63 - Information on our activities to be lifetime partner to customers, and to enable digital transformation and evolution, on our brand, customers and responsible consumer offer Strategy “Lifetime Partner 24: Driving Growth” (slides 4147) Code of Conduct Listening to and satisfying our customers NPS Program Personalised Value Propositions Effortless and caring experience Claims Management Phygital Advice ESG Presentation, p. 18. 
+
+Disclaimer: The SASB Index- Insurance Sector Standard is referred to exclusively as an index useful for the categorization of some Generali’s public disclosures and such disclosures should not be intended as aligning with all of SASB’s requirements. As at now Generali has not yet adopted SASB as a sustainability reporting standard. 1 Within this document, all references to the Annual Integrated Report (AIR) and Consolidated Financial Statements (CFS) will be referred to as AIR & CFS. The document is available at the following link: https://www.generali.com/it/info/download-center/results
+
+
+Incorporation of Environmental, Social, and Governance Factors in Investment Management. 
+Total invested assets, by industry and asset class FN-IN-410a.1. 
+AIR & CFS 2021: p. 12, 89-90- Total AuM and asset allocation by type, sector, country and rating Generali FY2021 Results- slides 49-53. 
+Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment management processes and strategies. 
+FN-IN-410a.2. 
+AIR & CFS 2021: p. 33-36, 61-62, 91-98, 115-116 - Climate change risk management framework (including scenario analysis); Sustainable and responsible Investment, including Group commitment on climate change, Active ownership, Thematic investments, Investments with ESG characteristics, Exclusion policies, Exposures to EU Taxonomy eligible and non-eligible activities, Application of the ESG principles in the business Strategy “Lifetime Partner 24: Driving Growth” (slide 19) Sustainable investments Sustainable Investing Strategy Investment Portfolio Decarbonisation Networking and Commitments ESG Presentation, p. 7, 11-14 UNPRI Report: p. 28 (SG07) and 36 (SG13.1)- Information on roles and responsibilities as well as ESG issues in strategic asset allocation. 
+Policies Designed to Incentivize Responsible Behavior. 
+Net premiums written related to energy efficiency and low carbon technology FN-IN-410b.1. 
+AIR & CFS 2021: p. 82-84 Premiums from environmental products, EU Taxonomy eligible non-life insurance activities Insurance Products with Significant Social and Environmental Value ESG Presentation, p. 11, 19-20, 29 Note: Generali uses GDWP and not NPW. 
+Discussion of products and/or product features that incentivize health, safety, and/or environmentally responsible actions and/or behaviors. 
+FN-IN-410b.2. 
+AIR & CFS 2021: p. 82-83 Premiums from social and environmental products Insurance Products with Significant Social and Environmental Value Generali Vitality ESG Presentation, p. 29-30 
+
+
+Environmental Risk Exposure. 
+Description of approach to incorporation of environmental risks into: (1) the underwriting process for individual contracts and (2) the management of firm-level risks and capital adequacy. 
+FN-IN-450a.3. 
+AIR & CFS 2021: p. 31-37, 61, 66, 72, 91-92, 157, 309310 Management of climate change risks, Objectives, metrics to mitigate climate change risks, Responsible Underwriting Group Guideline, Reputational, Emerging and ESG Risk, Information about climate changes Responsible Underwriting Group Guideline Climate-related Financial Disclosure 2021 ESG Presentation, p. 12-13. 
+Systemic Risk Management. 
+Description of approach to managing capital and liquidity-related risks associated with systemic non-insurance activities. 
+FN-IN-550a.3. 
+AIR & CFS 2021: 152- 154, 156 Financial and Credit risk, Other Material Risks (Liquidity Risk, Concentration Risk, Reputational, Emerging and ESG Risk)

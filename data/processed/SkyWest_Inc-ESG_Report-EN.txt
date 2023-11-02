@@ -1,0 +1,740 @@
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT. 
+Report Includes Our 2021 Efforts and Data 2022
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 2. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT. 
+Report Includes Our 2021 Efforts and Data 2022
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 3. 
+TABLE OF CONTENTS. 
+Introduction 3. 
+ESG Strategy 6. 
+Safety & COVID-19 8. 
+Climate and Environment 14. 
+Social Responsibility 42. 
+TCFD Index 58. 
+SASB Index 59. 
+External Assurance Report 60. 
+Learn more about SkyWest by visiting inc.skywest.com.
+ABOUT THIS REPORT. 
+SkyWest Airlines is committed to providing information about our strategies and performance on the environmental, social, and governance (ESG) issues that are most important to our company and stakeholders. The 2022 ESG Report is a review of our efforts covering the period from January 1, 2021, to December 31, 2021. We first published a Corporate Responsibility Report in 2021 and this year’s report is an expansion in our reporting as our ESG processes and commitments continue to evolve. This year, we began to implement the reporting standards of the Sustainability Accounting Standards Board (SASB) and the Task Force on ClimateRelated Financial Disclosures (TCFD) to discuss our ESG efforts and progress. We expect to build on our ESG content and analysis in the future.
+
+At SkyWest, we understand and value the priceless commodity of time. We respect every individual’s quality of life and are committed to promoting dignity and trust in all we do. SkyWest strives to be the Partner of Choice, the Employer of Choice, and the Investment of Choice. Shares of SkyWest, Inc. trade on NASDAQ under the ticker symbol SKYW. For additional information regarding our business and financial results, please refer to our 2021 Form 10-K and our Proxy Statement dated March 24, 2022, each as filed with the SEC. Additional information about SkyWest can be found at inc.skywest.com.
+Introduction
+
+
+We operate flights under two types of code-share agreements: capacity purchase agreements and prorate agreements with our major airline partners:
+ABOUT THE SKYWEST BUSINESS MODEL
+
+
+SKYWEST INCORPORATED 5. 
+Introduction. 
+CAPACITY PURCHASE AGREEMENTS (CPA) (~88-90% of our fleet)
+Our major airline partners contract with us to operate regional jet aircraft in their respective network system. More specifically, each major airline partner determines our flight schedules, sets the passenger fares, and sells tickets to passengers through their reservation systems, and we operate the flights under their respective marketing and operating standards. In return, our major airline partners pay us fixed fees to operate flights under the CPA, regardless of the number of passengers we carry. The major airline partner also arranges and pays for the fuel used on our capacity purchase flights.
+PRORATE AGREEMENTS (~10-12% of our fleet)
+Similar to our CPA, we operate flights using our major airline partners’ ticketing and reservation systems. Under the prorate agreements, unlike CPA, the major airline partner remits to us the passenger fares collected on the prorate routes we operate, which may involve proration when passengers connect to our major partners flights. We have more discretion on setting our flight schedules and passenger fares under our prorate agreements. On prorate flights, we arrange and pay for the fuel consumed.
+EXTERNAL ASSURANCE. 
+We obtain third party verification of our greenhouse gas emissions on an annual basis. An external assurance statement for emissions can be found on page 60. Sustainable Business Consulting conducts our emissions verification and provides a limited level of assurance on our Environmental Statement of Greenhouse Gas (GHG) Emissions for reporting.
+
+
+Environmental, Social, and Governance initiatives have always been important, but the last couple of years demonstrated the criticality more than ever in our 50-year history. We took several steps throughout 2021 to advance our priorities, although in many ways our. 
+ESG journey is just beginning. Throughout this report we discuss steps taken, and our strategy to reach our. 
+ESG objectives.
+ESG STRATEGY & APPROACH 6
+
+
+ESG Strategy. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 7. 
+At the highest level, our ESG priorities include: • Monitoring and assessing climate-related risks and opportunities that may impact our business model • Developing diversity within our workforce, management, and Board • Utilizing mechanisms to attract, retain, and offer growth opportunities for our employees • Ensuring we have the governance structure and proper oversight to achieve these priorities. 
+Our executive officers are responsible for ESG risk assessment and governance, including setting and monitoring our ESG strategy and goals. The SkyWest Board of Directors has oversight of our ESG performance and is briefed at least annually by executive leadership. The Director of Safety oversees environmental compliance programs and ensures climate-related risks impacting operational safety are managed and mitigated throughout the operational departments. The Director of Flight Technology & Sustainability oversees technology-related emissions reduction initiatives. Our executive team has oversight for our labor and social risks, strategies, and objectives. See the Corporate Governance section below for additional details on the Board of Directors and executive officer oversight for climate risk.
+ESG priorities are part of our company risk management, strategy, and financial planning considerations. During 2021, we partnered with a team developing electric vertical aircraft technology with the objective to provide an environmentally friendly urban transportation solution. We also continued to invest in our fleet, by adding new, larger regional jets that have a more efficient carbon footprint per Available Seat Mile (ASM) than our older 50-seat jet fleet. These initiatives are just two examples of how company risk management and ESG strategies intertwined in 2021. Through our existing Safety Management System, operational risk related to environmental and social aspects is actively managed and mitigated.
+During 2021, we accomplished the following ESG actions:
+Adopted TCFD and SASB frameworks to enhance our climate risk evaluation, assessment, and disclosures. 
+Added Scope 2 purchased electricity emissions to our disclosure. 
+Partnered with Eve Air Mobility, an Embraer company, for the urban-use development of electric vertical takeoff and landing (eVTOL) aircraft. 
+Acquired 18 new Embraer E175 regional jets that operate with more efficient carbon emissions per ASM than our other fleet types. 
+Continue to enhance our TCFD and SASB reporting framework and disclosures. 
+Further develop our strategies and disclosures on climate-related risks related to physical, regulatory, operational, and market risks. 
+Monitor safety-related key performance indicators (KPIs) and implement safety initiatives to continuously improve the safety of our employees and passengers. 
+Implement employee incentives and initiatives to enhance our ability to attract, retain, and provide growth opportunities for our diverse employees. 
+ESG INITIATIVES & PROGRESS IN 2021. 
+ESG INITIATIVES FOR 2022
+
+
+SAFETY & COVID-19 8
+
+
+Safety & COVID-19. 
+SKYWEST INCORPORATED 9. 
+Safety for our employees and passengers is critical to our business.
+We implemented numerous safety protocols as a result of the COVID-19 pandemic. We also collaborate with our major airline partners to enhance safety and onboard considerations to keep our crewmembers and passengers safe.
+COVID-19 RESPONSE AND SAFETY CONSIDERATION. 
+From the beginning of the pandemic response, SkyWest utilized our Safety Management System (SMS) to assess the impact/risk that the changing environment, reductions in force, and pandemic protocols would have on our operation and the health and safety of our employees, partners, and customers. Since the onset of the pandemic, we have conducted numerous Safety Risk Assessments (SRA) and identified COVID-related hazards. Each hazard and the associated threats have been risked and addressed to provide the highest possible level of safety for our employees and customers. During the pandemic, SkyWest enhanced our chemical review processes to be greater in scope and faster to respond. The Chemical Review Committee reviewed and vetted over 50 products for safety and use during the pandemic response.
+
+
+SkyWest Airlines’ first Guiding Principle is Health and. 
+Safety First. The cornerstone of SkyWest’s safety framework includes our Safety Management System (SMS), a systematic, proactive approach to identify hazards and utilize risk management to reduce workplace incidents and accidents.
+The framework includes four components:
+SAFETY SYSTEM OVERVIEW
+
+
+Safety & COVID-19. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 11. 
+Commitment to safety from top leadership, supported by organizational policies that define how SkyWest conducts SMS. 
+A systematic process to respond to hazards, assess risk, and control risk to acceptable levels. 
+Continuously measuring safety performance and identifying opportunities for improvement Communicating safety hazards and employee safety responsibilities to enhance individual safety ownership while fostering a positive Safety Culture. 
+This Safety Management System integrates an intentional safety culture into every workgroup and every employee process from new hire through retirement, focusing on industry-best practices in safety competencies and behaviors. Training is required for every SkyWest employee, regardless of position.
+The system further supports SkyWest employees as they make decisions and proactively manage risks to address hazards that could lead to injuries, damages, or harm, and to ensure safety remains a constant focus. SkyWest’s goal is to achieve world-class personal safety performance with the goal of all SkyWest employees to return home safely each day.
+SAFETY POLICY. 
+SAFETY ASSURANCE. 
+SAFETY RISK MANAGEMENT. 
+SAFETY PROMOTION
+
+
+12. 
+IMPLEMENTATION AND OUTCOMES OF OUR SMS. 
+SkyWest Board of Directors – Safety Committee. 
+Oversees and consults with leadership on the safety and security of our customers, employees, and aircraft operations. 
+Reviews current and proposed safety and securityrelated programs, policies, and compliance. 
+Reviews issues that may have a material effect on our flight safety operations, security, and public health matters; establishes and approves annual safety and security goals.
+SkyWest’s culture starts with a dedicated executive leadership team and collaborative oversight from the Board’s Safety Committee, which oversees our policies, practices, and performance related to safety, security, and public health. This collective effort puts the safety of our people and customers at the forefront of all business decisions and is embodied in SkyWest’s Safety Management System (SMS), which provides critical safety leadership behaviors for operational teams.
+SAFETY GOVERNANCE. 
+SAFETY LEADERSHIP AND CULTURE
+
+
+Safety & COVID-19. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 13. 
+We monitor company-wide On-the-Job Injuries (OJI) per 200K Employee Hours as a metric to evaluate the safety environment and training opportunities for our employees. Our OSHA Recordable OJI injuries for 2021 per 200K Employee Hours was 3.60, which was above our 2021 goal of 2.73. Our increased flying volume in 2021 from the COVID-19 recovery was the primary driver in injuries above our goal (our 2021 injury rate was 22% lower than our 2019 injury rate – pre COVID-19). Data gathered and evaluated from our injury safety review resulted in the implementation of the following initiatives:
+Turbulence reduction monthly meetings. 
+Focused communication to all employees to reduce slips/falls. 
+Ergonomics training for Maintenance employees (BackSafe)
+Partnerships with insurance provider to develop Flight Attendant strain reduction training. 
+SkyWest’s SMS is a comprehensive, process-oriented approach to managing safety allowing employees to monitor, identify, and address health and safety issues through daily operational data. SMS includes an organization-wide safety policy; formal methods for proactively identifying, assessing, and controlling risks; systems for monitoring safety performance; and promotion of a safety culture. SMS allows for adjustments to be made to processes and procedures as necessary in an effort to address concerns before failures occur and to keep our people, customers, and assets safe. SkyWest’s SMS plays a key role in ensuring integrity of operations, promoting a culture of safety, and providing a safe work environment for our employees and a safe travel experience for our customers.
+The SkyWest SMS aligns with both the Federal Aviation Administration (FAA) and the International Civil Aviation Organization (ICAO) guidance and is in the Continuous Improvement implementation level. Additionally, the SMS has been audited by the International Air Transport Association’s (IATA) Operational Safety Audit (IOSA) numerous times since its inception and has had no relevant findings.
+In 2021 we conducted hundreds of assessments. We prioritize our safety risks and implement risk controls as needed to mitigate risk to an acceptable level.
+SKYWEST SMS. 
+Our SMS requires that we mitigate identified risks to as low as reasonably practicable (ALARP). In 2021, 1.10% of our identified risks were already ALARP. These risks are monitored, measured, and tracked.
+Our proactive/reactive safety risk assessment ratio is approximately 9:1, or 90% proactive assessments compared to 10% reactive assessments. This means most of the identified hazards were mitigated prior to implementation of a new process or procedure.
+SMS OUTCOMES. 
+During 2021, safety team roles were realigned, allowing for increased standardization and collaboration in the identification and mitigation of safety risks. Safety manager and coordinator roles, which formerly were embedded in each department, were positioned in the Safety Department. Safety oversight, mitigation, and responsibility remained with individual department leadership, but through collaborative facilitation, SMS processes, and safety risk identification were enhanced through uniformity under SkyWest’s SMS programs and policies.
+SAFETY DEPARTMENT REORGANIZATION. 
+EMPLOYEE SAFETY. 
+Safety Risk Assessments facilitated 2021. 
+Hazards Identified. 
+Percentage of Risks Mitigated 473 544 98.9%
+
+
+CLIMATE AND ENVIRONMENT 14
+
+
+CORPORATE RESPONSIBILITY REPORT 2022 SKYWEST INCORPORATED 15. 
+Climate and Environment. 
+SkyWest is committed to:
+Operating in an environmentally responsible manner, complying with all environmental laws and regulations, and using natural resources efficiently. 
+Preventing pollution where possible, and if not possible, then establishing mitigation programs to minimize environmental impact. 
+Engaging with external stakeholders to discuss commercially viable solutions to reduce emissions. 
+Collaborating with our major airline partners in their decarbonization goals
+
+
+With the largest regional airline operation in the United States,
+SkyWest remains committed to, and understands, our responsibility to minimize our impact on the environment.
+SkyWest’s Board of Directors has oversight of the company’s climate-related risk evaluation and strategy and environmental-related performance. Management, employees, and contractors are accountable for conducting our operation in an environmentally sustainable manner.
+ENVIRONMENTAL GOVERNANCE
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 17. 
+CORPORATE GOVERNANCE. 
+The full SkyWest Board maintains responsibility for the oversight of climate risk and strategy. The Board reviews and evaluates the executive management team’s climate risk and strategy assessment at least annually, and developing environmental, social, and governance matters quarterly. In addition, the Safety & Compliance committee maintains oversight over applicable climate-related operational risks and receives safety briefings semi-annually. Board direction and feedback are used by executive management in evaluating risk and establishing strategies.
+Our executive officers are responsible for prioritizing climate risk assessment, including setting and monitoring our climate strategy. Management evaluates the impact of emerging technologies, regulatory changes, and market developments in determining its climate risk assessment and strategies.
+Climate-related responsibilities are dispersed throughout operational management. The Director of Safety oversees environmental compliance programs and ensures climaterelated risks impacting operational safety are managed and mitigated throughout the operational departments. In addition, the Director of Safety oversees the Executive Safety Brief where executive leadership is briefed on pertinent operational risk issues.
+The Director of Flight Technology & Sustainability oversees technology-related emissions reduction initiatives as well as the Flight Operations (FO) Sustainability Council. The FO Sustainability Council is a working group that was created in late 2021 comprised of management and frontline pilots to work on sustainability-related initiatives.
+BOARD OVERSIGHT. 
+MANAGEMENT RESPONSIBILITIES. 
+Climate and Environment
+
+
+Airline industry environmental commitments, both domestic and international, are vitally important to drive investments in the technologies needed to decarbonize the airline sector. In line with the Paris Agreement’s goal of limiting global warming, the International Air Transport. 
+Association (IATA), as well as Airlines for America (A4A), the industry trade organization representing the leading major U.S. airlines have adopted a collective target to achieve net-zero carbon emissions by 2050. The U.S.
+Government has also announced a comprehensive Aviation. 
+Climate Action Plan to achieve net-zero emissions by 2050.
+INDUSTRY INITIATIVES & SKYWEST’S ROLE
+
+
+Climate and Environment. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 19. 
+SkyWest is committed to working with our major partners and with industry to achieve their collective emissions targets and goals. Fleet, fuel, and route decisions that impact our emissions are made in coordination with our airline partners. While each partner will likely embark on a different net-zero journey, SkyWest is well-positioned to adapt to our partners’ needs and support their climate objectives.
+INDUSTRY & PARTNER GOALS & COLLABORATION. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 19
+
+
+SKYWEST ROADMAP
+
+
+CORPORATE RESPONSIBILITY REPORT 2022 SKYWEST INCORPORATED 21. 
+Climate and Environment. 
+CORPORATE RESPONSIBILITY REPORT 2022. 
+While there are a myriad of scenarios our major partners may pursue to achieve net zero emissions, the primary pathways under development to reach their long-term objectives include the following measures:
+Operational efficiency enhancements such as airspace modernization efforts, streamlined flight trajectories, and efficient fuel usage during taxi, takeoff, and landing.
+New aircraft technologies such as more efficient aircraft and engine technologies, electric or hybridelectric powerplants, and hydrogenpowered aircraft.
+Sustainable aviation fuel (SAF) produced from renewable and waste feedstocks such as a wide range of wastes, residues, biomass, sugar, oils, and gaseous sources of carbon. Major U.S. airline carriers committed to offtake 3 billion gallons of SAF by 2030.
+Market measures and offset mechanisms such as the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA)
+
+
+22. 
+OPERATIONAL EFFICIENCY ENHANCEMENTS. 
+The Next Generation Air Transportation System (NextGen) is the FAA-led modernization of America’s air transportation system to make flying even safer, more efficient, and more predictable. Goals include using new technologies and procedures to increase the safety, efficiency, capacity, access, flexibility, predictability, and resilience of the National Airspace System (NAS) while reducing the environmental effect of aviation. The modernization of the NAS is one of the most ambitious infrastructure projects in U.S. history.
+SkyWest has actively supported NextGen efforts for years, committing time and resources to advance NextGen initiatives. The objective of the NextGen Advisory Committee (NAC) is to provide independent advice and recommendations to the FAA and to respond to specific taskings received directly from the FAA to advance NextGen initiatives and objectives. Our CEO, Chip Childs, has been the chairman of the NAC since 2019 and under his leadership, the NAC collaborated to create and provide as advice to the FAA on the Minimum Capabilities List (MCL) which outlined standard equipment for new aircraft and responded to a congressional request which outlined the details of a pilot program to assess benefits from NextGen services at three locations.
+Since 2018, advanced navigation approaches, specifically Required Navigation Performance Authorization Required (RNP AR), have been authorized on our E175 fleet. In addition to significant safety benefits, RNP AR approaches can reduce both track miles and time spent level during the approach phase, which in turn reduces fuel burn and emissions. Over 40% of the total SkyWest fleet is authorized to conduct these approaches today.
+NEXTGEN – FAA AIRSPACE MODERNIZATION FLEET MODERNIZATION AND ADVANCED AVIONICS / PERFORMANCE BASED NAVIGATION
+
+
+Climate and Environment. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 23. 
+Fuel burn accounts for the vast majority, 99.9%, of SkyWest’s Scope 1 emissions. Therefore, operational efficiency is key to reducing waste and decreasing our emissions. Procedures such as single-engine taxi and idle reverse thrust landings, used when practical, lead to significant fuel and emissions savings each year.
+In 2021, use of these procedures saved an estimated 2.9 million gallons of jet fuel and over 29,000 metric tons of CO2 emissions.
+In 2020, we reduced the cost and emissions to carry fuel by removing excess go-around fuel based on an assessment of need by segment. Based on safety risk analysis in 2018, go-around fuel was added to every flight to mitigate hazards resulting in low fuel events. However, measurement data analyzed after the change indicated the additional fuel onboard was rarely used, prompting a reassessment of fuel planning procedures and a more targeted approach.
+SkyWest’s Go Around Fuel Committee reviews data quarterly and determines which airports require additional go-around fuel planned. This targeted approach gives crews and dispatchers more control over whether Go Around fuel is added or removed based on the conditions for each individual flight.
+The graph illustrates the decrease in the overall amount of fuel carried as designated go-around fuel. A comparison between 2019 and 2021 reflects more than a 45% decrease in the number of flights planned with extra Go Around Fuel.
+FUEL SAVINGS PROCEDURES. 
+GO-AROUND FUEL PLANNING SAVINGS • Collaboration with Air Traffic Control to ensure efficient aircraft routing between airports when practical, which leads to conservation and reduction in emissions.
+• Bi-annual training for our dispatchers and flight planners on fuel planning and fuel conservation.
+• Monitoring fuel trends and making a concerted effort to increase fuel burn accuracy during flight planning.
+• When practical at the gate, utilizing ground power for our aircraft rather than on board auxiliary power units.
+• Maintaining a statistical contingency fuel (SCF) program to aid dispatchers and flight crews during fuel planning for each flight. The SkyWest SCF program analyzes specific route data, multiple historical data points, and year over year comparisons. By adhering to SCF for fuel planning, SkyWest minimizes unnecessary fuel consumption and emissions associated with carrying excess fuel.
+ADDITIONAL FUEL SAVINGS INITIATIVES. 
+JAN 40 35 30 25 20 15 10 5
+0 FEB. 
+Go-Around Designated Fuel. 
+MAR APR MAY JUN JUL AUG SEP OCT NOV DEC 2019 2021. 
+Millions Total Pounds. 
+Climate and Environment 2020 data not included due to reduced flight counts.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 24. 
+SUSTAINABLE AVIATION FUEL (SAF)
+Sustainable aviation fuel (SAF) is the main term used by the aviation industry to describe a non-conventional (i.e., fossil derived) aviation fuel. The greenhouse gas emissions by SAF is reduced relative to conventional jet fuel due to the lifecycle emissions savings. The chemical and physical characteristics of SAF are almost identical to those of conventional jet fuel and can be safely mixed with the latter to varying degrees, use the same supply infrastructure, and do not require the adaptation of aircraft or engines.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 25. 
+The extent to which any particular SAF provides a climate benefit depends on the SAF’s life cycle emissions profile, taking into account the production, transportation, and combustion of the SAF, as well as indirect effects associated with these.
+To use the term “sustainable” the fuel must meet sustainability criteria such as lifecycle carbon emissions reduction, limited fresh-water requirements, no competition with needed food production, and no deforestation.
+Although the scale and availability of SAF is severely limited right now, all SkyWest aircraft are compatible with drop-in SAF fuels available today. Under our contract operations, which accounts for approximately 88-90% of our business model, our major airline partners are responsible for the purchasing and supplying the fuel we use.
+We select and purchase fuel for our prorate business and there may be an opportunity to pursue SAF offtake agreements, although it only reflects a small percentage of our operations. The SAF Grand Challenge announced by the U.S. Government in 2021 aspires to increase the production of SAF in the United States to at least 3 billion gallons per year by 2030. As SAF production increases, price parity will make pursing SAF offtake agreements more feasible. SkyWest will evaluate the opportunities to use SAF in its prorate operations in the future when SAF becomes more readily available.
+Climate and Environment. 
+The CORSIA has been adopted as complementary to the broader package of measures to help the International Civil Aviation Organization (ICAO) achieve its aspirational goal of carbon-neutral growth from 2020 onwards.
+SkyWest began participation in CORSIA in 2019 as part of a worldwide effort to reduce industry carbon impact. This program has standardized oversight by the ICAO and FAA.
+By design, the scope of CORSIA is for international segments, which is a relatively small portion of SkyWest’s operation. For example, in 2021 our international markets comprised less than 1.5% of our total flights.
+CARBON OFFSETTING AND REDUCTION SCHEME FOR INTERNATIONAL AVIATION (CORSIA)
+Alternative powerplants such as electric, hybrid-electric, and hydrogen are also on the horizon. Full electric aircraft with up to 9 seats are currently flying test flights. Electric aircraft up to 19 seats are planned for the later 2020s, and regional aircraft in the 2030s. Additionally, smaller aircraft (15-20 seats) with hybrid-electric propulsion are expected during this decade, with regional aircraft possibly in the 2030s.
+Hydrogen, unlike fossil fuels or today’s SAF, is a carbon- free fuel that can be used for propulsion in two ways. First, for combustion in conventional engines, replacing jet fuel, and secondly, in fuel cells as an electrical power source. Notably, the weight of hydrogen is three times lower than that of an amount of jet fuel with the same energy content, but its volume even in liquid (cryogenic) form is four times larger.
+ALTERNATIVE POWERPLANTS
+
+
+26. 
+SKYWEST ANNOUNCEMENTS. 
+In 2021, SkyWest announced our role as a strategic partner in EVE Air mobility’s 100% electric eVTOL aircraft. We believe this partnership demonstrates our commitment to minimizing environmental impact and continuing to develop our roadmap to sustainability.
+
+
+Climate and Environment. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 27. 
+Climate and Environment. 
+Through the agreement, SkyWest has the option to acquire 100 four-passenger eVTOL aircraft, which are expected to be available sometime after 2025. The partnership also includes an agreement to partner on network development and vehicle design and specifications. We have a long-standing relationship with Embraer, who is a major participant in Eve eVTOL aircraft development, and look forward to developing the partnership as we advance our commitment to sustainable aviation.
+SKYWEST FLEET. 
+Average Age of Fleet. 
+Contract Prorate Total. 
+CRJ200 19.7 18.6 19.2. 
+CRJ700 16.2 16.2. 
+CRJ900 11.0 11.0. 
+E175 4.5 4.5 10.6 18.6 11.7 2021 Metric Tons CO2e Per Million ASM. 
+E175s 198 CRJ200s 250. 
+Below shows difference in MT of CO2e per ASM for E175s compared to CRJ200s.
+SkyWest has made significant investments in new, larger regional jets in recent years that produce lower carbon emissions per ASM than our older CRJ200 jets. Investments made in new E175 aircraft over the last 3 years total more than $800 million and we plan to invest over $800 million in new E175 aircraft in the coming years.
+At the beginning of 2019, SkyWest had 184 CRJ200s in scheduled service, compared to 140 at the end of 2021, resulting a decrease of 44 aircraft, or 24% over three years. Similarly, over the same three-year period, we increased the number of our E175 aircraft from 146 to 211, an increase of 65 aircraft or 45%.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 28. 
+Identifying and assessing climate-related risk is an important aspect of our overall risk management processes. As described in the. 
+Safety section above, climate-risk management is integrated with our overall risk management processes.
+Each quarter, department leadership meets to review risk areas and performance data both within their respective departments and cross- departmentally via the Executive Safety Brief. The Executive Safety Brief includes attendees through senior leadership up to the executive level with key risk information discussed to drive operational enhancements, improvements, and risk mitigation strategies.
+CLIMATE IMPACTS DISCUSSION. 
+CLIMATE RISK MANAGEMENT
+
+
+Climate and Environment. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 29. 
+The Task Force on Climate-related Financial Disclosures divides risks into two categories: 1. Risks related to the physical impacts of climate change, including from acute weather events and chronic changes to the climate that may present operational risk for companies.
+2. Risks related to the transition to a lower carbon economy, including the policy, legal, technology, and market changes that may pose financial and reputational risk for companies.
+Using a qualitative process for this year’s reporting, an overview of these risks is included below in our Climate Strategy. We will continue to further analyze and refine our mitigation strategies in future years.
+Transition and physical risks that are likely to impact our business are outlined below. We expect to continue to build on our climate disclosure, including scenario analysis and expanding on resilience of our strategy, in future reporting. CLIMATE STRATEGY. 
+CLIMATE TRANSITION RISK. 
+POLICY & LEGAL. 
+DETAILS. 
+The risk from existing or future regulation related to climate change, which could include: • Potential carbon taxes • Domestic aviation emission reduction targets and/or caps • CORSIA • Enhanced reporting requirements. 
+POTENTIAL FINANCIAL IMPACT. 
+Domestic and international passenger related taxes and fees are the responsibility of our major airline partners under our flying contracts in general.
+Additionally, aircraft fuel procurement and fuel costs (including fuel taxes) are the responsibility of our major airline partners under our CPA.
+Implementation of new carbon taxes, fees or other policy and regulatory costs that were not contemplated under our flying contracts, would be evaluated for financial impact and addressed with our major airline partners, as applicable.
+Increases in fuel costs associated with our prorate operation that cannot be recaptured through an increase in passenger fares would negatively impact our margins.
+MANAGEMENT & MITIGATION. 
+Our major partners have the primary responsibility for passenger related taxes and fees and for fuel procurement and costs under our CPA. To the extent new policies and regulations result in incremental costs to SkyWest, we would factor the impact of the incremental costs when establishing contract rates with our major airline partners for new aircraft and for contract extensions.
+If we incur cost increases from a new policy or regulatory changes associated with our prorate operation, we may increase the passenger fare structure on our prorate routes intended to offset such costs or evaluate reducing our prorate operations if the increases are material and cannot be otherwise offset.
+With respect to CORSIA, our international markets were less than 1.5% of our total flights in 2021.
+Our legal, environment, and finance teams work together and stay informed of possible regulations.
+We expanded our reporting this year to align with TCFD and SASB frameworks, and we will continue to increase our analysis in this risk area as policies and regulations develop to strengthen our reporting in future years.
+SHORT TERM 2021-2025 MEDIUM TERM 2026-2035. 
+TECHNOLOGY. 
+DETAILS. 
+The risk from transitioning to low-carbon technologies, such as: • Sustainable aviation fuel (SAF) • Electric or hybrid-electric powerplants • Hydrogen-based fuels. 
+POTENTIAL FINANCIAL IMPACT. 
+The transition to aircraft powered by alternative powerplants such as electric or hydrogen are not currently available and may require a material capital investment to implement in the future.
+SAF is available, although at limited scale. All our aircraft are compatible with commercially available SAF today. Procurement decisions related to fuel are largely the responsibility of our major partners, therefore the short-medium term transition to SAF should have minimal financial impacts.
+Technology developments that result in new regional aircraft types in the future (including new engine types), could materially reduce the demand and residual value of our current regional fleet.
+MANAGEMENT & MITIGATION. 
+Our major airline partners select the aircraft type contracted with SkyWest. For the most part, SkyWest will acquire and finance the new aircraft to be placed under contract, and the financing term and the flying contract term are largely co-terminus, which reduces financing risk if aircraft are not extended at the contract expiration. To the extent new regional aircraft types are developed in the future with low-carbon technologies, we anticipate coordinating demand with our major airline partners for the new aircraft type and would consider placing such aircraft on our operating certificate. We would consider acquiring and placing the newly developed aircraft type under contract with our major airline partners, similar to our current contract model.
+If our existing fleet is replaced in the future with new aircraft types with low-carbon technologies, the remaining financing cash flow risk on our existing fleet is significantly mitigated based on the flying contract term largely being co-terminus with the financing term.
+All our aircraft can utilize SAF that is commercially available today (up to 50% blend). However, our major airline partners purchase the majority of the fuel used in our operations.
+In 2021, we entered into a partnership with Eve Air Mobility, an eVTOL initiative targeting urban transit. We will continue collaborating with industry on emerging technologies.
+LONG TERM 2036 AND BEYOND
+
+
+30. 
+CLIMATE TRANSITION RISK. 
+MARKET. 
+DETAILS. 
+Public perception of air travel may impact future customer demand and behavior, which impacts our major airline partners.
+Partners may rely less on their regional partners or may need their regional partners to transition to low carbon aircraft as emerging technologies become available.
+POTENTIAL FINANCIAL IMPACT. 
+The potential financial impact resulting from a transition to a new regional aircraft type in the future (whether driven by technology or market demand) is outlined in the Technology risk section and would apply in part to this section.
+If passenger demand on existing regional aircraft is diminished due to public perception, alternative modes of transportation or for any other reason, our current fleet operating under flying contracts may not be extended and have limited residual value.
+We may be required to make significant future capital investment and incur incremental costs in the event we need to transition to a new aircraft type as a result of climate change demand. Adding a new aircraft type to our operating certificate would likely result in additional training costs, and other capital requirements such as additional spare engines and other aircraft parts.
+MANAGEMENT & MITIGATION. 
+We continue to coordinate closely with our major airline partners regarding demand for the aircraft type we have under contract. In recent years, we have reduced the number of older, less-efficient 50-seat aircraft we operate from 184 aircraft at the end of 2018 to 140 aircraft and the end of 2021.
+We are also monitoring and have recently become an active partner in the development of alternative travel vehicles such as eVTOL aircraft.
+Mitigating factors associated with the reduction in demand and residual value for existing fleet are outlined in the Technology Management & Mitigation section and would apply in part to this section.
+REPUTATION. 
+DETAILS. 
+The risk of brand impact and increased stakeholder concern, which could include: • Public pressure to accelerate decarbonization efforts • Stigmatization of the sector • Increased stakeholder concern. 
+POTENTIAL FINANCIAL IMPACT. 
+Our investors or other stakeholders may demand more aggressive sustainability goals and practices.
+Investors or other stakeholders may use voting rights or public pressure to compel SkyWest to incur costs for environmental initiatives and offsets, regardless of our current business model and relationships with our major airline partners. Expenditures for costs such as carbon offsets would negatively impact our financial results.
+MANAGEMENT & MITIGATION. 
+Under our flying agreements, the passengers we carry purchase their tickets through our major airline partners. Our major airline partners take the responsibility for marketing and passenger brand experience on flights we operate under our flying contracts.
+We are committed to working with our major partners and staying involved with industry efforts to decarbonize the sector. We are also committed to being transparent with our emissions and sustainability efforts.
+Mitigation factors associated with incurring incremental costs not currently contemplated under our flying contracts is outlined in the Policy & Legal section.
+MEDIUM TERM 2026-2035. 
+MEDIUM TERM 2026-2035. 
+CLIMATE PHYSICAL RISK. 
+ACUTE. 
+DETAILS The risk of increasing severity of weather events.
+POTENTIAL FINANCIAL IMPACT These events decrease revenue and can increase costs, depending on the severity and significance of the operational impact.
+MANAGEMENT & MITIGATION Our Operations Control Center effectively manages this risk today and regularly assesses the impact of this risk to prepare for increasing severity.
+CHRONIC. 
+DETAILS The risk of longer-term changes in weather patterns.
+POTENTIAL FINANCIAL IMPACT. 
+A combination of airport elevation and warmer temperatures may result in aircraft take-off and landing weight restrictions on certain flights we operate. Depending on these environmental factors and our flight profile, we may need to reduce the number of passengers we can carry on certain flights below full capacity. Limiting the number of passengers under our prorate operations may negatively impact our profitability. Limiting the number of passengers under our CPA may result in long-term lower demand for our aircraft.
+MANAGEMENT & MITIGATION Our Operations Control Center effectively manages this risk today and regularly assesses the impact of this risk to prepare for increasing severity.
+SHORT TERM 2021-2025. 
+MEDIUM TERM 2026-2035. 
+MEDIUM TERM 2026-2035. 
+LONG TERM 2036 AND BEYOND
+
+
+Climate and Environment. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 31. 
+RESOURCE EFFICIENCY. 
+DETAILS Reduce fuel consumption by continuing to modernize our fleet with more efficient aircraft and operational improvements.
+POTENTIAL FINANCIAL IMPACT Capital investment will be necessary to acquire required assets. Reduced fuel consumption/cost could benefit our prorate operation and be a pass-through benefit for our partners.
+REALIZATION & MANAGEMENT. 
+Our existing fleet modernization strategy will continue to reduce emissions and increase fuel efficiency.
+We also collaborate with our major airline partners regarding our fuel efficiency programs with the objective of leveraging industry best practices. We also consider safety guidelines and operating performance when establishing fuel efficiency initiatives.
+CLIMATE OPPORTUNITIES. 
+SHORT TERM 2021-2025 MEDIUM TERM 2026-2035. 
+ENERGY RESOURCES. 
+DETAILS Sustainable Aviation Fuel (SAF) is available now, although with limited scale. Increased utilization of SAF will lower emissions and counters potential carbon regulation.
+POTENTIAL FINANCIAL IMPACT Our major partners are responsible for most of our fuel cost. Our prorate operation may see increased fuel cost due to SAF, but the reduced emissions will add value.
+REALIZATION & MANAGEMENT All our aircraft can utilize SAF that is commercially available today (up to 50% blend).
+We will collaborate with our partners on their fuel procurement on aircraft we operate under contract.
+MEDIUM TERM 2026-2035. 
+PRODUCTS & SERVICES. 
+DETAILS Partnering with our major airline partners to ensure we support their environmental decarbonization goals.
+POTENTIAL FINANCIAL IMPACT Collaboration and alignment should help continue to secure contracts with our existing major airline partners.
+REALIZATION & MANAGEMENT Coordination with major airline partners on environmental and strategies and initiatives.
+MEDIUM TERM 2026-2035 LONG TERM 2036 AND BEYOND. 
+MARKET. 
+DETAILS Considering aircraft weight and engineering, low carbon or zero carbon aircraft developments may be a potential replacement for smaller aircraft types, including regional jets, initially.
+POTENTIAL FINANCIAL IMPACT Capital investment will be necessary to acquire required assets. Low carbon aircraft operations are expected to play a role in order to meet 2050 industry goals.
+REALIZATION & MANAGEMENT. 
+Continued engagement with alternative powerplant (engines) manufacturers and our major airline partners.
+Our business model currently includes using SkyWest capital for the purchase of new aircraft to be placed under flying contracts. Our objective is to maintain a balance sheet that would continue to facilitate using our capital for the purchase of new aircraft in the future.
+MEDIUM TERM 2026-2035 LONG TERM 2036 AND BEYOND. 
+RESILIENCE. 
+DETAILS Continue to evaluate our network, facilities, and fleet to adapt as needed to changing weather patterns, as well as evolving emissions requirements.
+POTENTIAL FINANCIAL IMPACT As we further develop our resiliency plan, we intend to consider how our business continuity could be impacted. We also intend to improve existing financial risk management processes by including climate impact considerations.
+REALIZATION & MANAGEMENT. 
+Our operational teams have processes in place to manage operational disruptions when cancellations occur due to weather or other circumstances, and they have processes in place to manage our operations through varied climate conditions.
+Our facilities are located strategically throughout the United States, making us less susceptible to wide-spread damage or impact from significant weather, or changing conditions.
+We will continue to engage with engine and aircraft manufacturers to ensure our fleet remains efficient and relevant.
+LONG TERM 2036 AND BEYOND
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 32. 
+EMISSIONS TARGETS AND DISCLOSURES
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 33 CORPORATE RESPONSIBILITY REPORT 2022 SKYWEST INCORPORATED 33. 
+Approximately 88-90% of our fleet operate under CPA.
+Based on the economic factors within the contract flying model, our major airline partners take the responsibility for fuel procurement and cost on aircraft operating under our contract flying.
+In this report, we have separated our contract flying fuel consumption and emissions from our prorate fuel consumption and emissions. We anticipate our major airline partners will take responsibility for aircraft fuel burn emissions incurred under our contract flying agreements. We collaborate with our major airline partners regarding their fuel emission initiatives on aircraft operating under flying contracts. Our aircraft fuel emission goals included in this report are broken out to disclose our total emissions, as well as emissions specific to fuel consumed under our prorate agreements.
+Climate and Environment
+
+
+CORPORATE RESPONSIBILITY REPORT 2021 SKYWEST INCORPORATED 34. 
+EMISSIONS DISCLOSURE Scope 1 Emissions. 
+As we continue to enhance our reporting framework and evaluate our material climate risks, we expect to formalize our goals, metrics, and progress in future reports. Our primary goal for 2022 is to begin establishing goals, metrics, and measurement of progress, in collaboration with our major airline partners’ strategies and direction on flights we operate under contract, as applicable. As outlined, we have implemented various programs in recent years to reduce SkyWest’s impact on the environment.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 35. 
+Climate and Environment. 
+PRORATE. 
+TOTAL FLEET. 
+E175 STATS. 
+Jet Fuel Emissions Gallons (in MM)
+Metric Tons CO2e ASMs Metric Tons CO2e Per Million ASM. 
+Average Stage Length 2019 48 465,022 1,715 271 320 2020 33 318,799 1,310 243 309 2021 43 421,236 1,614 261 323. 
+Jet Fuel Emissions Gallons (in MM)
+Metric Tons CO2e ASMs Metric Tons CO2e Per Million ASM. 
+Average Stage Length 2019 620 6,063,290 27,769 218 533 2020 420 4,106,930 19,535 210 542 2021 585 5,719,281 26,786 213 562. 
+Jet Fuel Emissions Gallons (in MM)
+Metric Tons CO2e ASMs Metric Tons CO2e Per Million ASM. 
+Average Stage Length 2019 249 2,438,074 12,724 192 692 2020 204 1,995,002 10,405 192 626 2021 291 2,846,335 14,351 198 629 • NOTE: 2020 flight counts, fuel burn, and emissions were impacted due to COVID-19 disruptions and significant schedule impacts.
+• Average stage length changes year-to-year based on route selections made by our major airline partners, which impacts the MT per ASM comparability. Additionally, seating configuration changes based on our partners’ requests can result in higher MT per ASM (ex: E175s configured from 76 seats to 70 seats on some aircraft).
+• From the beginning of 2019 to the end of 2021, SkyWest increased its number of E175s from 146 to 211, or by 45%. Our metric tons CO2e per million ASM on our E175 fleet was 198 in 2021.
+• From the beginning of 2019 to the end of 2021, SkyWest decreased its number of CRJ200s from 184 to 140, or by 24%. Our metric tons CO2e per million ASM on our CRJ200 fleet was 250 in 2021.
+
+
+36. 
+SCOPE 1 - GROUND SUPPORT EQUIPMENT (GSE) AND MAINTENANCE EMISSIONS. 
+Motorized GSE - equipment used at the airport to service aircraft between flights - and maintenance vehicles and equipment contribute to SkyWest’s carbon emissions.
+* Partially estimated based on total fuel cost and average weekly fuel prices by region. 
+Year Diesel/Gasoline Gallons Metric Tons CO2e 2021 240,042* 2,314*
+At the end of 2021, 45% of SkyWest’s motorized GSE was electric. Limitations on electric GSE includes the availability of electric alternatives and the airports’ infrastructure for charging. Our objective is to improve the mix of electric GSE, where practical and available. New GSE purchased is either electric or, where electric is not available or practical, diesel equipment whose engines meet the EPA Tier 4 emission standards.
+SkyWest airport equipment that is predominately FUELPOWERED includes: • Tugs • De-ice Trucks • Trucks and Other vehicles • Ground Power Units • Engine Air Start Units • Heaters • Forklifts. 
+SkyWest airport equipment that is predominately ELECTRICPOWERED includes: • Baggage Belt Loaders • Jetway Conveyors • Potable Water, Lavatory, and Other Electric Carts
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 37. 
+SCOPE 2 EMISSIONS. 
+SkyWest’s Scope 2 emissions include indirect emissions from the generation of purchased electricity to run our operations.
+* Scope 2 purchased electricity includes leased and owned facilities. Facilities leased by our major airline partners on our behalf are not included. The amounts above includes kWH that are directly billed to SkyWest and estimated kWH for indirect billed purchased electricity.
+Year kWH Metric Tons CO2e 2021 22,406,061* 9,284*
+
+
+38. 
+ADDITIONAL EFFORTS TO REDUCE ENVIRONMENTAL IMPACT
+
+
+Climate and Environment. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 39. 
+Aircraft weight reduction programs, including use of Electronic Flight Bags by Flight Operations, the InFlight eFAD and Slimline seating on our E175 aircraft fleet. Each seat is approximately 20 lbs. lighter than a standard seat and reduces the amount of fuel consumption of our E175 aircraft.
+SkyWest has worked aggressively to reduce our reliance on paper manuals, forms, and documents, reducing waste. We have converted all company manuals to electronic format, including converting all aircraft maintenance logs into electronic form, further eliminating waste while increasing efficiencies.
+In 2021 we finished upgrading all software for more efficient heating and cooling HVAC systems at our headquarters.
+We maintain active initiatives to transition from florescent, incandescent, and halogen lighting to LED • Current efforts have already reduced SkyWest headquarters’ energy usage by over 60%. We have transitioned all lighting in parking areas to 100% LED. Headquarter building conversion to LED is 40% complete and will be complete by end of 2022.
+• We have transitioned all hangar low flighting to LED in four large hangars • Construction on the most recent three hangars included LED lighting and smart switching. 
+Construction of the hangars at Boise (BOI), Nashville (BNA), and Oklahoma City (OKC) included smart, high-efficiency HVAC systems.
+We have ongoing oil reclamation programs at all maintenance bases, and are replacing end-of-life, gas-powered ground service equipment with battery and propane-powered equipment.
+Electronic flight bags have been in use for several years at SkyWest, reducing both unnecessary weight and paper waste in day to day operations. Printers onboard the aircraft in the flight deck are necessary for safety critical information; however, strategic reduction of paper utilization is an ongoing initiative. Based on feedback from crewmembers in 2021, auto-print functions were adjusted in November saving an estimated 750 rolls of expensive thermal paper. Anticipated savings in the future are an estimated 6,000 rolls a year ($25,000) by this initiative.
+WEIGHT REDUCTION. 
+FACILITY/ENERGY WASTE REDUCTION INITIATIVES. 
+FLIGHT DECK PAPER WASTE REDUCTION. 
+Throughout 2021, SkyWest’s InFlight department partnered with a non-profit comprised of flight crew to increase sustainability awareness throughout cabin operations. They published an updated recycling guide and published sustainability-focused articles for a quarterly newsletter. These publications provide SkyWest flight attendants with practical knowledge they can use to minimize plastic waste and recover recyclable materials effectively.
+Our major airline partners determine what materials are used for onboard service and decide whether to maintain a recycling program. SkyWest collaborates with our major partners to ensure we are maximizing our onboard recycling opportunities and minimizing onboard waste.
+In an effort to be more eco-friendly and sustainable, The Uniform Closet allows flight attendants to conveniently purchase gently used uniform items at a reduced price, and have them mailed right to their door.
+INFLIGHT SUSTAINABILITY INITIATIVES. 
+SkyWest actively participates in noise abatement air traffic procedures across the country.
+We have received SEA-Tac’s Fly Quiet Award several years running.
+NOISE REDUCTION
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 40. 
+SkyWest complies with, and is committed to exceeding where possible, the US Environmental Protection Agency (EPA), Clean Air Act (CAA), Title 40 CFR Part 63.743. 
+Protection of Environment Standards and programs specific to state regulations, programs, and measures.
+ENVIRONMENTAL COMPLIANCE | CLEAN AIR AND EPA COMPLIANCE
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 41. 
+Climate and Environment. 
+SkyWest has established management and accountability of its systems through documented standard practices regarding Clean Air Act Compliance, Discharge Response, and Dangerous Goods & Hazardous Materials. Responsibility and authority is documented and demonstrated through the organizational structure including the Managing Director of Safety who is responsible for SkyWest environmental policies, procedures, and processes including review and update as appropriate.
+SkyWest expects and ensures through established auditing procedures that vendors and suppliers have demonstrated their accountability and compliance to all state and federal standards, regulations, programs, and measures, and that each have a stated environmental policy.
+NUMBER OF ENVIRONMENTAL NOTICES OF VIOLATION: 0. 
+AMOUNT OF ENVIRONMENTAL FINES AND PENALTIES: 0
+
+
+CORPORATE RESPONSIBILITY REPORT 2021. 
+OUR COMMITMENT TO HUMAN RIGHTS 42
+
+
+SKYWEST INCORPORATED 43. 
+SLAVERY AND HUMAN TRAFFICKING. 
+SkyWest condemns all forms of human rights abuses, including human trafficking and exploitation of children. SkyWest fully supports and respects the principles set forth in various modern slavery and anti- human trafficking laws, which are consistent with our Guiding Principles and commitment to be a force for global good. We take our responsibility as a global citizen seriously and are proud to continue taking action against human rights abuses.
+Social Responsibility
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 44. 
+WE EMBODY A CULTURE THAT SHARES COMMON VALUES BASED ON SEVEN GUIDING PRINCIPLES:
+Excellent Service and Quality. 
+Health and Safety First. 
+Personal and Operational Reliability. 
+Respect and Teamwork. 
+Fairness and Consistency. 
+Personal and Corporate Integrity. 
+Superior Profitability and Efficient Use of All Resources. 
+GUIDING PRINCIPLES. 
+These guiding principles and policies help ensure that we conduct business in an ethical and responsible manner, including a commitment to human rights and assurance that human trafficking and modern slavery do not occur within SkyWest or our supply chain. SkyWest further demonstrates our guiding principles in our Company Code of Conduct which defines how we are to conduct business and key compliance policies that apply to our commitment to human rights and our interactions with each other as employees, customers, and business partners. The Board, with the assistance of the Audit Committee, is responsible for ensuring compliance with this Code of Conduct and commitment to human rights.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 45. 
+Social Responsibility. 
+SkyWest is firmly committed to human rights and recognizes our social responsibility across all our operations, including where we depend on people outside of our organization. SkyWest’s management professionals follow rigorous internal material standards for sourcing, procurement, and selection of our suppliers and business partners; including due diligence to uphold human rights such as to prevent and combat human trafficking and child exploitation. SkyWest has implemented a Vendor Code of Conduct, which forms an integral part of our vendor contracts. SkyWest utilizes senior manager review for third-party contracts, which includes the identification and coordination of these initiatives.
+Our sourcing process defines how we work with suppliers to ensure that they are operating to our standards. This includes a due diligence process to screen all key suppliers and eliminate any potential negative impacts of our supply chain. Through our Vendor Code of Conduct, we hold our vendors to the same high standards we apply to ourselves.
+OUR SUPPLY CHAIN AND SUPPLIER DUE DILIGENCE. 
+SkyWest demonstrates our commitment to human rights and to combat modern slavery through our policies, the direct and strategic support of leadership, as well as training, employee participation, and committed industry leadership.
+SkyWest condemns all forms of exploitation of children and requires that its employees refuse to take part in activities that cause or further human trafficking violations. SkyWest prohibits the use of company facilities, resources, equipment, or travel privileges for activities that support human trafficking or the sexual exploitation of children. This includes any use of company computers, networks, phones, or other equipment for the viewing, storage, distribution, promotion, or other use that sexually exploits children. Employees who participate in human trafficking activities or the sexual exploitation of children will be subject to termination from employment. SkyWest requires that employees report to managers, supervisors, or local authorities, as appropriate, any passenger or employee believed to be engaged in human trafficking activities or the sexual exploitation of children.
+For years, SkyWest has provided specific human trafficking awareness training to all frontline employees, including training on what to do if witnessing suspected indicators of trafficking either in flight or in the airport. This training includes Blue Lightning training, enabling them to spot indicators of possible training in airports and on flights. Blue Lightening Initiative (BLI) training – led by U.S. Department of Homeland Security, U.S. Customs and Border Protection, and the U.S. Department of Transportation, trains airline personnel to identify potential traffickers and human trafficking victims.
+COMMITMENT TO HUMAN RIGHTS AND COMBATTING MODERN SLAVERY
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 46. 
+DIVERSITY AND INCLUSION. 
+Our people are our most valuable assets. We strive to embrace the individual differences and unique capabilities and talents of our workforce through diversity and inclusion policies and initiatives. This commitment to diversity and inclusion contributes to our overall culture and success.
+Our Commitment to Human Rights
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 47. 
+Social Responsibility. 
+SkyWest is an equal opportunity employer and is focused on encouraging and celebrating diversity and inclusion. SkyWest has always taken steps to support diverse workgroups irrespective of race, religion, gender, national origin, disability, sexual orientation, or similar classifications, and believes that all people, regardless of their background, should have an opportunity to achieve their dreams.
+Employee Demogra. 
+Company 40% Female 72.2% White 3.6% Two or More Races 2.2% Native Hawaiian or Other Pacific Islander 0.6% American Indian/ Alaskan Native 4.6% Asian 7.7% Black or African American 9.2% Hispanic or Latino. 
+E T H N I C I T Y B Y D E P A R T M E N T. 
+Maintenance. 
+Airport Operations 2021. 
+Male 60%
+B O A R D M E E T I N G Q 4 2 0 2 1. 
+Employee Demographics. 
+Company 2019 2020 40% Female 72.2% White 3.6% Two or More Races 2.2% Native Hawaiian or Other Pacific Islander 0.6% American Indian/ Alaskan Native 4.6% Asian 7.7% Black or African American 9.2% Hispanic or Latino. 
+Hires 63.4% White 4.8% Two or More Races 3.6% Native Hawaiian or Other Pacific Islander 0.7% American Indian/ Alaskan Native 4.5% Asian 10.9% Black or African American 12.1% Hispanic or Latino 65% White 5.20% Two or More Races 2.90% Native Hawaiian or Other Pacific Islander 0.85% American Indian/ Alaskan Native 4.70% Asian 11% Black or African American 11% Hispanic or Latino. 
+E T H N I C I T Y B Y D E P A R T M E N T 0 1000 2000 3000 4000 5000 6000 7000. 
+InFlight. 
+Flight Operations. 
+Maintenance. 
+Airport Operations. 
+White. 
+American Indian/Alaskan Native. 
+Asian. 
+Hispanic or Latino. 
+Native Hawaiian/Other Pacific Islander. 
+Black or African American. 
+Two or More Races. 
+E T H N I C I T Y B Y G E N D E R 0 2000 4000 6000 8000 10000 12000. 
+Male. 
+Female 2021. 
+Board Meeting: Environmental, Social & Corp Gov (ESG)
+Male 60% 45% Female Male 55% 40% Female Male 60% 40% Female 60% Male. 
+ETHNICITY BY DEPARTMENT
+
+
+48. 
+SkyWest employs a workforce with a wide array of backgrounds, work styles, and talents. Recognizing, appreciating, and incorporating these unique qualities and contributions is critical to our success. Operating this way stimulates creative solutions and innovation, helps us attract top talent, and supports our mission to be the employer, investor, and partner of choice. SkyWest benefits in many ways from our commitment to diversity and inclusion, including:
+DIVERSITY AND INCLUSION. 
+ATTRACTING TOP TALENT. 
+ENCOURAGING CREATIVITY. 
+PROVIDING EXCEPTIONAL SERVICE FOR OUR PASSENGERS
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 49. 
+Social Responsibility. 
+We seek to reflect diversity and inclusion in our culture, practices, and relationships inside and outside the company. We continue building on those foundations through a number of efforts across every spectrum of the employee experience. This includes:
+SkyWest finds leading, diverse talent through publishing all positions on both our internal and external career websites, supporting professional development leaves, investment in targeted advertising, social media outreach, employee referrals, and relationships with community based organizations and learning institutions.
+The SkyWest Inclusion Council is made up of frontline employees who work directly with the executive team on projects, ideas, and efforts to continue enhancing SkyWest’s culture of respect and inclusion.
+All employees are expected to promote diversity and inclusion by treating others with respect and creating a workplace where everyone is valued. All employees are required to complete diversity and inclusion training, where they learn the importance of seeing differences as an opportunity for learning, understanding, and collaboration. This training reaffirms our commitment to diversity and inclusion by ensuring every employee is familiar with the benefits of a diverse, inclusive team, and company policies that uphold this focus.
+Acknowledging and bringing together individual differences and distinct capabilities benefits our organization, our employees, and our customers. SkyWest has a long history of recognizing our people and the incredible work they do. SkyWest regularly amplifies those efforts through organic campaigns to feature employees’ stories. We have created ongoing opportunities to highlight employees from different backgrounds and cultures throughout the year.
+SkyWest invests in retaining the brightest talent by providing a range of talent development opportunities, including mandatory compliance training, new hire training, and general professional development.
+HIRING. 
+INCLUSION COUNCIL. 
+TRAINING. 
+EMPLOYEE RECOGNITION. 
+CAREER GROWTH & DEVELOPMENT
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 50. 
+FAMILY-FRIENDLY POLICIES. 
+SkyWest offers Leave of Absence options that meet or exceed the requirements of state and federal laws governing family and medical leave, pregnancy, military, and worker’s compensation leave.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 51. 
+Social Responsibility. 
+SkyWest Medical Leave (SMLA) is offered to eligible employees after Family and Medical Leave (FMLA) is exhausted or at any time when they do not qualify for FMLA. SMLA can be taken when an employee’s expected time away from work is 14 days or longer and also on an intermittent basis. SkyWest also offers personal leave for up to 12 months to eligible employees who want to continue their education in preparation for added responsibilities with the company, want to accept temporary employment in federal, state, or local government or with an organization devoted to community service, or attend to personal matters for an extended period of time.
+SkyWest supports career advancement and opportunity for all employees. In 2018, the company implemented a Professional Leave Program (PRO), allowing current employees to take a professional leave in order to pursue the necessary training and certifications to become a pilot, A&P mechanic, or airline dispatcher. Not only are employees encouraged and given the resources to succeed, but supervisors stay in regular contact to help monitor their progress and offer advice along the way. As a bonus, employees who want to participate in the PRO program are able to keep their seniority.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 52. 
+COMPANY RECOGNITION. 
+SkyWest is full of exceptional people who work together every day to accomplish great things. Whether for impeccable quality, top training, and reliability, or a team of the best professionals in the industry, SkyWest continues to receive accolades.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 53. 
+Social Responsibility. 
+Awarded to President & CEO Chip Childs in 2020 2017, 2018, and 2019. 
+By hiring the best and training the best throughout the nation, SkyWest has been recognized in many ways:
+TOP 50 WINNER 2018, 2021, and 2022
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 54. 
+STRENGTHENING OUR COMMUNITIES. 
+SkyWest Airlines believes in contributing to the communities we serve by supporting charitable organizations and other reputable associations. Our primary focus is to improve these communities and their efforts to give back.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 55. 
+Social Responsibility. 
+This includes contributions to and relationships with a number of reputable organizations, including but not limited to the following:
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 56. 
+SPIRIT OF SKYWEST CRISIS FUND 501(c)3. 
+The SOS Crisis Fund is a non-profit, charitable organization that exists solely to help SkyWest people who are facing a severe hardship. Funds are contributed by SkyWest people for SkyWest people, and the SOS. 
+Crisis Fund’s success is 100 percent dependent on the generosity of team members. Even the smallest contributions can make a big difference in the life of a co-worker affected by crisis.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 57. 
+Social Responsibility. 
+Grants are available for employees, eligible retirees, and their dependents up to 23 years old who are facing an unforeseen and unavoidable crisis and do not have any other resources available to assist them. This may include natural or man-made disasters, criminal acts, and other unforeseen crises that render them unable to recover without assistance.
+Provide confidential, timely, short-term crisis relief to those in the SkyWest family needing basic assistance unavailable through other resources.
+Seek ways to broaden charitable efforts that support SkyWest people in need.
+Provide an avenue for SkyWest people to financially support each other through tax-deductible charitable contributions.
+Award grants fairly and consistently based on eligibility and need, without bias and distinctly separate from employment status.
+Provide coordinated, central support center for team members and leaders organizing charitable fundraising efforts.
+SOS: CRISIS FUND OBJECTIVES/MISSION
+
+
+58. 
+Task Force on Climate-related Financial Disclosures (TCFD) Index. 
+Disclosure Focus Area TCFD Recommended Disclosure Source. 
+GOVERNANCE. 
+Disclose the organization’s governance around climate-related risks and opportunities. 
+Describe the board’s oversight of climate-related risks and opportunities. Environmental Governance. 
+Describe management’s role in assessing and managing climate-related risks and opportunities.
+Environmental Governance. 
+STRATEGY. 
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning where such information is material.
+Describe the climate-related risks and opportunities the organization has identified over the short, medium and long term.
+Climate Strategy. 
+Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+Climate Strategy. 
+Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario. 
+Climate Strategy. 
+RISK MANAGEMENT. 
+Disclose how the organization identifies, assesses and manages climate-related risks.
+Describe the organization’s processes for identifying and assessing climate-related risks. Climate Risk Management. 
+Describe the organization’s processes for managing climate-related risks. Climate Risk Management. 
+Describe how processes for identifying, assessing and managing climate-related risks are integrated into the organization’s overall risk management.
+Climate Risk Management. 
+METRICS AND TARGETS. 
+Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.
+Emissions Targets and Disclosures. 
+Disclose Scope 1, Scope 2 and, if appropriate, Scope 3 greenhouse gas emissions, and the related risks.
+Emissions Targets and Disclosures. 
+Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.
+Emissions Targets and Disclosures
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 59. 
+Sustainability Accounting Standards Board (SASB) Index. 
+GREENHOUSE GAS EMISSIONS. 
+Gross global Scope 1 emissions Emissions Targets and Disclosures. 
+Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets Emissions Targets and Disclosures (1) Total fuel consumed, (2) percentage alternative, (3) percentage sustainable (1) 585 million gallons, (2) 0%, (3) 0%
+ACCIDENT & SAFETY MANAGEMENT. 
+Description of implementation and outcomes of a Safety Management System Safety System Overview. 
+Number of aviation accidents* 3 2 Flight Attendant Injuries 1 Ground Damage. 
+Number of governmental enforcement actions of aviation safety regulations 0. 
+SASB ACTIVITY METRICS. 
+Available seat miles (ASM) 26,786 (millions)
+Passenger load factor 74.6. 
+Revenue passenger miles (RPM) 19,982. 
+Revenue ton miles (RTM)** 1,998 (millions)
+Number of departures 749,943. 
+Average age of fleet 11.7. 
+LABOR PRACTICES. 
+Percentage of active workforce covered under collective bargaining agreements 91.1% (1) Number of work stoppages and (2) total days idle 0,0. 
+COMPETITIVE BEHAVIOR. 
+Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations $0. 
+Time period for data provided is calendar year 2021.
+SkyWest uses miles for our operational data reporting, rather than kilometers as in the SASB metrics.
+* An accident is defined according to ICAO in Annex 13 – Aircraft Accident and Investigation as an occurrence associated with the operation of an aircraft that takes place between the time any person boards the aircraft with the intention of flight until such time as all such persons have disembarked, in which conditions (a), (b), and/or (c) are met. a) A person is fatally or seriously injured as a result of: being in the aircraft; direct contact with any part of the aircraft, including parts which have become detached from the aircraft; or direct exposure to jet blast. Except when the injuries are from natural causes, self-inflicted or inflicted by other persons, or when the injuries are to stowaways hiding outside the areas normally available to passengers and crew. b) The aircraft sustains damage or structural failure which: adversely affects the structural strength, performance, or flight characteristics of the aircraft; and would normally require major repair or replacement of the affected component. Except engine failure or damage when the damage is limited to the engine, its cowlings, or accessories, or for damage that is limited to propellers, wing tips, antennas, tires, brakes, fairings, small dents, or puncture holes in the aircraft skin. c) The aircraft is missing or is completely inaccessible.
+** Weight, in tons, of paying passengers (estimated 100kg per passenger including luggage) multiplied by distance traveled. Revenue generating cargo not included.
+
+
+60. 
+External Assurance Report. 
+
+ 
+
+
+SkyWest, Inc.
+ 
+Created by: Sustainable Business Consulting, LLC. 
+March 2022. 
+
+
+SkyWest 2021 Scope 1 & 2 GHG Validation. 
+Summary Report. 
+
+ 
+SkyWest, Inc. 444 S River Rd St. George, UT 84790 Sustainable Business Consulting 3409 California Ave SW Unit C Seattle, WA 98116 March 15, 2022. 
+Dear Eric,
+Sustainable Business Consulting (SBC) is pleased to provide an independent and impartial validation of SkyWest’s 2021 Scope 1 and Scope 2 GHG Inventory.
+SBC assessed the calculation tools provided by SkyWest for methodology, emission factors and completeness of emission sources covered within scope 1 and scope 2 emission categories. SBC discussed in detail the company’s data collection capture and calculation methods. This report describes the procedures used to test and validate the methodology and calculations used to report the GHG inventory for 2021.
+ _________________ Purnima Subramanian March 15, 2022 _______________________ Date. 
+About SBC. 
+SBC has over 15 years of experience advising our clients on strategic sustainability practices to inspire and empower them to drive positive impact. We develop customized approaches to drive unique, valuedriven solutions to solve your challenges, drive innovation, and create opportunities.
+The SBC team has years of diverse experience in GHG accounting as an auditor and technical expert, providing GHG services in a wide variety of sectors that include commercial operations, industrial, chemical, manufacturing and others.
+ 
+Disclaimer. 
+Given the scope of this project, the custom procedures executed for this engagement are unique. These procedures were designed to be appropriate for the validation of the methods and emissions calculations for SkyWest’s Scope 1 and Scope 2 GHG Inventory to meet limited assurance requirements.
+Sustainable Business Consulting (SBC) is independent of SkyWest, Inc. SBC has no conflicts of interest and are impartial reviewers of the company’s GHG data. This report is solely intended for the use of SkyWest, Inc.
+Procedures. 
+The goal of this project is to provide independent and impartial validation that the data provided by SkyWest accurately reflects all material emissions related activities that fall within Scope 1 and Scope 2 categories of SkyWest’s operations as per the GHG protocol. The information evaluated includes aggregated data, invoices and other “raw” data, examination of data collection systems, interviews with personnel pertinent to the requirements of Scope 1 and Scope 2 calculations.
+The SBC procedures utilized the GHG Protocol to validate the methodology and calculations of SkyWest’s Scope 1 and Scope 2 GHG inventory and to determine that the relevant emissions factors were within the assigned scope.
+Reporting Period: 2021 calendar year; January 1, 2021 through December 31, 2021. Scope of Reporting. 
+Scope 1: Jet fuel combustion, Ground Support Equipment fuel emissions Scope 2: Purchased electricity (location based).
+Key Findings. 
+SBC listed findings on emission factor sources as opportunities for improvement, that the SkyWest team resolved and updated. SBC also provided some Opportunities for Improvement as OFIs – these are recommendations for activities that can enhance the integrity, clarity, and reproducibility of SkyWest’s emissions entries into their calculation tools.
+All questions on data, calculation methodology, accuracy and completeness were resolved through discussion with SkyWest’s internal teams. Evidence was further provided to the verifier in the form of energy consumption invoices, aggregated fuel consumption reports to validate data collection procedures.
+ 
+
+ 
+
+
+Table 1 Issue Log: Opportunities for Improvement. 
+Issue Opportunity for Improvement Risk Rating. 
+Scope 1 Accuracy. 
+Majority of the calculations for GSE fuel use are based on fuel spend to evaluate fuel gallons consumed. While this methodology uses reliable sources and is accurate for the data available, it is recommended to improve data quality by collecting information on actual gallons consumed for future reporting.
+Low. 
+Scope 2 Completeness. 
+About 7% of facility locations where SkyWest currently operates were not accounted for in Scope 2 calculations due to inaccessibility of data for secondary estimations. These locations are considerably small based on the size of their operations. There is opportunity for improvement through scope expansion and inclusion of these locations in future reporting.
+Medium. 
+Data Collection Accuracy. 
+SkyWest currently does not automatically import raw data on energy consumption quantities from invoices for their scope 2 calculations. There is potential for keystroke / input errors and to avoid them it is recommended to automate data collection processes or include additional internal review steps for specific data inputs. 
+Medium. 
+Final Validation Statement. 
+The activities performed in SBC’s assessment of Scope 1 and Scope 2 GHG emission figures validates that the methodology and calculations used are substantiated and quality of primary data for the majority scope 1 and scope 2 emissions are accurately sourced. Opportunities for improvement were shared for further refinement of data collection and to ensure completeness of reporting on scope 2 locations.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 61. 
+Chip Childs President & CEO SkyWest, Inc.
+
+
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2022 SKYWEST INCORPORATED 62. 
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT. 
+Report Includes Our 2021 Efforts and Data 2022

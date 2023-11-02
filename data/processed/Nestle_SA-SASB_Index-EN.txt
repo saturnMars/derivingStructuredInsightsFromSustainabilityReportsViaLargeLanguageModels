@@ -1,0 +1,143 @@
+Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021
+
+
+Contents 3 GRI Index 3 General Disclosures 6 Economic 7 Environmental 9 Social 12 SASB Index. 
+This content index accompanies Nestlé’s Creating Shared Value and Sustainability Report 2021, which has been prepared in accordance with Global Reporting Initiative (GRI) Standards (Core) and the Sustainability Accounting Standards Board (SASB) Standard for the Processed Foods sector. It is designed to help stakeholders locate the relevant disclosures against each reporting standard.
+In addition to these reporting standards, our disclosures reflect the results of a comprehensive materiality assessment undertaken by an independent third party. We include all material disclosures in our index, not just those required to report in accordance with the GRI Standards: Core option. To be concise, our index excludes GRI disclosures that we did not report for 2021.
+For a detailed explanation of the indicators included in this index, visit the GRI website or the SASB website.
+The data in this report relate to the fiscal year ending December 31, 2021, unless otherwise stated.
+About this index. 
+Creating Shared Value and Sustainability Report 2021. 
+We unlock the power of food to enhance quality of life for everyone, today and for generations to come.
+Access the Nestlé Creating Shared Value and Sustainability Report 2021.
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 2
+
+
+GRI 102: General Disclosures. 
+Organizational profile 102-1 Name of the organization Front cover 102-2 Activities, brands, products, and services About Nestlé, page 4 Annual Review 2021, Our business, cover flap 102-3 Location of headquarters Annual Review 2021, Shareholder information, page 73 102-4 Location of operations Annual Review 2021, Factories, pages 64-65 102-5 Ownership and legal form Annual Review 2021, Shareholder information, page 73 Consolidated Financial Statements 2021, pages 154-168 102-6 Markets served Annual Review 2021, Our business, cover flap 102-7 Scale of the organization About Nestlé, page 4 Consolidated Financial Statements 2021 102-8 Information on employees and other workers Our people, page 54 102-9 Supply chain Produced sustainably, pages 39-42 https://www.nestle.com/sustainability/sustainable-sourcing 102-10 Significant changes to the organization and its supply chain There were no material changes to Nestlé’s supply chain in this reporting year 102-11 Precautionary principle or approach. 
+The Nestlé Policy on Environmental Sustainability: https://www.nestle.com/asset-library/documents/library/documents/environmental_sustainability/ nestl%C3%A9%20policy%20on%20environmental%20sustainability.pdf 102-12 External initiatives Stakeholder engagement, page 11 and examples throughout https://www.nestle.com/sustainability/responsible-business/partnership-action 102-13 Membership of associations https://www.nestle.com/sustainability/responsible-business/leadership-advocacy. 
+Disclosure Disclosure in CSV and Sustainability Report 2021 Further information. 
+GRI Index. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 3
+
+
+GRI Index. 
+Strategy 102-14 Statement from senior decision-maker A message from our Chairman and our CEO, page 2 102-15 Key impacts, risks, and opportunities Our focus areas and commitments, page 4 Risk Management and Materiality, page 9 Annual Review 2021, Principal risks and uncertainties, pages 60-63. 
+Ethics and integrity 102-16 Values, principles, standards, and norms of behaviour Ethical business, page 56 https://www.nestle.com/sustainability/responsible-business/ethics 102-17 Mechanisms for advice and concerns about ethics Ethical business, page 57 https://www.nestle.com/sustainability/responsible-business/ethics. 
+Governance 102-18 Governance structure ESG and Sustainability Governance, page 9 Annual Review 2021, Corporate Governance and Compliance, pages 66-72. 
+Stakeholder engagement 102-40 List of stakeholder groups Stakeholder engagement, page 11 and examples throughout https://www.nestle.com/sustainability/responsible-business/stakeholder-engagement 102-41 Collective bargaining agreements Our people, page 54 102-42 Identifying and selecting stakeholders Stakeholder engagement, page 11 and examples throughout https://www.nestle.com/sustainability/responsible-business/stakeholder-engagement 102-43 Approach to stakeholder engagement Stakeholder engagement, page 11 and examples throughout https://www.nestle.com/sustainability/responsible-business/stakeholder-engagement 102-44 Key topics and concerns raised Stakeholder engagement, page 11 and examples throughout https://www.nestle.com/sustainability/responsible-business/stakeholder-engagement. 
+Reporting practice 102-45 Entities included in the consolidated financial statements Consolidated Financial Statements 2021, pages 154-168 102-46 Defining report content and topic boundaries Risk Management and Materiality, page 9 https://www.nestle.com/sustainability/responsible-business/materiality 102-47 List of material topics Our focus areas and commitments, page 4 https://www.nestle.com/sustainability/responsible-business/materiality 102-48 Restatements of information About this report, page 59 and footnotes throughout the report 102-49 Changes in reporting About this report, page 59 https://www.nestle.com/sustainability/performance-reporting/
+GRI Index | General Disclosures. 
+Disclosure Disclosure in CSV and Sustainability Report 2021 Further information. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 4
+
+
+GRI Index 102-50 Reporting period. 
+The Creating Shared Value and Sustainability Report 2021 provides an update on our performance for each of our material issues during the calendar year ending 31 December 2021 102-51 Date of most recent report 8 March 2021 102-52 Reporting cycle. 
+The Creating Shared Value and Sustainability Report 2021 provides an update on our performance for each of our material issues during the calendar year ending 31 December 2021 102-53 Contact point for questions regarding the report About this report, page 59 creatingsharedvalue@nestle.com 102-54 Claims of reporting in accordance with the GRI Standards About this report, page 59 102-56 External assurance About this report, page 59 https://www.nestle.com/assurance-statement https://www.nestle.com/esg-kpis. 
+GRI 103: Management approach. 
+Management approach 103-1 Explanation of the material topic and its boundary Advancing regenerative food systems at scale, pages 5-11 https://www.nestle.com/sustainability 103-2 The management approach and its components Advancing regenerative food systems at scale, pages 5-11 https://www.nestle.com/sustainability 103-3 Evaluation of the management approach Advancing regenerative food systems at scale, pages 5-11 https://www.nestle.com/sustainability. 
+GRI Index | General Disclosures. 
+Disclosure Disclosure in CSV and Sustainability Report 2021 Further information. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 5
+
+
+GRI Index GRI Index | Economic. 
+Material Topics. 
+Management approach 103-1 Explanation of the material topic and its boundary Advancing regenerative food systems at scale, pages 5-11 Ethical business, pages 56-58 https://www.nestle.com/sustainability 103-2 The management approach and its components Advancing regenerative food systems at scale, pages 5-11 Ethical business, pages 56-58 https://www.nestle.com/sustainability 103-3 Evaluation of the management approach Advancing regenerative food systems at scale, pages 5-11 Ethical business, pages 56-58 https://www.nestle.com/sustainability. 
+GRI 200 Economic Standard Series. 
+Economic performance 201-2 Financial implications and other risks and opportunities due to climate change Risk Management and Materiality, page 9 https://www.nestle.com/tcfd-report. 
+Indirect economic impacts 203-1 Infrastructure investments and services supported Produced sustainably, pages 41-42, 46 Youth opportunities, pages 47-48 https://www.nestle.com/sustainability/human-rights/living-income 203-2 Significant indirect economic impacts Produced sustainably, pages 41-42, 46 Youth opportunities, pages 47-48 https://www.nestle.com/sustainability/human-rights/living-income. 
+Anti-corruption 205-1 Operations assessed for risks related to corruption Ethical business, page 57 https://www.nestle.com/sustainability/responsible-business/ethics 205-2 Communication and training on anti-corruption policies and procedures Ethical business, page 58 https://www.nestle.com/sustainability/responsible-business/ethics 205-3 Confirmed incidents of corruption and actions taken Ethical business, page 57 https://www.nestle.com/sustainability/responsible-business/ethics. 
+Tax 207-1 A description of the approach to tax https://www.nestle.com/sustainability/responsible-business/tax-management-strategy 207-2 A description of the tax governance and control framework https://www.nestle.com/sustainability/responsible-business/tax-management-strategy 207-3 A description of the approach to stakeholder engagement and management of stakeholder concerns related to tax https://www.nestle.com/sustainability/responsible-business/tax-management-strategy 207-4 All tax jurisdictions where the entities included in the organization’s audited consolidated financial statements, or in the financial information filed on public record, are resident for tax purposes https://www.nestle.com/sustainability/responsible-business/tax-management-strategy. 
+Disclosure Disclosure in CSV and Sustainability Report 2021 Further information. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 6
+
+
+GRI Index GRI Index | Environmental. 
+Material Topics. 
+Management approach 103-1 Explanation of the material topic and its boundary Helping to protect, renew and restore natural resources, pages 22, 25, 28, 31-32, 35-36 https://www.nestle.com/sustainability/climate-change/zero-environmental-impact https://www.nestle.com/sustainability/nature-environment/approach https://www.nestle.com/sustainability/water/resources-management https://www.nestle.com/sustainability/waste-reduction/packaging-strategy 103-2 The management approach and its components Helping to protect, renew and restore natural resources, pages 22, 25, 28, 31-32, 35-36 103-3 Evaluation of the management approach Helping to protect, renew and restore natural resources, pages 22, 25, 28, 31-32, 35-36. 
+GRI 300 Economic Standard Series. 
+Materials 301-1 Materials used by weight or volume Packaging and circularity, page 37 301-2 Recycled input materials used Packaging and circularity, page 37 301-3 Reclaimed products and their packaging materials Packaging and circularity, page 37. 
+Energy 302-1 Energy consumption within the organization Climate and nature, page 22. 
+Water 303-1 Interactions with water as a shared source Water, pages 31-32 303-2 Management of water discharge-related impacts Water, pages 31-32 303-3 Water withdrawal Water, page 32 303-5 Water consumption Water, page 32. 
+Biodiversity 304-2 Significant impacts of activities, products, and services on biodiversity Regenerative agriculture, 28-29 304-3 Habitats protected or restored Global Reforestation Program, 25-26. 
+Disclosure Disclosure in CSV and Sustainability Report 2021 Further information. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 7
+
+
+GRI Index. 
+Disclosure Disclosure in CSV and Sustainability Report 2021 Further information. 
+GRI Index | Environmental. 
+Emissions 305-1 Direct (Scope 1) GHG emissions Climate and nature, pages 21-22 305-2 Energy indirect (Scope 2) GHG emissions Climate and nature, pages 21-22 305-3 Other indirect (Scope 3) GHG emissions Climate and nature, pages 21-22. 
+Effluents and waste 306-2 Waste by type and disposal method Climate and nature, page 22. 
+Supplier environmental assessment 308-1 New suppliers that were screened using environmental criteria Climate and nature, page 29 https://www.nestle.com/sustainability/sustainable-sourcing 308-2 Negative environmental impacts in the supply chain and actions taken Forest Positive, pages 25-27 Produced sustainably, pages 39-42 https://www.nestle.com/sustainability/sustainable-sourcing. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 8
+
+
+GRI Index GRI Index | Social. 
+Material Topics. 
+Management approach 103-1 Explanation of the material topic and its Boundary Our people, pages 52-54 Human rights, page 44 Quality and food safety, page 16 Healthier lives through nutrition knowledge, page 17 Ethical business, page 56-57 https://www.nestle.com/sustainability/people-communities/equipping-workforce-future https://www.nestle.com/sustainability/human-rights/approach https://www.nestle.com/sustainability/nutrition-health/quality-safety https://www.nestle.com/sustainability/nutrition-health/healthcare-science https://www.nestle.com/sustainability/human-rights/data-protection-privacy 103-2 The management approach and its components 103-3 Evaluation of the management approach. 
+GRI 400 Social Standards Series. 
+Employment 401-3 Parental leave Our people, page 53. 
+Occupational health and safety 403-1 Occupational health and safety management system Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing 403-2 Hazard identification, risk assessment and incident investigation Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing 403-3 Occupational health services Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing 403-4 Worker participation, consultation and communication on occupational health and safety Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing 403-5 Worker training on occupational health and safety Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing 403-6 Promotion of worker health Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing 403-7 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships. 
+Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing 403-8 Workers covered by an occupational health and safety management system Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing 403-9 Work-related injuries Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing 403-10 Work-related ill health Employee health, safety and well-being, page 52-53, 55 https://www.nestle.com/sustainability/people-communities/health-safety-wellbeing. 
+Disclosure Disclosure in CSV and Sustainability Report 2021 Further information. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 9
+
+
+GRI Index GRI Index | Social. 
+Non-discrimination 406-1 Incidents of discrimination and corrective actions taken Ethical business, page 57. 
+Child labor 408-1 Operations and suppliers at significant risk for incidents of child labor Human rights, page 45 https://www.nestle.com/sustainability/human-rights/child-labor-education. 
+Forced or compulsory labor 409-1 Operations and suppliers at significant risk for incidents of forced or compulsory labor https://www.nestle.com/sustainability/human-rights/forced-labor. 
+Human rights assessment 412-1 Operations that have been subject to human rights reviews or impact assessments https://www.nestle.com/sustainability/human-rights/ 412-2 Employee training on human rights policies or procedures Human rights, page 45 https://www.nestle.com/sustainability/human-rights/ 412-3 Significant investment agreements and contracts that include human rights clauses or that underwent human rights screening https://www.nestle.com/sustainability/human-rights/
+Local communities 413-1 Operations with local community engagement, impact assessments, and development programs. 
+Sustainably produced, pages 40-41 Human rights, page 44 https://www.nestle.com/sustainability/sustainable-sourcing https://www.nestle.com/sustainability/human-rights/ 413-2 Operations with significant actual and potential negative impacts on local communities Sustainably produced, pages 40-41 Human rights, page 44 https://www.nestle.com/sustainability/sustainable-sourcing https://www.nestle.com/sustainability/human-rights/
+Supplier social assessment 414-1 New suppliers that were screened using social criteria Sustainably produced, pages 40-41 Human rights, page 44 https://www.nestle.com/sustainability/sustainable-sourcing https://www.nestle.com/sustainability/human-rights/ 414-2 Negative social impacts in the supply chain and actions taken Sustainably produced, pages 40-41 Human rights, page 44 https://www.nestle.com/sustainability/sustainable-sourcing https://www.nestle.com/sustainability/human-rights/
+Public policy 415-1 Political contributions https://www.nestle.com/sustainability/responsible-business/leadership-advocacy. 
+Disclosure Disclosure in CSV and Sustainability Report 2021 Further information. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 10
+
+
+GRI Index GRI Index | Social. 
+Customer health and safety 416-1 Assessment of the health and safety impacts of product and service categories Quality and food safety, page 16 https://www.nestle.com/sustainability/nutrition-health/quality-safety 416-2 Incidents of non-compliance concerning the health and safety impacts of products and services. 
+Quality and food safety, page 16 https://www.nestle.com/sustainability/nutrition-health/quality-safety. 
+Marketing and labeling 417-1 Requirements for product and service information and labeling Healthier lives through nutrition knowledge, page 18 https://www.nestle.com/sustainability/nutrition-health/healthcare-science https://www.nestle.com/sustainability/nutrition-health/first-1000-days https://www.nestle.com/sustainability/performance-reporting/breast-milk-substitute-compliance 417-2 Incidents of non-compliance concerning product and service information and labeling Healthier lives through nutrition knowledge, page 18 417-3 Incidents of non-compliance concerning marketing communications Healthier lives through nutrition knowledge, page 18. 
+Customer privacy 418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data. 
+Ethical business, page 57 https://www.nestle.com/sustainability/human-rights/data-protection-privacy. 
+Socioeconomic compliance 419-1 Non-compliance with laws and regulations in the social and economic area Ethical business, page 57 https://www.nestle.com/sustainability/human-rights/data-protection-privacy. 
+Disclosure Disclosure in CSV and Sustainability Report 2021 Further information. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 11
+
+
+Energy management 1) Total energy consumed FB-PF-130a.1 302-1 Climate and nature, page 22 2) Percentage grid electricity FB-PF-130a.1 302-1 Climate and nature, page 22 3) Percentage renewable FB-PF-130a.1 302-1 Climate and nature, page 22. 
+Water management (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress FB-PF-140a.1 303-1, 303-2, 303-3, 303-5 Water, page 32. 
+Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations FB-PF-140a.2 303-1, 303-2, 303-3, 303-5 Not disclosed. 
+Description of water management risks and discussion of strategies and practices to mitigate those risks FB-PF-140a.3 303-1, 303-2, 303-3, 303-5 Water, pages 30-33. 
+Food safety. 
+Global Food Safety Initiative (GFSI) audit (1) non-conformance rate and (2) associated corrective action rate for (a) major and (b) minor non-conformances FB-PF-250a.1 416-2 Quality and food safety, page 16. 
+Percentage of ingredients sourced from Tier 1 supplier facilities certified to a Global Food Safety Initiative (GFSI) recognized food safety certification program FB-PF-250a.2 416-2 Quality and food safety, page 16 (1) Total number of notices of food safety violation received, (2) percentage corrected FB-PF-250a.3 416-2 Not disclosed (1) Number of recalls issued and (2) total amount of food product recalled FB-PF-250a.4 416-2 Quality and food safety, page 16. 
+Health and nutrition. 
+Revenue from products labeled and/or marketed to promote health and nutrition attributes FB-PF-260a.1 N/A Tastier and healthier choices, page 13. Reported as number of servings rather than revenue. 
+Discussion of the process to identify and manage products and ingredients related to nutritional and health concerns among consumers FB-PF-260a.2 N/A Tastier and healthier choices, pages 13-16. 
+Accounting metric Code Relevant GRI Disclosure Disclosure in CSV and Sustainability Report 2021. 
+SASB Index. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 12
+
+
+SASB Index. 
+Accounting metric Code Relevant GRI Disclosure Disclosure in CSV and Sustainability Report 2021. 
+Product labelling and marketing. 
+Percentage of advertising impressions (1) made on children and (2) made on children promoting products that meet dietary guidelines FB-PF-270a.1 N/A Not disclosed. 
+Revenue from products labeled as (1) containing genetically modified organisms (GMOs) and (2) non-GMO FB-PF-270a.2 N/A Not disclosed. 
+Number of incidents of non-compliance with industry or regulatory labeling and/ or marketing codes FB-PF-270a.3 N/A Healthier lives through nutrition knowledge, page 18. 
+Total amount of monetary losses as a result of legal proceedings associated with labeling and/or marketing practices FB-PF-270a.4 N/A Healthier lives through nutrition knowledge, page 18. 
+Packaging lifecycle management 1) Total weight of packaging, (2) percentage made from recycled and/or renewable materials, and (3) percentage that is recyclable, reusable, and/or compostable FB-PF-410a.1 301-1, 301-2, 301-3 Packaging and circularity, page 34 and 37. 
+Discussion of strategies to reduce the environmental impact of packaging throughout its lifecycle FB-PF-410a.2 301-1, 301-2, 301-3 Packaging and circularity, pages 34-37. 
+Environmental and social impacts of ingredient supply chain. 
+Percentage of food ingredients sourced that are certified to third-party environmental and/ or social standards, and percentages by standard FB-PF-430a.1 102-9 Produced sustainably, page 39. Reported as a percentage of volume rather than cost. 
+Suppliers’ social and environmental responsibility audit (1) non-conformance rate and (2) associated corrective action rate for (a) major and (b) minor non-conformances FB-PF-430a.2 102-9 Not disclosed. 
+Ingredient sourcing. 
+Percentage of food ingredients sourced from regions with high or extremely high baseline water stress FB-PF-440a.1 303-1, 303-2, 303-3 Not disclosed. 
+List of priority food ingredients and discussion of sourcing risks due to environmental and social considerations FB-PF-440a.2 102-9 Water, pages 31-32. 
+GRI INDEX SASB INDEX Global Reporting Initiative and Sustainability Accounting Standards Board Indexes 2021 13

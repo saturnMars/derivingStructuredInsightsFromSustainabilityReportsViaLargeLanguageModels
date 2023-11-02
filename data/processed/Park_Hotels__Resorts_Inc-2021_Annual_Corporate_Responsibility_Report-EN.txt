@@ -1,0 +1,1009 @@
+ANNUAL CORPORATE RESPONSIBILITY REPORT 2021
+
+
+ON THE COVER: Casa Marina, A Waldorf Astoria Resort, Key West, Florida 2 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Responsibility in Environmental Management. 
+Letter from our Chairman and CEO ............................................................................................................................................................................................................................. 4 ESG Highlights .......................................................................................................................................................................................................................................................................... 6 Company Overview ............................................................................................................................................................................................................................................................... 7. 
+Portfolio Standing ................................................................................................................................................................................................................................................................ 8. 
+Governance and Oversight ............................................................................................................................................................................................................................................... 9. 
+ESG Decision Making Framework ........................................................................................................................................................................................................................ 9 Corporate Responsibility Policies ........................................................................................................................................................................................................................ 11 Corporate Governance Practices and Policies ............................................................................................................................................................................................ 12. 
+OUR COMPANY. 
+CORPORATE RESPONSIBILITY FRAMEWORK AND STRATEGY. 
+RESPONSIBILITY IN SOCIAL COMMITMENT. 
+APPENDICES. 
+CONTENTS. 
+RESPONSIBILITY TO MITIGATE RISK. 
+Environmental Strategy ...................................................................................................................................................... 17 Environmental Performance .............................................................................................................................................. 18 Efficiency Projects .................................................................................................................................................................... 20 Health and Safety Across our Portfolio During COVID-19 ................................................................................. 21 Portfolio Sustainability Standardization ...................................................................................................................... 21. 
+Case Study: Sustainable Transportation Connectivity ..................................................................................... 22. 
+Property Level Sustainability Highlights ...................................................................................................................... 23. 
+Case Study: Property Highlights for ENERGY STAR Certifications ........................................................... 24 Case Study: COVID-19 Building Environment Safety Efforts ........................................................................ 28. 
+Social Strategy .......................................................................................................................................................................... 30 Supporting Our Corporate Associates ......................................................................................................................... 30 Advancing Diversity, Equity and Inclusion ................................................................................................................... 32 Training, Education and Development .......................................................................................................................... 34 Associate Satisfaction and Engagement .................................................................................................................... 35 Supporting Local Communities and Organizations ............................................................................................... 35. 
+Case Studies: Community Impact ................................................................................................................................ 36. 
+Risk Strategy .............................................................................................................................................................................. 39 Risk Reporting Structure ....................................................................................................................................................... 39 Climate Risk ................................................................................................................................................................................. 40. 
+Case Study: Monitoring Sea Level Rise and Tides .............................................................................................. 41 2022 Outlook ............................................................................................................................................................................................................................................................................. 43. 
+Appendix A: Performance Tables ................................................................................................................................................................................................................................. 45 Appendix B: SASB .................................................................................................................................................................................................................................................................. 48 Appendix C: TCFD Disclosure .......................................................................................................................................................................................................................................... 52 Appendix D: GRI Content Index ...................................................................................................................................................................................................................................... 56
+
+
+3 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+OUR COMPANY
+
+
+4 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021 safety and environmental standards in this evolving operating environment, and I am very proud of our team’s efforts, which are described in more detail in this report.
+Despite the temporary suspension of operations at 85% of our portfolio, we continued with established plans for essential maintenance, environmental analysis and risk assessment. We prioritized necessary back-of-house maintenance of equipment and systems, as our engineering team and hotel management partners worked to improve the efficiency of our buildings through upgrades to mechanical equipment, including HVAC systems, building automation systems and cooling towers. These upgrades contributed to reductions in energy consumption and carbon emissions during 2020. We also took advantage of operational downtime by collaborating with industry peers on engineering best practices and refining our key performance indicators and expectations going forward.
+Since Park was established as a separate, independent company in 2017, we have maintained an aggressive energy efficiency investment strategy. Exemplifying the results of this strategy, four of our properties were awarded the ENERGY STAR® Certification for Superior Energy Efficiency in 2020 – an impressive feat during an extremely challenging year when only 26 hotels nationwide were awarded this annual certification. In addition, our team worked throughout 2020 to analyze the portfolio’s current emission levels and establish thoughtful emissions reduction targets to drive our internal goals. We hope to be able to share these goals publicly as we move past the disruption of data caused by the pandemic. Finally, we continued to prioritize a number of proactive risk assessments across our portfolio related to climate change, including sea level rise assessments in some coastal markets where our properties are located. We will share some examples of these proactive assessments in this Report.
+Turning to social aspects, the pandemic has had significant implications on our human capital strategies. We shifted to remote work for all corporate associates that desired to work from home throughout 2020. For those associates who preferred to work in our headquarters office in Tysons, Virginia, we re-opened the office in mid-2020 with strict safety measures in place, in accordance with CDC and local health guidelines. Shifting the vast majority of our work to a remote capacity for an extended period has posed new. 
+Park Hotels & Resorts Inc. (“Park” or the “Company”) is pleased to publish our fourth annual Corporate Responsibility Report (“Report”), which highlights our 2020 Environmental, Social and Governance (“ESG”) program and initiatives. 2020 was defined by the global COVID-19 pandemic, which largely halted travel and tourism and had significant effects on Park and our stakeholders. Although the various challenges posed by COVID-19 were unprecedented in nature, the Company’s established ESG framework guided efforts to protect our assets and support our stakeholders throughout the pandemic. As we continue to navigate the COVID-19 pandemic and plan for the future, we strongly believe that consistently upholding Park’s corporate responsibility principles is critical to supporting both our business and our stakeholders as we continue along this path toward recovery.
+From an environmental perspective, 2020 was a year of “firsts” for our portfolio. In March 2020, restrictions and shelter-in-place orders related to COVID-19 caused us to temporarily suspend operations at 38 of our hotels (85% of portfolio-wide rooms). While these suspensions reduced our consumption of energy and water and generation of GHG emissions and waste, they also presented an opportunity for new environmental efforts to address the continuously evolving understanding of the virus causing COVID-19, such as enhanced standards for indoor air quality and new protocols for building maintenance. Our team worked tirelessly throughout 2020 to ensure maintenance of optimal health,
+LETTER FROM OUR CHAIRMAN AND CEO. 
+Thomas J. Baltimore, Jr. Chairman, President and Chief Executive Officer. 
+Our Company. 
+SINCE PARK WAS ESTABLISHED AS A SEPARATE, INDEPENDENT COMPANY IN 2017, WE HAVE MAINTAINED AN AGGRESSIVE ENERGY EFFICIENCY INVESTMENT STRATEGY
+
+
+5 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Our Company challenges for engagement and wellbeing. The Company’s dedicated Human Resources department has supported our associates by enhancing the wellness program through a series of initiatives, including virtual sessions led by thought leaders in mental health and emotional intelligence; virtual “Wellness Wednesdays” activities such as yoga, meditation, healthy eating guidance and physical exercise; and care packages mailed to associates’ homes to help enliven our employees’ home office environment. We also maintained our commitment to fostering a diverse and inclusive working environment through the continued efforts of our Diversity and Inclusion Steering Committee and annual diversity and inclusion training, which was undertaken by all property and corporate associates.
+On the governance side, we continue to oversee our ESG initiatives and policies as part of our established ESG decision-making framework. Park currently has three dedicated ESG committees: the Green Park Committee, the Park Cares Committee and the Diversity and Inclusion Steering Committee. Each of these Committees entail Executive Committeelevel oversight, which subsequently report up to myself and also the Nominating and Corporate Governance Committee of the Board of Directors. In addition, Executive Committee leaders report at least annually to Park’s Audit Committee of the Board of Directors on the Company’s enterprise risk management. These reports cover topics such as climate-related and cybersecurity risks, as well as other aspects of our risk management strategy. Our approaches are further described in our first Task Force on Climaterelated Financial Disclosures (“TCFD”) report, which is included as an appendix to this Report.
+We remain dedicated to transparency and reporting of our ESG approaches and achievements in alignment with globally recognized sustainability frameworks and standards, such as the Global Reporting Initiative (“GRI”), the Sustainability Accounting Standards Board (“SASB”), the UN Sustainable Development Goals (“SDGs”) and TCFD. In 2021, we submitted our second Global Real Estate Sustainability Benchmark (“GRESB”) real estate assessment, with data for our portfolio for fiscal year 2020. We believe that such transparency and disclosure help to align Park’s priorities with our interested stakeholders.
+As always, we welcome feedback and the opportunity to discuss our ESG efforts with our stakeholders. We thank you for your interest in our Corporate Responsibility program, and we hope to welcome you to our properties in the near future.
+Letter From our Chairman and CEO (continued)
+Thomas J. Baltimore, Jr. Chairman, President and Chief Executive Officer November 2021. 
+About this Report. 
+Our fourth annual Corporate Responsibility Report covers all ESG matters in fiscal year 2020, unless otherwise noted. The geograph- ical boundaries of this Report are limited in scope to hotels and resorts which Park wholly owned or possessed an ownership inter- est in for all 12 months of fiscal year 2020. This Report excludes the Hilton Sao Paulo Morumbi and the Embassy Suites by Hilton. 
+Washington D.C. Georgetown, both of which Park sold in February of 2020. This Report also excludes Park’s three laundry facilities, which were closed during 2020. For more information on Park’s process and methods for calculating its environmental performance data, please refer to the footnotes in Appendix A. The Report is current as of November 3, 2021.
+
+
+6 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+ESG Highlights. 
+Participated in GRESB Real Estate Assessment 2020 and 2021 7pt increase from 2020 to 2021. 
+Increased ESG disclosure: Issued first TCFD disclosure November 2021. 
+Updated ESG Policies in October 2021: 6 Environmental Policy 6 Human Rights Policy 6 Vendor Code of Conduct. 
+Corporate Responsibility Framework and Strategy. 
+ENERGY STAR Certified Hotels in 2020 4. 
+Established. 
+PARK’S DIVERSITY AND INCLUSION STEERING COMMITTEE in 2020. 
+Named by Newsweek to. 
+AMERICA’S MOST RESPONSIBLE COMPANIES LIST in 2020 and 2021
+
+
+7 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Company Overview. 
+Our Company. 
+Our corporate strategy is to consistently deliver superior, risk-adjusted returns to stockholders through active asset management and a thoughtful external growth strategy, while maintaining a strong and flexible balance sheet. The following are the three key pillars of our corporate strategy:
+OPERATIONAL EXCELLENCE THROUGH ACTIVE ASSET MANAGEMENT We are focused on continually improving property level operating performance through our proactive asset management efforts. We consistently implement revenue management initiatives to optimize market pricing and segment mix, while also focusing on appropriate cost-saving measures.
+PRUDENT CAPITAL ALLOCATION We intend to leverage our scale, liquidity and mergers and acquisitions expertise to create value throughout all phases of the lodging cycle through opportunistic acquisitions, dispositions and/or corporate transactions, which we believe will enable us to further diversify our portfolio.
+STRONG AND FLEXIBLE BALANCE SHEET We expect to maintain a strong and flexible balance sheet that will enable us to navigate the various seasons of the lodging cycle. We expect to maintain strong liquidity across the lodging cycle and access to multiple types of financing, including corporate bonds and credit facilities.
+CORPORATE RESPONSIBILITY CONSIDERATIONS IN OUR CORPORATE STRATEGY PILLARS Our Corporate Responsibility strategy is embedded in each of our three pillars. Owning hotels and resorts requires proactive expense oversight in order to achieve operational excellence. Utility consumption, for example, poses a significant cost to our business, and long-term asset management planning is required to ensure that our properties are on the right trajectory for reducing our environmental footprint. Reduction to Park’s environmental footprint is made possible through prudent capital allocation, investing in efficiency ROI projects, benchmarking and reporting, as well as the integration of sustainability across our portfolio. Finally, access to a strong and flexible balance sheet enables Park to weather all phases of the lodging cycle by prioritizing necessary ESG investments and strategies, as well as executing acquisitions and dispositions that fit Park’s long-term ESG goals. We believe that our three corporate strategy pillars and strong Corporate Responsibility framework will contribute to Park’s success in generating superior, risk-adjusted returns to stockholders.
+Park is the second largest publicly traded US lodging REIT, comprised of a geographically diverse portfolio of hotels and resorts with significant underlying real estate value. As of the time of Park’s 2020 annual report filing, Park owned 60 premium hotels and resorts located in 17 states as well as the District of Columbia and Puerto Rico, representing over 33,000 rooms across the United States.
+W CHICAGO-CITY CENTER, CHICAGO, Illinois
+
+
+WASHINGTON 4. 
+MASSACHUSETTS 3. 
+CALIFORNIA 19. 
+ARIZONA 1. 
+NEVADA 1. 
+COLORADO 2. 
+TEXAS 1. 
+MISSOURI 1. 
+ILLINOIS 5. 
+TENNESSEE 1. 
+FLORIDA 8. 
+LOUISIANA 2. 
+NEW YORK 1. 
+NEW JERSEY 2. 
+WASHINGTON, D.C.
+2. 
+HAWAII 2. 
+PUERTO RICO 1. 
+UTAH 1. 
+VIRGINIA 3. 
+WASHINGTON 4
+8 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Our Company. 
+Portfolio Standing. 
+PARK PORTFOLIO AS OF FEBRUARY 26, 20211 (2020 Form 10-K Filing)
+In February 2020, Park sold the Hilton Sao Paulo Morumbi located in Sao Paulo, Brazil, marking our exit from international asset ownership. In addition, Park sold the Embassy Suites by Hilton Washington D.C. Georgetown, further streamlining Park’s portfolio. As of the time of Park’s 2020 annual report filing, Park owned 60 market-leading hotels and resorts with over 33,000 rooms located in diversified prime US markets.
+1 Since Park’s 2020 Form 10-K Filing, the Company has sold or disposed of 6 hotels: W New Orleans - French Quarter; Hotel Indigo San Diego Gaslamp Quarter; Courtyard Washington Capitol Hill Navy Yard; Hotel Adagio, Autograph Collection; Le Meridien San Francisco and Embassy Suites Secaucus Meadowlands.
+
+
+9 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Governance and Oversight. 
+Our Company. 
+ESG Decision Making Framework. 
+Park has an established ESG decision-making framework that drives the oversight of ESG-related issues. Park currently has three dedicated ESG committees – the Green Park Committee, the Park Cares Committee and the Diversity and Inclusion Steering Committee. These committees are comprised of corporate associates and senior management across various departments of the organization, and each committee has at least one Executive Committee leader as part of its team. Each committee specializes in specific ESG matters and provides both written and verbal updates to our Chairman of the Board and CEO, Thomas J. Baltimore, Jr., at least on a quarterly basis. Our Chairman and CEO is ultimately responsible for our ESG decision making. In addition and at least annually, Executive Committee leaders provide ESG reporting and strategy updates to the Nominating and Corporate Governance Committee of the Board of Directors (“NCG Committee”), which is the Park Board Committee tasked with ESG oversight. Furthermore, Executive Committee leaders report at least annually to the Audit Committee of the Board of Directors on Park’s enterprise risk management, including discussions regarding climate-related risks, cybersecurity risks and other elements of risk management strategy. ESG matters are routinely discussed among Park’s Executive Committee leaders.
+GREEN PARK COMMITTEE Our Green Park Committee consists of corporate associates and senior leadership across various departments of the Company as well as external energy consultants. Led by our Executive Vice President, Design & Construction and his team, the committee meets on a quarterly basis to discuss strategies on how to manage Park’s environmental performance and objectives. In 2020, the Green Park Committee launched the Green Park Program, which is a corporate commitment to achieving environmental sustainability. The Green Park Program includes a centralized infrastructure for standardized reporting of environmental emissions and efficiency projects by property and on a portfolio-wide basis; proactive sustainability communications to Park’s internal stakeholders; and the Green Park Sustainability Playbook. The Playbook is a detailed sustainability “how-to” guide for all Park’s properties, including information on sustainability best practices and sustainability expectations by operational department. In 2021, the Green Park Committee began implementing monthly webinars on topics included in the Playbook, as well as information on relevant and timely sustainability issues. These webinars are directed toward property-level General Managers and Directors of Engineering, providing the Green Park Committee with the opportunity to have direct engagement with Park’s brand and management partners who are tasked with implementing sustainability at our hotels.
+The Green Park Committee has developed short, medium and long term sustainability improvement plans for the Company, with internal targeted energy consumption metrics across the portfolio.
+
+
+10 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+PARK CARES COMMITTEE At Park, we believe it is essential to be responsible corporate citizens by investing in and giving back to our communities. To lead our community engagement efforts, Park established the Park Cares Committee, which coordinates volunteering events, development programs and donations. This cross-departmental committee is led by our Executive Vice President, Human Resources and meets on a quarterly basis.
+ESG Decision Making Framework (continued)
+DIVERSITY AND INCLUSION STEERING COMMITTEE In order to advance our social objectives related to diversity, equity and inclusion in the wake of the widespread racial reckoning movement in mid-2020, Park established the Diversity and Inclusion Steering Committee. The committee is comprised of Park associates from all levels of the Company and is led by our Executive Vice President, Human Resources. This committee aims to increase awareness and accelerate action and inclusivity related to diversity and equity throughout our business operations. The committee, alongside the entire organization, continues to work to foster a diverse and inclusive organization.
+
+
+11 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Our Company. 
+We have adopted policies and codes of conduct that reflect our commitment to Corporate Responsibility. While aspects of our ESG commitment are found in several of our governance policies and practices, the following five policies highlight Park’s commitment to environmental management; our requirements and expectations for human rights, diversity, equity and inclusion and fair labor; expectations for our vendor partners; and requirements and expectations for our associates.
+ENVIRONMENTAL Environmental Policy j Our newly updated environmental policy details Park’s standards and procedures regarding environmental topics such as energy and emissions; water management; pollution prevention and waste management; environmental supply chain expectations; local habitat management; and health and safety.
+SOCIAL Human Rights Policy j Our enhanced Human Rights policy details fair labor and human rights requirements and expectations; diversity, equity and inclusion commitments and goals; and standards for training, transparency and reporting.
+GOVERNANCE Vendor Code of Conduct j Our updated Vendor Code of Conduct outlines business standards and expectations for vendors that conduct business with Park. Standards and expectations for our vendors apply to topics such as ethical business practices, labor practices and human rights and environmental stewardship. Additionally, Park has committed to encouraging engagement with vendors which showcase inclusiveness and diversity.
+CODE OF CONDUCT Our Code of Conduct j outlines specific workplace standards and ethics that all Park associates must abide by. The policy includes, among other topics, expectations to speak up; no retaliation for raising issues or complaints; the right to a harassment free workplace; and a commitment to the environment.
+BUSINESS PRACTICES POLICY Park’s Business Practices Policy sets forth requirements of our associates to conduct business in a manner that ensures Park and its associates are complying with any and all laws and regulations that apply to the Company. Specific topics included in the policy include antitrust laws; anti-bribery and other corrupt practices prohibition; no entertaining of union officials; human rights; prohibition on human trafficking; no engagement with boycotted countries; anti-money laundering provisions; and restrictions on political involvement.
+Corporate Responsibility Policies. 
+W chicago- lakeshore, chicago, illinois
+
+
+12 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Our Company. 
+Park’s corporate governance program is critical to effectively managing our business. Our program includes policies, guidelines, committees, documents and statements which cover different areas of our business and work to provide best-in-class oversight, management and stakeholder participation.
+BY-LAWS j Our by-laws outline how Park is internally governed as it relates to our stockholders, our Board of Directors and our executive officers.
+CORPORATE GOVERNANCE GUIDELINES j Our corporate governance guidelines describe the principles and practices that the Board is expected to follow in carrying out its responsibilities. The guidelines are periodically reviewed to ensure they fit with both the interests of the Company and the Company’s stakeholders.
+AUDIT COMMITTEE CHARTER j The audit committee charter outlines the responsibilities of the Audit Committee, which include assisting the Board with oversight of the Company’s financial reporting processes and procedures and the integrity of the Company’s financial statements. The Audit Committee also oversees Park’s enterprise risk management evaluation and implementation, which includes cybersecurity and certain climate-related risks. Each of the members of our Audit Committee is independent and financially literate (within the meaning of the NYSE listing standards).
+NOMINATING AND CORPORATE GOVERNANCE COMMITTEE j The NCG Committee’s responsibilities include the appointment of qualified individuals for the Board of Directors, who are directly responsible for the long-term prosperity of our Company, as well as oversight of Park’s ESG initiatives. Each of the members of the NCG Committee is independent.
+COMPENSATION COMMITTEE CHARTER j The Compensation Committee is responsible for overseeing Park’s compensation matters pertaining to directors and executive officers of the Company. Each of the members of the Compensation Committee is independent.
+PARK HOTLINE j We are committed to upholding the standards outlined in each of our Corporate Responsibility and Corporate Governance policies. Park’s Hotline provides an easily accessible and confidential means of communication to report violations to any of. 
+Corporate Governance Practices & Policies our policies or any concerns by our stakeholders. All submissions to the Hotline are confidentially evaluated and addressed accordingly by our Human Resources and Legal departments.
+DATA PROTECTION AND PRIVACY Our third-party hotel operating partners and the brands with which our hotels are affiliated have responsibility for protecting the privacy of any confidential information related to hotel guests that may be collected at Park properties. Park does not collect any personal information or data about hotel guests.2 Furthermore, Park strives to limit the collection of any third-party information via our corporate website.
+Park has two policies related to general data protection and privacy, which protect and secure any personal identifying information. Park’s information Security Policy also covers the Company’s approach to identifying and mitigating information security risks:
+Information Security Policy Our Information Security Policy serves to coordinate, implement and document administrative, physical and technical safeguards put into place to protect information that is in Park’s possession or control in a manner that is consistent with industry standards and legal obligations. The policy describes Park’s cybersecurity risk management and workforce security procedures as well as provides a framework for security incident response. Park conducts mandatory annual training on information security and cybersecurity awareness to ensure all associates are informed on the latest risks and mitigation strategies, and the Company routinely engages in testing of Park’s cybersecurity procedures.
+Privacy Policy j Our Privacy Policy details the information that is collected on Park’s website and how it is used.
+For Park associates’ personal information, we maintain such information on secured thirdparty platform(s), which maintain formal security programs that include physical, electronic and administrative safeguards in accordance with or exceeding industry standards. Park also has a HIPAA Privacy Policy and a HIPAA Security Policy to protect and regulate any Protected Health information provided by our associates. Each associate with access to personal information related to Park associates undertakes annual HIPAA training.
+2 On July 15, 2021, Park transferred operations of its four self-operated, select-service hotels to third party management. Prior to this time, Park may have been in possession of personal information related to hotel guests at these four hotels in its capacity as hotel operator.
+
+
+13 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Our Company. 
+ADDITIONAL POLICIES AND HIGHLIGHTS Additional governance policies include the following: 6 Auditor Independence Policy 6 Board Delegation Statement 6 CEO Delegation Statement 6 Incentive Compensation Clawback Policy 6 Insider Trading Policy 6 Internal Audit Charter 6 Related Person Transaction Policy 6 Policy Regarding Reporting of Legal Violations 6 Stock Ownership Policy 6 Whistleblower Policy. 
+Corporate Governance Practices & Policies (continued)
+Corporate governance will continue to be a focus of the Company. In 2019, we took affirmative steps to modify aspects of our corporate governance structure with the intention of promoting the long-term interests of our stakeholders. As a result of those efforts, we have the following notable corporate governance features: 6 Each Director is elected annually / Board is not classified 6 Majority voting / Director resignation policy 6 Proxy access 6 Stockholders can amend by-laws with majority vote 6 Stockholder ownership limit of 9.8% 6 Threshold to call a special meeting is 25% of outstanding shares 6 Opted out of certain Delaware anti-takeover protections 6 No stockholder rights plans without stockholder approval. 
+Corporate Governance Highlights. 
+BOARD INDEPENDENCE EVALUATING AND IMPROVING BOARD PERFORMANCE ALIGNING DIRECTOR AND STOCKHOLDER INTEREST DIRECTOR ELECTIONS. 
+INDEPENDENT DIRECTOR NOMINEES 9 OF 10. 
+BOARD AND COMMITTEE EVALUATIONS ANNUAL. 
+FULLY INDEPENDENT BOARD OF DIRECTORS. 
+ALL. 
+MEANINGFUL DIRECTOR STOCK OWNERSHIP GUIDELINES YES. 
+VOTING STANDARD FOR UNCONTESTED ELECTIONS MAJORITY. 
+FREQUENCY OF BOARD ELECTIONS. 
+ANNUAL
+
+
+14 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Corporate Responsibility Framework and Strategy
+
+
+15 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+CORPORATE RESPONSIBILITY FRAMEWORK AND STRATEGY. 
+Our corporate responsibility strategy has been formalized based on the identification of both (i) pertinent risks and opportunities to our business and (ii) an obligation to act responsibly as a Company. Effectively managing these risks and opportunities helps Park achieve operational excellence through active asset management. These risks and opportunities can be categorized in three areas – Responsibility in Environmental Management, Social Commitment and Risk Management – and align with our selected UN Sustainable Development Goals.
+RESPONSIBILITY IN SOCIAL COMMITMENT. 
+RESPONSIBILITY IN RISK MANAGEMENT. 
+Corporate Responsibility Framework and Strategy. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT
+
+
+16 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Responsibility in Environmental Management
+
+
+WALDORF ASTORIA ORLANDO, ORLANDO, FLORIDA 17 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Our portfolio of hotels and resorts are located in diverse destinations across the United States. These unique geographic areas often help to contribute to memorable experiences for our guests. We place a high value on protecting the environment in and around our properties, which not only contributes to the wellbeing of our global society, but also helps drive positive guest experiences. As such, we seek to reduce our environmental footprint by increasing efficiency and improving related performance.
+With collaboration between associates, property managers and brand companies, we implement the following environmental footprint minimization strategies: 6 Sustainability best practices, as detailed in Park’s proprietary Green Park Playbook; 6 Financing efficiency projects, such as AquaRecycle laundry wash water recycling systems or LED lighting upgrades; and 6 Benchmarking and reporting utility consumption data through Resource Advisor, an enterprise-level software management system.
+Environmental Strategy. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT. 
+UN SDGs Support. 
+We aim to minimize Park’s environmental footprint throughout all phases of our business, from acquisition to disposition. Minimizing our footprint requires strong environmental management, using benchmarking and reporting, investing in efficiency projects, standardizing portfolio sustainability and undertaking individual property level initiatives.
+
+
+ENERGY PERFORMANCE. 
+CARBON EMISSIONS. 
+PERFORMANCE. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT Environmental Performance 2020 2019 2018 2017. 
+ENERGY INTENSITY (kWh per sqft)
+Like for Like Change From 2017 –37% 21.46 29.70 29.54 28.64 2020 2019 2018 2017. 
+INDIRECT ENERGY CONSUMPTION (MWH)
+Like for Like Change From 2017 –30% 350,293 483,267 478,350 522,831 2020 2019 2018 2017. 
+DIRECT ENERGY CONSUMPTION (MWH)
+Like for Like Change From 2017 –44% 242,584 412,197 409,075 437,576 2020 2019 2018 2017. 
+TOTAL ENERGY CONSUMPTION (MWH)
+Like for Like Change From 2017 –37% 592,877 895,464 887,426 960,407 2020 2019 2018 2017. 
+GREENHOUSE GAS EMISSIONS INTENSITY (kgCO2e per sqft)
+Like for Like Change From 2017 –35% 5.79 7.85 8.99 9.08 2020 2019 2018 2017. 
+SCOPE 2 EMISSIONS. 
+Like for Like Change From 2017 –31% 140,992 198,714 195,481 224,829 2020 2019 2018 2017. 
+SCOPE 1 EMISSIONS. 
+Like for Like Change From 2017 –45% 43,965 75,369 74,548 79,759 2020 2019 2018 2017. 
+GREENHOUSE GAS EMISSIONS (MTCO2e)
+Like for Like Change From 2017 –35% 184,957 274,083 270,030 304,588. 
+COVID-19 temporarily shuttered a significant portion of our portfolio for various durations throughout 2020. These shutdowns are the primary reason for reductions in utility consumption and intensities. However, the trend of decreasing consumption intensities is not limited to 2020. Our efforts to responsibly manage our environmental impact is reflective in the following year-over-year statistics; for more information on Park’s process and methods for calculating its environmental performance data, please refer to the footnotes in Appendix A.
+18 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021
+
+
+19 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+WASTE PERFORMANCE. 
+WATER PERFORMANCE WATER PERFORMANCE. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT. 
+Environmental Performance (continued) 2020 2019 2018 2017. 
+WATER INTENSITY (Gal per ocrm)
+Like for Like Change From 2017 +118% 2
+366.40 200.57 195.49 196.65 2020 2019 2018 2017. 
+WATER CONSUMPTION (kGal)
+Like for Like Change From 2017 –39% 1,201,705 1,889,759 1,852,236 2,087,069 2020 2019 2018 2017. 
+WASTE DIVERTED (MT)
+Like for Like Change From 2017 –67% 2,252 9,631 7,611 6,998 2020 2019 2018 2017. 
+WASTE LANDFILLED (MT)
+Like for Like Change From 2017 –60% 7,388 20,949 21,401 19,028 2020 2019 2018 2017. 
+WASTE GENERATED (MT)
+Like for Like Change From 2017 –63% 9,641 30,580 29,012 26,026 2020 2019 2018 2017. 
+WASTE DIVERSION (Percentage)
+Like for Like Change From 2017 –15% 23% 31% 26% 27% 2020 2019 2018 2017. 
+WASTE INTENSITY (kg per ocrm)
+Like for Like Change From 2017 +6% 3.89 3.69 3.14 3.04 3 Due to the COVID-19 pandemic, occupied rooms dramatically decreased during 2020. In alignment with Park’s health and safety protocol, we maintained a continuous flow of water across our portfolio, irrespective of occupancy levels, which dramatically skewed our water intensity statistic. Looking forward, we expect a relative return to normalcy to our water intensity in FY 2021.
+
+
+At the end of 2019, the Hyatt Regency Mission Bay Spa and Marina completed the installation of a new, ultra-efficient, 300-ton maglev frictionless chiller. The efficiency benefits from the upgraded chiller began to be realized in 2020, with the chiller anticipated to use 40% less energy and reduce property-wide electric consumption by 7%.
+20 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+While non-essential capital expenditure projects were largely suspended or cancelled during 2020 due to cost elimination and cash efficiency measures taken in response to the COVID-19 pandemic, we continued to invest in efficiency projects related to end-of-life equipment replacements or upgrades. With these projects, we were often able to notably decrease our environmental impact by replacing older equipment with more efficient options. In addition, to optimize the periods of asset downtime, Park’s engineering department conducted select performance reviews of the portfolio’s existing equipment, such. 
+Efficiency Projects. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT. 
+Total Number of Projects Total Investment (USD) Total Estimated Cost Savings (USD) Total Estimated Annualized Energy Reduction (kWh) Total Estimated Annualized Carbon Reduction (kgCO2e) 21 $4,060,000 $430,000 3,600,000 1,270,000 as cooling towers, heat pumps, boilers, chillers and HVACs. These performance reviews are expected to contribute to our properties’ overall energy efficiency, thus reducing environmental impact.
+We identified 21 capital expenditure projects that occurred in 2020 that helped to improve the overall efficiency of our portfolio. These projects, conducted at 15 of our hotels, are expected to generate average cost savings of 3 – 4% annually, while larger projects, such as chiller retrofits or replacements, are expected to generate energy cost savings of close to 20% annually.
+The table below summarizes our expected savings for the identified efficiency projects conducted in 2020:
+
+
+21 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+During the height of the COVID-19 related mandatory quarantines and “shelter-in-place” orders, we temporarily suspended operations at 38 of our hotels. There are many operational challenges related to suspending and then reopening large hotel facilities, including building water circulation. If water is not routinely circulated, it can stagnate and grow large amounts of harmful bacteria, such as Legionella. To address this risk, Park developed a framework detailing how frequently water circulation must occur during periods of suspension in order to maintain adequate property health and safety standards. This water. 
+Health and Safety Across our Portfolio During COVID-19. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT circulation framework was utilized at all of our temporarily suspended hotels and involved procedures for flushing the domestic water system at every outlet and protocol for hyper-chlorinating water systems at hotels that have been suspended for long periods of time. At Park’s Hilton-branded properties, testing was increased from an annual basis to a monthly basis in order to promptly identify the presence of Legionella bacteria. Park’s efforts have helped to ensure the health and safety of our hotel employees and guests as our buildings have reopened for business.
+Portfolio Sustainability Standardization. 
+As part of our capital recycling program, we actively engage in merger and acquisition activity that results in changes to our portfolio. These portfolio changes, particularly portfolio additions, create a specific challenge to environmental management. Newly acquired assets may not possess sustainability characteristics which align with our sustainability expectations. To standardize our asset-level sustainability expectations, Park created the Green Park Sustainability Playbook. Our engineering department partners with the brand and management companies to upgrade and maintain asset characteristics in alignment with the Green Sustainability Playbook. Provided to the staff of each of our third-party property management companies, the Playbook outlines our sustainability expectations and processes for an array of topics, including the following:
+Our engineering team hosts quarterly Playbook informational sessions for our hotels to facilitate discussion, education and collaboration across our properties and operators.
+Certain sustainability components such as green building materials and water efficiency standards can only be addressed during the renovation or construction phase of an asset’s life cycle. In 2020, Park’s engineering team created its Engineering Renovation Guidelines, which address opportunities for incorporating sustainable building attributes during renovations. The Engineering Renovation Guidelines covers a wide variety of asset attributes, including:
+LED LIGHTING. 
+HVAC EQUIPMENT. 
+BUILDING AUTOMATION / MANAGEMENT SYSTEMS. 
+ELECTRIC VEHICLE CHARGING. 
+WATER EFFICIENCY. 
+RENEWABLE ENERGY INTEGRATION. 
+WASTE REDUCTION AND RECYCLING. 
+GREEN MATERIALS. 
+SPECIFIC HVAC EFFICIENCY STANDARDS. 
+WATER EFFICIENCY SUCH AS TOILETS, SHOWER AND FAUCET AERATORS. 
+LED LIGHTING. 
+BUILDING AUTOMATION SYSTEMS
+
+
+22 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+TODAY, 24 OF OUR HOTELS HAVE INSTALLED ELECTRIC CHARGING STATIONS WITH FUTURE ADOPTION PLANNED. 
+CASE STUDY. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT. 
+Sustainable Transportation Connectivity Park’s Commitment to Reducing Dependence on Fossil Fuels. 
+As the owner of large-scale hotels and resorts located in high demand destinations, we understand our responsibility to support sustainable transportation connectivity in our communities. One critical piece of infrastructure supporting sustainable transportation is electric vehicle charging stations. Currently, 24 of our hotels have installed electric charging stations with a total of 75 chargers across the portfolio, representing 56% of our portfolio based on total rooms. We expect to continue to focus on increasing electric vehicle connectivity across our portfolio.
+“There are 12 million passenger EVs, one million commercial EVs, and over 260 million electric two- and three-wheelers on the road globally today.”
+ELECTRIC VEHICLE OUTLOOK 2021, BLOOMBERGNEF. 
+According to BloombergNEF, the outlook for EV adoption is getting much brighter, due to a combination of more policy support, further improvements in battery density and cost, more charging infrastructure being built, and rising commitments from automakers. Passenger EV sales are set to increase sharply in the next few years, rising from 3.1 million in 2020 to 14 milllion in 2025.
+DoubleTree Hotel Spokane City Center, Spokane, Washington. 
+Hilton McLean Tysons Corner, McLean, Virginia
+
+
+Sustainability Certifications 2020 was a very challenging year to achieve sustainability certifications given the widespread disruption and temporary suspension of operations across our portfolio. Against this backdrop, we are very proud that four of our properties were awarded ENERGY STAR® Certifications for Superior Energy Performance: Hilton Seattle Airport and Conference Center, Hilton Santa Barbara Beachfront Resort, DoubleTree Ontario Airport and Le Meridien San Francisco. Our portfolio’s certifications and ratings for 2020 are summarized below: 1 LEED Certification 4 ENERGY STAR® Certifications 34 TripAdvisor Building Certifications. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT Property Level Sustainability Highlights 23 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Hilton McLean Tysons Corner, McLean, Virginia. 
+We are also proud that our corporate headquarters are located in a LEED Platinum certified building, the first building in Tysons, Virginia to achieve this certification.
+
+
+24 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Hilton Santa Barbara Beachfront Resort 2020 ENERGY STAR® Certification. 
+Over the past five years, the Hilton Santa Barbara Beachfront Resort has targeted efficiency upgrades through both renovations and ROI capital projects. In particular, the hotel has made substantial HVAC upgrades that help ensure the property can conserve its heating and cooling loads throughout the year. In addition, the property installed low flow toilets, sinks and showerheads in its guestrooms and LED lighting throughout the hotel in order to reduce both water and energy consumption. The Hilton Santa Barbara proudly engages in Hilton’s corporate commitment to sustainability, which is managed through Hilton’s proprietary LightStay system and promotes best practices in environmental management.
+CASE STUDY. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT. 
+PROPERTY HIGHLIGHTS for ENERGY STAR certification. 
+Hilton Santa Barbara Beachfront Resort, sanTa barbara, california
+
+
+25 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+In order to drive efficiency, the Hilton Seattle Airport implemented a multi-measure energy efficiency plan that encompasses various facets of the hotel’s building and operations. LED lighting with motion sensor technology was installed throughout the hotel, and guestrooms have been equipped. 
+CASE STUDY. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT. 
+PROPERTY HIGHLIGHTS for ENERGY STAR certification (continued) with high performing low-flow faucets, toilets and showerheads. The hotel’s laundry operations utilize a water reclamation system that helps recycle used water, leading to a reduction in water consumption. The hotel’s operations team utilizes its cross-departmental “Energy Committee” to champion energy conservation throughout the hotel.
+Hilton Seattle Airport and Conference Center 2020 ENERGY STAR® Certification. 
+Hilton Seattle Airport and Conference Center, seattle, washington
+
+
+26 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+The Doubletree Ontario Airport continually focuses on implementing operational initiatives that both increase efficiency and preserve the environment. During its most recent renovation completed in 2018, the hotel replaced 3,856 light fixtures. 
+CASE STUDY. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT. 
+PROPERTY HIGHLIGHTS for ENERGY STAR certification (continued)
+Doubletree by Hilton Ontario Airport 2020 ENERGY STAR® Certification with LED technology, installed 170 energy efficient fan coil units across all guestrooms and upgraded chiller pumps with major variable frequency drives. The property leverages its building management system (BMS) to reduce the run hours on equipment.
+Doubletree by Hilton Ontario Airport, ontario, california
+
+
+27 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Le Méridien San Francisco 2020 ENERGY STAR® Certification. 
+The Le Méridien San Francisco consistently implements efficiency and environmental initiatives, leading to the property’s third consecutive ENERGY STAR certification. All guest rooms have energy-efficient heating, ventilation and air-conditioning systems with occupancy motion sensors, as well as high performing low-flow faucets and showerheads. Low-wattage LED lighting has been installed throughout the hotel, and kitchen hoods are controlled with energy-efficient devices. Lastly, the hotel’s operations team has established a checklist with “efficiency best practices” that are integrated into daily operations.
+CASE STUDY. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT. 
+PROPERTY HIGHLIGHTS for ENERGY STAR certification (continued)
+Le Méridien San Francisco, San Francisco. california
+
+
+28 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+As details emerged about the highly transmissible nature of the coronavirus that causes COVID-19, Park’s Design & Construction team proactively began researching technologies that could potentially help mitigate the spread of the virus in hotel public spaces and guestrooms. As part of this process, the team partnered with a third-party industrial hygienist to thoroughly vet various products and technologies, often through initial trials at our Hilton McLean Tysons Corner hotel. Park’s team ultimately tested over 30 different technologies, ranging from UV-C lighting therapy to bi-polar ionization to robotic cleaning. Testing was conducted throughout the summer of 2020 and involved both the collection of air quality samples for independent verification and discussions with companies who were currently utilizing these various technologies.
+CASE STUDY. 
+RESPONSIBILITY IN ENVIRONMENTAL MANAGEMENT. 
+COVID-19 Building Environment Safety Efforts. 
+Following this due diligence and trial period, Park rolled out comprehensive live trials of the Synexis BioDefense System, a dry hydrogen peroxide microbial reduction system, at two of its hotels - the 1,622-room Hilton New Orleans Riverside and the 211-room Hilton Chicago / Oak Brook Suites. The technology is designed to continuously fight viruses, bacteria and mold in the air and on surfaces. Dispenser units were placed throughout each hotel’s public and back-of-house spaces, including the lobby, meeting rooms and employee cafeterias. Following four weeks of use, the two hotels recorded an 85-90% reduction in surface bioburden.
+COVID-19 Building Environmental Safety Efforts. 
+Synexis BioDefense System, Hilton New Orleans Riverside, New Orleans, Louisiana
+
+
+29 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Responsibility in Social Commitment
+
+
+30 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+UN SDGs Support. 
+We are committed to providing a safe, healthy, equitable and inclusive environment for our associates, who are a key stakeholder in our business and critical for our prolonged success. We strive to develop strong relationships with the local communities where our properties are located and support and develop these communities through volunteering and in-kind and cash donations.
+SOCIAL STRATEGY. 
+Responsibility in Social Commitment. 
+Park’s associates make up the fabric of our organization and are critical to ensuring the success of our Company. As our most valuable corporate asset(s), it is imperative that we provide a safe, supportive and inclusive working environment for all our associates. We have developed and implemented programs that support these characteristics, including our health and wellbeing program and our annual trainings. Furthermore, Park places high importance on cultivating a strong and positive relationship with the local communities where we work and own properties. We seek to engage with the community through volunteering as well as in-kind and cash donations as identified by the Park Cares Committee.
+As the impacts of the COVID-19 pandemic rapidly expanded in March 2020, Park proactively closed its corporate headquarters in early March to allow all Park associates below the Senior Executive level to work remotely on a full-time basis to help protect the health and safety of our associates and their families. After much planning and evaluation of the science and the then-current governmental guidelines, by the second half of 2020, we opened our corporate office to a handful of associates who voluntarily opted to work in the office under strict health and safety guidelines. We have continued to allow our corporate associates to work from home as their health and safety remains our top priority.
+To support our associates during this unique and challenging period, we enhanced components of our health and wellbeing program to address our changing environment and increased anxiety given the uncertain state of the world. Our expanded program has included Wellness Wednesdays, an initiative targeted to improve physical, social, mental and spiritual wellbeing through weekly Company-wide virtual events. These Wellness Wednesdays have included a variety of exercises and topics, including the following:
+MEDITATION PRACTICES. 
+MINDFULNESS EXERCISES. 
+JOURNALING. 
+BREATHWORK. 
+COMMUNITY-BUILDING WORK-FROM-HOME STORIES. 
+HOME WORKOUTS. 
+GROUP WALKS. 
+Supporting our corporate associates
+
+
+31 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Supporting Our Corporate Associates (continued)
+Responsibility in Social Commitment. 
+In addition to Wellness Wednesdays, we supported our associates with information on health and wellbeing by distributing quarterly newsletters covering wellness research and topics and introduced a quarterly cultural and social awareness newsletter that helps educate our associates and promote diversity, equity and inclusion. Finally, our dedicated Human Resources department sent care packages to each associate’s home to help enhance our associate’s home office environment.
+As we navigate through the evolving pandemic, we have prioritized the health and safety of our associates as we look to return to our workplace. We continue to allow our associates to work from home until we believe it is safe and comfortable to return to in-person collaboration.
+In addition to the added support we have provided throughout the pandemic, Park plans to continue its conventional health and wellbeing program for all corporate associates, which include a series of benefits such as:
+We are very proud to have maintained our robust benefits program for each associate throughout 2020 and 2021 despite such challenging times.
+HEALTH INSURANCE (paid fully by Park)
+ONE MEDICAL MEMBERSHIPS (paid fully by Park)
+PTO PLAN (paid fully by Park)
+COMPANY STOCK PLAN (LTI)
+BONUS ELIGIBLE (STI) 401K MATCH PROGRAM. 
+TRANSPORTATION BENEFITS. 
+PAID PARENTAL LEAVE. 
+DEDICATED PROGRAMMING FOR RETURNING NEW PARENTS. 
+ASSOCIATE GYM MEMBERSHIP. 
+ERGONOMIC WORKSTATIONS. 
+WELLNESS ROOM. 
+ANNUAL FLU SHOT CLINIC. 
+EMPLOYEE ASSISTANCE PROGRAM (EAP)
+MINDFULNESS TRAINING. 
+EMOTIONAL INTELLIGENCE WORKSHOPS
+
+
+32 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Advancing Diversity, Equity and Inclusion. 
+Responsibility in Social Commitment. 
+We pride ourselves on creating a respectful, professional and inclusive workplace for our associates. We value the unique perspectives that a workforce with diverse cultures, ages, genders and ethnicities brings to our culture. We embrace this diversity that we strongly feel enhances our success.
+To advance our social objectives related to diversity, equity and inclusion (DEI), Park established a Diversity and Inclusion Steering Committee in 2020. This committee aims to increase awareness and accelerate inclusivity throughout our business operations and also carry out our commitment to the CEO Action For Diversity & InclusionTM pledge that Park signed in 2019. Since its formation, the committee has continued to meet monthly and work thoughtfully in evaluating our current and prospective initiatives and partnerships to ensure they align with Park’s culture and support our diversity and inclusion mission.
+Park continues to partner with many local organizations that provide services and resources to underserved populations and those in need of social, economic, educational, mental and physical support in our community. Examples of organizations that we proudly support and that are aligned with Park’s diversity and inclusion mission include the following: Don Bosco Cristo Rey, N Street Village, Castell Project, Arlington Partnership for Affordable Housing, Arlington Free Clinic, Bridges, and KEEN Greater DC-Baltimore.
+The Diversity and Inclusion Steering Committee has also spent significant time focusing on actions and commitments that impact Park internally such as: recruitment & retention practices, policy and process updates, training and increased communication and awareness programs. Park strongly views these focus areas as essential in delivering our goal of creating a more diverse and inclusive culture within Park. Below are actions we are taking to enhance our current Park practices and commitment to a culture of diversity, equity and inclusion:
+Recruitment: Commitment to broaden candidate searches to actively pursue a diverse slate of candidates for every open role, for which we recruit externally, with a goal of increasing diversity hires.
+6 Include historically black colleges and universities to the list of colleges where we post available positions.
+6 Post available positions on the internal job board of INROADS, a non-profit organization aimed at creating pathways to careers for ethnically diverse high school and college students.
+PARK HOTELS & RESORTS DIVERSITY AND INCLUSION MISSION STATEMENT. 
+Our culture of collaboration inspires inclusivity where differences are celebrated, and diversity is valued.
+Park Hotels & Resorts’ culture is built on the foundation of open communication and collaboration through which we embrace the diversity and inclusion of all associates. Diversity, inclusion, and equality are primary considerations in everything we do. It is an important part of how we evaluate ourselves in terms of managing our business, selecting, and developing our associates and a factor in establishing external partnerships. We are committed to continually focus on being a positive catalyst for change in enhancing diversity, inclusion, and equality. We do this both internally and externally through recruitment, associate development, mentorship, education, advocacy, and community outreach.
+Park’s Diversity & Inclusion committee’s objective is to establish a framework for change. Our goal is to ensure that diversity and inclusiveness is not just an initiative but rather the foundation for success which is engrained in the fiber of our culture. This culture transcends to every Park associate who can make change happen and ensure that inclusion and diversity are paramount in all our actions, policies, and considerations as an organization.
+
+
+33 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Advancing Diversity, Equity and Inclusion (continued)
+Responsibility in Social Commitment 6 Require, versus request, search firms to submit a diverse slate of qualified candidates (at least 50% of all resumes to represent diverse candidates).
+Retention: Retention is achieved through fostering an environment of engagement, equity and inclusivity. We will have an internal and external review of specific company policies and practices to ensure they promote and encourage an inclusive workplace and comply with our diversity and inclusion mission.
+6 Review Park’s existing benefits, policies and human capital practices.
+6 Solicit associate feedback on DEI by incorporating specific questions on associate engagement survey.
+Reward Practices: Continue to look at internal and external compensation benchmarking annually.
+6 Add gender and ethnic diversity analysis to our annual internal compensation review. Park’s 2020 compensation review, inclusive of our gender and ethnic diversity analysis, reflected no pay disparity based on any gender or ethnic group.
+Awareness: Ensure transparency in our internal and external communications regarding our commitment to DEI. Engage in regular communication with increased focus on awareness and education around social and cultural topics.
+6 Provide overview of Park’s commitment to DEI during new hire orientation.
+6 Issue quarterly Social & Cultural Awareness newsletters.
+6 Provide regular updates on the progress of our DEI initiatives and statistics.
+6 Communicate our Diversity and Inclusion Mission both internally to our associates and externally via our website, ESG report and annual report.
+Training: Update required annual compliance training sessions for all associates to include training focused on DEI.
+6 In addition to Anti-Harassment/Anti-Discrimination training, add separate Racial Injustice/Diversity/Unconscious Bias training.4. 
+We believe these actions can have an immediate impact on increasing diversity and equity and further supporting inclusivity at Park.
+For added transparency about our human capital, we have updated our diversity metrics to include more detail about our board of directors for this year’s Report.
+GENDER ■ Women ■ Men 20% 80%
+RACE ■ Black or African American ■ White 10% 90%
+AGE ■ >70 Years ■ 61–70 Years ■ 50–60 Years 30% 30% 40% 4 In September 2020, the Trump administration issued an executive order prohibiting certain types of diversity training for several government-affiliated entities. Park temporarily halted its planned unconscious bias training for its non-corporate associates as a result of this executive order. Park resumed its company-wide unconscious bias training in 2021 following the Biden administration’s overturn of the Trump executive order.
+PARK HOTELS & RESORTS BOARD OF DIRECTORS DEMOGRAPHICS
+
+
+34 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Training, Education and Development. 
+Responsibility in Social Commitment. 
+All of our associates participate in training and education programs at our Company. Park is committed to conducting its business in compliance with all applicable laws prohibiting bribery and other corrupt practices. In 2020, all associates participated in our annual anti-bribery / anti-corruption training. This training covers topics within our Businesses Practices Policy, which includes prohibiting associates from receiving and giving gifts, bribes or facilitation payment. In addition to this training, all associates also participate in anti-harassment, diversity and inclusion and compliance training at least once a year. We also conducted mandatory emotional intelligence training for all corporate associates in 2020, and plan to do additional trainings on this topic on an as-needed basis going forward.
+Additionally, we provide associates at our corporate headquarters with development and educational opportunities such as management development series programs, corporate technical “lunch and learn” trainings and REIT tax training. Selected associates participate in our leadership development program and executive coaching. Our leadership team encourages associates to continue education and professional certifications with time away from work and training budgets. Our Corporate Strategy and Design & Construction departments also participate in sustainability training, including Nareit’s ESG JumpStart workshop and REITworks conference.
+On an annual basis, our Company reviews Company policies to ensure corporate and property compliance and provides necessary updates to our associates.
+Our associate performance review process includes continuous feedback to encourage immediate and consistent feedback. Regular one-on-one feedback sessions are conducted instead of annual performance reviews in order to ensure feedback is current and to reinforce positive performance.
+
+
+35 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Associate Satisfaction and Engagement. 
+Responsibility in Social Commitment. 
+We encourage our associates to participate in our annual Associate Satisfaction and Engagement Survey, which is administered by a third party. In 2020, 96% of associates at corporate headquarters responded. We received an overall engagement score of 83%, on par with our 2019 engagement score of 84%. As a direct result of the survey, each department Executive Committee leader conducts feedback sessions with their respective teams, and Company-wide action plans are created and implemented by our Human Resources department. Each department also creates departmental action plans and implements them accordingly. Company results and action plans are reported to the Board of Directors.
+Supporting Local Communities & Organizations. 
+Park is committed to supporting both local communities and organizations wherever our business operations are located. Park’s corporate associates routinely engage in charitable activities including donation events, gift drives and community kitchen events. While the challenges resulting from COVID-19 temporarily suspended in-person charitable activities in 2020, Park continued to support local communities and organizations in a virtual capacity and through charitable donations.
+The Park Cares Committee strives for the following: 6 We support organizations that maximize opportunities for community development, engaging with local communities to identify the most salient needs and synergies.
+6 We aim to contribute to causes that are championed by our associates and engender purpose with Park, via volunteering and charitable giving.
+6 We aim to seek partnership with social enterprises and initiatives that contribute to the UN Sustainable Development Goals for collective impact.
+CASH DONATIONS In 2020, we supported 13 diverse organizations and contributed a total of $144,000 in cash donations.
+
+
+36 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+To help develop the working experience of students from underprivileged areas in the Washington, D.C. community, Park has routinely provided work study internships for students from Don Bosco Cristo Rey High School. On top of their regular high school studies, these students conduct a rotation among various Park departments for one day a week. While our offices shifted to remote working during 2020, we maintained our sponsorships with four students who completed virtual internships with Park.
+CASE STUDIES. 
+Responsibility in Social Commitment. 
+Supporting Local Communities & Organizations (continued)
+Don Bosco Work Study Program. 
+Park‘s associates maintained their commitment to supporting the Salvation Army’s annual Angel Tree program in 2020. Associates had the opportunity to sponsor a child in need during the holiday season, typically with wish list items for gifts and clothing. In 2020, the program shifted to a virtual capacity, with virtual gift cards donated for parents to purchase their children’s wish list items. In total, Park associates sponsored 44 children and donated $6,000 in virtual gift cards.
+Salvation Army Angel Tree Program
+
+
+37 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Park also maintained its partnership with Cycle for Survival, a fundraiser organization which dedicates its proceeds for research of rare cancers in partnership with the Memorial Sloan Kettering hospital. In 2020, Park corporate associates raised over $6,200 and Park donated an additional $5,000 to support the cause.
+CASE STUDIES. 
+Responsibility in Social Commitment. 
+Supporting Local Communities & Organizations (continued)
+Cycle For Survival. 
+Park’s Casa Marina Key West, a Waldorf Astoria Resort, created the “Tree by the Sea” donation event in December 2020. Casa Marina’s staff arranged for a local sand sculptor to build a Christmas tree to serve as a public donation site. Guests and the local community donated holiday gifts that were given to children in need from the Boys and Girls Clubs of Key West. The children came to light the tree and sing holiday songs at an event with over 100 attendees.
+Property Level Donation Program – Sand Art Christmas Tree Lighting Ceremony “Tree by the Sea” at the Casa Marina Key West, a Waldorf Astoria Resort
+
+
+38 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Responsibility in Risk Management
+
+
+39 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Risk Strategy. 
+Responsibility in Risk Management. 
+Park integrates risk management throughout our business, including asset management, design and construction and acquisitions practices. We aim to mitigate the various risks associated with our business and evaluate ESG-related opportunities that support our business strategy to increase overall returns on our investments. Additionally, we focus on minimizing our Company’s environmental impact and negating potential ESG risks of our business through the implementation of strategic investments and programs.
+Park has an established framework that drives our oversight of ESG-related matters across the organization. Park currently has three dedicated ESG committees – the Green Park Committee, the Park Cares Committee and the Diversity and Inclusion Steering Committee.
+These committees are comprised of corporate associates and senior management across various departments of our organization, and each committee has at least one Executive Committee leader as part of its team. Each committee specializes on specific ESG matters and provides both written and verbal updates to our Chairman of the Board and CEO, Thomas J. Baltimore, Jr., at least on a quarterly basis. In addition, Executive Committee leaders provide ESG updates to the Nominating & Corporate Governance Committee. Furthermore, Executive Committee leaders report at least annually to the Audit Committee of the Board of Directors on Park’s enterprise risk management, including discussions regarding climate-related risks, cybersecurity risks and other elements of risk management strategy.
+NOMINATING & CORPORATE GOVERNANCE COMMITTEE. 
+CEO. 
+GREEN PARK COMMITTEE. 
+PARK CARES COMMITTEE. 
+DIVERSITY & INCLUSION & STEERING COMMITTEE. 
+Risk Reporting Structure
+
+
+40 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Climate Risk. 
+Responsibility in Risk Management. 
+We monitor risk and potential impacts of climate change to our properties located in hurricane prone states, coastal regions and water stressed areas. Furthermore, our risk management incorporates assessing the extreme weather effects such as droughts, floods and hurricanes, along with sea level rise that are forecasted to increase in frequency and severity over time. To consistently meet the standards outlined in our Environmental Policy, we conduct regular risk assessments across the portfolio, with more detailed assessment based on asset location, condition and history for a variety of factors including: 6 Biodiversity and Habitat 6 Building Safety and Materials 6 Energy Efficiency 6 Energy Supply 6 Flooding 6 GHG Emissions 6 Indoor Environmental Quality 6 Natural Hazards 6 Regulations 6 Transportation 6 Waste Management 6 Water Efficiency 6 Water Supply. 
+We incorporate climate risk assessment as part of our due diligence for potential property and portfolio acquisitions, as well as into our plans for property improvements. Park then conducts regular technical assessments of our portfolio’s energy efficiency, water efficiency and waste stream capabilities to maintain and increase efficiency. To address the impacts of natural disaster events in our standing portfolio, among other potential emergency situations, Park developed its Risk Binder. This Binder details a chronological set of property-level risk management procedures to be undertaken within the first 72 hours of an extreme weather event or other emergency. These standardized procedures seek to ensure the health and safety of associates and guests, prevent asset down-time and maximize asset valuations through damage minimization.
+WATER STRESSED AREAS 10.5% of our portfolio is located in areas of high or extremely high-water stress.
+FLOOD ZONES 5.1% of our portfolio is in a 100-year flood zone area.
+HURRICANE PRONE STATES The 4 most hurricane prone states in the U.S. are Florida, Texas, North Carolina and Louisiana. 17% of our portfolio is located in three of these states.
+VOLATILE AREAS 31% of our portfolio is located in California, a state with high-water stress, frequent droughts and extreme wildfires.
+
+
+41 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Responsibility in Risk Management. 
+We are proud to own iconic properties located in beautiful coastal destinations such as Hawaii, Key West, Miami and Puerto Rico. As part of these ownership responsibilities, we understand our obligation to protect our real estate assets in an environmentally sound manner. As the effects of climate change continue to increase and impact the world’s ecosystem, we continue to monitor the potential for sea level rise and flooding from tidal events.
+Park continues to periodically conduct long-term sea level rise studies on its largest asset, the 2,860-room Hilton Hawaiian Village Waikiki Beach Resort. As part of the studies, our Design & Construction team works with third party specialists to conduct topographical study modeling and develop best-case and worse-case scenario planning. When the iconic hotel was constructed in the 1950s, different standards and environmental considerations impacted the design of the hotel. As such, many of the hotel’s critical mechanical equipment and facilities are located. 
+CASE STUDY. 
+Climate Risk (continued) below grade. Part of Park’s long-term planning for this asset includes measures to protect this equipment from flooding due to sea level rise. Potential long-term solutions include the relocation of the critical equipment, the construction of sea walls, the fortification of building structures and changing the elevation of the surrounding land.
+In Key West, our two resorts face similar challenges as these properties are also prone to climate-related flooding risks. King tides are the highest predicted high tide of the year at a coastal location. While king tides are normal occurrences once or twice a year, the effects of climate change and sea level rise have caused these tides to become even larger. We continue to study the occurrence of king tides in Key West and monitor the changing high-water threshold needed to ensure our resorts remain safe and protected from potential flooding risks.
+Monitoring Sea Level Rise and Tides. 
+Hilton Hawaiian Village Waikiki Beach Resort, Honolulu, Hawaii. 
+The Reach Key West, Curio Collection by Hilton, Key west, FLorida
+
+
+42 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021 2022 Outlook
+
+
+43 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021 2022 Outlook. 
+Our Company. 
+Reducing our environmental footprint has been and is expected to continue to be a strategic priority for Park. Looking forward, we anticipate enhancing our disclosure and transparency by publicly sharing our environmental reduction targets for energy, GHG, water and waste across our portfolio. In tandem, we understand that stakeholder expectations are increasing for climate action and deeper decarbonization commitments, and we are developing an internal plan for how Park will tackle these new challenges.
+Our annual Corporate Responsibility reports are critical to relay information regarding our sustainability efforts to our stakeholders, and we expect to continue to advance the ESG efforts of our committees and programs as well as disclose our performance to stakeholders in accordance with important frameworks.
+Hilton Waikoloa Village, Waikoloa, Hawaii 2020 was an unprecedented year for many people around the world, including our stakeholders. Unfortunately, many of the challenges related to the COVID-19 pandemic have continued in 2021. However, as countries around the world continue the ambitious race to vaccinate the global population against the COVID-19 virus, we are encouraged by the indications that travel and tourism have restarted in most of our portfolio markets. We expect to continue to support both our business and our stakeholders as the industry progresses toward recovery. We believe that our strong focus on the health and wellbeing of our associates and our investment in our properties throughout COVID-19 positions us for a strong recovery as the industry reopens. We look forward to working with our operators as they welcome more guests back to our properties in the coming months.
+
+
+44 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+APPENDICES
+
+
+45 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+APPENDIX A PERFORMANCE TABLES. 
+Key Performance Indictors. 
+COMPANY OVERVIEW1 2017 2018 2019 2020. 
+Number of properties 67 54 60 60. 
+Number of rooms 35,285 32,092 33,225 33,228. 
+Square footage 33,530,207 30,877,589 31,955,274 31,955,274. 
+Occupancy rate2 81.5% 82.2% 82.7% 27.6%
+ECONOMIC FY 2017 FY 2018 FY 2019 FY 2020. 
+Revenue (millions USD) $2,791 $2,737 $2,844 $852. 
+Adjusted EBITDA (millions USD) $757 $754 $786 $(194)
+Revenue Per Available Room (RevPAR)3 $169.34 $179.79 $183.46 $49.31. 
+Associate volunteer hours4 N/A 400 210 N/A. 
+Corporate giving/donations (USD) N/A $271,105 $291,500 $144,000. 
+SOCIAL 2017 2018 20195 2020. 
+Associate Metrics All Corporate HQ Hotels / Laundries6 All Corporate HQ Hotels / Laundries Senior Leadership All Corporate HQ Hotels / Laundries Senior Leadership All Corporate HQ Hotels / Laundries7. 
+Associates 84 433 96 416 11 95 395 11 85 97. 
+Gender. 
+Men (%) 43% 45% 45% 44% 82% 45% 43% 73% 48% 34%
+Women (%) 57% 55% 55% 56% 18% 55% 57% 27% 52% 66%
+Race. 
+Asian (%) 14% 6% 14% 6% 9% 14% 7% 18% 14% 3%
+Black or African American (%) 8% 37% 10% 37% 18% 12% 36% 18% 11% 24%
+Hispanic or Latino (%) 4% 39% 2% 14% 0% 2% 14% 0% 2% 51%
+White (%) 70% 16% 70% 18% 73% 68% 17% 64% 68% 19%
+Other (%) 4% 6% 4% 25% 0% 4% 26% 0% 5% 3%
+Appendix A: Performance Tables 1 Metrics reported as of December 31, 2020.
+2 Occupancy rate determined by occupied room nights data over total available room nights data.
+3 Data is representative of our comparable hotels (2017, 2018, 2019 and 2020 Annual Reports).
+4 Due to the COVID-19 pandemic, no in-person volunteer hours were recorded for 2020. The decrease from 2019 to 2018 is attributable to targeting fewer volunteer events in order to maximize the impact of each event, while increasing our giving amounts.
+5 2019 associate metrics are reported as of July 2020. Senior leadership refers to SVP level and above.
+6 As part of the terms of its spin-off from Hilton Worldwide Holdings, Inc., in January 2017, Park was the employer of three laundry facilities (“Laundries”) and four self-managed hotels (“Select Hotels”). Hotel associates for the rest of Park’s portfolio were employees of each hotel’s particular management company. As of the date of this Report, Park no longer directly employs any associates at its hotels.
+7 Park’s three laundry facilities were closed during 2020; as of December 21, 2020, Park no longer employed any laundry associates.
+
+
+46 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Key Performance Indictors. 
+SOCIAL (Continued) 2017 2018 2019 2020. 
+Age Group8 Senior Leadership All Corporate HQ Senior Leadership All Corporate HQ. 
+Under 30 years of age (%) 14% 13% 0% 12% 0% 13%
+Age 30 – 50 (%) 48% 48% 55% 46% 73% 60%
+Age 50 or older (%) 32% 39% 45% 42% 27% 27%
+Board of Director Metrics. 
+Board of Directors 8 8 10 10. 
+Gender. 
+Men (%) 75% 75% 80% 80%
+Women (%) 25% 25% 20% 20%
+Race. 
+Asian (%) 0% 0% 0% 0%
+Black or African American (%) 12.5% 12.5% 10% 10%
+Hispanic or Latino (%) 0% 0% 0% 0%
+White (%) 87.5% 87.5% 90% 90%
+Other (%) 0% 0% 0% 0%
+Age Group >70 Years (%) 25% 25% 30% 30% 61-70 Years (%) 50% 50% 40% 40% 50-60 Years (%) 25% 25% 30% 30%
+Associate Performance Review/Survey9. 
+Associate performance review (% of associates) N/A 100% 100% 100%
+Associate satisfaction survey (response rate - %) N/A 90% 97% 96%
+PERFORMANCE TABLES (continued) 8 Age group metrics are representative of the total Company, inclusive of associates at corporate headquarters and Select hotels/laundries associates.
+9 Associate performance review/survey data is representative of associates at corporate headquarters.
+Appendix A: Performance Tables
+
+
+47 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Key Performance Indictors. 
+ENVIRONMENTAL10 2017 2018 2019 2020. 
+Greenhouse gas emissions (MTCO2e) 304,588 270,030 274,083 184,957. 
+Scope 1 emissions (MTCO2e) 79,759 74,548 75,369 43,965. 
+Scope 2 emissions (MTCO2e) 224,829 195,481 198,714 140,992. 
+Greenhouse gas emission intensity (kg per sqft) 9.08 8.99 8.78 5.79. 
+Energy consumption (MWH) 960,407 887,426 895,464 592,877. 
+Direct energy consumption (MWH) 437,576 409,075 412,197 242,584. 
+Indirect energy consumption (MWH) 522,831 478,350 483,267 350,293. 
+Energy intensity (kWh per sqft) 28.64 29.54 29.23 18.55. 
+Water consumption (kGal) 2,087,069 1,852,236 1,889,759 1,201,705. 
+Water intensity (Gal per ocrm) 196.65 195.49 200.57 366.4011. 
+Waste (MT)12 26,026 29,012 30,580 9,642. 
+Waste Landfilled (MT and percentage) 19,028 (73.1%) 21,401 (73.8%) 20,949 (68.5%) 7,388 (76.6%)
+Waste Diverted (MT and percentage) 6,998 (26.9%) 7,611 (26.2%) 9,631 (31.5%) 2,252 (23.4%)
+Waste intensity (kg per ocrm) 3.04 3.14 3.36 3.89. 
+Waste Diversion Rate (percentage) 27% 26% 32% 23%
+PERFORMANCE TABLES (continued)
+Appendix A: Performance Tables 10 Energy and water performance data were compiled via utility data management service and separate consultants to compile, validate and calendarize data directly from utility provider data feeds. For a handful of properties not encompassed by that system and for waste performance, data capture was supplemented by pulls from either operator system outputs or direct collection via property teams. Performance data is compiled by a separate entity which performs validity testing and compilation, including the greenhouse gas emissions inventory, which are then cross-checked by the utility management consultants. Specific instances of restatement, exclusion or extrapolation can be found in the other footnotes in this section.
+11 Due to the COVID-19 pandemic, occupied rooms dramatically decreased during 2020. In alignment with Park’s health and safety protocol, we maintained a continuous flow of water across our portfolio, irrespective of occupancy levels, which dramatically skewed our water intensity statistic. Looking forward, we expect a relative return to normalcy to our water intensity in FY 2021.
+12 Waste data was not extrapolated/estimated; data reported only for properties with available data. 2017 waste metrics represent approximately 83% of total floor area, 2018 waste metrics represent approximately 97% of total floor area, 2019 waste metrics represent 99.7% of total floor area and 2020 waste metrics represent 90% of total floor area.
+
+
+48 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix B SUSTAINABILITY ACCOUNTING STANDARDS BOARD Disclosures. 
+Appendix B: SASB. 
+CODE METRIC DESCRIPTION RESPONSE. 
+ACTIVITY METRICS. 
+IF-RE-000.A Number of assets 62. 
+IF-RE-000.B Leasable floor area 32,730,715 Square Feet. 
+IF-RE-000.C Percentage of indirectly managed assets 7%
+IF-RE-000.D Average occupancy rate 28%
+SUSTAINABILITY DISCLOSURE TOPICS AND ACCOUNTING METRICS. 
+CODE MARKET DESCRIPTION 2020 VALUES. 
+ENERGY MANAGEMENT. 
+IF-RE-130a.1 Energy consumption data coverage as a percentage of total floor area 100%
+IF-RE-130a.2. 
+Total energy consumed by portfolio area with data coverage 2,139,137 GJ. 
+Percentage grid electricity 55%
+Percentage renewable energy 0%
+IF-RE-130a.3 Like-for-like percentage change in energy consumption for the portfolio area with data coverage -30.3%
+IF-RE-130a.4 Percentage of eligible portfolio that has an energy rating 88%
+Percentage of eligible portfolio that is certified to ENERGY STAR 4%
+
+
+49 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Sustainability Disclosure Topics and Accounting Metrics (continued)
+Appendix B: SASB. 
+SUSTAINABILITY DISCLOSURE TOPICS AND ACCOUNTING METRICS. 
+CODE MARKET DESCRIPTION 2020 VALUES. 
+ENERGY MANAGEMENT (continued)
+IF-RE-130a.5 Description of how building energy management considerations are integrated into property investment analysis and operational strategy Park’s energy management considerations begin during our initial design, construction and acquisitions phases of our investment analysis and operational strategy and continue throughout our hotel ownership. During the hotel acquisition process, we assess for both sustainability opportunities and climate change-related risks, including environmental assessments and energy ROI opportunities. Furthermore, we conduct strategic technical building assessments during our renovation operations, designed to reduce energy usage. During new construction operations, we implement best value sustainability practices as part of the design and procurement phases in order to reduce energy usage where possible.
+As part of our operational strategy to reduce our environmental footprint, the Green Park Committee consistently identifies, assesses and implements energy and sustainability projects throughout our portfolio during our periods of hotel ownership. This committee meets at least on a quarterly basis and consists of individuals from varying disciplines, including Design & Construction, Asset Management and Finance and our external energy consultants.
+We have also introduced the Green Park Sustainability Playbook, which incentivizes and standardizes the adoption of sustainability initiatives across our portfolio.
+WATER MANAGEMENT. 
+IF-RE-140a.1. 
+Water withdrawal data coverage as a percentage of total floor area 100%
+Water withdrawal data coverage as a percentage of floor area in regions with High or Extremely High Baseline Water Stress 100%
+IF-RE-140a.2 Total water withdrawn by portfolio area with data coverage 4,561,982 Cubic Meters. 
+Percentage in regions with High or Extremely High Baseline Water Stress 10.6%
+IF-RE-140a.3 Like-for-like percentage change in water withdrawn for portfolio area with data coverage -33.4%
+
+
+50 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Sustainability Disclosure Topics and Accounting Metrics (continued)
+Appendix B: SASB. 
+SUSTAINABILITY DISCLOSURE TOPICS AND ACCOUNTING METRICS. 
+CODE MARKET DESCRIPTION 2020 VALUES. 
+WATER MANAGEMENT (continued)
+IF-RE-140a.4 Description of water management risks and discussion of strategies and practices to mitigate those risks Water-related risks are of importance to our portfolio considering that over 10% of our properties are located in areas of high or extremely high-water stress. We seek to mitigate our water risk during the design, construction, acquisition and operational phases of our business.
+During the acquisition of new properties, we conduct water-related risk assessments, such as water quality monitoring.
+During our renovation processes, we conduct strategic building assessments in order to reduce water usage. Furthermore, as part of our construction process, we follow best value sustainability practices, which supports water usage reduction.
+Lastly, our Green Park Committee consistently identifies, assesses and implements water efficiency projects across our portfolio.
+MANAGEMENT OF TENANT SUSTAINABILITY IMPACTS. 
+IF-RE-410a.1 Percentage of new leases that contain a cost recovery clause for resource efficiency-related capital improvements 0%
+IF-RE-410a.2 Percentage of tenants that are separately metered or sub metered for water withdrawals 52.5%
+IF-RE-410a.3 Discussion of approach to measuring, incentivizing, and improving sustainability impacts of tenants In 2020, we rolled out the Green Park Sustainability Playbook, which establishes sustainability expectations and provides resources for our operators to incorporate a variety of sustainability initiatives at the property level.
+Furthermore, we consistently engage with our operators to measure our various environmental impacts, which we report on an annual basis. This allows us to monitor our energy and water consumption and costs.
+CLIMATE CHANGE ADAPTATION. 
+IF-RE-450a.1 Area of properties located in 100-year flood zones 1,664,738 Square Feet. 
+IF-RE-450a.2 Description of climate change risk exposure analysis, degree of systematic portfolio exposure, and strategies for mitigating risks As part of Park’s resiliency and climate change strategy, sustainability opportunities and climate change-related risks are assessed on an ongoing basis. Due to the geographic location of our portfolio, we are exposed to climate change-related risks via increased utility costs, supply chain costs and insurance premiums.
+In order to mitigate our climate change-related risks, we have introduced the First Responder Program, which provides a standardized framework to address natural and man-made disaster through strategic mitigative actions.
+
+
+51 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix C Task Force on Climate-Related Financial Disclosures Report. 
+Appendix C: TCFD. 
+DISCLOSURE RESPONSE. 
+Board’s oversight of climate related risks and opportunities Park has an established ESG decision-making framework that drives our oversight of ESG-related matters. Park currently has three dedicated ESG committees – the Green Park Committee, the Park Cares Committee, and the Diversity and Inclusion Steering Committee. These committees are comprised of employees and senior management across various departments of our organization, and each committee has at least one Executive Committee leader as part of its team. Each committee specializes on specific ESG matters and provides both written and verbal updates to our Chairman of the Board and CEO, Thomas J. Baltimore, Jr., at least on a quarterly basis. Our Chairman and CEO is ultimately responsible for our ESG decision making. In addition and at least annually, Executive Committee leaders provide ESG reporting and strategy updates to the Nominating and Corporate Governance Committee of the Board of Directors, which is the Park Board Committee tasked with ESG oversight. Furthermore, Executive Committee leaders report at least annually to the Audit Committee of the Board of Directors on Park’s enterprise risk management, including discussions regarding climate-related risks, cybersecurity risks and other elements of risk management strategy.
+Management’s role in assessing and managing climate related risks and opportunities. 
+Park’s management ensures that responsibilities are assigned and communicated within the organization to assess and manage climate related risks and opportunities. While there are three dedicated ESG committees, assessing and managing climate related risks and opportunities is primarily managed by the Green Park Committee, internal Environmental Management System and the identified individual roles (described below).
+The Green Park Committee focuses on identifying, assessing and implementing energy and sustainability projects as well as reporting standardization, benchmarking and sustainability communications throughout the portfolio. The Committee consists of members from several disciplines, including Design & Construction, Asset Management and Finance, as well as external energy consultants. The broader Committee meets quarterly, and representatives meet at least monthly. The Green Park Committee produces a monthly newsletter, which is sent to all Park properties, that includes portfolio data and benchmarking as well as trends in sustainability. The Committee also conducts quarterly webinars.
+Park’s internal Environmental Management System (“EMS”) provides guidance in upholding our Corporate Responsibility Framework and Strategy, by acting responsibly across three areas: risk mitigation, environmental management and social commitment.
+Identified individual roles with oversight of the company’s climate related risks include: 6 Executive Vice President, Design & Construction - Responsible for overseeing Park’s efforts to assess and manage climate related risks and opportunities 6 Vice President, Design & Construction Engineering - Responsible for implementation and oversight of climate related risks and opportunities 6 Sr. Director of Engineering - Responsible for implementation of the Green Park Sustainability Playbook across Park’s properties; corporate sustainability initiatives; and energy procurement 6 Sr. Director of Engineering - Responsible for risk management across Park’s portfolio 6 Directors of Engineering at the properties - Responsible for implementing and documenting all energy, water, and sustainability projects at their respective properties. 
+Governance
+
+
+52 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix C: TCFD. 
+DISCLOSURE RESPONSE RISK OPPORTUNITIES. 
+Climate-related risks and opportunities identified over the short, medium and long-term. 
+Short and Medium term 6 Hurricanes 6 Water stressed areas 6 Droughts 6 Flooding 6 Other extreme weather events 6 Carbon tax legislation and other regulation 6 Raw material and process cost increases 6 Loss of market share due to immediate shifts in consumer preferences 6 Decreased utility costs from efficiency investments 6 Enabling properties to increase market share resulting from shift in consumer preferences 6 Low carbon goods and services 6 Optimization and capitalization of energy generation and distribution. 
+Long term 6 Higher temperatures 6 Sea level rise 6 Increased costs and shifts to adapt to net-zero legislation and expectations 6 Increased capital costs from systemic change in energy infrastructure and building equipment. 
+Strategy. 
+At the asset level, the current time period for investment varies between 1-10+ years based on the investment horizon and opportunities for each property. At the corporate level, sustainability objectives are established annually. For the purposes of assessing climate risk and opportunities, Park uses the following time horizons: short-term (<3 years), medium-term (3-6 years), and long-term (>6-10 years or longer).
+
+
+53 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix C: TCFD. 
+DISCLOSURE RESPONSE RISK OPPORTUNITIES. 
+Impact on business, strategy and financial planning As the second largest publicly traded lodging REIT in the United States and the owner of 60 properties across the United States as of February 26, 2021, Park faces different challenges and risks that can manifest in many forms. Some risks that Park monitors include the impact of our large environmental footprint, health and safety concerns for our associates and property guests, changes to our assets’ valuations and our brand reputation. These risks involve and affect a variety of stakeholder groups, including Park associates, guests, investors, properties and the communities where our properties are located. As Park recognizes and appreciates the impact of both the various risks related to our business and effect of such risks to our various stakeholders, Park continually strives to manage and mitigate such risks and any negative impact from our operations.
+Environmental factors impact our company’s business operations; therefore, the scope of our internal EMS is widespread. Our EMS is utilized at both the corporate and property level to address climate risks and opportunities that meet the interests and expectations of our stakeholders. Our portfolio includes assets located in hurricane prone states, coastal regions and water stressed areas. Furthermore, extreme weather effects such as droughts, flooding, hurricanes and sea level rise are forecasted to become more frequent and more severe as the effects of climate change accelerate. Park understands that minimizing our environmental footprint and mitigating the potential negative impact of climate related events on our portfolio is critical to helping ensure the long-lasting success of our Company and to satisfying the needs of our stakeholders.
+Energy efficiency is a key component to our strategy as a property owner, not only for the capital expenditure and operating costs it represents, but also as the Company’s primary source of GHG emissions. As such, energy assessments are routinely conducted as part of our operating practices. These cover indoor air quality, evaluating the operation of energy consuming equipment, and analyzing energy consumption data in pursuit of maintaining and improving performance. During our property site visits, professional engineers evaluate energy efficiency in spaces such as guestrooms, guest bathrooms, kitchens, food and beverage outlets, back of house / mechanical areas, banquet and meeting rooms, fitness centers, spas and swimming pools, garages and building exteriors. As part of the Green Park program, ASHRAE Level II audits are planned for each property within the next 5 years.
+Organizational resilience and Impact of different scenarios, including 2 degrees or lower. 
+Our strategy incorporates two assumptions of a long term 2 degree or lower scenario.
+First, even in keeping in pace with the Paris Agreement and other policy decisions, the impacts of climate change will increase over time and may alter key markets and travel destinations. This may result in Park needing to rethink current and future investments in key markets, incorporating higher costs of owning buildings into its operating budget, and adapting to shifts in travel patterns affected by extreme weather.
+Second, as much of the world collectively works to decarbonize by 2050, we understand that there could be significant implications from such decarbonization efforts for society and our business. In particular, our planning for pursuing net zero requires both systemic changes in a building’s energy sources and distribution and acceptance of altered expectations from both business and leisure guests regarding the practices and performance of a hotel. Park is currently evaluating pathways toward transitioning our business operations to net zero, while maintaining the best interests of our stakeholders.
+Investments in low carbon opportunities Park maintains a strong investment strategy in environmental efficiency projects across our portfolio. These investments include technology such as renewable energy, fuel switching and other market-based opportunities for lowering carbon footprints.
+Strategy (continued)
+
+
+54 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix C: TCFD. 
+DISCLOSURE RESPONSE. 
+Process for identifying and assessing climate related risks Park’s EMS provides guidance throughout our organization on how to uphold our corporate responsibility framework and strategy by acting responsibly across three areas: risk mitigation, environmental management and social commitment. Success in managing these areas directly supports the key pillars of our corporate strategy: achieving operational excellence, prudently allocating capital and maintaining a strong and flexible balance sheet. Ultimately, we believe our corporate pillars will allow us to deliver superior, risk-adjusted returns to stockholders. Our EMS guides how we address the identified environmental risks and opportunities, namely, through utilizing a Plan, Do, Check, Act system in alignment with ISO 14001.
+Processes for managing climate related risks Park aims to identify and mitigate ESG risks throughout all aspects of our business. Park assesses ESG risks and opportunities by (i) engaging with key stakeholders to understand their priorities and (ii) performing thorough assessments on existing hotel properties. On an annual basis, our Design & Construction Department reviews existing hotel properties for sustainability, energy efficiency and climate impact opportunities. These assessments are completed with internal and external resources and become actionable on a best value basis. Risk assessments are also performed during the due diligence process for new acquisitions, and property condition assessments are commissioned during the due diligence process for dispositions.
+As is typical with lodging REITs, all of Park’s properties are managed by third-party operators who handle the day-to-day operations and implementation of controls for each hotel. As such, Park has limited control over the day-to-day operations within a hotel. Park can, however, influence and control building related investments and best practices that aim to mitigate both environmental impacts and climate related risks and also improve efficiency. As part of our Green Park program, we have developed tools and communications to engage and collaborate with our third-party operators. Such tools include the development of a Green Park Sustainability Playbook which covers relevant topics to advance sustainability and address environmental risk. Park also relies on its proprietary Property Risk Management Binder, which is designed to guide the incident response process for property damage scenarios. This binder addresses risks related to flooding, fire, storm damage, exterior structural damage, earthquake, tornado, civil disturbance, terrorism and biohazards.
+The Green Park Committee also conducts quarterly webinars to focus on sustainability-related operational improvement. Additionally, on a monthly basis, the Green Park Committee sends a “Green Park Newsletter” with the latest utility and emissions reporting to our third-party operators. This newsletter allows the Committee to prioritize sites for evaluation, check progress, recognize achievements and discuss relevant trends in sustainability. The Green Park Committee meets regularly with our third-party operators to review sustainability performance. Finally, during the COVID-19 pandemic, there has been increased attention on modifying hotels and building operations to ensure a healthy and safe environment.
+Integration into overall risk management As part of its enterprise risk management, Park senior management at least annually presents an update to the Audit Committee on identified top risks of the Company, the likelihood of such risk and the impact of such perceived risk. The Audit Committee reviews and discusses enterprise risk each year.
+To ensure appropriate data collection and facilitate well-informed decision making, Park monitors potential risks and impacts of climate change to our properties located in hurricane prone states, coastal regions and water stressed areas. Risk management incorporates assessing the extreme weather effects such as droughts, floods and hurricanes, along with sea level rise that are forecasted to increase in frequency and severity over time. To consistently meet the standards outlined in our Environmental Policy, we conduct regular risk assessments across our portfolio, with more detailed assessment based on asset location, condition and history for a variety of factors including: 6 Biodiversity and Habitat 6 Building Safety and Materials 6 Energy Efficiency 6 Energy Supply 6 Flooding 6 GHG Emissions 6 Indoor Environmental Quality 6 Natural Hazards 6 Regulatory 6 Transportation 6 Waste Management 6 Water Efficiency 6 Water Supply. 
+Risk Management
+
+
+55 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix C: TCFD 6 Reducing our environmental footprint through environmental data benchmarking, efficiency project investments and implementing sustainability best practices at the asset level.
+6 Reducing our portfolio’s energy usage and carbon emissions, as measured against our 2017 baseline.
+6 Investing in low carbon efficiency projects and evaluating opportunities for on-site renewable energy or other options including purchasing RECs.
+Metrics and Targets. 
+Metrics used by the organization to assess climate related risks and opportunities.
+Park’s Environmental Objectives. 
+Park has been committed to achieving environmental sustainability since our founding in 2017. Our current objectives reflect our commitment to minimizing our environmental footprint. Moving forward, Park plans to further quantify these environmental objectives through setting environmental reduction targets across energy, carbon, water and waste to guide our sustainability efforts. Overall, we are committed to: 6 Reducing our portfolio’s water consumption, as measured against our 2017 baseline throughout our hotel portfolio and aiming to focus on properties with higher water usage and prioritize properties located in areas of high or extremely high water-stress.
+6 Reducing our waste generation across all operations, including our corporate headquarters.
+6 Greening our supply chain, through prioritizing suppliers that reflect our values of environmental footprint minimization.
+6 Monitoring and minimizing our impact on local environments when conducting development, redevelopment or renovation projects across our portfolio.
+Park collects and discloses annual performance data for the following key metrics, which can be found in our annual Corporate Responsibility Report.
+CATEGORY METRIC. 
+GHG Emissions Scope 1 GHG Emissions. 
+GHG Emissions Scope 2 GHG Emissions. 
+GHG Emissions Combined Scope 1 & 2 GHG Emissions. 
+GHG Emissions GHG Emissions Intensity. 
+Energy Direct and Indirect Energy Consumption. 
+Energy Total Energy. 
+Energy Energy Intensity. 
+CATEGORY METRIC. 
+Water Total Water. 
+Water Water Intensity. 
+Waste Total Waste Generated. 
+Waste Waste Landfilled. 
+Waste Waste Diverted. 
+Waste Waste Intensity. 
+Waste Waste Diversion. 
+Scope 1, 2 and 3 Greenhouse Gas Emissions. 
+GREENHOUSE GAS EMISSIONS TOTAL GREENHOUSE GAS EMISSIONS (KGCO2E) GREENHOUSE GAS EMISSIONS INTENSITY (KGCO2E/SQ.FT)
+Scope 1 43,965 1.38. 
+Scope 2 140,992 4.41. 
+Total Scope 1 + Scope 2 184,957 5.79. 
+Scope 3 N/A N/A
+
+
+56 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix D GRI Content Index. 
+Appendix D: GRI Index. 
+General Disclosures:
+Our General Disclosures provide company information relating to our operations, strategy and governance structure, in addition to engagement with stakeholders and reporting approach.
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+ORGANIZATIONAL PROFILE 102-1 Name of the organization Park Hotels and Resorts Inc. (“Park”) 2020 10-K Filing (Cover Page of 10-K) 102-2 Activities, brands, products and services Park is the second largest publicly traded lodging real estate investment trust (“REIT”) with a diverse portfolio of market-leading hotels and resorts with significant underlying real estate value. We own and lease hotels and resorts primarily in the upper upscale chain scale segment.
+Our objective is to be the preeminent lodging REIT, focused on consistently delivering superior, risk-adjusted returns to stockholders through active asset management and a thoughtful external growth strategy while maintaining a strong and flexible balance sheet.
+2020 10-K Filing (Our Company, pg. 4 of 10-K) 102-3 Location of headquarters Our corporate headquarters is located at 1775 Tysons Boulevard, 7th Floor, Tysons, VA 22102. 2020 10-K Filing (Cover Page of 10-K) 102-4 Location of operations As of February 26, 2021, our portfolio consisted of 60 premium-branded hotels and resorts with over 33,000 rooms in the United States.
+In February 2020, we sold 2 hotels, including our Hilton hotel in São Paulo, Brazil, thereby marking our exit from international markets.
+2020 10-K Filing (pg. 4, 71 of 10-K) 102-5 Ownership and legal form Park is a publicly traded REIT.
+We were originally formed as Hilton Hotels Corporation, a Delaware corporation, in 1946 and existed as a part of one of Hilton’s business segments. On January 3, 2017, Hilton Parent completed the spin-off that resulted in our establishment as an independent, publicly traded company.
+2020 10-K Filing (Our Company, pg. 4 of 10-K) 102-6 Markets served Park is focused on consistently delivering superior risk-adjusted returns to stockholders through active asset management and a thoughtful external growth strategy while maintaining a strong and flexible balance sheet.
+Our portfolio is located primarily in markets with high barriers to entry. Over 86% of our portfolio is classified as luxury or upper upscale, based on total portfolio rooms.
+Our high-quality portfolio includes hotels in major urban and convention areas, including New York City, Washington, D.C., Chicago, San Francisco, Boston, New Orleans and Denver; premier resorts in key leisure destinations, including Hawaii, Orlando, Key West and Miami Beach; and hotels adjacent to major gateway airports, such as Los Angeles International, Boston Logan International and Miami International, as well as hotels in select suburban locations.
+2020 10-K Filing (Our Company, pg. 4, 5, 34 of 10-K)
+
+
+57 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+General Disclosures (continued)
+Appendix D: GRI Index. 
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+ORGANIZATIONAL PROFILE (continued) 102-7 Scale of organization As of February 26, 2021, our portfolio consisted of 60 premium-branded hotels and resorts with over 33,000 rooms. In 2020, we closed our three laundry facilities.
+As of December 31, 2020, we had 182 employees, including corporate employees and employees of the Select Hotels (hotels operated by Park).
+As of year-end 2020, our total revenues were $852 million. Our Select Hotels generated $8.5 million, or 1.0% of our total revenues.
+2020 10-K Filing (pgs. 4, 6, 12, 59 of 10-K) 102-8 Information on employees and other workers. 
+As of December 31, 2020, we had 182 employees, comprised of 85 corporate employees and 97 employees of the Select Hotels. We may also engage with external consultants on an ad-hoc basis. All of our employees are in the United States.
+48% of our corporate employees are male, and 52% are female. At our Select Hotels, 34% are male and 66% are female. Our third-party hotel management companies manage daily operations and oversee efforts by frontline employees, except for our Select Hotels.
+2020 10-K Filing (Employees, pg. 12, of 10-K) 2021 Corporate Responsibility Report Performance Tables 102-9 Supply chain Our supply chain extends to suppliers engaged in design and construction services; construction materials and equipment; furniture, fixtures and equipment (“FF&E”); food and beverage supplies; office supplies, including computer equipment; laundry facility supplies and equipment; and other lodging-related supplies and equipment.
+2021 Corporate Responsibility Report GRI Index 102-10 Significant changes to the organization and its supply chain. 
+In February 2020, we sold two hotels, the Hilton Sao Paulo Morumbi and the Embassy Suites Washington D.C. Georgetown. Our sale of the Hilton Sao Paulo in Brazil marked our exit from the international market and we now only own hotels in the United States and its territories.
+We closed all three of our laundry facilities in 2020.
+2020 10-K Filing (pgs. 6 and 71 of 10-K) 102-11 Precautionary principle or approach Park’s corporate responsibility strategy of Responsible Risk Mitigation, Responsible Environmental Management, and Responsible Social Commitment aims to manage our business risks, including those related to climate change.
+Additional details on Park’s approach to managing business risks can be found on page 39 of this report.
+2021 Corporate Responsibility Report GRI Index 102-12 External initiatives In 2019, Park became a signatory of the CEO Action for Diversity & Inclusion™ to advance diversity and inclusion within Park’s workplace.
+Per our Human Rights Policy, we aim to conduct operations that are consistent with the UN Universal Declaration of Human Rights and the UN Guiding Principles on Business and Human Rights.
+Furthermore, Park‘s corporate responsibility strategy supports the achievement of the United Nations Sustainable Development Goals (“UN SDGs”) through our three focus areas.
+We also annually participate in the Cornell Hotel Sustainability Benchmarking (“CHSB”) Index.
+2021 Corporate Responsibility Report GRI Index. 
+Human Rights Policy 102-13 Membership of associations Park is a member of the American Hotel Lodging Association, the National Association of Real Estate Investment Trusts (“Nareit”), and Nareit’s Real Estate Sustainability Council (“RESC”), which helps to guide Nareit’s ESG efforts and priorities.
+2021 Corporate Responsibility Report GRI Index
+
+
+58 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+STRATEGY 102-14 Statement from senior decision-maker A statement from our CEO is available in our 2021 Corporate Responsibility Report GRI Index. 2021 Corporate Responsibility Report GRI Index 102-15 Key impacts, risks and opportunities In our 2020 10-K filing, we identified risk factors that are related to our business. We also report on our Company’s risk in our GRESB disclosure.
+For a full analysis on the climate related risks and opportunities pertinent to Park’s business, please refer to our TCFD disclosure.
+In October 2021, we updated our Environmental and Human Rights Policies and our Vendor Code of Conduct, which consider risk factors related to our business.
+Additional details on Park’s approach to assessing, mitigating and reporting on climate-related risks and opportunities can be found on page 40 of this report.
+2020 10-K Filing (Risk Factors pgs. 14-27 of 10-K)
+TCFD Disclosure. 
+Environmental Policy. 
+Human Rights Policy. 
+Vendor Code of Conduct 2021 GRESB Survey (Risk Management) 2021 Corporate Responsibility Report GRI Index. 
+ETHICS AND INTEGRITY 102-16 Values, principles, standards and norms of behavior. 
+Park’s expectations, values, principles, standards and norms of behavior are outlined in our Code Conduct.
+The Code of Conduct applies to all of our directors, officers and employees, including our President and Chief Executive Officer; Executive Vice President, Chief Financial Officer; Executive Vice President, Chief Investment Officer; and Senior Vice President and Chief Accounting Officer.
+Code of Conduct 2021 Proxy Statement (pg. 22) 102-17 Mechanisms for advice and concerns about ethics. 
+Park is committed to maintaining an environment where open, honest communication is the expectation, not the exception.
+Concerns about ethics or violations of the Code of Conduct can be reported directly to the Company, or anonymously through EthicsPoint, Park’s third-party hotline.
+Code of Conduct. 
+EthicsPoint. 
+GOVERNANCE STRUCTURE 102-18 Governance Structure Park’s Board of Directors is the highest governance body within the Company, comprised of three committees: Audit Committee, Compensation Committee and Nominating and Corporate Governance Committee.
+Our ESG objectives, reporting and strategy are directly overseen by our Chairman and CEO, Thomas J. Baltimore, Jr, who is informed by our three ESG-related committees: Green Park Committee, Park Cares Committee, and Diversity and Inclusion Steering Committee. ESG-related topics are reported directly to the Nominating and Corporate Governance Committee of the Board by our CEO on at least an annual basis.
+Additional information on our Company’s governance structure is available on our Corporate Governance webpage, and further details about our ESG-related committees can be found on pages 9-10 of this report.
+Corporate Governance 2021 Corporate Responsibility Report GRI Index. 
+General Disclosures (continued)
+Appendix D: GRI Index
+
+
+59 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+General Disclosures (continued)
+Appendix D: GRI Index. 
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+GOVERNANCE STRUCTURE (continued) 102-20 Executive-level responsibility for economic, environmental, and social topics. 
+Park’s ESG objectives, reporting and strategy are directly overseen by our Chairman and CEO, Thomas J. Baltimore, Jr., and reported directly to the Nominating and Corporate Governance Committee of the Board. 2021 Corporate Responsibility Report GRI Index 102-22 Composition of the highest governance body and its committees. 
+Park’s Board of Directors is comprised of 10 Board members, 9 of which are independent directors. Additionally, 20% of our Board members are women.
+The Board of Directors’ three Committees include the Audit Committee, the Compensation Committee, and the Nominating and Corporate Governance Committee.
+Board of Directors. 
+Corporate Governance 2021 Corporate Responsibility Report GRI Index 102-23 Chair of the highest governance body Thomas J. Baltimore Jr., is the Chairman of the Board, President, and Chief Executive Officer of Park.
+Gordon M. Bethune is our lead independent director.
+Board of Directors 102-24 Nominating and selecting the highest governance body. 
+Park’s Nominating and Corporate Governance Committee is responsible for identifying the individuals qualified to become Board members, recommending the persons to be nominated by the Board for election as directors, or filling vacancies or newly created directorships.
+Corporate Governance. 
+Nominating and Corporate Governance Committee Charter 102-25 Conflicts of interest Parks’ policy on conflicts of interest is provided in our Code of Conduct.
+The Code of Conduct applies to all of our directors, officers and employees, including our President and Chief Executive Officer; Executive Vice President, Chief Financial Officer; Executive Vice President, Chief Investment Officer; and Senior Vice President and Chief Accounting Officer.
+Code of Conduct (pg. 6-7) 2021 Proxy Statement (pg. 22) 102-27 Collective knowledge of highest governance body Our internal ESG-related committees (Green Park Committee, Park Cares Committee, and Diversity and Inclusion Steering Committee) were established to enhance the collective knowledge of ESG topics of our Company. 2021 Corporate Responsibility Report GRI Index 102-28 Evaluating the highest governance body’s performance. 
+The Compensation Committee is responsible for overseeing our executive officers’ goals, objectives, compensation, and benefits, including overall compensation structure, policies and programs, and recommendations to the Board concerning director compensation.
+2021 Proxy Statement (pg. 21)
+Compensation Committee Charter 102-32 Highest governance body’s role in sustainability reporting. 
+Park’s ESG objectives, reporting and strategy are directly overseen by our Chairman and CEO, Thomas J. Baltimore, Jr., and reported directly to the Nominating and Corporate Governance Committee of the Board. 2021 Corporate Responsibility Report GRI Index 102-35 Remuneration policies Information on Park’s remuneration policies is provided in our annual proxy statement and Compensation Committee Charter.
+2021 Proxy Statement (pgs. 62-63)
+Compensation Committee Charter 102-36 Process for determining remuneration The Compensation Committee is responsible for making recommendations to the Board with respect to director compensation.
+Additional information regarding Park’s process for determining remuneration is provided in our annual proxy statement and Compensation Committee Charter.
+2021 Proxy Statement (pg. 21)
+Compensation Committee Charter
+
+
+60 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+General Disclosures (continued)
+Appendix D: GRI Index. 
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+STAKEHOLDER ENGAGEMENT 102-40 List of stakeholder groups Our key stakeholder groups include investors, brand and management companies, industry associations, associates, suppliers, industry peers, and local communities. 2021 Corporate Responsibility Report GRI Index 102-41 Collective bargaining agreements Park engages in collective bargaining agreements with a number of its employees.
+At year end 2020, Park employed 26 unionized employees. This accounted for 27% of Park’s total Select Hotels employees.
+2020 10-K Filing (pg. 12) 102-42 Identifying and selecting stakeholders We select stakeholders by identifying the groups that may directly or indirectly impact our business. 2021 Corporate Responsibility Report GRI Index 102-43 Approach to stakeholder engagement Park actively engage with our partners, employees, and other stakeholders to better understand their priorities, enabling us to embed environmental and social responsibility into our Company.
+Stakeholder Engagement Approach. 
+Employees: We consistently engage with our employees, including our Associate Satisfaction and Engagement Survey and continuous feedback, to encourage immediate and consistent feedback.
+Brand and Management Companies: We engage with hotel brands to gain insights into their ESG-related programs and explore opportunities for future collaboration, both by working individually with our brand partners and in partnership with our lodging REIT peers. We continually meet with property teams to identify potential ESG projects such as energy efficiency investments. Furthermore, we conduct monthly meetings with property managers to discuss the integration of ESG initiatives at the property level.
+Industry Associations: We are an active member of the American Hotel and Lodging Association and Nareit and support these organization’s work to encourage the development and adoption of ESG best practices in REIT-based investments and hotel properties.
+Communities: Through our Park Cares Committee, we engage with local communities to support organizations and individuals alike through events or programs with charitable donations, sponsorships, and volunteer hours. Furthermore, our hotels also regularly engage with their communities through monetary donations and in-kind donations.
+2021 Corporate Responsibility Report GRI Index. 
+REPORTING PRACTICES & MATERIALITY 102-45 Entities included in the consolidated financial statements. 
+Our annual 10-K filing includes a list of properties or “interests.” 2020 10-K Filing (pgs. 28-29) 102-46 Defining report content and topic boundaries The most important and relevant information to our business defines our reporting content and topic boundaries for the reporting period.
+A portion of this content includes continuous stakeholder engagement, including engagement of internal subject matter experts, identifying Company priorities, and risk and opportunities along with their understanding of corporate responsibility.
+GRI Index – Disclosures
+
+
+61 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+General Disclosures (continued)
+Appendix D: GRI Index. 
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+REPORTING PRACTICES & MATERIALITY (continued) 102-47 List of material topics Park provides management approach disclosures on governance, social, and environmental topics in an annual GRI index disclosure. GRI Index – Disclosures 102-48 Restatements of information 2017 and 2018 environmental (energy, carbon, water, and waste) data were restated due to increased data availability. 2021 Corporate Responsibility Report pgs. 18-19, 47 102-49 Changes in reporting No changes in reporting were reported during the reporting cycle. GRI Index – Changes in reporting 102-50 Reporting Period Our reporting period is the 2020 calendar year. 2021 Corporate Responsibility Report GRI Index 102-51 Date of most recent report November 3, 2021 2021 Corporate Responsibility Report GRI Index 102-52 Reporting cycle We provide an annual update of our sustainability initiatives and programs in our Corporate Responsibility Report. 2021 Corporate Responsibility Report GRI Index 102-53 Contact point for questions regarding the report. 
+Park Hotels & Resorts 1775 Tysons Boulevard, 7th Floor Tysons, VA 22102 (571) 302-5757. 
+Park – Contact Us 102-56 External assurance We did not receive external assurance during this reporting cycle. 2021 Corporate Responsibility Report GRI Index
+
+
+62 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix D: GRI Index. 
+Management Approach Disclosures: Economic. 
+Our economic management approach disclosures provide information on the following topics: performance, indirect impacts and anti-corruption.
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+ECONOMIC PERFORMANCE 201-1 Direct economic value generated and distributed. 
+In 2020, Park’s total revenues and total operating expenses were $852 million and $2,116 million, respectively.
+We also contributed over $144,000 in charitable donations.
+2020 10-K Filing (pg. 59 of 10-K) 2021 Corporate Responsibility Report GRI Index 201-2 Financial implications and other risks and opportunities due to climate change. 
+Park discloses risk factors related to our business in our annual 10-K filing. This includes financial implications and risks due to natural disasters, climate change or availability of natural resources.
+Park specifically addresses the financial implications of climate related risks and opportunities across the business in our TCFD disclosure.
+Our Corporate Responsibility Report outlines both the transitional and physical risks of climate change to our Company and is informed by the work of our internal Green Park Committee.
+In response to the financial risk of these factors, we assess both sustainability related opportunities and climatechange related risks across our portfolio. To seize these opportunities and eliminate the identified risks, we allocate capital on an ongoing basis across our business.
+2020 10-K Filing (Sustainability pg. 6 and Risk Factors pgs. 14-27 of 10-K) 2021 Corporate Responsibility Report GRI Index. 
+TCFD Disclosure. 
+INDIRECT ECONOMIC IMPACTS 103 Management Approach We are committed to supporting the communities where we work and own properties. Our Park Cares Committee is comprised of corporate employees and engages with local individuals and organizations through volunteer work, charitable donations, sponsorships and volunteer hours.
+Our Park Cares Committee plans to further engage community organizations, including those that support the hospitality industry, as well as youth.
+2021 Corporate Responsibility Report GRI Index 203-1 Infrastructure investments and services supported. 
+We supported 13 organizations through charitable donations, sponsorship donations and/or volunteer hours and donated $144,000 in charitable donations in 2020. 2021 Corporate Responsibility Report GRI Index
+
+
+63 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix D: GRI Index. 
+Management Approach Disclosures: Economic (continued)
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+ANTI-CORRUPTION 103 Management Approach Park’s Code of Conduct outlines our Company’s expectations, values, principles, standards, and norms of behavior and is applicable to all employees, officers, and directors of Park and its subsidiaries.
+The Vendor Code of Conduct sets standards and expectations for Park’s vendors for ethical business practices, labor practices, human rights and environmental stewardship.
+For additional guidance that surpasses what is included in the Code of Conduct, employees are expected to consult Park’s policies and seek advice from the General Counsel Office.
+Code of Conduct. 
+Vendor Code of Conduct 205-1 Operations assessed for risks related to corruption. 
+Park regularly assesses operations for risks related to corruption. Code of Conduct 205-2 Communication and training on anti- corruption policies and procedures. 
+Park is committed to conducting its business in compliance with all laws prohibiting bribery and other corrupt practices.
+All associates participate in several trainings, including anti-bribery and anti-corruption, harassment, diversity and inclusion, and compliance, all on an annual basis.
+Code of Conduct 2021 Corporate Responsibility Report GRI Index 205-3 Confirmed incidents of corruption and actions taken. 
+No known incidents of corruption were confirmed during the reporting cycle. GRI Index – Disclosures
+
+
+64 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix D: GRI Index. 
+Management Approach Disclosures: Environmental. 
+Our environmental management approach disclosures provide information on the following topics: energy, water and effluents, emissions, and effluents and waste.
+NUMBER DESCRIPTION DISCLOSURE REFERENCES 103 Management Approach Protecting the environment is a top priority for Park. Responsible environmental activity is good for both our business and the communities we serve. Park is committed to complying with all applicable environmental laws and regulations wherever we do business. Additionally, we continually monitor and report on our hotel portfolio’s energy, carbon emissions, water, and waste impact, while seeking opportunities to improve our environmental performance and drive progress towards our internal goals.
+Our Green Park Sustainability Playbook establishes environmental sustainability expectations across our portfolio, leveraging proven interventions through technology or operational practices that generate cost savings, maintain guest comfort, and drive asset value.
+Furthermore, our Park Green Committee is responsible for implementing environmental, energy and sustainability projects across our portfolio. These projects impact our Company’s environmental performance.
+In 2020, we invested over $4.0 million in energy efficiency projects, including HVAC, cooling tower and chiller upgrades and replacements.
+2021 Corporate Responsibility Report GRI Index. 
+ENERGY 103 Management Approach Protecting the environment is a top priority for Park. Responsible environmental activity is good for both our business and the communities we serve. Park is committed to complying with all applicable environmental laws and regulations wherever we do business. Additionally, we continually monitor and report on our hotel portfolio’s energy, carbon emissions, water, and waste impact, while seeking opportunities to improve our environmental performance and drive progress towards our internal goals.
+Our Green Park Sustainability Playbook establishes environmental sustainability expectations across our portfolio, leveraging proven interventions through technology or operational practices that generate cost savings, maintain guest comfort, and drive asset value.
+Furthermore, our Park Green Committee is responsible for implementing environmental, energy and sustainability projects across our portfolio. These projects impact our Company’s environmental performance.
+In 2020, we invested over $4.0 million in energy efficiency projects, including HVAC, cooling tower and chiller upgrades.
+2021 Corporate Responsibility Report GRI Index 302-1 Energy consumption within the organization In 2020, total energy consumption was 592,877 MWh. ESG Performance Tables 302-3 Energy intensity In 2020, energy intensity was 18.55 kWh per sq. ft. ESG Performance Tables
+
+
+65 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix D: GRI Index. 
+Management Approach Disclosures: Environmental (continued)
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+WATER AND EFFLUENTS 303-5 Water consumption In 2020, total water consumption was 1,201,705 kilogallons. ESG Performance Tables. 
+EMISSIONS 305-1 Scope 1 emissions In 2020, scope 1 emissions were 43,965 metrics tons CO2e. ESG Performance Tables 305-2 Scope 2 emissions In 2020, scope 2 emissions were 140,992 metrics tons CO2e. ESG Performance Tables 305-4 Greenhouse gas intensity (GHG) In 2020, greenhouse gas intensity was 5.79 kg. per sq. ft. ESG Performance Tables. 
+EFFLUENTS AND WASTE 103 Management Approach Protecting the environment is a top priority for Park. Responsible environmental activity is good for both our business and the communities we serve. Park is committed to complying with all applicable environmental laws and regulations wherever we do business. Additionally, we continually monitor and report on our hotel portfolio’s energy, carbon emissions, water, and waste impact, while seeking opportunities to improve our environmental performance and drive progress towards our internal goals.
+Our Green Park Sustainability Playbook establishes environmental sustainability expectations across our portfolio, leveraging proven interventions through technology or operational practices that generate cost savings, maintain guest comfort, and drive asset value.
+Furthermore, our Park Green Committee is responsible for implementing environmental, energy and sustainability projects across our portfolio. These projects impact our Company’s environmental performance.
+In 2020, we invested over $4.0 million in energy efficiency projects, including HVAC, cooling tower and chiller upgrades.
+2021 Corporate Responsibility Report GRI Index 306-2 Waste by type and disposal method In 2020, total waste generated was 9,642 metric tons.
+In 2020, 7,388 metric tons of waste was sent to landfill and 2,252 metric tons was recycled. Park also generated 1 metric ton of hazardous waste, while no waste was composted or incinerated.
+By utilizing composting and recycling methodologies, we diverted 23%, or 2,252 metric tons, of waste from being sent to the landfill.
+ESG Performance Tables
+
+
+66 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Appendix D: GRI Index. 
+Management Approach Disclosures: Social. 
+Our social management approach disclosures provide information on the following topics: employment, occupational health and safety, training and education, diversity and opportunity, local communities, customer health and safety and customer privacy.
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+EMPLOYMENT 401-2 Benefits provided to full-time employees that are not provided to temporary or part- time employees. 
+We provide our employees at Corporate headquarters with health and wellness programs and initiatives, including health care benefits and paid parental leave. A summary of benefits for Corporate employees includes the following: 6 Health insurance (paid fully by Park) 6 One Medical memberships (paid fully by Park) 6 PTO plan (paid fully by Park) 6 Company stock plan (LTI) 6 Bonus eligible (STI) 6 401k match program 6 Paid parental leave 6 Transportation benefits 6 Associate gym membership 6 Ergonomic workstations 6 Wellness room 6 Annual flu shot clinic 6 Employee Assistance Program (“EAP”) 6 Dedicated programming for returning new parents 6 Mindfulness training 6 Emotional intelligence workshops 2021 Corporate Responsibility Report GRI Index. 
+OCCUPATIONAL HEALTH & SAFETY 403-1 Occupational health and safety management system. 
+In 2020, we rolled out our Company-wide First Responder Program to address natural disaster and man-made risks through a three-tiered system. We created specific mitigation plans to ensure properties are equipped to address disasters prior to an event occurring.
+2021 Corporate Responsibility Report GRI Index 403-6 Promotion of worker health We are committed to improving the health, safety and well-being of our employees and business colleagues. Our employees are responsible for understanding and complying with all applicable safety and health laws and guidelines. In addition, we are each responsible for identifying and responding to health and safety hazards and security concerns throughout our Company.
+2021 Corporate Responsibility Report GRI Index 403-9 Work-related injuries In 2020, no corporate employees suffered work-related severe injuries or fatalities occurred.
+To prevent any injuries prior to occurrence, we emphasize active hazard identification and elimination among all employees.
+2021 Corporate Responsibility Report GRI Index
+
+
+67 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Management Approach Disclosures: Social (continued)
+Appendix D: GRI Index. 
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+TRAINING AND EDUCATION 103 Management Approach All of our employees participate in educational and professional development programs at our Company. In addition, select employees also receive ESG-specific training, executive coaching, and/or technical skill development.
+Our leadership team encourages employees to continue education and professional certifications with time away from work and training budgets.
+2021 Corporate Responsibility Report GRI Index 404-2 Programs for upgrading employee skills and transition assistance programs. 
+We provide employees at Corporate headquarters with developmental and educational opportunities such as Management Development Series programs, Corporate Technical “lunch and learn” Trainings and REIT Tax Training. Selected associates participate in our Leadership Development Program and Executive Coaching.
+All employees also participate in an annual anti-bribery and anti-corruption training and harassment, diversity and inclusion, and compliance training at least annually. We also conducted mandatory emotional intelligence training for all Corporate associates in 2020, and plan to do additional trainings on this topic on an as-needed basis going forward.
+2021 Corporate Responsibility Report GRI Index 404-3 Percentage of employees receiving regular performance and career development reviews. 
+Our employee performance review process includes continuous feedback to encourage immediate and consistent feedback.
+All employees receive regular one-on-one feedback sessions in lieu of annual performance reviews to ensure feedback is current to reinforce positive performance.
+2021 Corporate Responsibility Report GRI Index. 
+DIVERSITY AND EQUAL OPPORTUNITY 103 Management Approach We pride ourselves on creating a respectful, professional and inclusive workplace for everyone. Park values the unique perspectives that a workforce with diverse cultures, ages, genders, and ethnicities brings to our processes. We embrace this diversity that we strongly feel enhances our success.
+In 2019, Park’s CEO, Thomas J. Baltimore Jr., signed the CEO Action for Diversity & Inclusion.
+In 2020, we established the Diversity and Inclusion Steering Committee to address topics related to diversity and inclusion. Since its formation, the committee has continued to meet monthly and work thoughtfully in evaluating our current and prospective initiatives and partnerships to ensure they align with Park’s culture and support our diversity and inclusion mission.
+We have updated our Vendor Code of Conduct to include a preference for suppliers which reflect our corporate values of diversity, namely, a commitment to inclusiveness.
+2021 Corporate Responsibility Report GRI Index 405-1 Diversity of governance bodies and employees Park’s Board of Directors is comprised of 8 men and 2 women.
+At our headquarters location, 48% of employees are men, and 52% are women. At our Select Hotels, 39% of employees are men, and 61% are women.
+Please refer to page 45 of our 2021 Corporate Responsibility Report GRI Index for a breakdown of employee race and age group metrics.
+2021 Corporate Responsibility Report GRI Index. 
+Board of Directors
+
+
+68 PARK HOTELS & RESORTS CORPORATE RESPONSIBILITY REPORT 2021. 
+Management Approach Disclosures: Social (continued)
+Appendix D: GRI Index. 
+NUMBER DESCRIPTION DISCLOSURE REFERENCES. 
+HUMAN RIGHTS ASSESSMENT 412-3 Significant investment agreements and contract that include human rights clauses or that underwent human rights screening. 
+Our Human Rights policy aligns with the UN Universal Declaration of Human Rights and the UN Guiding Principles on Business and Human Rights.
+We also expect our vendors to conduct business in a manner that aligns with our values and commitment to responsible business practices, including upholding human and employment rights as outlined in our Vendor Code of Conduct.
+Human Rights Policy. 
+Vendor Code of Conduct. 
+LOCAL COMMUNITIES 413-1 Operations with local community engagement, impact assessments, and development programs. 
+In 2020, Park contributed $144,000 in charitable donations to over 13 organizations.
+Our Company and third-party hotel management companies are also engaged with their local communities, and raise funds through in-kind and monetary donations, as well as contribute volunteer hours and provide meals to various organizations.
+2021 Corporate Responsibility Report GRI Index. 
+CUSTOMER HEALTH AND SAFETY 416-1 Assessment of the health and safety impacts of product and service categories. 
+We are committed to the health and safety of our employees and business colleagues.
+Our employees are responsible for understanding and complying with all applicable safety and health laws and guidelines. In addition, we are each responsible for identifying and responding to health and safety hazards and security concerns throughout our Company.
+2021 Corporate Responsibility Report GRI Index. 
+CUSTOMER PRIVACY 418-1 Total number of substantiated complaints regarding breaches of customer privacy and losses of customer data. 
+No known substantiated complaints regarding breaches of customer privacy and losses of customer data were reported during 2020. 2021 Corporate Responsibility Report GRI Index
+
+
+WWW.PKHOTELSANDRESORTS.COM 1775 TYSONS BOULEVARD, 7TH FLOOR. 
+TYSONS, VA 22102 (571) 302-5757

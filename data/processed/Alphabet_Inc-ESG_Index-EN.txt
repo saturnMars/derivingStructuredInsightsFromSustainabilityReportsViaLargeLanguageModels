@@ -1,0 +1,170 @@
+Alphabet discloses Environmental, Social, and Governance (ESG) information across a number of reports, blogs and websites. The ESG index below maps our most recent public disclosures available as of April 2022, to the Sustainability Accounting Standards Board (SASB) and the Task Force on ClimateRelated Financial Disclosures (TCFD) framework. We are on a continuous journey to advance our ESG initiatives and reporting, and will continue to evaluate and enhance our ESG disclosures as we make progress.
+Alphabet ESG Index 1 ESG Index 2022
+
+
+SASB Index. 
+Our Index references SASB’s industry standards for Internet Media & Services (“IM”), our identified primary industry, and includes select metrics from industry standards Software & IT Services (“SI”) and Hardware (“HW”) to better align with our business. In certain instances, we have not reported the specific metrics suggested by SASB, and instead point to disclosures describing how we evaluate and manage these matters within our business.
+Code. 
+TC-IM-130a.1. 
+TC-SI-130a.1. 
+TC-IM-130a.2. 
+TC-SI-130a.2. 
+TC-IM-130a.3. 
+TC-SI-130a.3. 
+TC-IM-220a.1. 
+TC-SI-220a.1. 
+TC-IM-220a.2. 
+TC-SI-220a.2. 
+TC-IM-220a.3. 
+TC-SI-220a.3. 
+TC-IM-220a.4. 
+TC-SI-220a.4. 
+TC-IM-220a.5. 
+TC-SI-220a.5. 
+TC-IM-220a.6. 
+Topic. 
+Environmental. 
+Footprint of. 
+Hardware. 
+Infrastructure. 
+Data Privacy,
+Advertising. 
+Standards &
+Freedom of. 
+Expression. 
+Metric (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with. 
+High or Extremely High Baseline Water Stress. 
+Discussion of the integration of environmental considerations into strategic planning for data center needs. 
+Description of policies and practices relating to behavioral advertising and user privacy. 
+Number of users whose information is used for secondary purposes. 
+Total amount of monetary losses as a result of legal proceedings associated with user privacy (1) Number of law enforcement requests for user information, (2) number of users whose information was requested, (3) percentage resulting in disclosure. 
+List of countries where core products or services are subject to government-required monitoring, blocking, content filtering, or censoring. 
+Number of government requests to remove content, percentage compliance with requests. 
+Alphabet's Related Disclosures 2021 Environmental Report (see Our Operations – Energy, pg. 11) 2021 Environmental Report (see Our Operations – Water, pg.11) 2020 Environmental Report (see Designing Efficient Data Centers, pg. 20-28)
+Safety Center. 
+Ads and Data. 
+How we Make Money with Advertising. 
+Privacy Policy. 
+Privacy Notice—Family Link. 
+Privacy Policy 2022 Q1 10-Q (disclosed if material under. 
+Legal Matters, pg. 24-25)
+Requests for User Information. 
+Traffic and disruptions. 
+Government requests to remove content 2 ESG Index 2022
+
+
+Code. 
+TC-IM-230a.1. 
+TC-SI-230a.1. 
+TC-IM-230a.2. 
+TC-SI-230a.2. 
+TC-HW-230a.1. 
+TC-IM-330a.3. 
+TC-SI-330a.3. 
+TC-HW-330a.1. 
+TC-HW-410a.1. 
+TC-HW-410a.2. 
+TC-HW-410a.3. 
+TC-HW-410a.4. 
+Topic. 
+Data Security. 
+Product Security. 
+Employee. 
+Recruitment,
+Inclusion &
+Performance /
+Recruiting &
+Managing a Global,
+Diverse & Skilled. 
+Workforce /
+Employee Diversity & Inclusion. 
+Product Lifecycle. 
+Management. 
+Metric (1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of users affected. 
+Description of approach to identifying and addressing data security risks, including use of third-party cybersecurity standards. 
+Description of approach to identifying and addressing data security risks in products. 
+Percentage of gender and racial/ethnic group representation for (1) management, (2) technical staff, and (3) all other employees. 
+Percentage of products by revenue that contain. 
+IEC 62474 declarable substances. 
+Percentage of eligible products, by revenue, meeting the requirements for EPEAT registration or equivalent. 
+Percentage of eligible products, by revenue, meeting ENERGY STAR® criteria. 
+Weight of end-of-life products and e-waste recovered, percentage recycled. 
+Alphabet's Related Disclosures. 
+Safety Center. 
+Privacy Policy 2021 10-K (see Risks Related to our Industry, pg. 14-16)
+Safety Center. 
+Privacy Policy. 
+Compliance Resource Center 2021 10-K (see Risks Related to our Industry, pg. 14-16)
+Safety Center. 
+Privacy Policy 2021 Diversity Annual Report (see Looking Ahead, pg. 47-62) 2020 Environmental Report (see Building Better Devices and Services, pg. 53-62)
+Restricted Substances Specification 2020 Environmental Report (see Consumer Hardware Devices, pg. 55-56)
+Product Environmental Reports:
+Pixel 6, Pixel 6 Pro, Pixel 5a with 5G, Pixel 5,
+Pixel 4a (5G), and Pixel 4a 2020 Environmental Report (see Consumer Hardware Devices, pg. 55-56)
+Product Environmental Reports:
+Pixelbook, Pixelbook Go, Pixel Slate,
+Nest Learning Thermostat, Nest Thermostat 2020, and the Nest Thermostat E 2021 Environmental Report (see Waste – data center hardware refurbishment and reuse, pg. 11) 2020 Environmental Report (see Embedding Circularity, pg. 24) 3 ESG Index 2022
+
+
+Code. 
+TC-HW-430a.1. 
+TC-HW-430a.2. 
+Topic. 
+Supply Chain. 
+Management. 
+Metric. 
+Percentage of Tier 1 supplier facilities audited in the RBA Validated Audit Process (VAP) or equivalent, by (a) all facilities and (b) high-risk facilities. 
+Tier 1 suppliers’ (1) non-conformance rate with the RBA Validated Audit Process (VAP) or equivalent, and (2) associated corrective action rate for (a) priority non-conformances and (b) other non-conformances. 
+Alphabet's Related Disclosures 2021 Supplier Responsibility Report (see Expanding our Assessment Approach, pg. 18; Using Audits to Identify—and Correct—
+Noncompliance, pg. 19-20) 2021 Supplier Responsibility Report (see Expanding our Assessment Approach, pg. 18; Using Audits to Identify—and Correct—
+Noncompliance, pg. 19-20; Appendix, Pg. 39-40)
+TC-HW-440a.1. 
+TC-IM-520a.1. 
+TC-SI-520a.1. 
+TC-SI-550a.1. 
+TC-SI-550a.2. 
+Materials Sourcing. 
+Intellectual Property. 
+Protection &
+Competitive Behavior. 
+Managing. 
+Systemic Risks from Technology. 
+Disruptions. 
+Description of the management of risks associated with the use of critical materials. 
+Total amount of monetary losses as a result of legal proceedings associated with anticompetitive behavior regulations. 
+Number of (1) performance issues and (2) service disruptions; (3) total customer downtime. 
+Description of business continuity risks related to disruptions of operations 2021 Supplier Responsibility Report (see Strengthening Communities, pg. 23-26) 2020 Conflict Minerals Report. 
+Conflict Minerals Policy 2022 Q1 10-Q (disclosed if material under. 
+Legal Matters, pg. 24-25)
+Traffic and disruptions 2021 10-K (see Risk Factors, pg. 10-24) 4 ESG Index 2022
+
+
+TCFD Index. 
+Our Index builds on our longstanding practice of reporting our climate-related activities to the CDP and in our Environmental Reports. We have formally expressed our support for the TCFD reporting framework and its seven principles for climate disclosure. We believe that our voluntary disclosures on climate-related matters are consistent with the recommendations of the TCFD framework.
+Core Elements. 
+Governance: Disclose the organization’s governance around climate-related risks and opportunities. 
+Strategy: Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning where such information is material. 
+Recommended Disclosures. 
+Describe the board’s oversight of climate-related risks and opportunities. 
+Describe management’s role in assessing and managing climate-related risks and opportunities. 
+Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.
+Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.
+Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.
+Alphabet’s Related Disclosures. 
+Alphabet’s Audit and Compliance. 
+Committee’s charter 2021 CDP Response (C1.1a and C1.1b) 2021 CDP Response (C1.2a) 2021 CDP Response (C2.1a, C2.2a, C2.3a and 2.4a) 2021 CDP Response (C3.1, C3.2a, C3.3, and C3.4) 2021 CDP Response (C3.2a)
+Risk Management: Disclose how the organization identifies, assesses, and manages climate-related risks. 
+Describe the organization’s processes for identifying and assessing climate-related risks.
+Describe the organization’s processes for managing climate-related risks.
+Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.
+2021 CDP Response (C2.2, C3.2a) 2021 CDP Response (C2.1b, C2.2a and C2.3a) 2021 CDP Response (C2.2) 5 ESG Index 2022
+
+
+Core Elements. 
+Metrics & Targets: Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material. 
+Recommended Disclosures. 
+Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.
+Disclose Scope 1, Scope 2, and, if appropriate,
+Scope 3 greenhouse gas (GHG) emissions, and the related risks.
+Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.
+Alphabet’s Related Disclosures 2021 CDP Response (C2.3a, C2.4a, C4.2a and C6) 2021 Environmental Report (pg. 10-12) 2021 CDP Response (C6) 2021 Environmental Report (pg. 10-12) 2021 CDP Response (C4.1a and C4.2a) 2021 Environmental Report (pg. 7-9) 6 ESG Index 2022

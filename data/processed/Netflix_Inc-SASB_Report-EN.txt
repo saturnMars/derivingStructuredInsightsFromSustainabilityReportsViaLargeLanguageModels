@@ -1,0 +1,580 @@
+Environmental Social Governance Report 2021. 
+Sustainability Accounting Standards Board (SASB) Report
+
+
+Environmental Social Governance Report 2021 Sustainability Accounting Standards Board (SASB) Report 2. 
+At Netflix we want to entertain the world, with best-in-class stories across a wide variety of different genres, and in more than 30 languages and 190 countries. As we’ve learned over the years, great stories are universal: they can come from anywhere and be loved everywhere. It’s why we invest in TV and film from all around the world, and make our titles available globally (where we have the rights) so creators can reach the broadest possible audience and our members can have access to new perspectives and voices.
+As Netflix grows, we want to ensure that: more people get to see their lives and cultures reflected on screen; our employee base - and the creators we work with - are as diverse as the communities we seek to serve; we contribute to the local creative communities in which we operate; and we minimize our impact on the environment.
+Below is our third report covering our environmental, social, and governance (ESG) performance. It looks back at the previous year and gives investors as well as other stakeholders information about our broader impact in society. The report will focus on what’s material to our business and our industry using the Sustainability Accounting Standards Board (SASB) framework as a benchmark.
+SASB guidelines differ depending on the industry. This report provides ESG information for the 2021 calendar year, referencing SASB’s reporting framework for the “Internet & Media Services” and “Media & Entertainment” industries. For more information on SASB, visit www.sasb.org.
+Editor’s Note 06/01/2022: We made various formatting updates throughout the report and updated page 8 with a link to EY’s Independent Accountants’ Review of our Scope 3 emissions.
+
+
+2021 marked a year of significant progress for Netflix in terms of addressing our emissions and incorporating sustainability into our core business practices.
+ENTITY-DEFINED MEASURE OF USER ACTIVITY. 
+Subscribers 204 million 222 million TC-IM-000.A 26,196 100% 100% 68,089 100% 100% 33,407 100% 100% 123,148 100% 100%
+TC-IM-130a.1. 
+TC-IM-130a.3. 
+ENVIRONMENTAL FOOTPRINT OF HARDWARE INFRASTRUCTURE 1. 
+ENVIRONMENTAL FOOTPRINT OF REMAINING SCOPE 2 3. 
+Total energy consumed (MWh)2. 
+Percentage grid electricity. 
+Percentage renewable. 
+Total energy consumed (MWh)
+Percentage grid electricity. 
+Percentage renewable. 
+Discussion of the integration of environmental considerations into strategic planning for data center needs. 
+Page 10-11. 
+Environmental. 
+TOPIC. 
+TOPIC. 
+ACTIVITY METRIC - INTERNET MEDIA & SERVICES 2020 2021 2020 2021. 
+SASB CODE. 
+SASB CODE ACCOUNTING METRICS - INTERNET MEDIA & SERVICES 3
+1 This topic, “Environmental Footprint of Hardware Infrastructure” is a SASB requirement for “Internet Media & Services” companies. 2 Only includes Scope 2 hardware infrastructure, i.e. Netflix-operated Open Connect Appliances in colocation data centers, which represent approximately 1/10th of Scope 2 and 3 data center electricity use (all Open Connect and AWS combined). 3 While SASB only requires reporting for the “Environmental Footprint of Hardware Infrastructure,” Netflix has opted to report on its other Scope 2 energy consumption as well, which includes electricity use in corporate offices, production studios, and billboards, in addition to colocation data center infrastructure.
+
+
+4. 
+Environmental 1. SUSTAINABILITY AT NETFLIX. 
+The science is clear: stabilizing the climate at 1.5°C and investing in nature will help ensure a habitable world for generations to come. We are acting on that science with the climate commitment we unveiled last year. And while we have much more work to do, we’ve made promising strides in 2021. For example, we: • Delivered emission reductions: We reduced or avoided more than 14,000 MT of greenhouse gas emissions: This translates to cutting our 2021 Scope 1 and 2 footprint by 10%, putting us on track to meet our goal to cut 45% of our Scope 1 and 2 emissions by 2030. Several projects contributed to this: working with our utilities, landlords, and streaming partners to switch to renewable electricity, swapping in renewable diesel on our productions, trialing EVs, replacing diesel generators with mobile batteries or hydrogen power units, and buying sustainable aviation fuel.
+• Designed our 2030 decarbonization roadmap as part of our low carbon transition planning process. This includes setting milestones for internal decarbonization that allow us to meet our 2030 science-based emission reduction target.
+• Secured validation of our science-based target: We set and implemented our science-based target (SBT) of 46.2% absolute emissions reduction below 2019 levels across Scopes 1 and 2 by 2030. Our target was validated by the Science Based Targets Initiative in July 2021.
+• Conducted a company-wide climate risk assessment as part of our annual risk assessment process, led by our Internal Audit and Sustainability teams.
+• Co-founded the Sustainable Aviation Buyers Alliance, earning public mention by the U.S. White House, and launched the Business Alliance for Scaling Climate Solutions in partnership with other leading companies.
+• Broadened research on the carbon footprint of video streaming with university researchers and peer entertainment companies with a white paper by Carbon Trust.
+• Released Netflix’s first Sustainability Collection of titles in partnership with the COP26 Presidency (the UK government).
+• Advocated via industry associations for relevant incentives and policies material to our public climate commitments.
+• Supported our filmmakers in telling entertaining and enriching stories that shine a light on sustainability, creating resources for viewers of Don’t Look Up and Breaking Boundaries to learn more about the climate.
+• Hosted our first ESG Investor Day with our executive staff, three board members, and 40% of our institutional shareholders participating.
+
+
+Environmental 5. 
+We relied on the insights and research of our key partners:
+Environmental Defense Fund. 
+ENGIE Impact. 
+Project Drawdown. 
+Rare. 
+Count-Us-In. 
+Natural Resources Defense Council. 
+Exponential Roadmap Initiative. 
+We expanded our network and work with hundreds of experts around the world, including from the following institutions:
+George Mason University. 
+Global Optimism. 
+Globescan. 
+Harvard University Kennedy School. 
+Harvard University Chan School of Public Health. 
+Lawrence Berkeley National Laboratory. 
+Pennsylvania State University. 
+Potsdam Institute for Climate Impact Research. 
+Springer Nature (research journals Nature, Scientific American, etc.)
+Stanford University Center for Innovation in Global Health. 
+Stockholm Environment Institute. 
+Texas Tech University. 
+The College of Wooster. 
+The Nature Conservancy. 
+University of Bath. 
+University of Bristol. 
+University of Cambridge. 
+University of Colorado Boulder. 
+University of Georgia. 
+University of California Los Angeles. 
+University of California Santa Barbara. 
+University of Nottingham. 
+United Nations’ Framework Convention on Climate Change. 
+WWF
+
+
+6. 
+Environmental. 
+Our independent Advisory Group of Experts volunteered their time to advise us on the best approach to sustainability at Netflix. The group is selected for their leadership and deep knowledge across scientific and storytelling topics. In 2021, three additional advisors joined us from the world of drama and unscripted films:
+Pippa Ehrlich, Oscar-winning Filmmaker (My Octopus Teacher)
+Lisa Holdsworth, Drama Series Writer & Chair, Writers’ Guild of Great Britain. 
+Jeff Orlowski, Emmy-winning Filmmaker (The Social Dilemma, Chasing Coral, Chasing Ice)
+Our other advisors, below, remain actively engaged:
+Dr. Johan Rockström, Director of the Potsdam Institute for Climate Impact Research. 
+Dr. Katharine Hayhoe, Chief Scientist, The Nature Conservancy and Distinguished Professor and Chair, Texas Tech University. 
+Christiana Figueres & Tom Rivett-Carnac, co-architects of the Paris Agreement and founders of Global Optimism. 
+Kelly Kizzier, VP Global Climate, Environmental Defense Fund. 
+Marcene Mitchell, SVP Climate & Tim Juliani, Corporate Engagement, WWF. 
+Xiye Bastida, youth activist and winner of Spirit of the UN award. 
+Derik Broekhoff, Senior Scientist, Stockholm Environment Institute. 
+Public Policy—Following the COP26 Summit in Glasgow, governments around the world are accelerating action towards the goals expressed in the Paris Agreement and in the UN Framework Convention on Climate Change. Our climate goals are aligned with the Paris Agreement, so we’re partnering with policymakers in specific countries to attain them: 1. In the U.S., as part of our 2021 commitment to America is All In, we: • Signed an open letter to G20 governments by We Mean Business about strengthening national climate targets, and • Publicly stated support for key U.S. policies (Clean Electricity Performance Plan and federal investments in electric vehicles) and judicial decisions (Amicus Brief for Supreme Court’s West Virginia vs. EPA). This earned recognition in Climate Voice’s Corporate Scorecard.
+2. Outside of the U.S., we contributed to the following: • In France, we worked with the French Ministry of Environment on their roadmap on the tech sector’s impact on the environment. We also joined the French Environment and Energy Management Agency’s expert committee on measuring the carbon footprint of digital technologies and contributed to the Agency’s study on the life cycle impacts of different cultural, digital and physical services. We joined their steering committee, alongside French companies Canal+, Vivendi and Ubisoft.
+• In Canada, we support joint efforts between provincial governments and industry to decarbonize film production: On Tourne Vert in Québec, Reel Green in British Columbia, and Ontario Green Screen.
+• In partnership with the UK Government, we launched the Together for Our Planet Collection on Netflix to broaden awareness of sustainability stories and topics in the leadup to COP26.
+
+
+Environmental 7. 
+Embedding Sustainability. 
+As with all organizational changes, they are most effective when incorporated into existing practices and governance structures. To that end, sustainability is now a standard part of: • Our quarterly briefing memos for the Board of Directors • Our standard Enterprise Risk Management process led by Internal Audit • Ongoing planning for studio and corporate office expansions. 
+Our ESG reporting is led by our Corporate Controller who oversees financial reporting and our carbon footprint assurance is led by the same Independent Accountants (EY) that audit our financials.
+The Sustainability team hosts regular meetings with the CEOs, CFO, COO, Chief Communications Officer, Chief Marketing Officer, VP Global Public Policy, VP Studio Operations, VP Production Facilities Management & Operations, VP Corporate Real Estate, VP Content Delivery and VP Product Innovation and is invited regularly to meetings with VPs of Content Acquisition.
+
+
+8. 
+Environmental 2. OUR CARBON FOOTPRINT AND BOUNDARIES. 
+Our Carbon Footprint - In the past year, we measured our greenhouse gas (GHG) emissions, also known as carbon footprint, following the GHG Protocol for 20214. Our Independent Accountants, Ernst & Young (EY), reviewed our 2021 Scope 1, 2 and 3 greenhouse gas emissions (their report here). This exercise helped us understand where our largest sources of emissions lie and the biggest opportunities we have to reduce them. Netflix’s footprint was 1.53 million metric tons (MTCO2e) in 2021, covering Scopes 1, 2, and 3. From 2020 to 2021, the Scope 1 footprint increased due to an increase in film and TV productions after 2020, a year where the Covid-19 pandemic resulted in delayed productions that were finished in 2021.
+We present the footprint and our target progress in three separate tables throughout this report: • Table 1: 2021 Greenhouse Gas Inventory below shows our 2019, 2020, and 2021, greenhouse gas corporate inventory per the WRI/WBCSD Corporate Greenhouse Gas Accounting Protocol.
+• Table 2: 2021 SBT Emission Reductions Summary Table (on page16) shows our quantified reductions from the range of measures we have put in place over the past 12 months to track progress towards our science-based target5.
+• Table 4: 2021 Carbon Credit Portfolio (on page 20) shows the carbon credits we purchased and retired in 2021.
+We reduced emissions through several measures in 2021 (e.g. using cleaner fuels or driving EVs instead of gas cars), and avoided future emissions by changing several areas of our operations that were dependent on fossil fuels (e.g. using natural gas heating systems instead of all electric heat pumps). The following table shows Netflix’s annual carbon footprint totals. We calculated these totals using market-based and locationbased emissions accounting methods defined by the GHG Protocol Scope 2 Guidance. Location-based figures are calculated based on the emissions intensity of the locations where the electricity consumption occurs. The market-based method incorporates electricity procurement decisions that are chosen, including electricity supply from utilities and contractual instruments such as renewable energy certificates (RECs).
+4 Netflix’s greenhouse gas (GHG) emissions reporting is consistent with the operational control approach as set out by the GHG Protocol Corporate Accounting and Reporting Standard: Revised Edition (2004). The organizational and operational boundary applies to the global company including its subsidiaries, the office and studio facilities we own and operate (e.g. Netflix Albuquerque Studios, USA) as well as facilities we lease from others but over which we have meaningful operational control (e.g. corporate and studio offices and stages). 5 There is no reporting guidance from the SBTi on tracking progress towards science based targets on an annual basis, so we use standard greenhouse gas accounting methodologies per the Corporate Accounting and Reporting Standard by The Greenhouse Gas Protocol. Our internal audit team validates our greenhouse gas accounting methodologies and we engage EY to perform limited assurance over our greenhouse gas emissions.
+
+
+Environmental 9. 
+Table 1: 2021 Greenhouse Gas Inventory6 2019 MTCO2e 2019 MTCO2e 2020 MTCO2e 2020 MTCO2e. 
+SCOPE 1. 
+SCOPE 2 (market-based)
+SCOPE 3 7 8. 
+TOTAL (market-based)
+CARBON CREDITS. 
+BIOGENIC EMISSIONS. 
+Renewable Fuels – (e.g. renewable diesel, SAF)
+SCOPE 2 (location-based) 2021 MTCO2e 2021 MTCO2e 51,487 565 1,192,659 1,244,711 (36,506) 0
+26,594 30,883 141 1,020,541 1,051,564 (54,107) 0
+28,585 62,815 0
+1,466,497 1,529,312 (1,529,312)9 1,007 42,291 6 GHG emissions are accounted for and reported on according to industry-standard guidance and methodologies outlined in the Corporate Accounting and Reporting Standard by The Greenhouse Gas Protocol. 7 This includes categories 1-4, 6-8, and 11, as defined by the GHG Protocol Scope 3 Guidance. 8 We applied a volume of RECs to Scope 3 emissions where we had information on the specific energy consumption by location (e.g. for our Open Connect network). 9 See Table 4 2021 Carbon Offset Portfolio for a detailed summary of the offset credit we purchased for 2021.
+
+
+10. 
+Environmental 10 All emission factors are applied to the data and updated annually to reflect the latest guidance and factors published by EPA eGRID2019 (EPA, 2021) and The Climate Registry (TCR, 2021). In some cases, where data may not be available or of sufficient quality, Netflix will use proxy data, industry-average figures or rely on experts. In such instances, we use third-parties for reliability and completeness. 11 The boundary was established in alignment with the GHG Protocol Corporate and Scope 3 Standards.
+Footprint Components—Netflix is an entertainment company. Over half of our footprint lies within the physical production of our Netflix-branded content (“content”), followed by our corporate operations and purchased goods (“corporate”), followed by our data center providers (“streaming”).
+Netflix’s 2021 company carbon footprint by business activity. 
+Methodology: How we calculate our footprint—All GHGs covered by the Kyoto Protocol (Annex A) relevant to Netflix are accounted for and converted into metric tons of carbon dioxide equivalents (MTCO2e) as specified by the GHG Protocol (GHG Protocol, 2004)10.
+Data—We keep our various data sources in different formats. To improve our GHG data management, we have implemented a process to collect any business activity data and continue to improve on these methods. There are certain categories of documents that are to be retained by specific groups within Netflix, following our Practices and Policies.
+Our Footprint Boundary. 
+Our footprint includes all Scope 1 (direct) and Scope 2 (indirect emissions) as well as relevant11 Scope 3 categories, which therefore includes activities outside of our operational control. This means that we include all Netflix-branded content production, whether we manage the production directly (like Don’t Look Up), or through a third-party production company (like Holiday in the Wild, Our Planet, Bill Nye Saves the World, or You vs. Wild) as well as all content that we license that is Netflix-branded (like The Boy Who Harnessed the Wind, My Octopus Teacher, or Breaking Boundaries). Activities outside of our operational control present challenges to measuring and reducing emissions, but we believe including the emissions from Netflix-branded content (wherever it is produced) will create a positive ripple effect across the industry. Engaging these groups requires a significant investment in collaboration across our value chain that can be resource-intensive, but we think this ultimately strengthens Netflix’s business network.
+STREAMING 5%
+CORPORATE 37%
+CONTENT 58%
+
+
+Environmental 11. 
+Data Centers. 
+We work with Amazon Web Services (AWS) for our data storage needs. AWS has set a goal of being 100% renewable by 2025 and we work with them on measuring and reporting the emissions associated with the services they provide us. AWS purchases and provides renewable electricity to us and provides attestations regarding their energy attributes. We also invest in the efficient distribution of our content through our Open Connect appliances, which we make freely available to Internet Service Providers.
+Internet Transmission & User Device Energy Use. 
+Not included in our Scope 3 boundary are emissions from the internet transmission or electronic devices our members use to watch Netflix, like an Apple tablet, Android phone, or Samsung television. GHG accounting guidance does not yet exist for streaming companies on this topic. Current best practice is for the Internet Service Providers and device manufacturers to account for those emissions within their target boundaries, because they have operational control over the design and manufacturing of their equipment12.
+While these emissions don’t fall within our company footprint, we’ve joined with other companies to measure them through DIMPACT, a collaborative research initiative. Led by researchers at the University of Bristol, DIMPACT created a tool to calculate the carbon footprint of streaming and other everyday internet uses, such as browsing news stories.
+Through DIMPACT, we worked with peers and academic and industry experts to commission a white paper with well-regarded think tank Carbon Trust to correct inaccurate information about streaming emissions. Results of this study indicate that one hour of streaming in Europe emits ~55gCO2 per hour. To be conservative, Netflix uses its own estimate of “well below 100gCO2e per hour” as a ceiling value13 that encompasses TVs and other viewing devices, home routers, internet infrastructure, and data centers14. In comparison, “the emissions from microwaving a bag of popcorn for four minutes is about 16gCO2e (also using a European average grid emission factor), while driving 100 meters in an average petrol car emits around 22gCO2e.”15. 
+The tool’s validation by Carbon Trust brings us closer to accurately assessing streaming’s impact on climate - whether it’s from the data centers, Internet Providers, or device manufacturers, and entertainment and media companies who rely on streaming. Better understanding this footprint means we can better reduce emissions across industries, countries and the world.
+12 Per the GHG Protocol, the most common method by which to allocate emissions to one company or another is called “operational control method” (page 18 of the Protocol). 13 Another highly regarded report from the IEA cites a 36gCO2 per hour figure, which is less than the Carbon Trust white paper and significantly less than Netflix’s conservative estimate. 14 Location and device choices also determine the hourly footprint itself within the <100gCO2e/hour range. The sources of the household’s and infrastructure’s electricity are the main variables. To be conservative, our calculations do not take account for regions where hourly emissions are lower due to partial or full renewable energy usage from the grid. 15 Carbon Trust whitepaper, page 8.
+
+
+12. 
+Environmental. 
+The Optimize, Electrify, Decarbonize Framework. 
+We’re encouraged by Apple, Microsoft, Sony and others’ commitments to tackle their devices’ emissions during use, and are encouraging others to follow their example. In 2021, we engaged 6 additional global manufacturers to raise their awareness and encourage action. Recent efforts made by Amazon to quantify and reduce device emissions through efficiency measures and lifecycle assessments are particularly inspiring. And DIMPACT has expanded to include a device manufacturers working group, a response to the Carbon Trust white paper’s finding that viewing devices are responsible for more than 50% of the overall carbon footprint of streaming for the average consumer.
+NET ZERO16 + NATURE: PLANNING AND PROGRESS. 
+Last March, we committed to reducing our emissions in line with the latest climate science, ensuring our internal reductions align with a trajectory of no more than 1.5°C of warming. Our main sources of internal emissions from our productions, corporate offices, travel, and streaming can be boiled down to two basic categories: fuel we burn and electricity we consume. This includes electricity generated by fossil fuels, as well as the direct combustion of fossil fuels to heat buildings, on-set power generators, and for transportation. To achieve our internal reductions, we’re focused on solutions most relevant to the entertainment industry “Optimize, Electrify, Decarbonize” strategy.
+16 Guidance for corporate net zero claims is still under development and evolving rapidly. In 2021, the SBTi issued guidance for long-term corporate net zero, and a variety of other net zero guidance initiatives (e.g. SBTi, VCMI, Carbon Trust, etc) are underway but have not concluded their work. There is no guidance yet for companies with near-term net zero targets or guidance on the use of carbon credits towards net zero claims. We remain committed to evaluating each of the emerging standards based upon the best science available.
+
+
+Environmental 13. 
+Reducing Emissions from Electricity Use. 
+First, we optimize by focusing on energy efficiency, reducing the amount of electricity that we use in both our production work and also in our offices. In 2021, we conducted energy efficiency audits at select facilities to identify opportunities for energy savings through equipment upgrades and better building management practices. This analysis covered over 30% of our global square footage across stages, studios, and offices and identified cost-saving energy efficiency opportunities across our facilities.
+Next, we electrify the equipment that uses the most liquid fuels, like vehicles, buildings and generators. For instance, where we can, we use electric motors because they’re more efficient and electricity is more easily decarbonized.
+Then, for emissions sources where optimization and electrification aren’t possible, we decarbonize what’s left by installing and purchasing renewable energy. This means matching renewable electricity to any grid-connected power that isn’t carbon-free and shifting to lower-carbon or zero-carbon fuel options when connecting to the grid isn’t possible. We look for renewable energy options in the following order of preference: 1) onsite solar+storage, 2) utility provided green tariff programs, 3) direct investment or purchase agreements for offsite wind or solar, 4) unbundled Renewable Energy Certificates.
+We don’t own the majority of our office and stage space – we lease them. So we’re not often able to procure renewable electricity directly. In some countries, direct renewable electricity purchasing is not available, so we purchase renewable attribute certificates in those countries. And we explore ways to bring new renewable electricity generation to regions we operate in by investing in new projects and products.
+Reducing Emissions from Fuel Use. 
+Fuel consumption makes up a large proportion of our Scope 1 emissions, and due to the nature of our business and operations, presents unique challenges to decarbonize. We follow our internal reduction framework above of “Optimize, Electrify and Decarbonize” to tackle these hard-to-abate emissions.
+Optimize fuel consumption: For corporate offices, this focuses mostly on efficient creation and capture of building heat, and on the production side, can range from optimizing the size of diesel generators or reducing how long vehicles idle.
+Electrify vehicles, buildings, and generators: Incorporating electric vehicles into production fleets and installing EV charging infrastructure at studios are critical to reducing emissions. Up to 70% of the fuel used by productions goes into vehicles, therefore electrifying a significant portion of the production fleet will be essential over the coming decade.
+Decarbonize through fuel switching: We recognize that not everything can be solved with efficiency or electrification. For these use cases, Netflix is piloting ways to transition away from heavy emitting fossil fuels towards low and zero emissions fuels like renewable diesel, sustainable aviation fuel (SAF), and green hydrogen.
+
+
+14. 
+Environmental. 
+Delivering on our Science-Based Target: 2021 Progress. 
+In 2021, based on our key sources of emissions, we put together a plan and decarbonization roadmap to reduce emissions that put us on a path to delivering on our science-based target by 2030.
+In 2021, we completed the following: • Successfully piloted 17 mobile batteries, 70+ electric, plug-in hybrid and hybrid vehicles, and one hydrogen power unit across 13 productions. This represented over 27,380 gallons of fuel saved and 264MT CO2e emission reductions17.
+• Conducted energy efficiency audits on over 30% of our global sq ft. of offices and studios, identifying cost effective energy savings measures across the company.
+• Purchased 40,000 gallons of Sustainable Aviation Fuel for our corporate aviation fleet and over 75,000 gallons of renewable diesel for use on productions.
+• Procured renewable electricity and certificates in an amount equal to all of our Scope 2 emissions.
+Procuring Renewable Electricity. 
+In 2021, we matched our global operations with 100% renewable electricity, including all offices and self-managed productions. This was achieved through a range of approaches that include onsite generation, clean supply from electricity service providers and landlords, as well as by purchasing renewable energy attribute certificates.
+Against our 2021 footprint, Netflix retired Energy Attribute Certificates, such as RECs, for electricity use in the following countries: Argentina, Australia, Austria, Belgium, Belize, Brazil, Canada, Chile, Costa Rica, Finland, France, Germany, Hong Kong, Hungary, India, Ireland, Italy, Japan, Kenya, Luxembourg, Netherlands, New Zealand, Poland, Romania, Russia, Singapore, South Africa, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, United Arab Emirates, United Kingdom, & United States.
+Deploying Electric Vehicles (EVs) and Charging Infrastructure. 
+In the past year, Netflix productions in Los Angeles, Vancouver and Toronto incorporated all-electric passenger vehicles into their production operations, and increased the number of plug-in hybrid and hybrid vehicles use, totalling more than 70 vehicles piloted this year, resulting in a fuel reduction of roughly 13,050 gallons of gasoline and 116 MTCO217. We also found that, despite a higher rental premium, when these passenger vehicles were used in high-mileage scenarios, productions saved money while also saving carbon. We plan to continue using electric and plug-in hybrid vehicles in 2022 and will begin to pilot electric vans and medium duty trucks, while building out charging infrastructure across studios where we frequently produce our content.
+17 Includes reductions from productions ending in 2021, and accrued reductions from productions wrapped in 2022.
+
+
+Environmental 15. 
+Replacing Diesel Generators. 
+In 2021, we piloted replacing diesel generators with mobile electric batteries across eight productions. We wanted to understand the best use cases, barriers to adoption, cost and carbon savings with the electric substitute. We found that mobile batteries successfully reduced the number of generator hours and in some cases replaced daily generator rentals. For example, on the set of Virgin River Season 4, our electric battery pilots reduced generator fuel consumption by about 20%.
+These electric units provided clean power for equipment trucks, crew catering, overnight power requirements, small shooting units or ancillary lighting setups. The units are silent compared to diesel generators, so cause no disruption and can be placed close to set. The batteries reduce noise and air pollution on and around the set, resulting in healthier air quality for our production crews and the communities where we film.
+Ramping Up Low- and Zero-Emission Fuels. 
+We began using commercial sources of renewable diesel on our productions in Los Angeles, Vancouver, and London (where it is known as HVO or hydrogenated vegetable oil), using 76,588 gallons in 2021. For Bridgerton Season 2 we piloted a green hydrogen power unit for the first time in the UK. The GeoPura unit powered many of the production’s power needs while filming on location replacing multiple diesel generators. In addition to providing clean energy and drinkable water, the hydrogen unit had the added bonus of being quiet, which is helpful for filming and an improvement over current diesel generator technology. Encouraged by these results, we are expanding this green hydrogen pilot to more productions and facilities in the UK in 2022.
+These initial battery and hydrogen pilots resulted in an estimated fuel savings of roughly 14,330 gallons of diesel and 148 MTCO2.18 18 Includes reductions from productions ending in 2021, and accrued reductions from productions wrapped in 2022.
+
+
+16. 
+Environmental. 
+Emissions Reductions Summary. 
+In total these measures, listed in the table below, resulted in more than 14,000 tons of emissions reduced and avoided, which reduced our 2021 Scope 1 and 2 footprint by over 10%, compared to a “business as usual” scenario for the same year. These were primarily from switching to greener sources of electricity in key markets and conducting pilots of clean and silent mobile power solutions across our productions, as described in the above sections.
+Emission Reduction Levers. 
+Action. 
+Renewable Energy (RE contracts & onsite solar)
+Greening our Transportation Fleet. 
+Clean Mobile Tech on Productions. 
+Clean Fuels. 
+Table 2: 2021 Emission Reductions Summary Table19. 
+Actuals - Emissions Reduced and Avoided in 2021. 
+Sub - Lever. 
+Renewable Energy Utility Supply. 
+Landlord Supplied Renewable Energy. 
+Streaming Partners Renewable Energy. 
+Electric Vehicle Use. 
+Hydrogen Solutions. 
+Mobile Batteries. 
+SAF Purchase. 
+Renewable Diesel. 
+Total 29 22 85 174 717 14,210 3,869 3,612 5,702. 
+MTCO2e 19 Includes only emission reductions from productions wrapped in 2021.
+
+
+17. 
+Lessons Learned from Year 1. 
+While we’ve made progress on our sustainability agenda, the road to deep decarbonization is a long one and no one company can deliver it alone. Sustained efforts across the public and private sectors will be required to drive the pace and scale of the transition. A few lessons learned from our first year: • It’s all about the long-game: In a growing company, it’s going to take a lot of work within the walls of Netflix and outside our walls - across the entertainment industry, and the broader economy - before we start to see meaningful emissions reductions. This transformation will take years to implement. This means our emissions may continue to rise in the coming years while we work with our partners to scale new technologies and business practices that will help us meet our emission reduction goals.
+• It takes industry collaboration and commitment: Reaching our reduction goals are also challenged by the fact that most of the emissions come from other companies. We don’t own most of the equipment, vehicles or the majority of our buildings that contribute to our Scope 1, 2, and 3 emissions. So it’s important we work with these companies to make clear what’s needed from them and by when.
+• Access to clean energy is patchy: Clean energy access remains spotty globally and is not uniformly available, even within the same U.S. states. Our ability to access clean energy is hampered by a patchwork of regulations and is directly restricted in certain key markets. Access to 100% renewable electricity in all of our regions is key to meeting our reduction goals.
+• Clean technology solutions exist, but not at scale: Promising clean technologies are not available at the scale or in all of the places we need them. Vendors working to scale these solutions fast will be required to deliver on our 2030 targets, and we aim to support them in doing so.
+• Scaled public investment in the zero carbon economy transition is needed: Making clean mobile energy technologies more affordable and EV charging infrastructure more available is needed to drive the zero carbon economy transition.
+Environmental
+
+
+18. 
+Environmental. 
+Our Carbon Credit Portfolio. 
+As the latest IPCC science shows, emissions cuts today are more valuable than in 5 or 10 years. Even if society is able to draw down emissions after surpassing 1.5°C (“overshoot”), certain impacts then become irreversible. As IPCC working group co-chair Hans Otto Pörtner said, “By restoring degraded ecosystems and effectively and equitably conserving 30 to 50% of Earth’s land, freshwater and ocean habitats, society can benefit from nature’s capacity to absorb and store carbon, and we can accelerate progress towards sustainable development, but adequate finance and political support are essential.”
+This science drives our investment in nature. We do this through carbon credit projects that prevent carbon from entering the atmosphere, called carbon sinks, and through projects that remove carbon from the atmosphere by regenerating natural ecosystems. Over time, we’re increasingly focused on removals.
+Nature-based retention and removals: Nature has been regulating the earth’s climate since time immemorial. So investing in existing and potential carbon “stocks” in nature is important (IPCC Special Report on Climate Change and Land). From stocks like terrestrial to marine forests to regenerative agriculture, some of the best solutions to healing the planet are right beneath our feet.
+Methane avoidance and destruction: In addition to nature-based solutions, the IPCC emphasized that addressing methane emissions is critical because of its outsized impact on near-term global heating. So we have added high-quality methane avoidance and destruction projects to our portfolio.
+Building a High Quality Portfolio of Carbon Credit Projects. 
+Carbon markets aren’t perfect, so we conduct five levels of due diligence, described below in Table 3, before carbon credit projects become a part of our portfolio. In addition to mitigating climate change, these carbon credit projects strengthen and protect vulnerable and disadvantaged communities by: protecting biodiversity, increasing food security, protecting drinking water, generating new jobs and educational opportunities, and providing climate resilience.
+
+
+19. 
+Environmental. 
+Table 3: Carbon Credit Project Screening Criteria. 
+Screen 1: Competitive selection. 
+Screen 4: Use digital tools and resources to improve visibility. 
+Screen 5: Seek additional expert advice. 
+Screen 3: Deep projectlevel diligence and impact screening. 
+Screen 2: Meet core quality criteria. 
+Our competitive requests for proposals (RFPs) are issued widely, to over 75 project developers, non-profits, brokers, and credit retailers across many project types and geographies.
+Our team then conducts due diligence on the projects and holds live interviews directly with the project developers and/or trusted project partners. This includes research on the projects, their proponents, and other local stakeholders. Engaging directly with the project hosts enables a deeper understanding of the unique circumstances and conditions that surround a particular carbon credit project and how and why it came to be. We also conduct additional screens for: local community ownership and direct benefit sharing; job creation and training; women and girls empowerment; biodiversity and habitat restoration and protection (e.g. Verra Climate, Community & Biodiversity certified projects); and climate resilience impacts.
+Where feasible, we use technology to enhance project validation and verification, such as AI-powered satellite imagery, machine learning and remote sensing analysis.
+Netflix relies on its expert advisory group to provide additional insight and guidance on an ongoing basis across a range of key issues, including our carbon credit portfolio. This helps us identify things we may have missed.
+Any credits that we purchase must meet globally recognized core quality criteria: they must be additional, verified, based on a realistic baseline, not double counted, and issued by a credible standard that has robust provisions in place to address permanence (the risk of reversal) and leakage (the risk of displacing emissions from one location to another). We only purchase credits that have been third-party verified and registered on a trusted registry, including – Verra, Gold Standard, Climate Action Reserve, and American Carbon Registry-or have demonstrated an equivalent level of rigor.
+Based upon these five screens, the following 17 projects were selected for our 2021 carbon credit portfolio. Seventy-three percent of the credits by volume have received an additional certification under Verra’s Climate, Community & Biodiversity program, meaning they are exemplars of maximizing benefits in addition to climate, like habitat restoration, biodiversity protection and sustainable livelihoods. We have highlighted three projects below that showcase the impacts and benefits that these projects can deliver.
+
+
+20. 
+Environmental. 
+Bajo Calima y Bahía Málaga. 
+Community Based Mexico Forestry: Hidalgo Eijido. 
+Envira Amazonia REDD+
+Kasigau Corridor REDD+
+Klawock Heenya Improved Forest Management Project. 
+Kootznoowoo Improved Forest Management Project. 
+Mycorrhizal Inoculation Accelerated Carbon Removal. 
+Shaan Seet Improved Forest Management Project. 
+Vida Manglar Blue Carbon. 
+Chyulu Hills REDD+ Project. 
+Community Based Mexico Forestry: San Lucas Ejido. 
+ICICO Community Based Reforestation. 
+Kenya Grasslands Improved Grazing. 
+Landfill Gas Extraction And Electricity Generation Project. 
+Rips Redwoods. 
+TIST India. 
+Yarra Yarra Native Reforestation. 
+Total. 
+Retention: REDD+
+Removal: Reforestation. 
+Retention: REDD+
+Retention: REDD+
+Retention & Removal: IFM. 
+Removal: IFM. 
+Removal: Reforestation. 
+Removal: IFM. 
+Retention: Mangrove Preservation. 
+Retention: REDD+
+Removal: Reforestation. 
+Retention & Removal: IFM. 
+Removal: Soil Carbon Sequestration. 
+Methane Mitigation. 
+Removal: IFM. 
+Removal: Reforestation. 
+Removal: Reforestation. 
+Pachama. 
+Cool Effect. 
+CarbonCo. 
+Arbor Day Foundation and Everland LLC. 
+Bluesource. 
+Bluesource. 
+Climate Care & Mikro-Tek. 
+Bluesource. 
+Conservation International. 
+Conservation International. 
+Cool Effect. 
+Cool Effect. 
+Native a Public Benefit Corporation. 
+Climate Partner. 
+Pachama. 
+Cool Effect. 
+Cool Effect 215,607 37,128 242,000 39,197 12,000 171,036 15,059 20,000 242,000 3,352 214,500 14,540 180,000 92,000 18,893 10,000 2,000 1,529,312. 
+Colombia. 
+Mexico. 
+Brazil. 
+Kenya. 
+USA. 
+USA. 
+Chile. 
+USA. 
+Colombia. 
+Kenya. 
+Mexico. 
+Mexico. 
+Kenya. 
+Turkey. 
+USA. 
+India. 
+Australia. 
+Project Name Country Project Type Vendor Tonnes. 
+Table 4: 2021 Carbon Credit Portfolio
+
+
+21. 
+Environmental. 
+Vida Manglar Blue Carbon Project VCS 2290. 
+Córdoba, Colombia. 
+Retention: Mangrove Preservation Partner: Conservation International. 
+The Vida Manglar Blue Carbon Project protects the best-preserved mangroves in the Colombian Caribbean and provides cost-effective solutions to mitigating climate change. It also provides numerous benefits for coastal communities and biodiversity including protecting critically endangered species such as manatees, otters and needle crocodiles. The Cispatá marine protected area is home to the traditional village of San Antero, reliant on the natural resources provided by the mangrove ecosystems for their livelihood. The Vida Manglar project pioneered a new approach to properly account for carbon stored below the water, accounting for up to 60% of the total carbon stored in these ecosystems, increasing the accuracy of the carbon value associated with protecting and restoring wetland ecosystems.
+Photo credit: ©Daniel Uribe
+
+
+22. 
+Environmental. 
+Mycorrhizal Inoculation in Chile VCS 1055. 
+Chile. 
+Removal: Afforestation/Reforestation Partners: ClimateCare and Mikro-Tek with local smallhold woodland managers. 
+This reforestation project was developed by Mikro-Tek and works with local landowners across multiple areas of Chile to restore severely degraded agricultural lands back to productive forest land, improving the resilience of these areas that are increasingly threatened by desertification and drought. The use of mycorrhizal fungi to innoculate seedlings before planting results in significant increases to biomass growth (up to 83% in the first year) as a result of the symbiotic relationship between the fungi and trees. Though the trees that are planted are mainly non-native, non-invasive species, there are native tree species scattered throughout that are not allowed to be removed; these native species provide additional benefits and income for landowners through the sale of tea, honey, and other medicinal uses.
+Photo credit: ©Mikro-Tek
+
+
+23. 
+Environmental. 
+Chyulu Hills VCS 1408. 
+Southeastern Kenya. 
+Retention: REDD+ Partners: Chyulu Hills Conservation Trust and Conservation International. 
+The Chyulu Hills REDD+ project enhances an iconic African landscape near Tsavo National Park through long-term, sustainable financing and management. The project is structured with development needs of the local communities. For example, Chyulu Hills Conservation Trust (CHCT) is the beneficent and manager of the project. CHCT consists of 9 Trustee organizations made up of 3 local non-governmental organizations, 2 government agencies, and 4 indigenous Maasai communally-owned Group Ranches. Credit revenues support landscape protection, improving livestock management practices, employing forest rangers, creating alternative income and employment opportunities, and other community-determined needs.
+Photo credit: ©Charlie Shoemaker
+
+
+24. 
+Environmental. 
+Low-Carbon Transition Planning. 
+Carbon Disclosure Project (CDP) and others emphasize the importance of conducting and disclosing low-carbon transition plans. So in 2021, we developed our 2030 ScienceBased Target transition strategy.
+The following chart illustrates our current planned path to our 2030 targets and the decarbonization levers that will get us there. The left axis shows the emissions-driving activities of the baseline footprint in 2019. The right axis indicates the estimated percentage of emissions reductions required from the forecasted 2030 footprint to achieve the 2030 target, based on our internal analysis and modeling.
+Our Current 2030 Low-Carbon Transition Plan. 
+By way of example, the chart highlights that 35% of our 2019 baseline carbon footprint is from electricity - to achieve our 2030 targets we expect to reduce emissions from electricity by 24% relative to our forecasted business-as-usual footprint via renewable resources.
+Fossil fuels touch every part of our physical operations, so there are a range of “decarbonization levers” we will pull to meet our emission reduction goals.These range from energy efficiency to sustainable aviation fuels (SAF).
+Our two main sources of internal emissions are (1) the fuel we burn, and (2) electricity we consume. This includes using fossil-fuel generated electricity and the direct combustion of fossil fuels for heating buildings, creating mobile electricity supply (e.g. diesel generators for film sets), and in transportation: vehicles & planes.
+
+
+25. 
+Environmental. 
+Renewable Energy (RE contracts & onsite solar)
+Clean Mobile Tech on Productions. 
+Greening our Transportation Fleet. 
+Clean Fuels 80% of electricity from high impact renewables and 20 megawatts of installed solar capacity 15 million gallons of diesel fuel saved through clean alternatives to diesel generators - batteries, hydrogen fuel cells, hybrid power systems 80% of vehicle fuel consumption reduced by 2030 through the implementation of EVs 2.6 million gallons of conventional aviation fuel replaced for Sustainable Aviation Fuel. 
+Action Estimated Goals to Achieve 2030 SBT20. 
+Science Based Target Implementation Actions and Goals. 
+The next figure illustrates the actions needed to deliver on those targets, and the internal framework we use to guide our work.
+20 These targets reflect the currently estimated requirements to achieve the 2030 target and are subject to change based on future business performance and future years annual footprints.
+
+
+26. 
+Environmental 3. SUSTAINABILITY IN STORYTELLING. 
+Last year we described sustainability as an “epic story”. Don’t Look Up’s writer-directorproducer has since described it as “the story of all stories in the history of stories.”
+The breakout success of Don’t Look Up confirmed our analysis from last year’s report: hundreds of millions of households choose to watch titles that shine a light on sustainability. But, Don’t Look Up was only one of the many Netflix films and TV series across different genres that shone a spotlight on sustainability in 2021: • Comedy: Bo Burnham’s Inside, Workin’ Moms, A Castle for Christmas, Ginny & Georgia, Grace & Frankie • Documentaries: Animal, Breaking Boundaries, Explained: The End of Oil, Gather, Life in Colour with David Attenborough, The Minimalists, Penguin Town, Puff: Wonders of the Reef • Dramas: Japan Sinks, Midnight Mass, Midnight Sky, Ragnarok, Silent Sea, Sweet Tooth, Tribes of Europa (with references in the hits Army of Thieves and Red Notice) • Kids & Family: Ada Twist Scientist, Bigfoot Family, Octonauts: Above and Beyond, Vivo, Waffles and Mochi • Unscripted: Best Leftovers Ever, Blown Away, Izzy’s Koala World, Queer Eye. 
+In 2021, we made it easier for members to find many of these diverse stories by curating the Together for Our Planet collection launched in advance of COP26 in partnership with the UK government (and COP Presidency).
+
+
+27. 
+Don’t Look Up. 
+This cautionary tale about climate inaction is our second most popular film of all time driving nearly 360M viewing hours in its first 28 days on our service, the film also sparked extensive conversation online and in the media, primarily driven by its climate theme. We supported the filmmakers by: • Inspiring meaningful conversations about climate change in the scientific community [Dr. Ayana Johnson, Dr. Peter Kalmus, Dr. Marshall Shepherd, Dr. Michael Mann], among policymakers [Truman Center, UK Parliament], with press [CBS Sunday Morning, Amanpour & Co, Time, NYT, The Hill] and the broader climate community [Hopecast with Jane Goodall, Outrage + Optimism, UN Act Now on Climate Change] including NGOs [Birdlife International, The Nature Conservancy]. See more highlights in our corporate blog.
+• Partnering the filmmakers with non-profit Count-Us-In as well as 40+ climate experts on a Don’t Look Up climate platform for individuals to learn more about climate actions they can take.
+• Launching a number of videos featuring cast and climate experts to spark conversation about the film’s climate message: Leonardo DiCaprio Explainer, Cast Explainer, Experts React, Adam McKay Film School, Comet vs. Climate.
+• Creating a Don’t Look Up Discussion Guide to help people explore themes in the film and engaged 14 climate voices, with Adam McKay’s support, to rewrite a more hopeful ending to Don’t Look Up.
+Breaking Boundaries. 
+In June we released Breaking Boundaries by Silverback Studios, in which globally recognized scientist Dr. Johan Rockstrom and Sir David Attenborough lay out several fastapproaching tipping points to ecological collapse but also the signs that a green revolution may be reaching tipping points of its own.
+• President Joe Biden shared the film with 40 Heads of State at the Leaders Summit on Climate in April 2021, 100 Nobel Laureates endorsed its recommendations in May, and Sir David Attenborough used footage from the film at his G7 keynote in June.
+• With non-profit Count-Us-In as well as climate experts, filmmakers and TikTok creators, this Breaking Boundaries climate platform helped individuals to learn more about climate actions they can take.
+Environmental. 
+Many of our filmmakers seek to entertain and enrich their viewers’ experience with educational, conversation-sparking and community-building resources. Working with select filmmakers and non-profit partners, we supported two pilots in 2021:
+
+
+28. 
+Environmental 4. CLIMATE RISK ASSESSMENT & DISCLOSURE. 
+In 2021, we conducted a climate risk assessment as part of the company’s risk assessment process (which is presented to the Board annually) for the first time, led jointly by our Internal Audit and Sustainability teams. This evaluation looked at a range of climate risks, including: physical, product and services, and transitional (governance) risks. This analysis illustrated that the climate risks we assessed are either mapped to risk mitigation strategies already in place or underway, or were not deemed material to the business. There were no material climate risks that were identified for Netflix through this analysis.
+We used external sources (TCFD, IPCC AR5, COSO framework specific to ESG) to build the initial climate risk framework, and also leveraged Datamaran (software for ESG risk, regulation, and reporting) to perform a gap analysis. We also worked in 2021 to pilot integrating climate risk analysis into our real estate evaluation and acquisition systems across the company and are in the process of integrating sustainability considerationsincluding climate risk assessments- into our standard business operations and processes.
+In July 2021, we responded to the Carbon Disclosure Project (CDP) investor questionnaire, joining thousands of other reporting companies. CDP makes our 2020 submission available to investors upon request.
+
+
+29. 
+Environmental 5. COLLABORATING ACROSS BOUNDARIES. 
+We continue to rely on a community of partners to pave the way for our industry and those industries we partner with.
+New additions since our last ESG report: • Business Alliance for Scaling Climate Solutions (BASCS): We co-launched BASCS at COP26 with Disney, Google, Microsoft, Amazon, Workday, Salesforce, WWF, the United Nations and EDF to share best practices and insights to scale and improve climate solutions.
+• SABA: We co-founded the Sustainable Aviation Buyers Alliance because the entertainment industry can’t make film or television without travel, including titles that themselves help raise environmental awareness. SABA sends market signals to producers of Sustainable Aviation Fuel and ensures the environmental integrity of their claims.
+• Exponential Roadmap Initiative: Netflix was invited to join this frontrunning group of sustainability leaders from the scientific, corporate and multilateral sectors working together to halve emissions before 2030 through exponential climate action and solutions. They’re an accredited partner of the UN’s Race to Zero and TED Countdown.
+We continue to work in concert with: • albert: We joined albert’s sustainable production project in 2018, and multiple UK Netflix productions have engaged with albert’s industry offering.
+• Sustainable Production Alliance: We joined the alliance in 2019, and direct Netflix productions to the resources available at GreenProductionGuide.com.
+• Drawdown Labs (part of Project Drawdown): This consortium of companies explores scientifically-grounded best practices in consumer-facing sustainability.
+• DIMPACT: The collaborative project, supported by researchers from the University of Bristol, created a tool to calculate the emissions of video streaming, among other internet uses.
+• Natural Resources Defense Council: We continue to partner with NRDC as part of our fact-checking service for filmmakers.
+
+
+30. 
+Social. 
+To entertain our members, who come from all around the world, we need to work with a diversity of creators as well as have a diverse workforce.
+TOPICS. 
+TOPICS. 
+MEDIA PLURALISM*
+Total recipients of media and the number of subscribers. 
+ACTIVITY METRIC - MEDIA & ENTERTAINMENT. 
+ACCOUNTING METRICS MEDIA & ENTERTAINMENT 2020 2020 2021 2021. 
+SASB CODE. 
+SASB CODE. 
+SV-ME 000.A 222 million 204 million. 
+SV-ME-260a.1. 
+SV-ME-260a.1. 
+Subscribers. 
+Percentage of gender and racial/ethnic group representation for management, professionals, and all other employees. 
+Description of policies and procedures to ensure pluralism in media content. 
+Women (Global)
+Women in management (Global)
+Black/African Americans (US)
+Black/African Americans in management (US)
+Hispanics/Latinx (US)
+Hispanics/Latinx in management (US)
+Asians (US)
+Asians in management (US)
+American Indian or Alaska Native (US)
+American Indian or Alaska Native in management (US)
+Native Hawaiian / other Pacific Islander (US)
+Native Hawaiian / other Pacific Islander in management (US)
+Middle Eastern / North African (US)
+Middle Eastern / North African in management (US) 48.7% 47.8% 8.6% 10.9% 7.9% 4.3% 24.0% 15.3% 0.3% 0.0% 0.5% 0.6% 0.8% 0.3% 51.7% 51.1% 10.7% 13.3% 8.6% 4.4% 23.5% 16.2% 0.3% 0.1% 0.5% 1.0% 1.3% 0.3% * Gender categories are based on our global workforce, and race and ethnicity categories are based on U.S. reporting requirements. They do not capture our growing diversity around the world, as laws on collecting race and ethnicity data differ outside of the U.S. Representation data compares December 2020 to December 2021. Note that last year’s report reflected October 2020 data. We will report based on December numbers moving forward. The 2021 numbers account for approximately 10,000 full-time streaming employees globally for women, and 7,300 full-time streaming employees in the U.S. for the race/ethnicity numbers. The numbers do not include certain employees engaged in content production, some of whom are part-time or temporary, and whose numbers fluctuate throughout the year.
+
+
+31. 
+Social. 
+Inclusion On-screen: The Netflix Fund for Creative Equity. 
+Stories like The Harder They Fall, Never Have I Ever, Gentefied, Love on the Spectrum, Pray Away, Yasuke, and Squid Game broaden representation—enabling more people to see their lives and cultures reflected on screen. And many of our films and series have been honored by the industry. Netflix led in nominations for the 2021 NAACP Image Awards, which honors the accomplishments of people of color in television, music, literature, and film in the U.S. Netflix secured 17 nominations for the 2021 GLAAD Media Awards honoring LGBTQ+ representation in U.S. TV and film.
+However, for decades, historically underrepresented communities have been either defined by a single story or worse, entirely absent from our screens. Research shows that more perspectives behind the camera leads to better representation in front of the camera. So last year we created the Netflix Fund for Creative Equity to help create new opportunities for underrepresented communities within the entertainment industry.
+The fund includes a commitment of $100M dollars over five years to help develop a strong, diverse pipeline of creatives around the world. In our first 12 months, we worked with over 25 organizations globally - committing $14.5M towards programs that help identify, train and provide work placements for underrepresented creatives around the world. Of that, over $5M is specifically to support women.
+Several of these programs have already enabled new filmmakers to hone their craft by providing them with mentorship and development, as well as an opportunity to create short films.
+While we’re still early on in this work, we’re committed to helping build a legacy of inclusion in the industry. You can find more information about the programs and partners we are supporting here.
+Photo credit: Ryan Tian
+
+
+32. 
+Social “It is crucial to increase the opportunities available for writers from under-represented backgrounds in the interest of up-skilling a new generation of industry leaders and including all Australians as a critical part of the national story. Co-Curious is thrilled to be a recipient of Netflix’s fund for creative equity and look forward to welcoming a new group of talented writers to the upcoming program.”
+Annabel Davis :: CEO, Co-Curious “We had a discussion about how important it was to create a possibility for creatives from Africa to receive bursary support to attend institutions like AFDA. I cannot express how pleased I am to read the press release and see the African countries list from which students can make applications for bursary funding.”
+Dr. Christopher John :: Social Responsibility and Funding Officer, South Africa: AFDA “Thanks to a unique partnership with Netflix, the Academy of Italian Cinema Board, and the team working on this remarkable initiative, we are making an immediate tangible impact, introducing new bright female talents to high-level networking opportunities and work. Becoming maestre’s mentees are stepping into their careers with the support of Italian established filmmakers among recent David DI Donatello nominees and winners.”
+Piera Detassis :: President and Artistic Director, Accademia del Cinema Italiano “Our partnership with Netflix is fundamental to our collective goal of expanding inclusive and meaningful representation in the industry by developing the pipeline. We are proud of the opportunity this collaboration has provided to support women of color and amplify intersectional narratives.”
+Benjamin Lopez :: Executive Director, National Association of Latino Independent Producers
+
+
+33. 
+Social. 
+Gender (Global): Women now make up 51.7% of our global workforce, up from 48.7% in 2020. This includes 6.9% growth of women directors and above, totaling 51.1%.
+Race/Ethnicity (US): Half of our US workforce (50.5%) is made up of people from one or more historically excluded ethnic and/or racial backgrounds, including Asian, Black, Hispanic or Latino/a/x, Middle Eastern or North African, Native American, and Pacific Islander.* That’s up from 46.8% in 2020.
+• The number of US Black employees increased from 8.6% to 10.7% - and Black leadership (directors and above) increased from 10.9% to 13.3%.
+• The number of US Hispanic or Latino/a/x employees increased slightly from 7.9% to 8.6%, and US Hispanic or Latino/a/x leadership (directors and above) grew from 4.3% to 4.4%.
+Senior leadership: Of the 22 leaders in our senior leadership team, ten (45.0%) are women and five (22.7%) are US leaders from one or more historically excluded ethnic and/or racial backgrounds.
+You can see how this data compares to the 2020 calendar year in the charts below. We’ve also published our EEO-1 reports we submit to the US Department of Labor publicly here on our investor site. These reports look a bit different from the numbers above because they include people who don’t work for Netflix full-time, for example part-time or temporary employees on our TV and film productions, for which numbers fluctuate throughout the year.
+Inclusion Inside Netflix: Progress Since Our First Report. 
+Our members come from many different countries and cultures and to entertain them we need a workplace that’s equally diverse. Last January, we dove deep into everything we’re doing on inclusion in the company by publishing Netflix’s first inclusion report. We published an update in February 2022 on our progress in the 2021 calendar year.
+Netflix grew from about 8,000 to 10,000 full-time streaming employees globally in 2021. In the US — where we collect and report race and ethnicity data — we grew from 6,300 to 7,300 employees.*
+
+
+34. 
+Social
+
+
+35. 
+Social
+
+
+36. 
+Social
+
+
+37. 
+Social. 
+We still have more work to do to increase representation of historically marginalized groups. We’re expanding inclusive hiring training for recruiters and managers, creating access for emerging talent by adding three Hispanic Serving Institutions (HSIs) and more HBCUs (totaling four) to our pipeline programs, and finding new ways to diversify our executive and company networks.
+While increasing representation is important, it’s only part of the work. So we continue to build an inclusive workplace where everyone can thrive. The strategy we laid out in our first inclusion report remains the same.
+First, we’re improving our culture of inclusion and belonging. This past year, we: • Conducted our annual compensation review to ensure pay equity across the company, • Progressed inclusions trainings across all our offices, most recently launching an internal leadership initiative on how to lead inclusively, • Continued offering inclusive benefits, including gender-inclusive parental leave, transgender and non-binary care in our US health plans, and family-forming support for employees regardless of marital status, gender, or sexual orientation, and • Supported our growing employee resource group program around the world.
+Last year, we held 90 virtual learning workshops on inclusion topics ranging from accessibility on service to understanding US Latino/a/x representation on-screen. These workshops help employees look at every decision with an “inclusion lens,” asking questions like, whose voice is missing? Who is being excluded? Are we portraying this authentically? Last year, at least 4,500 employees participated in a virtual learning workshop.
+
+
+38. 
+Social. 
+Third, we’ve expanded the inclusion strategy team to sharpen our inclusion lens around the world, adding leaders in Latin America and Asia-Pacific, while expanding the team in Europe, the Middle East and Africa.
+We have a lot more work to do, particularly in recruiting more US Latino/a/x, Indigenous and other historically excluded talent. We’re also improving how we understand the representation of our workforce outside of the US reporting requirements – like additional gender identities, disability, veteran status, sexual orientation, and in other countries.
+Transformational change won’t happen overnight. Progress takes consistent discipline, heart and practice. We’re committed to doing our part in inspiring change within our industries — so more people can feel seen, heard, and supported to contribute at their best.
+Fulfilling our Pledge to Black Banks. 
+In December 2021, we fulfilled our 2020 pledge to move two percent of our cash holdings — around $100 million — into Black banks and other Black-led financial institutions in the U.S. More capital moving into these institutions means more home and small-business loans, resulting in more opportunities for Black communities. Because we pegged our commitment to 2% of Netflix’s cash, the investment also grows over time. So we will be “topping up” our commitment at the end of the year and moving more cash — over and above the $100 million already committed — into these institutions.
+It’s been rewarding to see many other companies follow suit, and the impact these changes have had on people like Dominique Lumpkin, who just bought her first home in Memphis. Or Colby Midget, who kept the doors open to her floral shop despite the toll of the pandemic. Both were possible because of Netflix’s early investment in Hope Credit Union, a community development financial institution (CDFI) that serves underbanked communities in Alabama, Arkansas, Louisiana, Mississippi and Tennessee. You can follow their stories in our YouTube web series “Banking On Us” and learn more about how this idea came to be in this WIRED cover story.
+IllumiNative’s Crystal Echo Hawk (Pawnee), Leah Salgado (Pascua Yaqui), and Heather Rae lead a virtual workshop on Native representation in front of and behind the camera for Netflix employees in December 2021.
+
+
+39. 
+Social. 
+Our service is subscription-based and we do not allow third-party advertising on Netflix. When members sign up for the service we ask for very little information: email, name and method of payment. We do not collect socio-demographic data like gender or race for the purposes of our viewing recommendations system. Our Privacy Statement provides a detailed explanation of our privacy practices, including: the information Netflix collects or receives from each member; how we use and disclose it (including advertising that we conduct off Netflix to promote our service); and the controls each member has in relation to this information.
+TOPICS. 
+DATA PRIVACY, ADVERTISING STANDARDS & FREEDOM OF EXPRESSION. 
+ACCOUNTING METRICS - INTERNET MEDIA & SERVICES 2020 2021 SASB CODE. 
+TC-IM-220a.1 Description of policies and practices relating to behavioral advertising and user privacy. 
+We offer creators the ability to reach audiences all around the world. However, our catalog varies from country to country, including for rights reasons (i.e., we don’t have the rights to show everything in every country where we operate). In some cases, we’ve also been forced to remove specific titles or episodes of titles in specific countries due to government takedown demands.
+Below are the titles we removed in 2021— 7 in total since our last report in March 2021. We report these takedowns annually.
+• In February 2021, we complied with a written demand from the Singapore Infocomm Media Development Authority (IMDA) to remove the film Gandu in Singapore only.
+• In June 2021, we complied with a written demand from the Ministry of Information and Communication (MIC) in Vietnam and removed the series Pine Gap in Vietnam only.
+• In September 2021, we complied with a written demand from the Radio and Television Supreme Council (RTUK) in Turkey and removed one episode - “Double Blind” - from the series New Amsterdam in Turkey only.
+• In September 2021, we received a written demand from the Philippines’ Movie & Television Review and Classification Board (MTRCB) and removed two episodes - “Episode 2” and “Episode 3” - from the series Pine Gap in Philippines only.
+• In September 2021, we complied with a written demand from the Singapore Infocomm Media Development Authority (IMDA) to remove two episodes - “The Father, the Son and the Post-It Note” and “Trigger Warning” - from the series Paradise PD in Singapore only.
+• In November 2021, we complied with a written demand from Roskomnadzor in Russia to remove the series Tokyo Ghoul in Russia only.
+• In December 2021, we complied with a written demand from the Radio and Television Supreme Council (RTUK) in Turkey to remove the film Donde caben dos in Turkey only.
+TC-IM-220a.6 4 7 Number of government requests to remove content, percentage compliance with requests
+
+
+40. 
+Social. 
+The company has a Vice President of Information Security who oversees a team of employees dedicated to information security. We strive to protect sensitive information through various means, such as technical safeguards, procedural requirements and policies, a program of monitoring to detect and address unauthorized modification or misuse, continuous testing of aspects of our security internally and with outside vendors, a robust incident response program, and regular training for employees.
+TC-IM-230a.2 Description of approach to identifying and addressing data security risks, including those of third-party cybersecurity standards. 
+TOPIC ACCOUNTING METRICS - INTERNET MEDIA & SERVICES 2020 2021 SASB CODE. 
+DATA SECURITY
+
+
+41. 
+Governance. 
+We operate in a dynamic industry and have been in a state of constant innovation since inception. We have redefined how people watch video—first through DVD-by-mail, then streaming video, and now as one of the world’s leading entertainment services with approximately 222 million members in 190 countries. Our success has not gone unnoticed, and we are seeing increasing competition, even as this dynamic market continues to evolve.
+Our corporate governance structure is built against this backdrop. Governance, in this context, means finding the right balance of rights and responsibilities among shareholders, the Board, and management, and ensuring that there are appropriate checks and balances in place. With the rapid evolution of technology and the changing media landscape, we are continually adjusting our service to meet the needs and desires of our consumers. Our governance structure has been deliberately constructed to help us to do that. Our focus is on creating long-term value for our shareholders, and we have been successful at that – since our initial public offering in 2002, annualized total stockholder return through December 31, 2021 was 38%.
+While our current governance structure has served our shareholders extraordinarily well with a sustained period of substantial growth, we’ve clearly proven our business model: streaming is now an established business, we’re self-funding and expect sustained positive free cash flow, and we’ve substantially scaled our revenues, operating profit and margins. As such, the Board has decided to evolve to a more standard largecap governance structure, and will be recommending several changes at the upcoming 2022 annual meeting including elimination of supermajority voting provisions, allowing shareholders to call special meetings, and proposing that the Board declassify and stand for annual elections. We will also change the voting standard for our directors in uncontested elections.
+We strive to stay in tune with our ownership base. Our Board and our management team engage directly and regularly with our shareholders, and our Board and its committees consider shareholders’ feedback in assessing our governance structure, including our compensation program. This past fall, we convened a virtual ESG investor day that brought directors, management and various subject matter experts together with a range of our shareholders representing approximately 40% of shares outstanding. This provided a direct opportunity to share information and perspectives and we appreciated the time and candor of those in attendance. These engagements provide a good opportunity to share views and answer questions; the input from our shareholders will continue to inform our ongoing evaluation of our structure.
+We are committed to managing our business ethically and with integrity. Our Code of Ethics sets out our expectations for conduct among our employees and Board members. We encourage reporting of breaches of our Code or any unethical or inappropriate conduct to our Chief Legal Officer or, in the case of misconduct by a senior financial officer, to the Chair of our Audit Committee. We also provide access to a third-party operated service where reports of misconduct can be made confidentially and, if desired, anonymously, 24 hours a day, seven days a week, 365 days a year in local languages. Reports made through this service are elevated and investigated until they are resolved, and updates are provided annually to the Audit Committee.
+
+
+42. 
+Governance. 
+As part of our commitment to managing our business ethically and with integrity, we seek to identify and mitigate risks that could lead to potential legal and/or regulatory violations. Our Global Anti-Corruption Policy requires our employees and contractors to abide by global anti-corruption and anti-bribery laws. We provide regular training on compliance with this policy, in addition to conducting regular and ongoing risk assessments. A copy of our practices and policies, which includes the Global Anti-Corruption Policy and Code of Ethics, has been translated into numerous languages and remains available to all employees throughout their employment with us. Other areas of focus include commitments to compliance with applicable government mandated sanctions regimes (with leadership provided by a designated Sanctions Compliance Officer) as well as human rights legislation (e.g. UK Modern Slavery Act).
+For more information on our governance practices, please visit these links: 2021 Proxy Statement. 
+Netflix Approach to Corporate Governance - Study by Stanford Graduate School of Business Corporate Governance Research Initiative. 
+Netflix Governance Documents. 
+Leadership. 
+We regard our trademarks, service marks, copyrights, patents, domain names, trade dress, trade secrets, proprietary technologies and similar intellectual property as important to our success. We use a combination of patent, trademark, copyright, trade secret laws and confidentiality agreements to protect our proprietary intellectual property. We employ a variety of methods to monitor potential infringement of our intellectual property, including searches conducted internally and by external vendors. A particular focus is preventing uses of our intellectual property that may lead to consumer fraud.
+SV-ME-520a.1 Description of approach to ensuring intellectual property (IP) protection. 
+TOPIC ACCOUNTING METRICS - MEDIA & ENTERTAINMENT 2021 SASB CODE. 
+INTELLECTUAL PROPERTY PROTECTION & MEDIA PIRACY

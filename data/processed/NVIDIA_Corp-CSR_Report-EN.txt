@@ -1,0 +1,1087 @@
+2022 NVIDIA CORPORATION CORPORATE RESPONSIBILITY REPORT
+
+
+2022 NVIDIA CORPORATE RESPONSIBILITY REPORT 1 01 MESSAGE FROM OUR CEO 2 02 CORPORATE RESPONSIBILITY OVERVIEW 5 03 STAKEHOLDER ENGAGEMENT 7 04 OUR PEOPLE, DIVERSITY AND INCLUSION 11 05 INNOVATION AND BUSINESS MODEL 24 06 CYBERSECURITY AND DATA PRIVACY 33 07 SUPPLY CHAIN MANAGEMENT 35 08 SOCIETAL IMPACTS OF AI 41 09 ENVIRONMENTAL INITIATIVES AND PARTNERSHIPS 46 10 CLIMATE CHANGE MANAGEMENT 50 11 REPORTING FRAMEWORKS 58. 
+ABOUT THIS REPORT 68. 
+TABLE OF CONTENTS
+
+
+MESSAgE FROM OuR CEO 2 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT 01 MESSAgE FROM OuR CEO. 
+It’s inspiring to reflect each year on NVIDIA employees’ body of work to create a more sustainable company and to make a positive impact in our communities, on society, and on the planet.
+It is a core value at NVIDIA that we take on only the toughest problems with the promise of the biggest impact, and where we can make a unique contribution. In doing so, we direct the scarce talents of our people to advance computing to solve grand challenges in science, medicine, and industry.
+NVIDIA accelerated computing has increased computational performance and scale by a million times over traditional methods in the past decade through a combination of chips, systems, and AI algorithms. This lets scientists tackle problems that were previously impossible while saving huge amounts of cost and energy.
+> Decoding the COVID Spike Protein – A team led by uC San Diego’s Rommie Amaro used the NVIDIA-powered Summit supercomputer on a recordbreaking, 305-million-atom simulation of the COVID spike protein. The simulation doubled the state of the art in simulation size and remains the most comprehensive simulation of the virus performed to date.
+> Speeding DNA Sequencing for Same-day Diagnoses – Stanford, google, uC Santa Cruz, and Oxford Nanopore Technologies used rapid DNA sequencing to identify genetic variants and cut the time to diagnosis from two weeks to eight hours.
+> Predicting Extreme Weather – NVIDIA researchers, with scientists at Lawrence Berkeley National Laboratory, created FourCastNet, a machine learning model that can predict the behavior of 1,000-mile-long atmospheric rivers tens of thousands of times faster than numerical simulations.
+JENSEN HUANG Founder, President and CEO
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT MESSAgE FROM OuR CEO 3. 
+NVIDIA’s technology has been instrumental for scientists, public health experts, and companies in addressing each stage of the COVID-19 pandemic. Recent advances in accelerated clinical sequencing were instrumental to humanity’s battle against COVID-19 – decoding its genetics, developing treatments, and preventing the next pandemic. We worked with Oak Ridge National Laboratory and Scripps Research to speed the discovery of new drugs, performing a year’s worth of work on the most powerful supercomputer in a single day.
+Large-scale computers are essential instruments to advance human knowledge and invent a better future. Yet computers consume energy, and so it is imperative that we do so with the greatest possible energy efficiency. NVIDIA accelerated computing requires a refactoring of algorithms but delivers orders-of-magnitude better energy efficiency. Twenty-three of the world’s top 30 most energy-efficient supercomputers are powered by NVIDIA. From the computing approach we are pioneering and through our basic research, we are contributing to reduce energy consumption, clean the air, and reduce waste: > Accelerating DOE’s ‘Energy Supercomputer’ – NVIDIA gPus will power Kestrel, the Department of Energy’s next-generation supercomputer dedicated entirely to projects to advance energy solutions research in the u.S.
+> Carbon Capture AI – Scientists from Stanford, CalTech, and Purdue developed an AI tool that can sequester carbon and help lock up greenhouse gasses like carbon dioxide in porous rock formations faster and more precisely.
+> Wind Farm Energy Prediction – Startup Zenotech and the u.K. government used AI to predict the likely energy output of a wind farm’s 140 turbines. NVIDIA gPus and software sped the process by 43x compared to CPus and boosted performance to enable fine-grained analysis of the effects the turbines had on each other, and even the effects of leaves falling from the trees in nearby forests.
+> Industrial Digital Twins – The NVIDIA Omniverse simulation platform is enabling digital twins of complex systems like factories, warehouses, and selfdriving cars. By prototyping in the virtual world before deploying in the physical one, companies like Amazon, BMW, Ericsson, PepsiCo, and Siemens can save time, energy, and resources.
+> Earth-2 – NVIDIA is building a digital twin of our planet to predict changes in extreme weather decades out. This simulation of the world will help predict the complex multi-physics of Earth’s atmosphere, land, sea, and ice caps at sufficiently high resolution. Earth-2 will enable us to better predict the regional impacts of human actions over decades.
+Our culture of generosity and service is our engine for making positive change at the local and personal level. Our employees actively support the communities in which they work and live. They championed fundraisers to aid COVID response efforts, support breast cancer research, and provide food and gifts for lowincome families during the holidays. They gave their time to tutor and mentor students, created care kits for first responders and people experiencing homelessness, and consulted with nonprofits through skills-based volunteering.
+NVIDIA employees joined the company in contributing more than $22 million and 16,500 volunteer hours to charitable causes in fiscal year 2022. We’ve also donated more than $4.6 million to date for humanitarian relief to ukraine and its refugees. We continue to work closely to support our ukrainian employees and their families amid Europe’s worst crisis in the past 75 years.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT MESSAgE FROM OuR CEO 4. 
+NVIDIA is dedicated to make positive impact in the world. We’re creating new technologies and helping researchers apply them to discover new knowledge. We’re expanding the accelerated computing ecosystem and helping new markets apply this super-efficient way of computing.
+I am proud of NVIDIA’s contributions to science, industry, and community. By creating an environment and culture that attracts extraordinary people to come do their life’s work, NVIDIA can simultaneously create sustainable growth for our stakeholders while doing impactful work that can take decades of effort.
+We have a once-in-a-lifetime opportunity to apply accelerated computing and artificial intelligence to take on the most important challenges of our time, from transportation to digital biology to climate science. I can’t wait to see what we accomplish in the coming years.
+JENSEN HUANG CEO and Co-Founder, NVIDIA
+
+
+CORPORATE RESPONSIBILITY OVERVIEW 5 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT 02 CORPORATE RESPONSIBILITY OVERVIEW. 
+We assess our corporate responsibility program annually to ensure that we remain aligned with stakeholder expectations, market trends, and business risks and opportunities.
+Annually, we determine the topics that are essential to our continued business success and reflect the highest interest to NVIDIA and our stakeholders. In light of increased prioritization of corporate responsibility internally and externally, we streamlined our corporate responsibility topics from 20 to seven to better reflect their interrelatedness. Below is an overview of the specific changes we made this year:
+TOPIC CHANGE. 
+Our People, Diversity and Inclusion. 
+Formerly Talent Strategy, now includes Health and Safety, Employee Ethics, Community Engagement, and employee elements of Human Rights. 
+Innovation and Business Model. 
+Now includes Business Continuity, Customer Relations, Product Quality and Safety, Public Policy Engagement, and Trade Issues. 
+Cybersecurity and Data Privacy. 
+No changes. 
+Supply Chain Management Includes supply chain aspects of Human Rights. 
+Societal Impacts of AI New topic that addresses Trustworthy AI and Human Rights surrounding our products
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT CORPORATE RESPONSIBILITY OVERVIEW 6. 
+TOPIC CHANGE. 
+Environmental Initiatives and Partnerships. 
+New topic that addresses our energy-efficient architecture and technology initiatives to tackle climate change. 
+Climate Change Management Covers our climate change goals, management and oversight, standards and assurance, and Scope 1, 2, and 3 impacts and actions to address the issue. 
+We address each of these topics in subsequent sections of this report. We define each topic, discuss why it’s important to NVIDIA and how we manage it, and disclose relevant performance data.
+Corporate Responsibility Governance. 
+The Nominating and Corporate governance Committee (NCgC) of our Board is responsible for reviewing and discussing with management our practices concerning environmental, social, and corporate governance. Our head of corporate responsibility reviews stakeholder inputs with and collects feedback on priorities from the NCgC each year. The priorities include issues that are of utmost importance to our stakeholders, such as climate change, human rights, and diversity and inclusion.
+Starting in our fiscal year ending January 29, 2022 (FY23), the Compensation Committee of our Board became responsible for reviewing and discussing with management our policies and strategies relating to human capital management, which includes recruiting, retention, development, diversity, inclusion and belonging, and employment practices.
+In our fiscal year ending January 30, 2022 (FY22), NVIDIA management began periodically reporting to the NCgC about the company’s policies and practices regarding governmental relations, public policy, and related expenditures.
+
+
+STAKEHOLDER ENgAgEMENT 7 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT 03 STAKEHOLDER ENgAgEMENT. 
+We define stakeholders as entities or individuals who can be affected by NVIDIA and whose actions can affect the company. Our annual assessment of our corporate responsibility program helps us understand the topics that matter to stakeholders, so we can focus our engagement and transparently respond to their concerns. Internal subject matter experts evaluate each stakeholder request to determine what type of response is appropriate.
+FY22 INTERACTIONS:
+STAKEHOLDER FY22 INTERACTIONS. 
+Board of Directors NVIDIA management engaged with the NCgC, which oversees corporate responsibility matters, to: > Provide an update on our corporate responsibility strategy, programs, and risks; > Collect feedback related to corporate responsibility issues that impact the company as part of our annual assessment; and > Present an overview of diversity, inclusion, and belonging programs and progress against goals.
+In early FY22, our NCgC reviewed our climate change position and increased investor interest in net zero strategies.
+NVIDIA management also presented to the Compensation Committee on diversity, inclusion, and belonging matters.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT STAKEHOLDER ENgAgEMENT 8. 
+STAKEHOLDER FY22 INTERACTIONS. 
+Communities Together, the company and our employees contributed more than $22.3 million and supported 5,700 nonprofits in 50+ countries around the world.
+To support youth from underserved and underrepresented communities in developing STEM skills, we provided funding to and held virtual volunteer events for organizations working toward this goal.
+We sponsored the annual Ada Lovelace Hackathon, hosted by u.K.-based Teens in AI, created to help young women ages 11-18 understand opportunities in AI.
+View the top 20 organizations we gave to in Community Engagement. See the NVIDIA Foundation annual report for FY22 activities in our communities.
+Customers We provided customers with completed self-assessment questionnaires and participated in relevant working groups through our “Full” category membership in the Responsible Business Alliance (RBA).
+We received several requests per week from customers regarding product and social compliance, legal, and regulatory issues.
+Ten customers requested our participation in CDP.
+During the year, we partnered with our customers to: > Align and confirm priorities on key requirements; > Report our supply chain and conflict mineral status; > Collaborate and present on regulatory and conflict minerals topics; > Support customer quarterly business reviews; and > Communicate our business continuity program.
+Developers We hosted developer conferences in the united States, with more than 485,000 total registrations.
+We provided access and training for women and members of the Black/ African American and Hispanic/Latino communities to increase participation by developers from underrepresented communities at our annual developer conference.
+We supported professional organizations Women in Data, Women-ai, and Black Women in AI.
+To increase outreach to students, we planned several sessions at our conferences related to building a career in AI and engaged with computer science departments at Historically Black Colleges and universities and Hispanic-Serving Institutions across the united States.
+We nearly tripled the number of registrations from African nations to our fall conference, a result of our efforts to expand representation from emerging countries.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT STAKEHOLDER ENgAgEMENT 9. 
+STAKEHOLDER FY22 INTERACTIONS. 
+Employees and Prospective Employees. 
+We developed several COVID-19 programs related to employee safety, working from home, and mental health, and established a website with information to help employees navigate work during the pandemic.
+We delivered quarterly engagement pulse surveys to measure sentiment around topics such as meaningful work, diversity, inclusion and belonging, and support needed to succeed. Since their launch, the favorable score range was 81 to 93 (out of 100 possible points).
+We continue to publish our EEO-1 reports on our diversity and inclusion website.
+We reached 50,000+ candidates from underrepresented communities in technology at university and professional recruiting events.
+See Our People, Diversity and Inclusion for more FY22 interactions with employees, including our diverse community resource groups.
+Government/Public Policy Engagement. 
+We continued our engagements with the united States House and Senate AI Caucus, the Congressional Tech Staff Association, and key officials in the legislative and executive branches on policy issues impacting AI development, semiconductor design, and more.
+We participated in the development and advocacy of the Semiconductor Industry Association development and advocacy efforts, including investment in the u.S. workforce and federal R&D programs.
+Nongovernmental Organizations We scored 100% on the Human Rights Campaign’s Corporate Equality Index for a seventh consecutive year.
+We hosted the World Economic Forum at our developer conference for discussions on trustworthy AI.
+We continue reporting in line with selected World Economic Forum Stakeholder Capitalism Core Metrics.
+We co-chair the OECD Taskforce on AI Compute.
+We engaged with the global Child Forum, Investor Alliance for Human Rights, uN global Compact uSA, and the World Benchmarking Alliance.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT STAKEHOLDER ENgAgEMENT 10. 
+Research/Ratings Organizations We remain on the following rankings/indexes: 3BL Media’s 100 Best Corporate Citizens, Barron’s Top 100 Most Sustainable Companies, Bloomberg gender Equality Index, Dow Jones Sustainability Index, Forbes’ Best Employers for Diversity, Forbes’ JuST 100 Companies, FTSE4good, and Newsweek’s Most Responsible Companies.
+We were featured for the fifth year on Fortune’s 100 Best Companies to Work For (No. 5 in 2021) and glassdoor’s Best Places to Work at No. 1.
+We engaged with Bloomberg, FTSE Russell, ISS, MSCI, Refinitiv, Sustainalytics, and Vigeo Eiris.
+STAKEHOLDER FY22 INTERACTIONS. 
+Shareholders We participated in CDP for the 15th year and scored a B on our climate change and water security responses.
+We presented corporate responsibility topics to stockholders holding 18% in aggregate of our common stock during our annual outreach meetings. Topics covered included: climate change, diversity and inclusion at the company and board level, board involvement in corporate responsibility, and customer due diligence with our AI product sales.
+We met regularly with investors on corporate responsibility topics.
+We scored No. 1 for a second year in several categories of Institutional Investor’s 2021 All-American Executive Team Leaders survey, including top executives, top IR team, Best ESg, and best communications response to COVID-19. We were No. 12 on Investor’s Business Daily’s Best ESg Companies List.
+Suppliers We conducted an ongoing evaluation of our suppliers using RBA analysis tools.
+See Supply Chain Management, FY22 RBA Member Compliance to see the full range of activities we conducted, including 100% completion of risk assessment and self-assessment for all applicable suppliers and reviewing Validated Assessment Program audits in FY22 on 70% of our strategic suppliers, bringing total audits in the past two years to 93%.
+
+
+OuR PEOPLE, DIVERSITY AND INCLuSION 11 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT 04 OuR PEOPLE, DIVERSITY AND INCLuSION. 
+Our employees are our greatest asset and play a key role in creating long-term value for our stakeholders. Diverse teams fuel innovation, and we’re committed to creating an inclusive culture that supports all employees, regardless of gender, gender identity or expression, veteran status, race, ethnicity, or ability. Diversity, inclusion, and belonging are integrated into our talent strategy.
+To execute our business strategy successfully, we must recruit, develop, and retain talented employees, including executives, scientists, engineers, and technical and non-technical staff.
+Recruitment. 
+The demand for talent in new markets such as AI and deep learning is high and increasing. To develop our candidate pipeline, we partner with higher education institutions and professional organizations, recruit at industry conferences, and encourage our employees to submit referrals—with over 39% of hires coming from internal recommendations.
+WHAT IT COVERS: > Talent attraction, recruitment, and retention, including diversity considerations in talent acquisition > Competitive wages, benefits, and support mechanisms > Work environment, company culture, and work-life balance > Executive and workforce diversity > Professional and leadership development and training > Pay and promotion parity > Health and safety policies, programs, and performance
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 12. 
+FY22 HIRING DATA. 
+BY AGE BY GENDER BY REGION BY RACE/ETHNICITY (U.S.) 4,523 TOTAL HIRES 4,523 TOTAL HIRES 4,523 TOTAL HIRES 2,143 TOTAL HIRES 20-30 Years 2,021 (44.7%)
+Women 862 (19.1%)
+Americas 2,211 (48.9%)
+Asian 1,212 (56.6%) 31-50 Years 2,217 (49.0%)
+Men 3,596 (79.5%)
+APAC 720 (15.9%)
+Black/African American 40 (1.9%) 51+ Years 283 (6.3%)
+Not Disclosed 65 (1.4%)
+EMEA 907 (20.1%)
+Hispanic/Latino 68 (3.2%)
+No Data 2 (0.0%)
+India 685 (15.1%)
+White 666 (31.1%)
+Other 157 (7.3%)
+Two years ago, we created the role of head of diversity, inclusion, and belonging and hired a global diversity recruiting leader. Since then, our staff that is solely focused on sourcing diverse talent has grown from one to 20 and receives support from a cross-functional global team.
+We partner with Afrotech, Black in AI, LatinX in AI, MBA Veterans, Queer in AI, and Women in Machine Learning to reach communities underrepresented in technology. In FY22, to diversify our college pipeline, we established the Ignite program to prepare students for an NVIDIA internship the following summer. Sixty-five percent of these students are returning for our regular internship program, and we saw a 100% increase in applications for the following summer's Ignite program.
+Our recruitment efforts attracted 50,000+ underrepresented applicants in FY22 through virtual university and professional career events. Other recruiting actions: > Increase resources focused on women, Black, and Latino talent for senior technical and management roles; > use bias-mitigating software to craft inclusive job descriptions and screening language; > Study our recruiting pipeline regularly to identify and remove potential bottlenecks for diverse candidates; > Strive to provide hiring managers with a diverse slate of candidates to consider during the recruiting process; > Engage diverse employees for recruiting events and interview panels;
+NVIDIA ranked No. 1 on glassdoor’s 14th annual Best Places to Work list for large u.S. companies. The award is based on anonymous employee feedback and includes thousands of companies.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 13 > Provide a guide for unbiased recruiting and hiring to managers and interviewers; > Shepherd candidates from underrepresented communities through the interviewing process; > give candidates the option to speak with employees from their communities about the employee experience and company culture; and > Partner with our community resource groups to improve how we reach and attract diverse candidates.
+During new hire orientation, we promote our community resource groups, and members of these groups serve as ambassadors and support other onboarding activities for new employees.
+Benefits and Compensation. 
+We believe in a comprehensive one health strategy – physical, emotional, and financial. We make the health of our employees and their families a top priority, offering programs throughout the year to assist with their personal wellness, including health analysis, skin cancer screening, and hereditary cancer screening. We offer comprehensive benefits to support the well-being of our employees and their families, including 401(k) programs in the united States, statutory pension programs outside the united States, an employee stock purchase program, flexible work hours and time off, and programs to address mental health and well-being. We evaluate our benefit offerings annually to ensure they are meeting the needs of our employees and we continuously seek new ways to advance our employee support.
+We provide family-forming benefits such as adoption, surrogacy, and fertility coverage for those who wish to become parents. Our parental leave program is one of the most generous in the industry, enabling birth parents to take up to 22 weeks of fully paid leave, starting as early as four weeks before their due date. Nonbirth parents get up to 12 weeks of fully paid leave. To ease the transition back to work after their leave, all new parents also receive up to eight weeks of flex time.
+Through partnerships with our LgBTQ+ community, we have worked with our health plan to enhance behavioral health provider search tools so that providers specializing in LgBTQ+ topics can be easily identified. A new web page was created that contains information about NVIDIA’s policies, benefits, and support teams available to those pursuing a gender transition. We partner with other NVIDIA communities to tailor support programs based on needs, such as expansion of military leave for members of the military.
+To give employees time to recharge after continued remote working demands and input from employees, we are providing eight free days in 2022, or two per quarter. These scheduled days are intended to be a time when all NVIDIANs disconnect and recharge.
+COVID-19 SUPPORT. 
+In response to the COVID-19 pandemic, we closed our offices around the world in March 2020. With so many of our employees working remotely for an extended period, we enhanced the resources we provide to support health and wellness at home. We added a financial stipend toward ergonomically designed workstation furniture and IT peripherals for working from home and offered regular well-
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 14 being educational events, virtual fitness and meditation sessions, and even a weekly story time for our working families with young children at home.
+In the united States, we’ve worked with our healthcare insurance providers to cover any out-of-pocket costs related to COVID-19 testing and treatment for our employees and all covered dependents and expanded our Family Care Leave policy to provide u.S. employees with 12 weeks of fully paid leave for the care of family members. We continue to make reimbursement available to our employees for certain work from home expenses.
+In response to the COVID pandemic in India, we took many steps to support employees and contractors. We enabled financial support through salary advances and ad hoc payments, and we enhanced insurance coverage. We launched onsite vaccination programs for NVIDIANs and their families. Regular sessions with trained medical experts were held to help employees focus on their health and well-being.
+A cross-functional team led by HR provides high touch support to help employees or family members to help them through difficult times in their lives. The focused support will vary depending upon the situation and can cover financial, travel, and medical care needs.
+PAY PARITY. 
+We ensure strong pay for all employees through an annual review of peer compensation practices in the markets we operate in and annual adjustments to employee compensation. Employees are provided both cash and equity compensation. Equity compensation is provided through Restricted Stock units (RSus) that vest over time and provide value aligned to our stock price. We believe RSus promote retention and align with stockholder interests. Cash compensation adjustments are determined based on market compensation growth and individual performance.
+In addition to our annual compensation review, we regularly monitor the impact of exchange rate fluctuations and inflation around the world and adjust employee compensation as needed to address the impact to employee purchasing power.
+To ensure pay parity, defined as no statistically significant differences in compensation based on gender, race, or ethnicity, we’ve used a third-party firm to analyze our pay practices for gender, race, and ethnicity across 75+ dimensions, including rating, education, years of experience, job function, family, and level each year since 2015. We’ve achieved pay parity for the past several years and plan to continue doing so. If the review were to identify an issue of statistically significant pay disparity, we would take corrective action.
+PAY RATIO FY22 FY21 FY20. 
+Women | Men 99.0 | 100 98.2 | 100 99.7 | 100. 
+Asian | White (u.S.) 100.2 | 100 98.7 | 100 99.8 | 100. 
+Black/African American | White (u.S.) 102.4 | 100 101.9 | 100 102.4 | 100. 
+Hispanic/Latino | White (u.S.) 98.5 | 100 98.3 | 100 100.3 | 100. 
+We also evaluate promotion data to ensure parity across gender, race, and ethnicity.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 15. 
+Employee Engagement. 
+Our corporate culture arises from five core values, which provide the foundation for success. These values create a workplace where innovation thrives and mistakes are transformed into opportunities.
+NVIDIA’s Core Values. 
+INNOVATION. 
+Dream big, start small. Take risks, learn fast.
+We make things that delight customers and raise industry standards. We encourage employees to innovate, guided by first principles, not consensus.
+We know our path to discovery will be paved with mistakes. We anticipate and avoid the ones we can. We accept, learn from, and share the ones that occur. This allows us to invent things the world doesn’t even know it needs, and by doing so, invent the future.
+INTELLECTUAL. 
+HONESTY. 
+Seek truth, learn from mistakes, share learnings.
+We operate at the highest ethical standards. We seek to accurately know ourselves and our capabilities—acknowledging our weaknesses and learning from our mistakes.
+The sharpest understanding of reality improves our work. Identifying the origins of mistakes is not about blame. It is essential to learning and constant improvement. We say what we believe, and have the courage to act on it.
+SPEED AND. 
+AGILITY. 
+Learn, adapt, shape the world.
+We are alert and constantly learning, and adjust course to align to new realities. This lets us create groundbreaking products at astonishing speed. No politics, no hierarchy stands in the way of inventing the future.
+EXCELLENCE. 
+AND. 
+DETERMINATION. 
+Maintain the highest standards.
+We hire extraordinarily talented individuals across the globe, people determined to make a difference. We challenge ourselves to do our best work.
+We measure ourselves not against the competition, but against perfection—we call it the speed-of-light test. We are not deterred by lengthy endeavors if they are worthy. We are playing a long game.
+ONE TEAM. 
+Do what’s best for the company.
+We foster an environment of transparency, openness, and sharing information. One that motivates our employees, and empowers them to work as a single integrated team.
+We disagree openly and directly because conflict is essential to resolving differences, improving ideas, and achieving alignment. Our focus is on substance, not on style. By putting the interests of the company before our own, we can more easily accomplish NVIDIA’s vision.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 16. 
+To ensure our continued success, we maintain a working environment where our employees are engaged and inspired. To address the stress of COVID-19 on employees, we’ve promoted awareness of our mental health and wellness programs and encouraged managers to keep employee connections strong with a variety of virtual team-building events like cooking challenges, game nights, and happy hours.
+FEEDBACK. 
+We listen to employees through frequent pulse surveys that measure engagement levels and culture against employees’ experiences as we continue to grow. We analyze data across multiple surveys, along with other data resources, to draw correlations over time and pivot as necessary. This agile approach allows us to hear from employees more frequently and stay focused on specific areas, while reacting quickly to current events.
+Survey topics in FY22 include meaningful work, support to succeed, diversity, inclusion and belonging, and life’s work. The surveys repeatedly tell us that our employees would recommend NVIDIA as a great place to work.
+In addition, we receive feedback through an internal portal where all employees can submit, view, and vote on suggestions. Over the last year, we’ve converted employee feedback into company-wide policies and programs, including the addition of Juneteenth and Veterans Day as office closures in the united States. We’ve also made updates to our resources based on employee suggestions, such as an internal COVID portal for company communications and updates.
+COMMUNITY RESOURCE GROUPS. 
+We support several community resource groups (CRgs), which have executive-level sponsorship and dedicated budgets: Asian Pacific Islander, Black NVIDIAN Network (BNN), Early Career Network, Hispanic-Latino Network, NV Pride (LgBTQ+ employees and allies), NVIDIA Disabilities Network (NDN), NVIDIA Veterans, South Asian & Allies, and Women in Technology (WIT). These communities are expanding globally and engaging more employees around the world.
+CRgs have pages on the company intranet and communicate through Slack, email, and special events. We listen to these communities and respond with the right programs for all. In FY22, we partnered with our CRgs to provide mental health resources tailored to the needs of each community.
+Each CRg has a different strategic focus. Highlights from FY22 include: > BNN piloted an onboarding program for employees to request a “Friend @ NVIDIA” (F@N) to support new hires. unlike a typical mentor or buddy program, F@Ns serve as a cultural advisor and help new employees accelerate their ability to learn, internalize, and thrive at NVIDIA. In response to feedback from BNN, our health plan partner Cigna has invited Black physicians and mental health providers used by NVIDIANs to join the network.
+> HLN offered a career development program to encourage members to set career aspirations and work to achieve them.
+> NDN formed breakout groups including ADHD NVIDIANs to discuss experiences and share resources in a safe, nonjudgmental, and neurodiverse-friendly environment. It also formed the Parents and Caregivers Support group to provide employees with resources and support.
+WHAT OUR EMPLOYEES SAY 97% are proud to tell others they work at NVIDIA. 96% believe NVIDIA management is honest and ethical in its business practices. 95% say that NVIDIA is a great place to work.
+Survey results from Great Place to Work. We rank No. 5 on Fortune 100 Best Companies to Work For in 2022.
+Bloomberg gender Equality Index. 
+Human Rights Campaign Corporate Equality Index. 
+Disability: IN Disability Equality Index
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 17 > NV Pride worked with our benefits team to expand resources for gender affirmation events. In response to feedback from NV Pride and partners we work with, we added the capability for employees to voluntarily share and view personal pronouns in the company directory. We encourage all employees to share their pronouns and, in FY22, 30% of our employees updated their profile with pronouns in support of their NV Pride colleagues.
+> WIT held development programs on communicating for influence and on patent harvesting.
+INCLUSION RESOURCES. 
+We curate resources for employees to increase awareness and provide suggestions on how to foster an inclusive environment. We have reviewed our engineering and other documentation to ensure it is consistent with our code of conduct and principles of inclusivity. We strive to create an inclusive environment and believe that communication patterns are learned habits and take practice. We encourage our employees to continue to use inclusive language and to ingrain these positive communication habits.
+COMMUNITY ENGAGEMENT. 
+NVIDIANs share a passion for meaningfully supporting the communities in which we live and do business. The NVIDIA Foundation, led by four staff members in partnership with employee champions around the world, helps turn this passion for giving into action through our Inspire 365 initiative, which aims to empower all NVIDIANs to get involved in their communities.
+Inspire 365 makes it easy. Through matching gifts, flexible time off, and a variety of activities and tools, employees can contribute where, when, and how they choose. Our collective, year-round efforts allow us to help those in need and strengthen communities around the globe.
+As the COVID-19 pandemic continued into its second year, NVIDIANs remained committed to donating their time and contributing resources to those in need.
+Nearly 40% of our employees participated in the Foundation's Inspire 365 efforts during FY22, bringing the unique participation rate since the initiative’s start to 68%. Through year-round giving and a company-wide holiday campaign, employees donated a record of more than $9 million, up 18% from the previous year.
+While our in-person volunteer events remained paused due to COVID-related office closures, NVIDIANs still logged more than 16,500 volunteer hours through individual and virtual efforts, up more than 76% compared to FY21.
+Through our Missions program, in its second year, we encouraged employees to complete simple acts of good across a variety of themes, including health and wellbeing, inclusion and belonging, environmental sustainability, and disaster response.
+Employees took more than 40,000 actions through monthly Missions challenges in FY22. We partnered with our community resource groups on challenges like “Celebrate Pride,” “Honoring Those with Disabilities,” and “¡Vamos a Celebrar! Celebrating Hispanic and Latino Culture,” which aimed to inspire employees to learn from, honor, and support our colleagues and communities. One series of Missions focused on reducing our environmental footprint by conserving water, reducing energy consumption, and adopting food habits that lower emissions resulted in more than 140,000 gallons of water, 225,000 kWh of energy, and 32,000 lbs. of CO2 saved.
+Collectively, these efforts supported 5,700 nonprofits in more than 50 countries around the world.
+TOP 20 ORGANIZATIONS RECEIVING SUPPORT IN FY22: > CEO Leadership Alliance Orange. 
+County > China Women’s Development. 
+Foundation > Energy Harvest Trust > ETH Zurich > Food Bank of Central & Eastern. 
+North Carolina > Foundation for Ecological Security > give Foundation > giveWell > goonj > Marine Toys for Tots Foundation > Mercy Corps > Mozilla Foundation > Northeastern university > Rice university > Second Harvest of Silicon Valley > Sewa International > Stanford university > united Way Bengaluru > university of Texas at Austin > Valley Humane Society. 
+Organizations are listed in alphabetical order. Funding amounts range from $105,000 to more than $2 million.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 18. 
+Inspire 365 Performance. 
+FY22 FY21. 
+Percentage of NVIDIANs engaged in the NVIDIA Foundation’s. 
+Inspire 365 initiative 37% 54%
+Amount of employee donations $9,117,126 $7,694,419 unique volunteer rate 7% 3%
+Number/value of volunteer hours 16,549 / $508,935 9,367 / $254,785. 
+Number of small acts of good completed through Missions 40,151 60,049. 
+Learning. 
+We have a rich library of live and on-demand learning experiences such as workshops, panel discussions, speakerbased forums, and internally focused conferences. We curate learning libraries around our most common development needs, provide the latest platforms to support self-paced learning, and regularly improve and update those topics using learner feedback from internal messaging channels. We offer tuition reimbursement programs and subsidize advanced education programs and online certifications.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 19. 
+We strive to cultivate an inclusive and equitable mindset through awareness and skill building. Due to managers’ direct influence on employee engagement, we have invested in developing our managers to become great leaders. Our FY22 efforts include: > Topic-based manager meetups held monthly; > Dedicated communication channels to share ideas, ask questions, and discuss everyday management situations; > A development program for high-potential women designed to enhance their leadership capabilities and to prepare them for future advancement; and > A Manager Resource Center in India.
+We introduced an allyship program to establish and train a network of allies that can speak up when they see non-inclusive behavior and advocate for changes that lead to increased equity. We also created online diversity, inclusion, and belonging educational resources for managers and employees.
+ETHICAL CONDUCT. 
+We strive to achieve the highest standards of ethical conduct in all our business dealings and are committed to promoting a culture of integrity. Our code of conduct and policies guide how we conduct ourselves in our professional relationships toward our customers, partners, competitors, vendors, government regulators, shareholders, fellow employees, and the community at large. This code applies to all our executive officers, directors, and employees, and we expect all third parties we do business with, including consultants, contractors, and other service providers, to act in a manner consistent with it.
+All NVIDIA employees receive code of conduct, ethics, and sexual harassment training upon hire and then every two years thereafter. Employees who have frequent contact with customers, partners, and suppliers (such as those in sales, finance, and procurement) have completed additional global anti-bribery and anti-corruption training. As of March 2022, nearly 100% of employees had completed the trainings.
+Our commitment to promoting a culture of integrity means that we aim to foster an environment where everyone is expected to act ethically and feel empowered to voice concerns without fear of retaliation. Any employee can confidentially and anonymously lodge a complaint about any matter of concern including accounting, internal control, auditing, code of conduct, conflict of interest, or other issues using a corporate hotline, which is hosted by an independent third party. By using an external organization to host the hotline, we ensure that our employees feel secure their reports will be anonymous. We have a strict “no retaliation” policy regarding good faith reports of activities that run counter to our ethical expectations.
+Career Development. 
+To support employee advancement, we provide on-the-job training through coaching, feedback, and role modeling. We encourage internal mobility through career expos and coaching, as well as foster mentorship connections and provide trained coaches as additional developmental support.
+Our strong partnerships with internal community resource groups allow us to personalize programs to address specific career development needs. In FY22, we created programming to support women in their careers, including ASPIRE Women’s Leadership Development Program to build a pipeline of leaders. The seven-month program was designed in partnership with uC Berkeley and aims. 
+INCLUSIVE TRAINING MATERIALS. 
+To improve the way transgender people were addressed in our workplace harassment training, we worked with the vendor to revise the content, and the subsequent updates impacted every employer that uses the same vendor.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 20 to promote career conversations, foster connections with sponsors, and help participants leverage their strengths and hone skills to elevate their careers.
+In response to requests for more information on career path and growth opportunities, we launched Careers Week, which hosts a series of development sessions for employees to build new skills, understand their strengths, and learn how to advance their careers at the company. The event included 40 sessions that included keynote addresses, panel discussions, training sessions, and presentations by hiring managers discussing current vacancies.
+Additional actions include: > Encouraging our leaders to support diverse talent into management and senior positions through focused development, mentoring, and sponsorship; > Creating Manager Check-In guides as a tool to facilitate meaningful conversations between employees and managers about career development; and > Building customized learning experiences for CRgs.
+PROMOTION PARITY. 
+We are committed to providing equitable opportunities for advancement to all employees and achieving promotion parity across dimensions of gender, race, and ethnicity.
+In FY22, we promoted 15.9% of our workforce. Women continue to be promoted at an approximately equal rate to men, 16.8% compared to 15.7%.
+We engaged a third party to analyze promotion activity in 2020 and 2021. The review analyzed the actual and expected rates of promotions, as well as time to promotion, by gender, race, and ethnicity. While this initial review yielded differences between actual and expected promotion rates, it was not statistically significant. If the review were to identify an issue of statistically significant promotion disparity, we would take corrective action.
+Health and Safety. 
+Our Health and Safety (H&S) team oversees workplace conditions for NVIDIANs globally. Team members provide guidance to ensure that facilities meet or exceed local safety requirements, promote safe work practices, and support compliance with applicable health and safety legislation and policies through trainings, communications, and audits. Our global H&S management framework includes: > A network of office-level committees, site safety officers, and regional team members who provide local H&S accountability; > Documented, globally applicable programs on key topics, including contractor management, ladder safety, ergonomics, vehicle safety, and chemical management; > Standard H&S risk assessment templates for European sites; > Role-specific H&S online training courses for employees, on topics such as chemicals management and hazardous waste, data center safety, lab safety and site safety officer training; and > External audits and internal inspections of our owned and leased offices.
+We also engage employees in H&S programs through a suggestion box and dedicated intranet pages.
+A PLACE TO GROW. 
+Wall Street Journal ranked NVIDIA No. 1 in employee engagement and development in the 2021 Management Top 250 ranking.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 21. 
+We identify and assess hazards and risks through routine inspections, audits, incident reporting, and investigations. Incidents and the results of incident investigations are recorded in our global Security database. Our processes for hazard assessment and incident investigation are documented in our Illness and Injury Prevention Program.
+Keeping our employees safe requires planning for emergencies. Our volunteer emergency response teams include more than 500 employees around the world. These volunteers assist with evacuation drills and may receive training in basic first aid, CPR, AED, or fire extinguisher use, in addition to emergency preparedness that will enable them to rapidly respond in an emergency or disaster.
+EMPLOYEE HEALTH AND SAFETY PERFORMANCE. 
+METRIC FY22 FY21 FY20. 
+Lost-time incident rate (u.S.) 0 0 0.01. 
+Total recordable incident rate (u.S.) 0.06 0.07 0.25. 
+Fatalities (global) 0 0 0. 
+Our record reflects the results of our dedication to employee health and wellness. Less than 1% of leave-of-absence requests within NVIDIA relate to work, and work-related injury losses are significantly below the averages for our industry. In the united States, we track experience modification rates at the state level, all of which were less than one in FY22. We offer employee ergonomics programs and online courses.
+Retention. 
+NVIDIA’s overall turnover remains low at 4.9% in FY22, compared with the semiconductor industry average of 13.8%. The turnover rate for women and men has remained approximately similar for the past several years. In the united States, retention rates for members of underrepresented communities have held equal to their peers.
+TURNOVER RATE FY22 FY21 FY20. 
+Overall Turnover 4.9% 3.8% 6.7%
+Men 4.7% 3.9% 6.7%
+Women 5.7% 4.3% 6.9%
+Asian (u.S.) 4.2% 3.4% 7.4%
+Black/African American (u.S.) 5.7% 4.8% 6.6%
+Hispanic/Latino (u.S.) 4.7% 3.3% 5.4%
+Workforce Data. 
+METRIC FY22 FY21 FY20. 
+Employees 22,473 18,975 13,775. 
+Offices 88 87 62. 
+Countries 32 29 22
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 22. 
+HEADCOUNT BY TYPE AND REGION. 
+REGION FULL TIME PART TIME CONTRACTORS INTERNS. 
+Americas 10,893 13 1,698 210. 
+APAC 3,644 1 612 92. 
+EMEA 4,404 158 728 142. 
+India 3,359 1 4,760 161. 
+TOTAL COUNT 22,300 173 7,798 605. 
+EMPLOYEE TYPE BY LEVEL. 
+EXECUTIVE MANAGEMENT REGULAR EMPLOYEE TOTAL 25 (0.1%) 3,951 (17.6%) 18,497 (82.3%) 22,473 (100%)
+Diversity Data. 
+The results of our efforts to recruit, develop, and retain a more diverse workforce with a focus on those historically underrepresented in the technology field, such as women, Black/African American (u.S.), and Hispanic/Latino (u.S.) populations are represented below. Employees can self-identify race, ethnicity, age, disabilities, gender, or veteran status during the interview process, while onboarding, and at any time during their tenure at NVIDIA. Changes in percentages could be due to new hires or more self-reporting by existing employees. Since 2020, we have published our EEO-1 survey for employees in the united States.
+RACE/ETHNICITY (U.S.) FY22 FY21 FY20. 
+Asian/Indian 49.2% 47.2% 49.2%
+White 36.8% 38.3% 38.2%
+Hispanic/Latino 3.3% 3.3% 3.4%
+Black/African American 2.4% 2.5% 1.1%
+Native Hawaiian/Pacific Islander 0.3% 0.3% 0.3%
+American Indian/Alaska Native 0.2% 0.1% 0.2%
+Two or more races 1.4% 1.1% 0.9%
+Decline to state 6.5% 7.2% 6.7%
+TOTAL 100% 100% 100%
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT OuR PEOPLE, DIVERSITY AND INCLuSION 23. 
+AGE FY22 FY21 FY20 20-30 Years 22.7% 21.7% 22.0% 31-50 Years 62.8% 63.5% 63.0% 51+ Years 14.5% 14.8% 15.0%
+GENDER FY22 FY21 FY20. 
+Men 80.4% 80.3% 80.5%
+Women 19.0% 19.1% 18.9%
+Not declared 0.6% 0.6% 0.6%
+POSITIONS HELD BY WOMEN FY22 FY21 FY20. 
+Outside directors 25.0% 25.0% 18.2%
+Named executive officers 40.0% 40.0% 40.0%
+Leaders 12.0% 11.3% 10.5%
+Managers 16.5% 15.9% 16.2%
+In technical roles 14.4% 14.1% 13.6%
+New hires, % globally 19.1% 19.7% 18.8%
+EMPLOYEE SELF-IDENTIFICATION FY22 FY21 FY20. 
+Disabilities* (u.S.) 2.1% 1.2% 0.8%
+Veterans (u.S.) 1.4% 1.3% 1.0% *Individuals can request an accommodation by contacting a dedicated email alias.
+
+
+INNOVATION AND BuSINESS MODEL 24 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT. 
+Our culture of innovation allows us to invent things the world doesn’t know it needs, and by doing so, invent the future. We maintain high standards in all that we do, including how we conduct our business and engage with partners.
+INNOVATION. 
+Innovation is at our core. We have invested over $29 billion in research and development since our inception, yielding inventions that are essential to modern computing. Our invention of the gPu in 1999 defined modern computer graphics and established NVIDIA as the leader in computer graphics. With our introduction of the CuDA programming model in 2006, we opened the parallel processing capabilities of our gPu for general purpose computing. This approach significantly accelerates the most demanding high-performance computing, or HPC, applications in fields such as aerospace, bio-science research, mechanical and fluid simulations, and energy exploration. Today, our gPus and networking accelerate many of the fastest supercomputers across the world. In addition, the massively parallel compute architecture of our gPus and associated software are well suited for deep learning and machine learning, powering the era of AI. While traditional CPu-based approaches no longer deliver advances on the pace described by Moore’s law, we deliver gPu performance improvements on a pace ahead of Moore’s law, giving the industry a path forward.
+WHAT IT COVERS: > R&D of new products, technology, and operational practices and protection of intellectual property > Market and global competitiveness, including business strategy, market leadership, financial success, and compliance with laws and regulations > Systems for managing export controls, import duties, quotas, trade barriers and restrictions > Prevention of and recovery from disruptions to our business arising from natural or manmade risks > Policies and practices governing product quality and safety considerations > Participation in industry organizations and engagement with policymakers > Promotion of safe and equitable access to and development of NVIDIA technology 05 INNOVATION AND BuSINESS MODEL
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT INNOVATION AND BuSINESS MODEL 25. 
+Our AI technology leadership is reinforced by our large and expanding ecosystem in a virtuous cycle. Our gPu platforms are available from virtually every major server maker and cloud service provider, as well as on our own AI supercomputer. There are almost 3 million developers worldwide downloading CuDA and our other software tools to help deploy our technology in our target markets. We evangelize AI through partnerships with hundreds of universities and almost 10,000 startups through our Inception program. Additionally, our Deep Learning Institute provides instruction on the latest techniques on how to design, train, and deploy neural networks in applications using our accelerated computing platform.
+We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure agreements, and licensing arrangements to protect our IP in the united States and internationally. We have numerous patents issued, allowed, and pending in the united States and in foreign jurisdictions. Our patents and pending patent applications primarily relate to our products and the technology used in connection with our products. We also rely on international treaties, organizations, and foreign laws to protect our IP. We continuously assess whether and where to seek formal protection for particular innovations and technologies based on such factors as: > The location in which our products are manufactured; > Our strategic technology or product directions in different countries; > The degree to which IP laws exist and are meaningfully enforced in different jurisdictions; and > The commercial significance of our operations and our competitors' operations in particular countries and regions.
+We have licensed technology from third parties and expect to continue to enter into such license agreements.
+Our approach to innovation is further described in our FY22 10-K, pp. 4-8.
+BUSINESS MODEL. 
+NVIDIA has a platform strategy, bringing together hardware and systems, software, algorithms and libraries, and services to create unique value for the markets we serve. While the computing requirements of these end markets are diverse, we address them with a unified underlying architecture leveraging our gPus and software stacks. The programmable nature of our architecture allows us to support several multi-billion-dollar end markets with the same underlying technology by using a variety of software stacks developed either internally or by third party developers and partners.
+We specialize in markets in which our computing platforms can provide tremendous acceleration for applications. These platforms incorporate processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our platforms address four large markets where our expertise is critical: gaming, Data Center, Professional Visualization, and Automotive.
+SEMICONDUCTOR INDUSTRY’S TOP HONOR. 
+NVIDIA founder and CEO Jensen Huang was awarded the 2021 Robert N. Noyce Award by the Semiconductor Industry Association for his many achievements in advancing semiconductor technology.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT INNOVATION AND BuSINESS MODEL 26. 
+Our key strategies that shape our overall business approach include: > Advancing the NVIDIA accelerated computing platform; > Extending our technology and platform leadership in AI; > Extending our technology and platform leadership in computer graphics; > Advancing the leading autonomous vehicle platform; and > Leveraging our intellectual property.
+Our strategic and business success depends on our ability to: > Timely identify emerging industry changes, and develop new or enhance existing products, services and technologies that meet the evolving needs of these markets; > Expand the ecosystem for our products and technologies; > Accurately forecast demand in our businesses; > Meet customer safety and compliance standards, which are subject to change; > Manage product, software, and service lifecycles to maintain customer and end user satisfaction; > Develop infrastructure needed to scale our business, including related to our acquisitions, customer support, e-commerce and IP licensing capabilities; and > Complete technical, financial, compliance, sales and marketing investments for some of the above activities.
+We make considerable investments in research and development and business offerings in markets where we have a limited operating history, which may not produce meaningful revenue for several years, if at all. If we fail to develop new products, services and technologies, or if they do not become widely adopted, our business, revenue, financial condition and results of operations could be adversely affected.
+Further information on our business model, and risks related to regulations can be found in our FY22 10-K, pp. 7-10, 23-24, 53-54.
+TRADE ISSUES. 
+We conduct our business globally and have offices worldwide. Our semiconductor wafers are manufactured, assembled, tested, and packaged by third parties located outside of the united States, and we generated 84% of our revenue for fiscal year 2022 from sales outside of the united States. The global nature of our business subjects us to a number of risks and uncertainties, which could have a material adverse effect on our business, financial condition and results of operations, including: > Economic, political, and geopolitical conditions within and between countries in which we do business; > Differing legal standards with respect to protection of IP and employment practices;
+FORTUNE’S MOST ADMIRED COMPANIES. 
+NVIDIA ranked first in the semiconductor category on Fortune magazine’s list of the World’s Most Admired Companies.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT INNOVATION AND BuSINESS MODEL 27 > Complex laws, rules and regulations which could affect our operations; > Domestic and international business and cultural practices that differ; > Disruptions to capital markets and/or currency fluctuations; and > Natural disasters, acts of war or other military actions, terrorism, public health issues, and other catastrophic events.
+NVIDIA’s global Trade Compliance Team helps ensure that applicable international trade laws are followed when NVIDIA’s products are moved or sold internationally. With local presence in the u.S., APAC and EMEA, team members serve as subject matter experts on the range of global trade issues that impact our business. The team helps clear NVIDIA’s international shipments, performs restricted party screening, advises on import and export requirements, sets policies and procedures, and obtains import or export licenses when required. They also stay current on new trade regulations and interpretations in the jurisdictions where we operate and ensure NVIDIA has processes in place to comply with the new requirements.
+For an overview of risks related to global trade issues, see our FY22 10-K, pp. 17-18.
+BUSINESS CONTINUITY. 
+Business continuity management (BCM) focuses on protecting our core values. Our philosophy of BCM is to identify realistic threats and their potential impact to our core values and business operations and design a formal framework for responding.
+We achieve resilience by embedding redundancy and diversity into our response framework. A BCM steering committee of four executives is supported by several business leaders across the following functions: Corporate Communications, Cybersecurity, Facilities, Finance, global Security, Human Resources, Information Technology, and Operations. Each function has a plan to identify and address potential risks.
+These efforts are supported by robust infrastructure, systems, policies, and procedures and are designed to mitigate risk and protect the safety and trust of our employees and customers when unexpected events such as a cyberattack, business disruption, or natural disaster occur.
+BCM is critical to minimizing financial and reputational impacts. By anticipating the likelihood of severe events, we can allay these risks and ensure that the company does not experience unnecessary damages.
+PRODUCT QUALITY AND SAFETY. 
+Safety is a principle that permeates our engineering culture. We incorporate it into every step of our product development process, from design and production to the end-user experience. The safety of our customers—inclusive of our partners and consumers—is important to us as a company and as individuals. We must meet rigorous customer safety and compliance standards like uL/
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT INNOVATION AND BuSINESS MODEL 28. 
+IEC 62368 Ed3 that have a direct impact on design strategies and our ability to ship products. With these standards in mind, we’ve established product safety technical committees to oversee safety throughout the product lifecycle.
+Cross-functional teams manage all aspects of product quality. Customer Quality Engineering provides direct customer support for all quality-related issues and facilitates the gathering of customer failure information, customer-observed failure rates, and Returned Material Authorization processing. Product Quality Engineering uses the Eight Discipline methodology to direct root cause failure analysis and corrective or preventive actions. As part of the continuous improvement process, recommended design enhancements are brought to the design engineering teams for incorporation into next-generation products. Our Quality Management System is monitored through internal audits, as well as a detailed annual third-party ISO 9001 assessment. We engage with strategic suppliers through QBRs and use these reviews to influence business allocation decisions. Our goal is to exceed customer expectations.
+Functional and System Safety. 
+We are transforming the autonomous vehicle industry with technology that improves road safety, increases transportation efficiency, and opens mobility services to all. Safety is more than just a benefit of an autonomous future. It’s a principle that we incorporate into every step of our development process—from design and production to the operation of self-driving vehicles. As a solutions provider to startups, vehicle makers, suppliers, sensor makers, and mapping companies, we make safety our top priority.
+We develop tools and methods so technologies will perform reliably. Safety is built into every aspect of the NVIDIA DRIVE autonomous vehicle platform that enables automakers and tier-1 suppliers to accelerate production of autonomous vehicles. Stringent engineering processes ensure that no corners are cut. Our safety priorities and processes are outlined in our latest Self-Driving Car Safety Report.
+Our commitment to safety extends throughout data collection, training, testing, and driving solutions for autonomous vehicles, as we deliver industry-leading technologies to our partners and customers. Safe autonomous driving is built on four fundamental pillars. These tenets illustrate NVIDIA’s dedication to safety and ensure a robust self-driving technology development cycle.
+1. Artificial Intelligence Design and Implementation Platform 2. Development Infrastructure That Supports Deep Learning 3. Data Center Solution for Robust Simulation and Testing 4. Best-in-Class, Pervasive Safety Program. 
+We’re preparing for compliance with ISO 26262, an automotive-specific international functional safety standard that focuses on safety-critical components. NVIDIA has been working with TÜV SÜD, a top safety assessment company, to assess and certify NVIDIA’s processes, concept architectures, and products since FY18. Our NVIDIA Xavier SoC was assessed to meet ISO 26262 standard random hardware integrity of ASIL C and a systematic capability of ASIL D for process—the strictest for functional safety.
+ISO 21448 is another safety standard that we include in our development. Whereas ISO 26262 covers failure modes within the system, ISO 21448 is designed to address hazards caused by limitations of the design, particularly for autonomous. 
+QUALITY STANDARDS. 
+NVIDIA is ISO 9001 certified and has been issued a “letter of conformance” to the IATF 16949 automotive quality standard.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT INNOVATION AND BuSINESS MODEL 29 vehicles, such as a reduced range of object detection by cameras and lidar in foggy conditions. NVIDIA has a leadership role for both ISO 26262 and ISO 21448, providing multiple technical experts to the international body, as well as international leaders for ISO 26262 Parts 10 and 11 and ISO 21448 Annexes C and D.
+We’re also actively participating and contributing to the ongoing standardization activities related to functional safety and AI, such as ISO/PAS 8800 and ISO/IEC TR 5469.
+Building on our investment in automotive safety, we’re expanding functional and system safety toward autonomous machines in general, such as robotics, smart manufacturing, and new frontiers of healthcare. We consider and apply requirements of specific standards such as ISO 13849 and IEC 61508 incrementally in our product research, development, and engineering functions.
+PUBLIC POLICY ENGAGEMENT. 
+We engage in the public policy process to advance the long-term interests of the company and shareholders. NVIDIA government Relations is responsible for managing our public policy priorities and communication with governments worldwide. When participating in public policy discussions, NVIDIA government Relations pursues the objectives of global consistency and local relevancy and evaluates the impact of those policies on our growth and business operations.
+We don’t make contributions of any kind (money, employee time, goods or services, or employee expense reimbursements) to political parties or candidates, including any direct contributions through any intermediary organizations, such as political action committees (PACs), lobbyists, campaign funds, trade or industry associations, or super PACs. We apply this policy in all countries and across all levels of government, even where such contributions are permitted by law.
+NVIDIA educates public leaders on issues of importance to its business, customers, shareholders and employees. NVIDIA only seeks to affect government action on issues that affect our business, customers, shareholders or employees and only through specifically authorized and legally compliant lobbying activities. All NVIDIA lobbying activities require the prior approval of NVIDIA government Relations and Legal. Where required by law, NVIDIA files lobbying disclosure reports with state governments. In FY22, we made no independent expenditures related to political campaign initiatives and referenda meant to influence the outcome of ballot measures and had no reportable lobbying expenditures.
+More information about our political contributions and expenditures can be found on our website.
+AI Research and Standards. 
+In FY22, we participated in the Semiconductor Industry Association’s (SIA) development and advocacy efforts, including investment in the u.S. workforce and federal R&D programs.
+At our gTC developers conferences, we brought together global thought leaders and analysts to discuss a broad range of policy issues, such as AI legislation and creating and maintaining trust in AI development and deployment.
+AI POLICY AT GTC. 
+Congressional leaders and policy experts discussed the latest AI legislation and how AI can reach its potential, such as prioritizing research resources and publicprivate collaboration. Joining us were the co-chairs of the Congressional AI Caucus, u.S. Reps. Jerry McNerney (D-CA) and Anthony gonzalez (R-OH), and representatives from Stanford university’s Institute for Human-Centered AI, the university of Florida’s AI Initiative, and the Center for Data Innovation.
+STRATEGIES FOR NATIONAL AI RESOURCES. 
+We submitted input to the White House regarding implementation of a National AI Research Resource. We advocated for a strategy, coherent actions, and success metrics created with participation from under-represented groups and in coordination with relevant local, regional, and national programs.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT INNOVATION AND BuSINESS MODEL 30. 
+Semiconductor Design. 
+We support SIA and individual efforts to advocate for full funding of the CHIPS Act. We also support the updated FABS Act that would create a semiconductor design tax credit. As a premier u.S. semiconductor company, we work to ensure continued leadership in the development and collaborative manufacturing process of semiconductors. Along with industry colleagues, we raise awareness of the critical role semiconductor design plays in global economic resiliency, technology advances, and security.
+AI Education. 
+We regularly provide subject matter experts to educate government officials and their policy advisors on AI technology and offer insights into AI research and development. We enhance our public policy reach through engagement with leading think tanks and trusted coalitions of industry expertise, such as the Consumer Technology Association, Entertainment Software Association, and the Semiconductor Industry Association.
+Over the past year, we continued to demonstrate to policy experts how AI capabilities contribute to the delivery of more reliable health care in the COVID-19 pandemic as a member of the COVID-19 High Performance Computing Consortium, a collaboration with the White House Office of Science and Technology Policy, the u.S. Department of Energy, several technology companies, and national labs. The effort has driven progress in understanding COVID-19 and creating treatments and vaccines.
+AI Nations. 
+AI Nations is a strategic initiative to collaborate with governments to advance their national AI journey and to address priority policy areas such as climate action, workforce development, resilient housing, public health preparedness, and urban AI innovation. Through a non-binding partnership agreement, we help nations, cities, and communities gain access to NVIDIA’s full capabilities and maximize the impact of NVIDIA’s AI platform. These efforts include conducting joint AI research, supporting local AI startups, and providing professional training and certifications.
+AI Nations partnerships are built on a common framework but tailored to our partners’ unique public policy priorities. In a recent agreement signed with Australia’s national science and industrial research organization, CSIRO, areas of collaboration include harnessing NVIDIA’s AI platform to accelerate progress in quantum computing, digital twins, combating the dangers of bushfires and floods, genomic medicine, and AI upskilling.
+We helped form a public-private consortium in Southern California with the CEO Leadership Alliance of Orange County and Chapman university. In FY22, we contributed an 8-petaflops NVIDIA DgX-2 POD to the consortium. It is the first-ever community-governed AI supercomputer in the world and uniquely dedicated to local AI talent development, with a priority focus on historically underserved communities.
+GLOBAL AI LEADERSHIP. 
+At gTC in November 2021, we hosted a fireside chat with Mark Andrijanič from Slovenia’s Ministry of Digitalization to discuss how countries need to invest in AI, including infrastructure and data scientists.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT INNOVATION AND BuSINESS MODEL 31. 
+CUSTOMER RELATIONS. 
+We have a variety of customers, from large businesses to individual consumers. With so many needs to meet, we view our commitment to positive customer relations in terms of the role we play as a responsible supplier, our commitment to our reseller partners and their customers, and to our direct customers.
+Customer Support. 
+We offer support to our customers through a comprehensive support site and several NVIDIA-hosted product forums and communities. Our customer service team tracks interactions with consumers as they occur and shares biweekly satisfaction reports internally. We measure customer satisfaction in several ways, including customer satisfaction rate, percentage of support incidents filed, closed incident survey response rate, and referral rate. We use these metrics to help create experiences that satisfy and delight our customers.
+Our support organization aims to dramatically reduce the time it takes for our software team to incorporate customer feedback, enabling technicians to respond quickly and increase customer satisfaction. We also use data gathered from our customer forums to give our research and development organizations feedback about what’s working and what improvements our customers want.
+In addition to the functions listed above, we provide support through account management, solutions architects, and developer relations, training, and conferences.
+Customer Requests. 
+Our customers include some of the world’s largest electronics, consumer brand, and automotive companies. Consequently, we’ve integrated the standards outlined in the Responsible Business Alliance (RBA) Code of Conduct covering labor, environment, health and safety, ethics, and management systems throughout our global operations. We use these standards as our management approach for our supply chain.
+Our customer support organization is on the front line of communications with our partners, working with their engineering teams as they test NVIDIA products in their systems and devices. Inquiries from our original equipment manufacturer partners have increased in line with our focus on supplier responsibility and environmental sustainability. Requests for information relate to business continuity, conflict minerals, environmental compliance, product quality, safety compliance, cybersecurity, consumer satisfaction, and ethics.
+To manage these inquiries and requests, we employ quarterly business reviews with key customers, and partner with them on various initiatives through the RBA. Some customers assign points on their scorecards for environmental, social, and governance performance. Customers who are RBA members monitor our performance through tools provided by that organization, such as the RBAOnline platform, RBA self-assessment questionnaires, the Validated Assessment Program, and tracking tools for carbon, water, and waste. We also participate in the RBA environmental sustainability workgroup and complete the online environmental survey on carbon, water, and waste.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT INNOVATION AND BuSINESS MODEL 32. 
+In addition to the RBA Environmental Survey, we participate in the CDP climate change and water surveys each year. Participants are scored based on their understanding and management of their business risks, opportunities, and impacts related to climate change and water resources.
+FULL MATERIAL DISCLOSURE. 
+We maintain Full Material Disclosures (FMD) for our chip designs and select system products. NVIDIA is required to report material information through various platforms, including Substances of Concern in Products and International Material Data System for automotive. We have expanded our FMD program to include more products in FY22.
+ELECTRONIC PRODUCT ENVIRONMENTAL ASSESSMENT TOOL. 
+The Electronic Product Environmental Assessment Tool (EPEAT) program independently verifies the environmental impact of electronic products and is used by thousands of private and public institutional purchasers around the world to make sustainable IT procurement decisions. All NVIDIA chips and graphic cards support EPEAT conformance, and we provide information to customers seeking to register their products with the program.
+
+
+CYBERSECuRITY AND DATA PRIVACY 33 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT. 
+Our information security practices comprise the measures we design to protect networks, computers, programs, and data from unauthorized access or attack, as well as measures designed to protect NVIDIA’s products and the privacy of our customers’ and employees’ data. As we monitor security attacks against us and others and become aware of more frequent high-profile security breaches, we remain committed to implementing vigorous protections for any personal information we collect.
+Our efforts are managed by a global team of cybersecurity, IT, engineering, operations, and legal experts. A cybersecurity committee, driven by executivelevel leaders, meets monthly to review metrics and evaluate emerging threats. To ensure a robust breadth of knowledge, the team consults with external parties, such as computer security firms and risk management and governance experts.
+We follow the processes to ensure information security management outlined in frameworks such as the ISO 27001 for Information Security Standards. We address cybersecurity scenarios in our resilience planning, document them through business continuity plans, and test the reliability of our products and our ability to respond to threats through attack simulations. Against the backdrop of frequent changes and fresh insights, we continually evaluate and evolve our security measures. In the event of a cybersecurity issue, we’ve prescribed a set of actions for teams to initiate that will help us to determine the type and rigorousness of our response.
+Information security/cybersecurity awareness training is available on demand to all employees, and we hold regular live trainings. Our IT team has implemented extensive training internally on the risks of phishing scam emails. This includes sending simulated “attack” emails to all employees to test their awareness. The team provides further training for departments that have the least adequate responses.
+WHAT IT COVERS: > Technologies, processes, and practices designed to protect networks, computers, programs, and data from cyberattack > Cybersecurity safeguards built into product design, implementation, and production > Protection of customer, employee, and company data > Compliance with cybersecurity and data protection laws 06 CYBERSECuRITY AND DATA PRIVACY
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT CYBERSECuRITY AND DATA PRIVACY 34. 
+The cybersecurity committee presents annually to NVIDIA’s Board of Directors and provides updates throughout the year. The team updates the Audit Committee upon request.
+Data Privacy. 
+We continuously hone our cybersecurity and data privacy trainings and policies to respond to new requirements in global privacy laws. Our relationship with our colleagues, customers, and business partners is based upon mutual trust. We’re committed to maintaining this trust by protecting the information we hold from inappropriate use, unauthorized access, loss, and accidental destruction.
+NVIDIA is governed by the following privacy policies, consistent with the Eu’s general Data Protection Regulation (gDPR) principles and applied globally: > Our customer-facing NVIDIA Privacy Policy, which incorporates both a Cookie Policy and a privacy policy aimed to protect children; > A collection of internal, corporate data privacy policies, focused on retention, destruction, and encryption of data; > An Employee Privacy Policy and a Job Candidate Privacy Policy. 
+Product Security. 
+NVIDIA takes security concerns seriously and works to evaluate and address them quickly. As soon as a security concern is reported, we commit all relevant resources to analyze, validate, and, if needed, provide corrective actions to address the issue. NVIDIA Security Bulletins and Notices are published on our website.
+The NVIDIA Product Security Incident Response Team (PSIRT) is a global team that manages the receipt, investigation, internal coordination, remediation, and disclosure of security vulnerability information related to NVIDIA products and services. PSIRT’s goal is to minimize the risk to customers associated with security vulnerabilities by providing timely information, guidance, and remediation of vulnerabilities in our products and services. The PSIRT team integrates elements of the NIST Cybersecurity Framework and controls into its security program. We participate in the global Forum of Incident Response and Security Teams (FIRST.org), contribute to FIRST.org Special Interest groups (SIgs) to make improvements to PSIRT processes, and share process knowledge with others so they may implement this type of notification and security work within their own organizations.
+We also participate in MITRE’s Cybersecurity and Vulnerability Exposure Number Authority Coordination Working group and partner with third-party research institutions and corporate peers to extend the MITRE ATT&CK framework for AI to advance the industry’s security and its response to new and upcoming threats.
+FIRST.ORG ACTIVITIES. 
+NVIDIA’s Shawn Richardson sits on the Board of Directors of the Forum of Incident Response and Security Teams for the 2020-2022 term. Her oversight responsibilities include diversity and inclusion initiatives and Liaison for SIgs to collaborate, share ideas, and occasionally produce training, standards, frameworks, and documentation.
+
+
+SuPPLY CHAIN MANAgEMENT 35 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT. 
+We hold ourselves and our suppliers to the highest standards of behavior, and only engage suppliers that share our values. We closely manage our supply chain to deliver innovative products that satisfy our customers’ expectations in a socially and environmentally conscious manner.
+Environmental and Social Management. 
+We have been Responsible Business Alliance (RBA) members since 2007 and in 2018 were accepted as Full Member. From the beginning, we adopted the RBA Code of Conduct and integrated its elements into our processes, including auditing strategic suppliers and conducting internal assessments to confirm that we are addressing all aspects of responsible supply chain management.
+We do not directly manufacture the semiconductor wafers or printed circuit boards used in our products, nor do we manufacture our branded devices. Instead, we partner with world-class suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. We also contract with manufacturers to build, test, and distribute our branded devices.
+We utilize industry-leading suppliers, such as Taiwan Semiconductor Manufacturing Company Limited (TSMC) and Samsung Electronics Co. Ltd, to produce our semiconductor wafers. Our two main contract manufacturers for company- or partner-branded devices are BYD Auto Co. Ltd. and Hon Hai Precision Industry Co. (Foxconn). TSMC, Samsung, and Foxconn are RBA members.
+WHAT IT COVERS: > Policies and practices governing supplier management, environmental and social impacts, and responsible sourcing of materials in the supply chain > Participation in industry organizations and engagement with suppliers > Supplier audits to ensure compliance with standards and requirements > Protection of human rights throughout the supply chain 07 SuPPLY CHAIN MANAgEMENT
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT SuPPLY CHAIN MANAgEMENT 36. 
+All our manufacturing suppliers are required to comply with the RBA Code of Conduct and associated NVIDIA policies, including an Agreement for Manufacturer Environmental Compliance. We also encourage them to use the RBA Code as a platform to go above and beyond compliance.
+Our assessment process involves using the RBA online system to evaluate existing and potential new suppliers against product compliance industry standards, social and environmental criteria, use of conflict minerals, the RBA Code, and NVIDIA’s code of conduct. We use the results of our assessment process, along with a spending analysis, to rank suppliers to determine their overall risk.
+Strategic suppliers include those who produce or handle NVIDIA production materials, those for whom we closely manage quality requirements (non-critical suppliers), those who design our branded products, and those who we’re required to work with based on customer agreements. For strategic suppliers, agreements are deployed and tracked through a quarterly business review (QBR) process to make certain that they uphold our requirements. QBR performance influences our business allocation decisions. Each quarter, we review overall supplier assessment by product category and rank performance. Five of 100 QBR points are allocated to environmental or social performance, and requirements vary by quarter. Suppliers are required to meet industry compliance requirements as well as NVIDIA requirements. We’ve assessed and adjusted business with suppliers who don’t comply with minimum requirements.
+In FY20, we reviewed all strategic suppliers against NVIDIA cybersecurity requirements, and in FY21, we performed a more in-depth assessment of higher-risk suppliers. We looked at our suppliers’ conformance to ISO 27001, ISO 28001, and C-TPAT standards, and evaluated them for additional information, product, and physical security requirements. Depending on the results of the assessment, we require additional evidence of conformance or an improvement plan if gaps are discovered.
+We began using Bitsight in FY22 to provide continuous monitoring of cybersecurity risks in our supply chain. Suppliers are reviewed on a variety of topics and receive a low-, moderate-, or high-risk rating, which we then use to implement improvements. Moving forward, we plan to continue periodic assessments and continuous monitoring.
+Supply Chain Performance. 
+FY22 RBA MEMBER COMPLIANCE. 
+COMPLIANCE ELEMENT NVIDIA’S REQUIREMENT NVIDIA PERFORMANCE. 
+Risk assessment on all strategic suppliers 100% 100% of suppliers are assessed on geography and type of industry.
+Self-assessment questionnaires (SAQs) completed by suppliers in the top 80% of NVIDIA spending 100% 100% of suppliers conduct an SAQ.
+NVIDIA’s SAQ review determined that there were no suppliers rated as high risk in our top spending area.
+COMPLIANCE ELEMENT NVIDIA’S REQUIREMENT NVIDIA PERFORMANCE. 
+SUPPLIER COMPLIANCE. 
+NVIDIA communicates environmental and social expectations in the Agreement for Manufacturer Environmental Compliance, including: > RBA’s Code of Conduct > global RoHS > Eu REACH > Eu End of Life Vehicles > JS709C & IEC61249-2-21 > ISO 14001:2015 > ISO 27001:2013 > ISO 45001:2018
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT SuPPLY CHAIN MANAgEMENT 37. 
+Validated assessment program (VAP) audits among 25% of high-risk suppliers 0 (due to lack of high-risk suppliers from SAQ)
+We acknowledge that suppliers may be moderate- or high-risk even if their SAQ score comes back as low risk. To mitigate this, we exceed the RBA’s requirement and audit suppliers to validate their risk.
+We require VAP audits to validate supplier SAQs. This process revealed one strategic supplier as high risk. We work with high- and moderate-risk suppliers to review their CAPs and complete a Closure Audit when necessary.
+We reviewed VAP audits in FY22 on 70% of our strategic suppliers, bringing total audits in the past two years to 93%.
+We reviewed an additional 25 VAP audits from suppliers we paid more than $1 million in FY22.
+Corrective action plans (CAPs) 0 (due to lack of high-risk suppliers per RBA requirements)
+We continue to go above and beyond RBA member requirements by engaging 20 suppliers on their CAPs from the FY22 auditing season. Common findings include issues related to occupational safety, emergency preparedness, working hours, freely chosen employment, and wages and benefits.
+We continue monitoring to ensure that suppliers demonstrate effective processes to ensure compliance. Specific actions on non-compliance issues vary depending on the type of finding and supplier.
+FY22 RBA CODE OF CONDUCT PERFORMANCE. 
+We require compliance to all elements of the RBA code and work with suppliers to close all CAPs.
+RBA CODE ELEMENT NVIDIA AS SUPPLIER NVIDIA AS CUSTOMER. 
+Labor NVIDIA’s Code of Conduct contains requirements around human rights.
+We are in alignment with the uN guiding Principles on Business and Human Rights, the ILO Declaration on Fundamental Principles and Rights at Work, and the uN universal Declaration of Human Rights.
+Relevant NVIDIA employees took several RBA Learning Academy courses.
+We participated in the RBA’s Responsible Labor Initiative.
+We tracked supplier working hours through VAP, CAPs, or RBA working hours templates.
+We worked with suppliers to ensure their compliance with the principles of zero hiring fees and freely chosen employment. When violations are discovered, we require suppliers to return hiring fees to workers.
+We assigned Learning Academy courses to 11 suppliers: Hours of Work, Working Hours Recording System, Working Hours Management System, The Hiring Process, Recruitment and Selection, Hiring and Working with Migrant Workers, Wages and Benefits, Creating Motivating Wage Systems, and Improving Your Dormitories.
+Health and Safety We updated environmental, health, safety, and energy policies.
+We assigned Learning Academy courses to 11 suppliers: Effective H&S Systems, Fire Safety, and Managing Air Emissions.
+RBA CODE ELEMENT NVIDIA AS SUPPLIER NVIDIA AS CUSTOMER
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT SuPPLY CHAIN MANAgEMENT 38. 
+Ethics We continued membership in the Responsible Minerals Initiative and participated in its work groups on duediligence data collection and smelter engagement.
+See Responsible Sourcing for information about our efforts to source conflict-free minerals.
+We assigned Learning Academy courses to 11 suppliers: Supply Chain Ethics, Recognizing Forced Labor, and Preventing Forced Labor.
+Environmental We participated in the CDP Supply Chain program.
+We completed the RBA online environmental survey on carbon, water, and waste.
+We participated in the RBA environmental sustainability work group.
+We reviewed suppliers’ environmental improvement plans for ISO 14001 alignment.
+We assigned Learning Academy courses to 11 suppliers: Environmental Protection, Managing Energy and gHg Emissions, Water and Wastewater Management, Resolving Wastewater Treatment Issues, and Managing Waste.
+Management Systems. 
+We participated in a VAP work group.
+We continued RBA Full membership.
+We conducted quarterly business reviews of suppliers.
+We assessed compliance with the updated RBA Code with respect to labor fees and freedom of association.
+We assigned Learning Academy courses to 11 suppliers: understanding Supply Chain Responsibility, Industry Standards, Responsible Supply Chain Management (for Factory Management), Supply Chain CSR Monitoring, and using KPIs.
+HUMAN RIGHTS IN OUR SUPPLY CHAIN. 
+We define human rights as the fundamental rights, freedoms and standards of treatment belonging to all humans. We seek to promote human rights throughout our supply chain. We expect our suppliers to respect human rights whenever they provide products or services for us.
+We expect our suppliers to maintain progressive employment, environmental, health, safety and ethical practices that meet or exceed applicable laws, the RBA Code of Conduct, our CSR Directive, our Code of Conduct and our Human Rights Policy. We also encourage suppliers to use the RBA Code as a platform to go above and beyond compliance. We monitor our supply chain through the RBA’s Validated Assessment Program and work directly with suppliers to implement any corrective actions.
+We seek to use in our products gold, tantalum, tungsten, and tin from conflictfree sources, as explained in more detail in Responsible Sourcing and our Responsible Minerals Policy.
+COVID-19 IMPACTS. 
+In our supply chain, we protect worker rights while promoting business continuity. As members of the RBA, we follow the RBA process to better understand the impact of COVID-19 on our supply chain. We’ve continued to monitor the impact of COVID-19 on our supply chain and on workers’ hours and wages through questionnaires and audit results.
+ELIMINATING FORCED LABOR. 
+We take the issue of forced labor very seriously and conduct regular audits to ensure all workers in our supply chain are treated with respect and dignity. Our supplier audits have never identified incidents of forced uyghur labor, but we recognize that the risk exists. To help eliminate forced labor from global supply chains, we are full members of and work with industry groups like the RBA.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT SuPPLY CHAIN MANAgEMENT 39. 
+As a result of the workplace disruption, we’ve seen an increase in working hours these last two years and are supporting our suppliers through this process. The RBA and NVIDIA allow for certain exemptions to working hours requirements in the case of emergency or other unusual situations, and we have identified the virus outbreak, and subsequent government shutdown of activities across the globe, as such.
+Strategic suppliers have communicated any reporting or auditing delays, including VAP audits and International Organization for Standardization (ISO) renewal audits. We continue to work with them and are applying guidance in accordance with the RBA, while remaining in conformance with its code of conduct. The RBA has also launched a Remote VAP audit option for qualifying facilities, and we utilize that where possible and applicable to keep our suppliers on their normal audit cycle.
+Responsible Sourcing. 
+We support, contribute to, and rely on industry-wide efforts to validate the source of minerals used in our products, ensuring that they come from socially responsible sources and do not contribute to human conflict. Our goal is to use only conflict-free gold, tantalum, tungsten, and tin (3Tg) in our products, and to achieve 100% Responsible Minerals Assurance Process compliant tantalum, tin, tungsten, and gold processing facilities (approximately 90%). We share an annual update in our Conflict Minerals Report, which can be found on our website. We’ve successfully removed non-compliant 3Tg smelters and refiners in our supply chain to help us meet this goal.
+We’re a member of the Public Private Alliance (PPA) for Responsible Minerals Trade and the RBA’s Responsible Minerals Initiative (RMI). The PPA provides funding and coordination support to organizations working within the Democratic Republic of Congo and adjacent countries to develop verifiable conflict-free supply chains, align due diligence programs and practices, encourage responsible sourcing from the region, promote transparency, and bolster in-region civil society and governmental capacity. We support these on-the-ground programs aimed at improving transparency for responsible sourcing and reducing human rights risks, including forced labor. Our due diligence program regarding conflict materials conforms in all material respects with the framework recommended by the Organization for Economic Cooperation and Development (OECD).
+Our Responsible Minerals Policy, sourcing goals, and the steps we take to monitor our supply chain for conflict minerals is framed around the OECD Due Diligence guidance for Responsible Supply Chains of Minerals from ConflictAffected and High-Risk Areas. This guidance provides detailed recommendations to help companies respect human rights and avoid contributing to conflict through their mineral purchasing decisions and practices. Our due diligence program regarding conflict materials conforms in all material respects with the framework recommended by the OECD.
+We continue to evaluate smelter metrics for annual SEC conflict minerals reporting requirements, and we remove or deactivate suppliers that are noncompliant with product and conflict mineral requirements. During the reporting period, 100% of our suppliers and component manufacturers responded with the requested information.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT SuPPLY CHAIN MANAgEMENT 40. 
+Additionally, we participate in various RMI work groups and align our program with the organization’s tracking of additional minerals and materials and with geographic areas of high concern. We monitor additional legal requirements, including the Eu Conflict Minerals Regulations, to determine any future requirements for conflict materials and high-risk regions of the world.
+In FY20, as the RMI program matured, we began to investigate cobalt in our supply chain. In FY22 we sent surveys to 100% of our strategic suppliers to collect cobalt smelter data. We’ve reported the initial results to customers, as requested. The cobalt program through the RMI is still new and most cobalt refiners in the world have yet to be identified and audited. As the program matures, our goal is to only source from conflict-free cobalt refiners. Additionally, at the end of 2022, the RMI published the Extended Minerals Reporting Template (EMRT) to be used for non3Tg minerals like cobalt. Mica was added to the scope of the EMRT, and we plan to survey our supply chain for both cobalt and mica in 2022.
+Supplier Diversity. 
+Our perspective on the importance of diversity extends beyond our own employees and recruits to our indirect supply chain. We’ve taken steps to better understand the diversity of our vendors in the united States and are working to educate those who make purchasing decisions to include minority-owned businesses in the vendor selection process.
+
+
+SOCIETAL IMPACTS OF AI 41 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT. 
+AI represents the most profound technological shift in our era, touching virtually every industry, including robotics, cybersecurity, finance, healthcare, transportation, retail, and customer service. NVIDIA accelerates this revolution by creating advanced computing tools that serve as open platforms for developers, researchers, and data scientists to innovate in these areas.
+The responsibilities associated with designing technologies that enable a better world are deeply rooted in our values. Our commitment to developing trusted AI that is rooted in the principles of upholding human rights is outlined below, along with an overview of how we enable a pipeline of future talent to have a rewarding career in AI and see the potential they have in using AI to solve some of society’s most challenging problems.
+TRUSTWORTHY AI. 
+We're committed to the advancement of Trustworthy AI (TAI), founded in principles that reflect our core values and the fundamentals in our Code of Conduct. Recognizing that technology can have a profound impact on people and the world, we’ve set priorities that are rooted in fostering positive change and enabling trust and transparency in AI development.
+To realize re-usable and interchangeable high-quality, trustworthy AI components, we are developing practices and methodologies enabling construction of “trustworthy by design” AI products. Practices and methodologies span collection and use of datasets, machine learning tools and processes, AI model development, and software development and testing.
+WHAT IT COVERS: > Responsible development and use of AI > Participation in efforts related to. 
+Trustworthy AI across NVIDIA and externally > Governance and oversight of AI’s impact on society > Expansion of access to STEM and. 
+AI education 08 SOCIETAL IMPACTS OF AI
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT SOCIETAL IMPACTS OF AI 42. 
+Scope and Governance. 
+The scope of our global TAI program is focused on the elements involved in developing and deploying an AI model or system and involves integrating methodologies from our product life cycle development process into machine learning models, datasets, SDKs, and frameworks authored by NVIDIA. We train developers, engineers, and researchers, and host sessions on TAI practices for business and civic leaders at our developer conferences.
+We have established internal principles, influenced by our corporate values and leveraging global frameworks (such as the Eu’s High-Level Expert group on Artificial Intelligence and Singapore’s Model Artificial Intelligence governance Framework), into every stage of developing and deploying an AI model or system – from concept to performance validation to decommission. We participate in industry-specific working groups, as well as standards bodies such as the IEEE Organizational governance of Artificial Intelligence Working group.
+Our TAI efforts are led by a head of Trustworthy AI and supported by a crossfunctional committee and teams aligned with each of our principles. These teams are responsible for integrating “trustworthiness by design” into our existing product development processes and for building tools and systems to assess product performance. Our global public policy team monitors global regulations and relevant standards to ensure we maintain compliance.
+See Upholding Human Rights for how we evaluate risk to vulnerable populations and conduct due diligence on customer use of our AI products.
+Model Risk Management. 
+NVIDIA aims to reduce the risk of harm from deployment of AI models or systems. Model risk can come from many sources including, but not limited to: datasets used to train the model, malicious attacks against the model, or failure to comply with laws and regulations.
+Our model risk management guidance outlines to all employees working on models the elements of development, validation, audit, and documentation, specifically: > Translates our principles into actionable product life cycle requirements which will be integrated into our larger Product Lifecycle process; > Outlines the key steps to identify, measure, manage, and mitigate potential risks associated with our AI and machine learning models and systems; and > Is aligned with and incorporates the Company’s privacy guidance as a pragmatic approach to compliance.
+This approach provides internal development teams with guidance to achieve an innovative, yet ethically responsible solution.
+We’ve designed several tools for internal developers to aid in the creation of trustworthy AI models:
+WHAT GOES INTO BUILDING TRUSTWORTHY TECHNOLOGY?
+Read a conversation between NVIDIA’s Nikki Pope, senior director for AI and legal ethics, and Beena Ammanath, Deloitte LLP’s Trustworthy and Ethical Technology leader, on the challenges around creating trustworthy AI.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT SOCIETAL IMPACTS OF AI 43 > An inspection dashboard where the company's commercial models are registered, which measures a model’s completion of essential steps prior to publication and includes a current performance score and a target goal; > Model requirements and dataset approval process, that models must meet prior to commercial release; > AI and machine learning dataset classification guidance document to support classifying and labeling of vetted datasets; and > Model cards that accompany our published models and provide information and guidance on a model’s uses and limitations.
+Anti-Bias. 
+We encourage developers to consider potential algorithmic bias when choosing or creating models, and to ensure they are using models under the conditions and in the manner intended. We assess the datasets used to train and validate commercially released models for unwanted bias. We emphasize the importance of supporting positive uses of AI while considering issues inherent in its development.
+UPHOLDING HUMAN RIGHTS. 
+We believe AI will enhance human welfare and human rights in a myriad of ways. NVIDIA is accelerating this revolution by creating platforms and computing tools that help developers, researchers, and data scientists innovate in these areas.
+Our products are programmable and general purpose in nature. When we provide tools to help developers create applications for specific industries, we focus on creating products and services that enable developers to create and accelerate socially beneficial applications that will promote human welfare everywhere.
+The NCgC has oversight over policies and practices in connection with human rights. The NCgC undertakes all actions it deems reasonable and necessary to ensure compliance with our Human Rights Policy, conducting regular consultation with a cross-functional business, legal, and technical team within NVIDIA, including senior-level management, and seeking input from third-party stakeholders and experts. The NCgC provides regular updates to the entire Board of Directors regarding human rights impacts and compliance.
+We are committed to facilitating access to effective justice and remedy. Anyone, including employees, suppliers and other external stakeholders, can confidentially and anonymously report a concern about human rights using a corporate hotline that is hosted by an independent third party.
+under the direction of the NCgC, our Compliance Committee will promptly investigate human rights allegations and pursue actions to mitigate and remediate any adverse human rights impacts. We do not tolerate retaliation against anyone for making a complaint in good faith, bringing a potential violation to the attention of management, or participating or assisting in an investigation.
+HUMAN RIGHTS PRINCIPLES. 
+We follow the laws of the countries in which we operate, and endorse internationally recognized principles, including: > United Nations Global Compact > United Nations Guiding Principles > Universal Declaration of Human. 
+Rights > International Covenant on Civil and. 
+Political Rights > International Covenant on. 
+Economic, Social and Cultural Rights > Core Conventions of the. 
+International Labour Organization > ILO Declaration on Fundamental. 
+Principles and Rights at Work
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT SOCIETAL IMPACTS OF AI 44. 
+BUILDING A DIVERSE AI TALENT PIPELINE. 
+Improving the representation of women and other underrepresented communities in technology requires a long-term perspective, so we support opportunities that provide youth access to STEM and AI education. These efforts are designed to inspire students through our technology, engage them directly with NVIDIA engineers, and encourage innovation through hands-on activities.
+In FY22, we announced a three-year partnership with the Boys & girls Clubs of Western Pennsylvania to expand access to AI and robotics education to students in traditionally underrepresented communities. Core to this effort is the development of the AI Pathways Toolkit, an open-source curriculum supported by staff tools and training, which will make it easy for Boys & girls Clubs nationwide and other education-focused organizations to deliver AI curriculum to their students.
+We helped fund the AI Education Project, which provides evidence-based, culturally relevant AI curricular resources and educator training to schools and other education partners. This investment will help it scale the impact of its introductory AI curriculum to 10,000 more K-12, community college, and HBCu students across the united States. And we supported the Teens in AI Ada Lovelace Hackathon, which brings together young people, particularly young women, across the world to learn about AI and develop the skills needed to drive innovation. Participants had the opportunity to hear from NVIDIA employees, who served as mentors and judges, and to get access to NVIDIA Deep Learning Institute credits for more advanced hands-on training.
+We promoted opportunities for NVIDIANs to serve as virtual mentors for longtime partner Technovation’s global competition for girls to use technology to solve problems in their community. And NVIDIANs volunteered as tutors in areas such as math and science with nonprofit uPchieve. Other virtual volunteer activities included a department team-building event with Suitup, during which employees served as coaches for an AI-focused student business competition and a community event with NVIDIA’s Hispanic Latino Network (HLN) community resource group to create STEAM kits for children in foster care.
+Additionally, we supported organizations like Black girls Code, girls Who Code, great Minds in STEM, and Techbridge girls through our matching gifts program and a fundraiser organized by HLN.
+Ecosystem Inclusivity and Representation. 
+We are committed to diversity, inclusion, and representation of developers in our ecosystem.
+We aim to expand the pipeline of university and professional AI developers by engaging various communities traditionally underrepresented in technology via partnerships to effect workforce development, training, and mentorship opportunities. Our partners include professional organizations Women in Data, Women-ai, and Black Women in AI.
+We continuously engage computer science departments at Historically Black Colleges and universities and Hispanic-Serving Institutions across the united States, providing complimentary passes for our conferences and trainings from our Deep Learning Institute, as well as curriculum and technology resources.
+DIVERSITY IN AI. 
+CEO Jensen Huang gave the closing keynote at AI4ALL’s event on bringing diversity to AI and the industries using AI to make lifechanging decisions.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT SOCIETAL IMPACTS OF AI 45. 
+Our FY22 efforts reached Florida A&M, Howard university, Jackson State, North Carolina A&T, Prairie View A&M, San Jose State, university of Illinois Chicago, and San Mateo Community College District.
+Our NVIDIA gTC events are an opportunity to extend our inclusion efforts to partners, institutions, and developers. Due to the ongoing COVID-19 pandemic, we hosted gTC online, enabling access by even more developers.
+In FY22, we hosted sessions at gTC on diversity and inclusion in AI, including a conversation about initiatives to help young people understand AI and a panel on the value that underrepresented groups can provide.
+Developers in Emerging Markets. 
+With over 3 million developers in the NVIDIA ecosystem, we aim to strengthen developer representation from emerging markets through our Emerging Chapters program. At the heart of this program, we support local developers and technology communities in emerging markets to build and scale their AI/ML, data science, and graphics projects. It also trains students and developers in industry readiness technical skills and continues to nurture them. Through this effort, we are helping to mend what’s called the technology fracture—the gap between developers in the global North and those in emerging markets.
+Members of Emerging Chapters have access to training and development opportunities through the NVIDIA Deep Learning Institute (DLI). This includes free passes for self- or instructor-led courses on AI, graphics, video analytics, and data science. upon course completion, developers can receive a certificate to highlight their new skills and help advance their careers. Africa alone has seen a doubling in DLI trainings.
+To bridge the compute divide and fuel local innovation, we continue to enable more Emerging Chapter community members and research universities with gPu grants. In FY22, more than 30 African developer community groups—including seven founded by women—joined Emerging Chapters. Our goal is for the program to continue to build in Africa and expand to Latin America, the Middle East, Turkey, South Asia, and other emerging markets.
+AI FOR THE WORLD. 
+At our gTC Fall conference, we reached over 40,000 developers in Africa, Latin America, and the Middle East. Emerging Chapters members spoke to a global audience on topics such as how to bridge the AI education gap, using AI to build innovations that address local challenges, and the AI revolution.
+
+
+ENVIRONMENTAL INITIATIVES AND PARTNERSHIPS 46 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT. 
+Improving performance and energy efficiency is a principal goal in each step of our research, development, and design processes. We aim to make every new generation of gPus faster and more energy efficient than its predecessor.
+And our technology is driving some of the most important advances for modeling our climate, reducing carbon emissions, and designing mitigation and adaptation strategies in a changing world.
+ARCHITECTURE ENERGY EFFICIENCY. 
+AI is revolutionizing scientific computing, and our platform enables modern data centers to accelerate increasingly common deep learning, machine learning, and high-performance computing (HPC) workloads. gPu-accelerated computing moves compute-intensive sections of the applications to the gPu while remaining sections execute in the CPu. As a result, sequential calculations are performed in the CPu while the more complicated matrix calculations are computed in parallel in the gPu, consuming less power than the equivalent, traditional computational forms relying on CPus.
+We aim to make every generation of gPus faster and more energy efficient than its predecessor. NVIDIA Ampere architecture is up to 20x faster for AI training and inference and up to 7.5x more energy efficient than its previous generation.
+WHAT IT COVERS: > Energy efficiency considerations built into product design > Energy efficiency and performance improvements of each new generation of products > Software and networking to optimize energy efficiency and performance > Applications of NVIDIA technology for climate change mitigation and adaptation 09 ENVIRONMENTAL INITIATIVES AND PARTNERSHIPS
+
+
+Table Of Contents ENVIRONMENTAL INITIATIVES AND PARTNERSHIPS 47 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT. 
+Our Hopper gPu architecture, announced in March 2022, is up to 30x faster for AI inference and up to 3.5x more energy efficient than NVIDIA Ampere architecture, which it succeeds.
+AI Performance and Efficiency. 
+We put trained models to work in live applications run by millions of hyperscale servers worldwide. Our TensorRT inference software helps even the largest neural networks run across a broad range of data center, embedded, and automotive applications in real time.
+The MLPerf consortium provides an industry benchmark for AI performance and energy efficiency on scientific applications in HPC. In its debut, our Orin systemon-chip based on NVIDIA Ampere architecture set new records in AI inference and led in five of six performance tests. Along with our partners, we continue to show leading performance across all tests and scenarios in the MLPerf inference round.
+Energy efficiency is critical as AI models and HPC applications increase exponentially in size. By moving to new-generation gPus, our customers complete their work with lower energy consumption and get results back more quickly.
+Individual gPus typically have a higher peak active power consumption than CPus, but also complete workloads dramatically faster, so they return to low power idle states quickly and thus consume far less overall energy. NVIDIA gPus are typically 20x more energy efficient for AI and HPC workloads than CPus. If we switched all the CPu-only servers running AI and HPC worldwide to gPuaccelerated systems, the world could save nearly 12 trillion watt-hours of energy a year, equivalent to the electricity requirements of nearly 1.7 million u.S. homes.
+Supercomputer Efficiency. 
+Processing capabilities have grown exponentially in the past decade - fueled largely by supercomputers, data centers and cloud computing. With the fully developed end-to-end hardware and software stack, the NVIDIA accelerated computing platform is the engine of the modern data center.
+NVIDIA powers 23 of the top 30 supercomputers on the June 2022 green500 list. A hyperscale data center with NVIDIA gPus takes up 1/47th of the rack space of the CPu-based systems that it replaces and runs at 93% lower energy cost for AI models.
+We develop hardware, software, and networking technology to improve performance and energy efficiency in the data center. We provide customers insight into server level power efficiency to enable users to run workloads with an optimal balance of performance and power efficiency.
+SOFTWARE OPTIMIZATIONS. 
+Software can significantly improve energy efficiency of AI workloads. We’re continuously optimizing our CUDA-X libraries and GPU-accelerated applications, so it’s not unusual for users to see an x-factor performance gain on the same gPu architecture. AI workloads on NVIDIA Ampere architecture improved by 2.5x over the past two years.
+12 TRILLION. 
+The world could save nearly 12 trillion watt-hours of energy a year by switching CPu-only servers to gPu-accelerated servers for AI and HPC.
+
+
+Table Of Contents ENVIRONMENTAL INITIATIVES AND PARTNERSHIPS 48 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT. 
+We offer the latest versions of AI and HPC software from the NVIDIA gPu Cloud (NgC) to help users run applications at higher performance on their supercomputer, in the data center, or in the cloud. We estimate energy savings of 20% on NgC workloads because of users implementing performance suggestions from tools like Pytorch Performance Linter, which optimize models and inputoutput pipelines.
+NETWORKING BOOSTS. 
+As supercomputers take on more workloads across data analytics, AI, simulation and visualization, CPus are stretched to support a growing number of communication tasks needed to operate large and complex systems. Data processing units (DPUs), which move data around the data center, alleviate 30% or more of this stress by offloading some of these processes from the CPu. Certain workloads achieve more than 50x performance improvement, allowing fewer servers to be deployed and reducing power of a modest datacenter by 4MW. The zero-trust protection platform enabled by NVIDIA DPus brings a new level of security to data centers at speeds up to 600x faster than servers without NVIDIA accelerations, again reducing infrastructure and power.
+Built for AI, the NVIDIA Spectrum-4 Ethernet switch enables extreme networking performance and robust security with 40% lower power consumption compared to the previous generation.
+COOLING IMPROVEMENTS. 
+Adequate cooling is required to optimize supercomputer performance. We deploy state-of-the-art technology designed for NVIDIA server products, using computational fluid dynamics models to enhance cooling for data center designs and server rack deployments. Cooling solutions are closely coupled with server racks to localize and optimize heat transfer.
+We share our data center best practices with customers and partners to help optimize their deployments. In partnership with leading storage and networking technology providers, we offer a portfolio of reference architectures for optimal and efficient deployment of our DgX server products, and we make these publicly available on our corporate website.
+Gaming Efficiency. 
+Max-Q is a system design approach that enables thin and light gaming laptops to deliver high performance with optimal efficiency. Every component and element of the laptop—from gPu, CPu, and software to PCB design, power delivery, and thermals—is optimized for power efficiency and performance.
+Dynamic Boost 2.0 uses AI to balance power among the CPu, gPu, and gPu memory, reducing power consumption by about 20-25%. It is available on all geForce RTX 30 Series Max-Q laptops and is enabled out of the box, helping maximize performance in every app and game.
+Desktop-class geForce RTX 30 Series graphics cards offer up to 2x the performance and 1.9x the power efficiency over the previous generation.
+
+
+Table Of Contents ENVIRONMENTAL INITIATIVES AND PARTNERSHIPS 49 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT. 
+ACCELERATING CLIMATE ACTION. 
+Climate scientists in government labs and universities have long used gPus to model climate scenarios and predict weather patterns. With recent advances in AI, modeling of weather forecasting can now be done 4-5 magnitudes faster than by using traditional methods.
+We announced plans to build Earth-2, an AI supercomputer dedicated to predicting the impacts of climate change. The system will build a digital twin of the Earth on Omniverse, enabling scientists to do ultra-high-resolution climate modeling and put mitigation and adaptation tools into the hands of cities and nations so they can act with more urgency.
+In the commercial sector, AI-driven power grid operations and next-generation smart meters are enabling utilities to accelerate the world’s energy transition. Our Omniverse platform is being used to simulate digital twins that predict costly maintenance at power plants and model new energy sources such as fusion reactor design.
+Supporting Global Climate Strategies. 
+AI Nations is NVIDIA’s global effort to democratize AI by supporting governments and related stakeholders in developing plans to implement AI strategies that advance national priorities and drive economic growth. Managing climate-related disasters is a pressing priority for most countries, and NVIDIA’s significant compute power combined with its tools and expertise can help nations accelerate a response to country-specific climate impacts more quickly.
+In FY23 we announced a partnership with the united Nations Satellite Center (uNOSAT) to promote the use of AI for Earth observation (AI4EO) activities in support of the Sustainable Development Goals, with an emphasis on disaster management. The collaboration aims to integrate NVIDIA’s accelerated computing platform within uNOSAT’s infrastructure to fast-track research and development of AI4EO efforts. And through the design and roll-out of an online course on the use of deep learning for flood detection, we plan to upskill data scientists within disaster management agencies worldwide.
+NVIDIA Inception Partners. 
+Our Inception program is designed to nurture cutting-edge startups through go-to-market support, expertise, and technology. Inception includes over 10,000 companies from 110 countries, many of which are demonstrating how daunting climate challenges can be better understood and addressed with AI. Examples of areas where these startups are leveraging NVIDIA technology to have an impact include harnessing satellite data for environmental monitoring and climate risk assessment, tracking wildlife poaching and illegal trafficking, analyzing global-scale maritime data to inform innovation around natural ocean carbon sinks, renewable energy, and shipping route optimization, analyzing water infrastructure, and much more.
+EMISSIONS REDUCTION IN ACTION. 
+In FY22, we hosted a panel of energy sector leaders at gTC on how the industry can work together to reduce carbon emissions.
+
+
+CLIMATE CHANgE MANAgEMENT 50 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT. 
+In the area of sustainability, we address our climate impacts across our product lifecycle and assess risks, including current and emerging regulations and market impacts.
+By the end of the fiscal year ending January 31, 2025, we plan to purchase or generate enough renewable energy to match 100% of our global electricity usage for our offices and data centers.
+Whether it is creation of technology to power next-generation laptops or designs to support high-performance supercomputers, addressing climate change by improving energy efficiency is important in our research, development, and design processes. Read more in Environmental Initiatives and Partnerships.
+GREENHOUSE GAS EMISSIONS. 
+We follow the gHg Protocol to calculate scope 1 and 2 gHg emissions for our global data centers and offices, using the same methodology as previous years. S&P Sustainable1 provides moderate assurance under the AA1000AS v3 assurance standards on our FY22 global scope 1, scope 2, and scope 3 fuel- and energy-related activities (category 3) and business travel (category 6). View the assurance statement.
+WHAT IT COVERS: > Greenhouse gas (GHG) emissions reporting and assurance > Energy and environmental management systems, certifications, policies, procedures, and programs > Energy use and sourcing of renewable electricity > Water conservation, reuse, and recycling > Waste management and landfill diversion > Product packaging, transport, and end-of-life management 10 CLIMATE CHANgE MANAgEMENT
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT CLIMATE CHANgE MANAgEMENT 51. 
+GHG EMISSIONS FY22 FY21 FY20. 
+Scope 1 (mtCO2e) 4,612 2,692 2,817. 
+Stationary natural gas 3,150a 2,187 2,577. 
+Stationary distillate fuel oil 46 64 46 gasoline 135 77 80. 
+Refrigerants 1,281a 363 114. 
+Scope 2 (mtCO2e), market-based 78,210 89,048 65,936. 
+Purchased and used electricity 78,210 88,466 65,882. 
+Purchased heating/cooling 0a 582 54. 
+Scope 1 and 2 (mtCO2e) 82,822 91,740 68,753. 
+Scope 2 (mtCO2e), location-based 133,569 105,621 74,692. 
+Scope 3 (mtCO2e) 2,701,477 2,074,450 1,296,150. 
+Purchased goods and servicesb 2,506,722 1,755,390 1,105,644. 
+Capital goodsb 62,586 102,026 72,946. 
+Fuel- and energy-related activities not included in Scope 1 and 2 50,631 34,494 27,885 upstream transportation and distribution 37,910 49,749 30,380. 
+Waste generated in operationsc 291 577 752. 
+Business travel 576 3,068 31,285. 
+Employee commuting 21,189d 14,764d 17,929 upstream leased assets 21,572 12,357 9,329 a Due to change in FY22 reporting methodology, non-electricity purchased heating and cooling is accounted for in Scope 1.
+b Emissions from purchased goods and services and capital goods are calculated using Carnegie Mellon EEIO factors.
+c Emissions from waste generated in operations are calculated only for headquarters locations. Emission factors are based on Waste. 
+Reduction Model, version 15 (u.S. EPA, January 2020).
+d In FY21 and FY22, we calculated remote working emissions to account for our workforce working remotely because of the COVID-19 pandemic.
+Methodology is based on Whitepaper: Estimating Energy Consumption & GHG Emissions for Remote Workers (Anthesis, February 2021).
+Environmental and Energy Management Systems. 
+We’re committed to reducing our environmental impact by driving operational excellence. We identify and control environmental impacts and continuously improve our performance using a comprehensive environmental management system (EMS) certified to ISO 14001. Our Environmental, Health, Safety, and Energy Policy provides the framework for our EMS, and our dedicated Environmental, Health, and Safety and corporate responsibility teams work closely with employees globally to execute our environmental policies and practices, which are made actionable through goals and metrics that are annually reviewed with executives.
+To bring a more structured approach to managing energy efficiency at several of our key data center locations, we have an energy management system certified to the ISO 50001 standard.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT CLIMATE CHANgE MANAgEMENT 52. 
+GOAL FY22 PROGRESS. 
+Source 100% of global electricity use from renewable energy by end of FY25.
+We sourced 38% of our FY22 electricity use from renewable sources, a 13 percentage point increase from the previous year.
+Achieve LEED gold certification for our new Santa Clara headquarters building in FY23.
+Target date for certification was delayed due to COVID-19 impacts on construction schedule.
+Divert 80% of waste from landfill at Santa Clara headquarters.
+We diverted 56% of FY22 waste from landfill, a 12 percentage point decrease from the previous year.
+Implement an ISO 50001 Energy Management System in FY22.
+Complete, view our certificate.
+Assess scope 3 emissions along the value chain in FY22.
+Complete, see Scope 3.
+SCOPES 1 AND 2. 
+To manage the gHg emissions footprint of our data centers, labs, and offices, we focus on siting expansions strategically, managing our operations efficiently, and sourcing renewable energy. Our current goal to source all global electricity use for offices and data centers from renewable energy will result in a 100% emissions reduction of our scope 2 emissions by end of FY25.
+With our expanding business and diversification into new online services, data center operations have been growing rapidly. Data centers were responsible for 54% of our total energy use in FY22, with offices making up the remainder. As we expand, we’re incorporating renewable energy and energy efficiency into the siting and design of new buildings under our ownership, and we consider energy efficiency, renewable energy availability, and other sustainability attributes when evaluating new leased spaces.
+In the last three years, we’ve newly secured renewable power for several colocation data centers both in the united States and globally. In FY22, we conducted an energy-efficiency study to understand the effect of converting an air-cooled data center system to hybrid air/liquid and seek to incorporate the results into future projects.
+Our Silicon Valley headquarters in Santa Clara, CA, is LEED gold certified. It was designed with high levels of energy efficiency in mind, including a high-performing building envelope, efficient and smart lighting systems that incorporate the use of daylight, underfloor air distribution, radiant heating and cooling, air and waterside economizers, and high-efficiency boilers and chillers. An advanced building control system underpins the building’s operation.
+We’re also planning for LEED gold certification for a second building at our headquarters. In addition to similarly advanced levels of energy- and waterefficient design, this building features biophilic elements and a shade-providing external trellis that will house 390 kW of solar panels to harness Santa Clara's sunny weather. A three-acre park filled with drought-tolerant trees and greenery fed by reclaimed water connect the two headquarters buildings.
+DATA CENTER SUSTAINABILITY. 
+In FY22, we saw new renewable energy supply contracts come online at our supercomputer site in Cambridge, u.K., and data centers in Reno, NV. Approximately a third of NVIDIA data centers around the world sourced electricity from renewable sources.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT CLIMATE CHANgE MANAgEMENT 53. 
+We continuously upgrade facilities and infrastructure to improve the energy efficiency of existing buildings. Energy conservation measures include white interiors to enhance reflective lighting and controllable high-efficiency LED lighting. In FY22, we implemented LED lighting enhancements and updated our HVAC systems in several buildings in Santa Clara.
+IT lab environments are an important feature of several of our larger sites, where they support our product development and testing operations. Lab spaces are typically energy intensive due to the tools and equipment needed to complete development and testing tasks. Our dedicated lab strategy team is rethinking the way labs are designed and managed at NVIDIA. This starts with a focus on data, using innovative technologies to provide a complete picture of how labs, and the tools and equipment within them, are used. This data informs our enhanced forecasting for future lab needs, more efficient deployment of existing tools and equipment, consolidation of energy-intensive lab operations, and planning for new lab spaces, which will dramatically increase the efficiency of our overall lab footprint.
+Our Bengaluru, India site sourced almost 90% of building electricity use from local solar projects, and we purchased green tariffs for four offices in Europe and the united States. We are actively exploring options to increase our sourcing of renewable energy for our growing footprint, in support of our 100% renewable energy goal.
+ENERGY FY22 FY21 FY20. 
+Energy used (MWh) 424,997 325,899 244,760. 
+Non-renewable electricity purchased 251,760 232,512 154,864. 
+Renewable electricity purchased 154,160 78,405 74,303. 
+Renewable electricity generated, onsite solar 762 660 749. 
+Fuels purchased 18,315 12,643 14,635. 
+Steam/heating/cooling and other energy purchased 0a 1,679 210. 
+Renewable electricity percentageb 38% 25% 33% a Due to change in FY22 reporting methodology, steam/heating/cooling and other energy purchased no longer reported separately.
+b NVIDIA aligns with regulatory definitions of renewable energy at our key locations and, thus, excludes large-scale hydropower, as appropriate, from our renewables percentage. This has relevance for our Santa Clara, CA. headquarters.
+SCOPE 3. 
+Our business causes gHg emissions beyond our direct footprint. We currently report several scope 3 emissions categories, including business travel and fuel- and energy-related activities. In FY22 we assessed our full carbon footprint across all scopes.
+Since 2014, we have required our key manufacturing suppliers to report their energy usage, gHg emissions data, and reduction goals and objectives. Read more in Supplier Environmental Impact.
+Indirect Business Operations. 
+Aspects of our business result in indirect scope 3 emissions. We aim to reduce our carbon footprint through encouraging sustainable behavior and implementing conservation measures.
+FLEXIBLE WORKSPACES. 
+Across our global offices, we are implementing a flexible working arrangement to support to utilize our space more effectively and improve our HVAC and electrical efficiency.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT CLIMATE CHANgE MANAgEMENT 54. 
+COMMUTING AND BUSINESS TRAVEL. 
+We support our employees in using alternative commute options and reducing their commute impacts through our green2Work program at our Silicon Valley headquarters. The program includes 61 electric vehicle charging stations, pre-tax dollars for transit and local transit shuttles, and an online resource for commuters. For cyclists, we provide lockers, showers, and secure bike parking. To assist our alternative commuters in the event of an emergency, we offer an emergency ride home program through ride-sharing services.
+Most of our employees have been working remotely since the COVID-19 pandemic hit in March 2020. Working from home reduced the need for commuting programs and business travel. As we support hybrid onsite and at-home work arrangements, commute and business travel patterns change or are not needed, thereby decreasing our carbon footprint. For more information about how we’ve supported employees working from home, see COVID-19 Support.
+WATER USED IN OPERATIONS. 
+We use water in our direct operations in cooling towers and for food service, landscaping, and sanitation. We take steps to use water efficiently, particularly in locations that are vulnerable to drought conditions, such as California and Israel, where we have large facilities. As we develop and grow at our headquarters, we’re implementing measures to conserve water resources and reduce our potable water demand. We first conducted a water risk assessment in 2018 and update it annually for all NVIDIA facilities, third-party data centers, and strategic supply chain partners. This helps us target water conservation initiatives to locations where they are most needed.
+Our two headquarter buildings in Santa Clara, CA, incorporate a range of water conservation measures. Through the installation of low-flow bathroom fixtures and the use of recycled water for toilet flushing, the buildings are designed to achieve over 40% reduction in domestic water demand and a 50% reduction in potable water use for sewage conveyance. We use reclaimed water in cooling towers and landscape irrigation systems, and our landscaping consists of native, drought-resistant plants.
+We upgrade fixtures and appliances to improve efficiency and conserve water. Our Hyderabad, India, site has a water treatment plant that reuses the site’s treated wastewater for landscape irrigation. In FY22, we constructed a bioswale to capture rainwater in Santa Clara.
+WATER FY22 FY21 FY20. 
+Water withdrawal (cubic meters) 817,082a 365,450 322,081 groundwater 0b 40,041 4,136. 
+Municipal water supplies 666,560 269,782 279,819. 
+Reclaimed water from another organization 150,522 50,078 53,964. 
+Water consumption (cubic meters) 394,477 97,263 94,698. 
+Water discharge (cubic meters) 422,605 268,186 227,383 a Starting in FY22, water withdrawal, consumption, and discharge includes estimated use by data centers.
+b Starting in FY22, the site that reported groundwater is counted in municipal water supplies.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT CLIMATE CHANgE MANAgEMENT 55. 
+As a fabless company, we rely on our suppliers to manufacture our products. For information on how we track the water used in manufacturing processes, see Supplier Environmental Impact.
+WASTE GENERATED IN OPERATIONS. 
+Since 2007, we’ve had a landfill diversion goal. Prior to the COVID-19 pandemic, our employees and cafeteria activities were the biggest components of our compostable and recyclable waste stream. For the past two years, offices have been closed or operating at very limited capacity. Because essential labs remained open, landfill waste from labs did not decrease while diverted waste streams dropped significantly, negatively impacting our diversion rate.
+We generate various types of e-waste, including servers, storage equipment, and networking equipment used in our data centers; computers, monitors, and other electronic equipment used by our employees; and NVIDIA products we use at our sites for testing and other purposes. We partner with a global specialist e-waste vendor to ensure proper tracking, decommissioning, and recycling of our e-waste.
+To reduce waste, we have an inventory management program for teams to submit items currently not in use to the warehouse inventory, improve visibility of available furniture and lab assets, and support redeployment of these for internal reuse.
+WASTE FY22 FY21 FY20a. 
+Waste generated (metric tons)a 937 2,778 5,290. 
+Waste recycled/composted (metric tons) 526 1,887 4,100. 
+Landfill diversion rate 56% 68% 78% general waste recycled 127 314 1,682 general waste composted 102 173 1,116. 
+Clean paper recycled 17 18 19. 
+Batteries, hazardous waste, and lamps recycled 1 2 2. 
+Electronic waste recycled 51 43 75. 
+Construction/demolition waste recycledb 228 1,337 1,205. 
+Waste landfilled (metric tons) 411 891 1,189 general waste landfilled 224 346 945. 
+Hazardous waste landfilled 0 0 0. 
+Construction/demolition waste landfilledb 186 545 245 a Waste data is estimated for Silicon Valley headquarters.
+b We accumulated a large amount of demolition debris in FY20 and FY21 as part of our project to construct a new Silicon Valley headquarters building.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT CLIMATE CHANgE MANAgEMENT 56. 
+Supplier Environmental Impact. 
+Because emissions are created at every stage of our product lifecycle, including manufacturing within our supply chain, beginning in 2014 we’ve required our key suppliers to report their energy usage, gHg emissions data, and reduction goals and objectives.
+These suppliers must also have their gHg emissions verified by a third party. We track suppliers’ annual energy, gHg, water, and waste through the CDP and RBA Environmental Survey for all silicon manufacturers and systems contract manufacturers. We use this supplier data to better understand our product manufacturing impact, determine carbon emissions and water consumption per financial outlay, and to allocate carbon emissions to our customers.
+In FY21, we surveyed our suppliers to better understand the renewable energy performance and capability of our manufacturing supply chain. We plan to resurvey our suppliers in FY23 and use this as a benchmark moving forward.
+Product Packaging. 
+We continuously improve the balance between protecting the environment and ensuring that our customers receive their products in immaculate condition. We embrace opportunities to reduce packing materials and increase the proportion of recycled, recyclable, and biodegradable materials used. Whether products are packaged for end-users or prepared for bulk shipping, we design our containers to maximize package density and reduce overall package size.
+Our bulk carton packaging uses corrugate material that is 100% recycled fibers, and the cartons maintain an overall recyclability rate of 100%. Consumer packaging uses 70% recycled fibers and maintains a recyclability rate above 75%.
+Our packaging sustainability initiatives include: > Developing smaller and lighter weight packaging; > Creating a “core box” system so that primary retail packaging and shipping carton boxes can be shared among product SKus; > using recycled HDPE-2, which is recyclable, in place of polystyrene material wherever plastics are required; > Removing plastic film lamination or replacing it with recyclable material; > Leveraging vegetable oil-based inks and water-based solutions; > Switching plastic tray and foam components to paper-based materials where we can; and > Applying material labels to all packages to simplify consumer recycling.
+For our DgX server products, which require shipping in large cardboard boxes or crates with protective foam, we aim to maximize recyclability by eliminating the use of wood and metal, switching to corrugate or corrugate-strawboard hybrid structures, and minimizing the use of foams by utilizing HDPE-2 cushioning systems.
+As a result, we maintain an overall recyclability rate above 93% for all packaging.
+To reduce the amount of packaging used, we reuse packaging, ship products directly to the retail distributor, and use existing packaging for return merchandise authorization support whenever possible. We also reduce paper by providing online instructions for both our retail and server packages.
+93%
+Overall recyclability rate for all packaging.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT CLIMATE CHANgE MANAgEMENT 57. 
+Our key packaging suppliers are compliant with NVIDIA’s environmental requirements for Forestry Stewardship Council, Halogen Free, REACH, and ROHS.
+Transport and Logistics. 
+How we plan, pack, and execute our raw material, work-in-progress, and finished-goods shipments impacts our scope 3 emissions. Fuel represents a significant portion of our overall freight costs, and our continuous focus on optimizing our transport and logistics has resulted in cost savings and lessened our impact on the environment. Improvements include: > Configuring primary and subcontractor packing that minimizes the shipping footprint and reduces the number of pickups and deliveries; > Reducing overall packaging and shipment weights where possible; > Implementing a multimodal (ocean/truck) distribution and replenishment system globally where possible; > Requiring suppliers to report their participation in environmental initiatives quarterly; and > using reverse logistics solutions that use onsite or regional failure verification and repair to streamline product returns and eliminate international shipments.
+We gather data from packaging and shipping partners related to the carbon emissions of our packaging production and shipments from air, land, and sea.
+Product End-of-Life Management. 
+More regional, national, and sub-national governments are regulating the disposal of electrical and electronic equipment waste by placing the responsibility for end-of-life management on the producer of the equipment. NVIDIA-branded products, such as our SHIELD gaming devices, are subject to such requirements in our various global markets, and we take seriously our extended responsibility for these products. In key regions such as the united States and Europe, we’ve established recycling programs in partnership with reputable third parties and we provide information to consumers about how to recycle our branded products, including through our product recycling page.
+In FY22 we launched a pilot program to help our customers monetize the potential residual value in the older DgX servers when refreshing to the latest technology. Some of the servers are refurbished, then sold or donated for reuse. Alternatively, they’re sold as components in the secondary market.
+
+
+REPORTINg FRAMEWORKS 58 Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT 11 REPORTINg FRAMEWORKS. 
+GRI INDEX. 
+We applied the internationally recognized global Reporting Initiative (gRI) Sustainability Reporting Standards to produce this FY22 Corporate Responsibility Report. This report has been prepared in accordance with the gRI Standards: Core option.
+Per the gRI Standards, we indicate the location of the required “general Disclosures” and “Topic-Standard Disclosures”. In some cases, we provide a direct response to disclosures or additional information related to content located on the main pages of the report within the index itself.
+STANDARD DISCLOSURE DESCRIPTION CROSS-REFERENCE OR ANSWER. 
+GRI 102: General Disclosures 2016. 
+Organizational Profile 102-1 Name of the organization 2022 10-K, p.1 102-2 Activities, brands, products, and services 2022 10-K, pp. 3-7 102-3 Location of headquarters Santa Clara, California, uSA 102-4 Location of operations Our Locations 102-5 Ownership and legal form 2022 Proxy Statement, p. 36-37 102-6 Markets served 2022 10-K, pp. 5-7 102-7* Scale of the organization 2022 10-K, pp. 11, 47, 77-78 102-8* Information on employees and other workers. 
+Workforce Data 102-9 Supply chain Supply Chain Management 2022 10-K, pp. 9, 15-17, 30-31
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT REPORTINg FRAMEWORKS 59. 
+STANDARD DISCLOSURE DESCRIPTION CROSS-REFERENCE OR ANSWER. 
+GRI 102: General Disclosures 2016. 
+Organizational Profile 102-10 Significant changes to the organization and its supply chain. 
+None.
+102-11 Precautionary Principle or approach. 
+We do not specifically apply the precautionary principle. A description of the role of the Board in risk oversight is in the 2022 Proxy Statement.
+102-12 External initiatives Public Policy Engagement. 
+Supply Chain Management. 
+Building a Diverse AI Talent Pipeline 102-13 Membership of associations Public Policy Engagement. 
+Supply Chain Management. 
+Strategy 102-14 Statement from senior decisionmaker. 
+Message from our CEO. 
+Ethics and Integrity 102-16* Values, principles, standards, and norms of behavior. 
+Code of Conduct 102-17* Mechanisms for advice and concerns about ethics. 
+Ethical Conduct. 
+Governance 102-18 governance structure Corporate Responsibility Governance. 
+Committee Composition. 
+Stakeholder Engagement 102-40 List of stakeholder groups Stakeholder Engagement 102-41 Collective bargaining agreements NVIDIA participates in collective bargaining agreements in Finland, France, Italy, and ukraine, representing 1.1% of our population.
+Employees in Brazil are unionized and make up 0.1% of our total population. Employees in Belgium, Denmark, Finland, France, germany, Italy, Netherlands, Poland, and Sweden (which make up 4.2% of our total employee population) could participate in unions but NVIDIA is legally not allowed to inquire with them about their involvement. 4.3% represents the highest possible unionized presence that could exist in NVIDIA’s workforce. Employees in France and germany, have formal representation on work councils, and our Belgium, Finland, France, Poland, and Switzerland offices have employee representatives. u.S., Canada, India, Israel, and APAC regions are not unionized.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT REPORTINg FRAMEWORKS 60. 
+STANDARD DISCLOSURE DESCRIPTION CROSS-REFERENCE OR ANSWER. 
+GRI 102: General Disclosures 2016. 
+Stakeholder Engagement 102-42 Identifying and selecting stakeholders. 
+Stakeholder Engagement 102-43* Approach to stakeholder engagement. 
+Stakeholder Engagement 102-44 Key topics and concerns raised Stakeholder Engagement. 
+Reporting Practice 102-45 Entities included in the consolidated financial statements 2022 10-K, pp. 137-138 102-46 Defining report content and topic Boundaries. 
+Corporate Responsibility Overview 102-47* List of material topics Corporate Responsibility Overview 102-48 Restatements of information The data for gHg emissions of purchased goods & services (FY21) and water withdrawal, consumption, discharge (FY21, FY20) have been recalculated and restated in this report.
+102-49 Changes in reporting Corporate Responsibility Overview 102-50 Reporting period About this Report 102-51 Date of most recent report June 2021 102-52 Reporting cycle About this Report 102-53 Contact point for questions regarding the report. 
+About this Report 102-54 Claims of reporting in accordance with the gRI Standards. 
+This report has been prepared in accordance with the gRI Standards: Core option.
+102-55 gRI content index GRI Index 102-56 External assurance We did not seek external assurance for the report. NVIDIA’s internal audit function reviews elements of our Corporate Responsibility program. Our pay and promotion metrics are evaluated by Secretariat Economists, Inc. S&P Sustainable1 provides moderate assurance under the AA1000 assurance standards on our FY22 global scope 1 and 2 gHg emissions and scope 3 fuel- and energyrelated activities (category 3) and business travel (category 6).
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT REPORTINg FRAMEWORKS 61. 
+STANDARD DISCLOSURE DESCRIPTION CROSS-REFERENCE OR ANSWER. 
+Our People, Diversity and Inclusion. 
+GRI 103: Material Topics 2016 103-1 Explanation of the material topic and its boundary. 
+Our People, Diversity and Inclusion 103-2 Management approach and its components. 
+Our People, Diversity and Inclusion 103-3 Evaluation of the management approach. 
+Our People, Diversity and Inclusion. 
+GRI 401: Employment 2016 401-1* New employee hires and employee turnover. 
+Recruitment. 
+Retention 401-2 Full-time benefits not provided to temporary/part-time employees. 
+NVIDIA Benefits. 
+GRI 405: Diversity and Equal Opportunity 2016 405-1* Diversity of governance bodies and employees. 
+Diversity Data 2022 Proxy Statement, p. 5 405-2* Ratio of basic salary and remuneration of women to men. 
+Pay Parity. 
+Innovation and Business Model. 
+GRI 103: Material Topics 2016 103-1 Explanation of the material topic and its boundary. 
+Innovation and Business Model 103-2 Management approach and its components. 
+Innovation and Business Model 103-3 Evaluation of the management approach. 
+Innovation and Business Model. 
+GRI 201: Economic Performance 2016 201-1* Direct economic value generated and distributed 2022 10-K, pp. 47, 49-50, 73-74. 
+GRI 201: Economic Performance 2016 201-2 Financial implications and other risks and opportunities due to climate change 2021 CDP Climate Change Response, pp. 8-27 201-4* government financial assistance We received R&D tax credits of $289 million for the reporting period.
+2022 10-K, p. 74. 
+GRI 419: Socioeconomic Compliance 2016 419-1 Non-compliance with laws and regulations in the social and economic area. 
+We consider significant fines those that are required to be disclosed in the company's SEC filings. We were not subject to any material fines in FY22 for non-compliance with laws and regulations.
+Cybersecurity and Data Privacy. 
+GRI 103: Material Topics 2016 103-1 Explanation of the material topic and its boundary. 
+Cybersecurity and Data Privacy
+
+
+2022 NVIDIA CORPORATE RESPONSIBILITY REPORT REPORTINg FRAMEWORKS 62 TABLE OF CONTENTS. 
+STANDARD DISCLOSURE DESCRIPTION CROSS-REFERENCE OR ANSWER. 
+Cybersecurity and Data Privacy. 
+GRI 103: Material Topics 2016 103-2 Management approach and its components. 
+Cybersecurity and Data Privacy 103-3 Evaluation of the management approach. 
+Cybersecurity and Data Privacy. 
+GRI 418: Customer Privacy 2016 418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data. 
+We consider significant substantiated complaints those that are disclosed in the company's SEC filings. There were no substantiated complaints in FY22 that fell into this category.
+Supply Chain Management. 
+GRI 103: Material Topics 2016 103-1 Explanation of the material topic and its boundary. 
+Supply Chain Management 103-2 Management approach and its components. 
+Supply Chain Management 103-3 Evaluation of the management approach. 
+Supply Chain Management. 
+GRI 308: Supplier Environmental Assessment 2016 308-1 New suppliers screened using environmental criteria. 
+Supply Chain Management 308-2 Negative environmental impacts in the supply chain and actions taken. 
+Supply Chain Performance. 
+GRI 414: Supplier Social Assessment 2016 414-1 New suppliers that were screened using social criteria. 
+Supply Chain Management 414-2 Negative social impacts in the supply chain and actions taken. 
+Supply Chain Performance. 
+Societal Impacts of AI. 
+GRI 103: Material Topics 2016 103-1 Explanation of the material topic and its boundary. 
+Societal Impacts of AI 103-2 Management approach and its components. 
+Societal Impacts of AI 103-3 Evaluation of the management approach. 
+Societal Impacts of AI. 
+GRI 203: Indirect Economic Impacts 2016 203-1 Infrastructure investments and services supported. 
+Building a Diverse AI Talent Pipeline 203-2 Significant indirect economic impacts. 
+Building a Diverse AI Talent Pipeline. 
+Environmental Initiatives and Partnerships. 
+GRI 103: Material Topics 2016 103-1 Explanation of the material topic and its boundary. 
+Environmental Initiatives and Partnerships
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT REPORTINg FRAMEWORKS 63. 
+STANDARD DISCLOSURE DESCRIPTION CROSS-REFERENCE OR ANSWER. 
+Environmental Initiatives and Partnerships. 
+GRI 103: Material Topics 2016 103-2 Management approach and its components. 
+Environmental Initiatives and Partnerships 103-3 Evaluation of the management approach. 
+Environmental Initiatives and Partnerships. 
+GRI 302: Energy 2016 302-5 Reductions in requirements of energy in products and services. 
+Environmental Initiatives and Partnerships. 
+Climate Change Management. 
+GRI 103: Material Topics 2016 103-1 Explanation of the material topic and its boundary. 
+Climate Change Management 103-2 Management approach and its components. 
+Climate Change Management 103-3 Evaluation of the management approach. 
+Climate Change Management. 
+GRI 305: Emissions 2016 305-1* Scope 1 gHg emissions Scopes 1 and 2 305-2* Scope 2 gHg emissions Scopes 1 and 2 305-3* Scope 3 gHg emissions Scope 3 305-4 gHg emissions intensity 3.1 mtCO2e/revenue ($M)
+Scopes 1 and 2 emissions (82,822 mtCO2e) divided by revenue ($26,914M).
+305-5 Reduction of gHg emissions Scopes 1 and 2 305-6 Emissions of ODS 3.2 mtCO2e. 
+This is a subset of refrigerants in Scope 1 gHg Emissions.
+305-7* NOX, SOX, and other significant air emissions. 
+Carbon dioxide (CO2): 3,327 mtCO2e. 
+Methane (CH4): 2 mtCO2e. 
+Nitrous Oxide (N2O): 2 mtCO2e. 
+Hydrofluorocarbon: 1.4 metric tons. 
+Carbon monoxide (CO): 0.51 metric tons. 
+VOC: 0.19 metric tons. 
+Particulates: 0.17 metric tons. 
+SOX: 0.16 metric tons * Indicator aligns with the Stakeholder Capitalism Metrics as defined by the World Economic Forum.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT REPORTINg FRAMEWORKS 64. 
+SASB INDEX. 
+We disclose in accordance with the Sustainability Accounting Standards Board (SASB) for the Technology and Communications sector, Semiconductor industry.
+TOPIC SASB CODE ACCOUNTING METRIC CROSS-REFERENCE, EXPLANATION, OMISSIONS. 
+Greenhouse Gas Emissions. 
+TC-SC-110a.1 gross global Scope 1 emissions Greenhouse Gas Emissions. 
+Amount of total emissions from perfluorinated compounds. 
+Greenhouse Gas Emissions. 
+TC-SC-110a.2 Discussion of long-term and shortterm strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets. 
+Climate Change Management 2021 CDP Response, pp. 34-35. 
+Energy Management in Manufacturing. 
+TC-SC-130a.1 Total energy consumed We are a fabless semiconductor company and do not have our own manufacturing facilities. See Supplier Environmental Impact for how we work with suppliers to track energy, waste, and water.
+Percentage of total energy consumed that is grid electricity. 
+Percentage of total energy consumed that is renewable. 
+Water Management. 
+TC-SC-140a.1 Total water withdrawn. 
+Total water consumed. 
+Percentage of total water withdrawn in regions with High or Extremely High Baseline Water Stress. 
+Percentage of water consumed in regions with High or Extremely High Baseline Water Stress. 
+Waste Management. 
+TC-SC150a.1. 
+Amount of hazardous waste from manufacturing. 
+Percentage of hazardous waste from manufacturing that is recycled. 
+The entity shall disclose the legal or regulatory framework(s) used to define hazardous waste and recycled hazardous waste, and the amounts of waste defined in accordance with each applicable framework
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT REPORTINg FRAMEWORKS 65. 
+TOPIC SASB CODE ACCOUNTING METRIC CROSS-REFERENCE, EXPLANATION, OMISSIONS. 
+Employee Health & Safety. 
+TC-SC-320a.1 Description of efforts to assess, monitor, and reduce exposure of employees to human health hazards. 
+We are a fabless semiconductor company. See Supply Chain Management for more information, and Health and Safety (H&S) for how we manage H&S across our corporate campuses.
+TC-SC-320a.2 Total amount of monetary losses as a result of legal proceedings associated with employee health and safety violations. 
+There were no material legal proceedings associated with employee health and safety violations in FY22.
+Recruiting & Managing a Global & Skilled Workforce. 
+TC-SC-330a.1 Percentage of employees that are foreign nationals. 
+Percentage of foreign nationals not disclosed.
+Percentage of employees that are located offshore. 
+Workforce Data. 
+Disclosure shall include a description of potential risks of recruiting foreign nationals and/or offshore employees, and management approach to addressing these risks 2022 10-K, p. 21. 
+Product Lifecycle Management. 
+TC-SC-410a.1 Percentage of products by revenue that contain IEC 62474 declarable substances. 
+Percentage of products containing declarable substances not disclosed.
+Disclosure shall include a discussion of efforts to minimize usage of these substances. 
+We work with Digital Europe and European Commission to research and develop viable alternatives.
+TC-SC-410a.2 Processor energy efficiency at a system-level for servers, desktops, and laptops. 
+Disclosure shall include a discussion of efforts to design for new and emerging usage patterns with respect to energy efficiency in all product categories (i.e., applications for servers, desktops, laptops, workstations, netbooks, tablets, mobile phones, and storage).
+Architecture Energy Efficiency 2021 CDP Response. 
+Materials Sourcing. 
+TC-SC-440a.1 Description of the management of risks associated with use of critical materials. 
+Responsible Sourcing. 
+Responsible Minerals Policy. 
+Intellectual Property Protection & Competitive Behavior. 
+TC-SC-520a.1 Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations. 
+There were no material legal actions for anticompetitive behavior, anti-trust, or monopoly practices in FY22.
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT REPORTINg FRAMEWORKS 66. 
+TCFD INDEX. 
+We disclose relevant information based on the recommendations prescribed by the Task Force for Climate-Related Financial Disclosures (TCFD).
+DISCLOSURE ITEM RECOMMENDED DISCLOSURE - DESCRIPTION CROSS-REFERENCE. 
+Governance a. Board Oversight - Describe the Board’s oversight of climate-related risks and opportunities.
+2021 CDP Response: C1. governance - C1.1; pp. 3-4 b. Management’s Role - Describe management’s role in assessing and managing climate-related risks and opportunities.
+2021 CDP Response: C1. governance - C1.2; pp. 4-6. 
+Strategy a. Risks and Opportunities - Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.
+2021 CDP Response: C2. Risks & opportunities - C2.3 and C2.4; pp. 13-27 b. Impact on Organization - Describe the impact of climate- related risks and opportunities on the organization’s businesses, strategy, and financial planning.
+2021 CDP Response: C2. Risks & opportunities - C2.3 and C2.4; pp. 13-27 c. Resilience of Strategy - Describe the potential impact of different scenarios, including a 2°C scenario, on the organization’s businesses, strategy, and financial planning.
+2021 CDP Response: C3. Business Strategy – C3.2; pp. 27-28. 
+Risk Management a. Risk Assessment Processes - Describe the organization’s processes for identifying and assessing climate-related risks.
+2021 CDP Response: C2. Risks & opportunities - C2.2; pp. 8-12 b. Risk Management Processes - Describe the organization’s processes for managing climate-related risks.
+2021 CDP Response: C2. Risks & opportunities - C2.2; pp. 8-12 c. Integration into Overall Risk Management - Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk management.
+2021 CDP Response: C3. Business Strategy – C3.3 and C3.4; pp. 28-33. 
+Metrics and Targets a. Climate-Related Metrics - Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy and risk management process.
+2021 CDP Response: C5. Emissions methodology and C6. Emissions data; pp. 43-53 b. Scope 1,2,3 gHg Emissions - Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (gHg) emissions, and the related risks.
+2021 CDP Response: C6. Emissions data - C6.1, C6.2, C6.3, C6.4, C6.5, and C6.7; pp. 38-47 c. Climate Related Targets - Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.
+2021 CDP Response: C4. Targets and performance - C4.1, C4.2, and C4.3; pp. 34-41
+
+
+Table Of Contents 2022 NVIDIA CORPORATE RESPONSIBILITY REPORT REPORTINg FRAMEWORKS 67. 
+UN SUSTAINABLE DEVELOPMENT GOALS. 
+We continue to align our business activities and charitable contributions to the 17 uN Sustainable Development goals (SDgs). Here are a few ways we contributed to the SDgs in FY22.
+SDG OUR SUPPORT. 
+Record-Setting DNA Sequencing—By optimizing the diagnosis pipeline to only a few hours, clinicians can more quickly identify genetic clues that inform patient care plans. Stanford university School of Medicine led an initiative to cut down the time needed to sequence and analyze a patient’s genome from days to hours, setting the first guinness World Record for fastest DNA sequencing technique. The researchers used NVIDIA Tensor Core gPus in a google Cloud computing environment and NVIDIA Clara Parabricks.
+Safer Roads—Startup Derq uses NVIDIA gPus to process video and other data from cameras and radars to better predict crashes before they happen and to warn connected road users. Another startup, CVEDIA, taps the NVIDIA TAO Toolkit to design better and faster vehicle and pedestrian detections to improve traffic flow and pedestrian safety.
+AI Pathways Institute—Teens with the Boys & girls Clubs of Hudson County in northeastern New Jersey spent three weeks in 2021 brainstorming, coding, and traversing spinning robots while using NVIDIA Jetson Nano 2gB developer kits and Jetbot robotics toolkits to aid patients with Alzheimer’s, discard trash, monitor pedestrian safety, and track outdoor air pollution.
+Grants for Developer Kits—As part of a grant program, we gave hundreds of Jetson Nano developer kits to educators in colleges, schools, and nonprofit groups. We also certify students and educators in AI skills through NVIDIA Deep Learning Institute (DLI).
+AI Innovation in Africa—Our head of emerging areas gave a keynote speech at AI Expo Africa, highlighting the AI revolution and sharing how NVIDIA supports developers to build and scale their AI projects through the NVIDIA Developer Program, Inception Program, and DLI.
+Venture Capital Funding Opportunities—The NVIDIA Inception VC Alliance opens new paths for startups to engage, create introductions, and accelerate potential funding, which will facilitate global innovation. The new benefit offers connections for 200 venture capital firms and investors to 10,000+ startups working in AI, data science, HPC, and more.
+Inclusion in AI—At gTC in April 2021, we hosted speakers to discuss AI literacy and efforts to grow the participation of underrepresented groups in science and engineering. In November 2021, we led a panel discussion on how to get more women into AI and data science.
+NVIDIA Emerging Chapters—This program aims to mend what’s called the technology fracture— the gap between developers in the global North and those in emerging markets—by supporting local communities to build and scale their AI, data science, and graphics projects to solve relevant challenges. Program members also have access to training and development opportunities through the NVIDIA DLI.
+Earth-2 Supercomputer—At gTC in November 2021, NVIDIA CEO Jensen Huang announced plans to build a powerful AI supercomputer dedicated to predicting climate change. We’ll bring our scale and expertise in computational sciences to join with the world’s climate science community to confront climate change.
+Sustainability Investments in India—Our corporate social responsibility investments in India are part of multiyear efforts in the country focused on investing in social innovation, job creation, and biodiversity. We support projects to build water-harvesting structures, plant local, non-invasive trees, improve soil health, and reduce open-field burning.
+
+
+2022 NVIDIA CORPORATE RESPONSIBILITY REPORT ABOuT THIS REPORT 68. 
+ABOuT THIS REPORT. 
+The NVIDIA FY22 Corporate Responsibility Report covers our performance for the fiscal year ended January 30, 2022.
+This report adheres to the GRI Standards: Core option. We’ve reported through gRI publicly since 2010. We also disclose in accordance with the Sustainability Accounting Standards Board and Task Force on Climate-Related Financial Disclosures. We continue to align our social impact activities with the United Nations’ Sustainable Development Goals.
+We publish our Corporate Responsibility report annually. Previous reports can be found in the NVIDIA Report Archive.
+We determined the content for this report based on conversations among management and engagement with several stakeholders. Based on feedback, we have evolved the way we report on our Corporate Responsibility topics, streamlining our topics to seven to reflect their interrelatedness and importance. See Corporate Responsibility Overview for more information.
+Distributing This Report. 
+We promote the availability of our report through: > Targeted communications to employees and executives.
+> Outreach to stakeholders and reporting organizations.
+> Individual outreach to shareholder groups that make inquiries throughout the year.
+> Our social media channels, which are followed by approximately 29 million individuals.
+We welcome feedback on this report and our performance. Send comments and suggestions to NVIDIACorporateResponsibility@nvidia.com or to:
+NVIDIA Corporate Responsibility 2530 Zanker Rd San Jose, CA 95131. 
+The information contained in this report is accurate as of approximately July 7, 2022, unless stated otherwise. The information is subject to change, and NVIDIA will not necessarily disclose such changes. The information may be updated, amended, supplemented, or otherwise altered by subsequent reports or filings by NVIDIA.
+Certain statements included or incorporated by reference in this report, other than statements or characterizations of historical fact, including, but not limited to, statements as to: our growth; our market opportunities; the performance, impact, and benefits of our products and technologies; our strategies; our priorities, goals, and objectives; market trends; future forecasts; and other predictions and estimates are forward-looking statements and are based on our current expectations, estimates, and projections about our industry and our management’s beliefs and assumptions. We caution readers that these statements are merely predictions and are not guarantees of future results. Actual events may differ materially, perhaps adversely.
+Our Annual Report on Form 10-K, subsequent Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and other filings made with the Securities and Exchange Commission discuss some of the important risk factors that could contribute to differences between projections and outcomes, which could affect our business, operational results, and financial condition. Except as required by law, NVIDIA does not recognize any obligation to revise or update any forward-looking statements.
+© 2022 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, CuDA, geForce RTX, NgC, NVIDIA Clara, NVIDIA DgX POD, NVIDIA DRIVE, NVIDIA Hopper, SHIELD and TensorRT, are trademarks and/or registered trademarks of NVIDIA Corporation in the u.S. and other countries. MAXQ® is the registered trademark of Maxim Integrated Products, Inc. Other company and product names may be trademarks of the respective companies with which they are associated.
+Table Of Contents

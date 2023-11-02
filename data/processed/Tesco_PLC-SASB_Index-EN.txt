@@ -1,0 +1,87 @@
+Topic Accounting metric SASB ref Performance 2020/21 Further information. 
+Air emissions from refrigeration. 
+Gross global Scope 1 emissions from refrigerants. 
+FB-FR-110b.1 361k tonnes CO2e. 
+In support of our climate ambitions, we are reducing our refrigerant emissions through our refrigeration gas transformation plan, upgrading our refrigeration units and replacing end-of-life equipment with CO2 systems that are both more efficient and with a lower impact to the environment.
+Click here for more information.
+Air emissions from refrigeration % of refrigerants consumed with zero ozonedepleting potential. 
+FB-FR-110b.2 100% Given the banning of ozone-depleting substances in Europe, our approach is instead focused on reducing the environmental impact associated with refrigerants by reducing the overall Global Warming Potential (GWP), increasing the amount of natural refrigerant gases and other low GWP gases by retrofitting equipment that we expect to be operating beyond 2025, and replacing all end of life equipment with natural refrigerants.
+Click here for more information.
+Energy management (1) operational energy consumed, (2) % grid electricity, (3) % renewable. 
+FB-FR-130a.1 6,016 GWh energy consumed (all energy, not just electricity) 100% renewable electricity across the Tesco Group. 
+We are continuously working to reduce energy demand by improving efficiencies. Further to this, in 2017, we committed to switching 100% of our electricity demand to renewable sources by 2030, and have published a Renewable Energy Transition Roadmap to support this commitment. This sets out our ambition to go further than purchasing renewable certificates, and to harness our demand to generate new renewable electricity through Power Purchase Agreements, contributing to the greening of the national grid. We are fitting thousands of solar panels across our UK store network, began sourcing renewable energy from five onshore windfarms in 2018/19, and in 2020/21 we announced a new partnership that will see the creation of three new solar farms in the UK.
+Click here for more information.
+Food waste Amount of food waste generated, % diverted from the waste stream. 
+FB-FR-150a.1 82% We have an ambitious target that no food safe for human consumption will be wasted in our UK retail operations, as well as commitments across all our markets to halve food waste in our own operations and in our supply chain by 2030. We strive to eliminate unsold food by continually optimising our forecasting, ordering and reduceto-clear processes; and then we redistribute any unsold food to charities, community groups, colleagues and animal feed. We have reported here the KPI we use to track redistribution: 'Percentage of unsold food safe for human consumption redistributed to humans or animals in the UK'. However, we would note that our UK business has not sent any waste to landfill since 2009, since unsold food that can't be redistributed is sent for energy recovery.
+Click here for more information.
+Data security Description of approach to identifying and addressing data security risks. 
+FB-FR-230a.2 We take data security very seriously and we put our customers and colleagues at the heart of all decisions we make in relation to the processing of personal data. Our work in this area includes robust policies; specialist internal teams; training and communications for all colleagues; and external testing to provide further assurance over our controls; with governance through regular reporting to relevant committees. In addition, our capabilities are being enhanced by our multi-year technology security programme, implementing next generation tools such as around threat detection.
+Click here to download our 2021 Annual Report, where more information is available on page 33, in the section on Principal Risks and Uncertainties.
+Food safety High-risk food safety violation rate. 
+FB-FR-250a.1 0 We take a rigorous approach to food safety. Our UK distribution centres (DCs) and stores are routinely inspected by local government Environmental Health Officers, and at year-end we did not have any locations rated as a high risk food safety violation. In the UK, every store displays its hygiene rating at the entrance for full customer visibility. We also operate our own comprehensive internal food safety audit programme at all of our sites.
+Our DCs and stores in ROI are also routinely inspected (although not rated), and we actively monitor our DCs and stores in CE to ensure we're consistently meeting high standards of food safety and hygiene. We also take a rigorous approach to food safety with our suppliers, auditing all sites against a Tesco Standard that is at least comparable with the requirements of The Global Food Safety Initiative.
+Food safety (1) Number of recalls, (2) number of units recalled, (3) % of units recalled that are privatelabel products. 
+FB-FR-250a.2 We are committed to delivering safe, legal and quality products to our customers. With ~10,000 Own Brand products in UK, our largest market, it is not unexpected that we may have some precautionary product recalls in any given year. We have a robust process to work with the authorities (in the UK, the Food Standards Agency) and communicate recalls to customers through a number of channels, including our customer website and social media. We ensure that learnings are fed into our product development process.
+We anticipate providing a disclosure on the number of product line recalls for Tesco Own Brand products in 2021/22. In 2020/21, the impacts of COVID-19 have made this year atypically low as a baseline for future disclosures.
+Product health and nutrition. 
+Revenue from products labelled and/or marketed to promote health and nutrition attributes. 
+FB-FR-260a.1 In March 2021, we announced ambitious new commitments to support healthy, sustainable diets, as part of our plans to help customers eat more healthily, and to make Tesco the easiest place for customers to shop for affordable, healthy, sustainable food. This included a commitment to increase the sales of healthy products, as a proportion of total sales, to 65% by 2025, up from a 2019 baseline of 58%. We will publish our progress against this target in our 2021/22 reporting.
+Click here for more information.
+Product health and nutrition. 
+Discussion of the process to identify and manage products and ingredients related to nutritional and health concerns among consumers. 
+FB-FR-260a.2 Through our long-established product reformulation programme, we’re continuously working to reduce the calories, fat, sugar and salt content and increase the fruit, veg and fibre content of our products, without compromising on taste or quality. We also offer a wide and fast-growing range of branded and own brand plant-based meat alternatives, and this year published ambitious sales targets for meat alternatives.
+We’re committed to helping customers with special dietary needs to enjoy the food they want to eat. We were the first UK supermarket to develop a Free From range, launched in 2003; and we have been awarded Retailer of the Year at the Free From Food Awards for the last 6 years. In addition, our partnership with Spoon Guru provides online dietary and lifestyle filters which enable customers to quickly filter products by requirements (e.g. no-lactose, no-gluten, vegan, or low salt).
+Click here for more information.
+Product labelling & marketing. 
+Number of incidents of noncompliance with industry or regulatory labelling and/or marketing codes. 
+FB-FR-270a.1 No significant incidents. 
+In CE, in line with local legislation, we have received a number of local fines relating to food labelling, totalling an immaterial amount. We otherwise had no incidents in 20/21 for Tesco own brand products.
+As in previous years, in the highly competitive UK market, price comparisons continue to be used in advertising and can be subject to advertising disputes. In the 20/21 financial year, there have been no ASA rulings involving Tesco.
+Product labelling & marketing. 
+Total amount of monetary losses as a result of legal proceedings associated with marketing and/or labelling practices. 
+FB-FR-270a.2 No material losses. 
+Any fines/damages paid in the year were immaterial.
+Given our scale (4,338 stores across the Group at the end of 2020/21), sometime local incidents can occur and we have a rigorous process to ensure local improvements are then implemented as required.
+Product labelling & marketing. 
+Revenue from products labelled as (1) containing genetically modified organisms (GMOs) and (2) non-GMO. 
+FB-FR-270a.3 We don't use GMO in our own brand products. Any branded products that do contain GM ingredients are labelled. We don’t specifically measure revenue from any such products but would expect it to be de minimis.
+Click here for more information.
+Labour practices (1) Average hourly wage, (2) % of instore & distribution centre employees earning minimum wage, by region. 
+FB-FR-310a.1 100% of colleagues are paid above the minimum wage. 
+We are guided by our Reward principles to ensure our approach to pay is Simple, Fair, Competitive, and Sustainable – and we apply these across our whole reward package, which includes a number of benefits as well as the basic rate of pay. We feel a duty of care to provide our colleagues with a balanced benefits package that supports their different needs, such as a competitive pension and a colleague discount when shopping across any of the Tesco brands.
+100% of colleagues are paid above the minimum wage. We don’t report on average hourly wage due to different costs of living in the countries in which we operate and the relative scale of the UK business.
+Labour practices % of active workforce covered under collective bargaining agreements. 
+FB-FR-310a.2 >90% across each of our markets. 
+All colleagues are free to join a trade union of their choice should they wish and we have extensive discussions with the unions and colleague representatives as part of the agreement of our colleague reward package.
+Labour practices (1) Number of work stoppages, (2) total days idle. 
+FB-FR-310a.3 0 People are at the heart of everything we do and we have many different colleague listening channels, as well as a number of comprehensive collective agreements which include dispute resolution procedures to mitigate against the risk of stoppages occurring. As such, we have not had any work stoppages or days idle as a result of industrial action in 2020/21.
+Labour practices. 
+Total amount of monetary losses as a result of legal proceedings associated with (1) labour law violations, (2) employment discrimination. 
+FB-FR-310a.4 No material losses. 
+One of our values is to treat people how they want to be treated. We want to ensure all colleagues can be themselves and have an opportunity to get on at Tesco.
+In any given year, we are likely to see some employment tribunal claims brought by current or former employees due to the size of our workforce (although these would not necessarily amount to 'violations'/'discrimination'). Any associated financial losses totalled immaterial amounts in 2020/21.
+Management of environmental and social impacts in the supply chain. 
+Revenue from products thirdparty certified to environmental or social sustainability sourcing standard. 
+FB-FR-430a.1 We are committed to ensuring the environmental and social sustainability of all of the products that we source. Certifications can play an important role in this for certain of our sourcing - for example, 100% of our tea is Rainforest Alliance certified. However, certification is only one part of our approach, with the most appropriate methodology varying by product and geography. In some cases our commodity responsible sourcing strategies will focus on delivering landscape-level transformation, such as our UK Zero Deforestation Soy Transition Plan, which focuses on transitioning to sourcing from verified zero deforestation areas, by 2025.
+Click here for more information.
+Management of environmental and social impacts in the supply chain % of revenue from (1) eggs that originated from cage-free environment, (2) pork produced without the use of gestation crates. 
+FB-FR-430a.2 83% eggs (shell) 34% eggs (ingredient) 100% stall-free pigs. 
+We commit to upholding high animal welfare standards. This includes a 2025 commitment to source 100% of eggs from cage-free hens. In 2019/20, we extended the scope of this commitment to cover ingredient eggs, as well as shell eggs.
+We have provided the accounting metric for UK, our largest market; and by volume rather than by revenue. This ensures no skew towards our premium product ranges, as we seek to apply the same sustainability standards consistently across all of our product ranges.
+Click here for more information.
+Management of environmental and social impacts in the supply chain. 
+Discussion of strategy to manage environmental and social risks within the supply chain, including animal welfare. 
+FB-FR-430a.3 We are committed to leading the industry in addressing sustainability challenges in our supply chain and working with our suppliers on environmental, social and animal welfare issues. We prioritise our efforts where we can have the biggest impact and have identified priority commodities and ecosystems to manage and protect.
+We adopt our ‘Improve, Transform, Advocate’ approach which focuses on the changes we can bring about in our operations and supply chains to manage risk and deliver continuous improvement (Improve) and the cross-industry collaboration needed to drive transformational change (Transform, Advocate)
+Click here for more information.
+Management of environmental and social impacts in the supply chain. 
+Discussion of strategies to reduce the environmental impact of packaging. 
+FB-FR-430a.4 We address the impact of plastic packaging through our 4Rs strategy: to Remove it where we can, Reduce it where we can't, Reuse more and Recycle what's left. Our 4Rs strategy aims at ensuring that plastic never finds its way to landfill or into the environment. Our strategy focuses both on reducing the impact from our Own Brand products, and on working with our branded suppliers to deliver our packaging ambitions.
+Click here for more information.
+The Sustainability Accounting Standards Board (SASB) has developed a set of globally applicable, industry-specific sustainability standards. These identify financially material topics and associated metrics, in order for companies to communicate their sustainability approach and performance to investors. Our reporting below is based on the standards for the Food Retailers & Distributors industry.
+SASB.
+Activity metrics Code Performance. 
+Number of retail locations FB-FR-000.A Annual Report (See the five year record, page 213)
+Total area of retail space FB-FR-000.B Annual Report (See the five year record, page 213)
+Activity Metrics. 
+Disclosure Topics and Accounting Metrics

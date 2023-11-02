@@ -1,0 +1,217 @@
+This report marks the second time PepsiCo has reported in alignment with the Sustainability Accounting Standards Board (SASB) standards. We have reported the disclosures related to the two sectors that are most closely aligned to our business: Processed Foods and Non-Alcoholic Beverages. In certain instances, and as noted throughout this index, a specific SASB topic may be discussed generally in our ESG Report but we do not report on the corresponding SASB metric. In addition, certain disclosures may not be fully aligned with SASB’s definition, but represent the closest approximation possible. Unless otherwise noted, our sustainability data reflects progress made during the calendar year (ending December 31), whereas our financial reporting corresponds with our fiscal year, which varies slightly from year-to-year. We are constantly evaluating our goals and progress, assessing the technical and regulatory challenges we face in achieving our ambitious objectives, and innovating new ways to keep moving forward, which may impact goals referenced in this index. Inclusion of information in this index should not be construed as a characterization of the materiality or financial impact of that information. Please see our Form 10-K for the financial year ended December 25, 2021 and other publicly-filed documents, which are available at www.pepsico.com/investors/investor-relations.
+PepsiCo SASB Index 2021. 
+The information within this PDF is accurate as of June 28, 2022.
+
+
+Metric Metric Code Reporting Status. 
+Type of Disclosure. 
+Unit of Measure Response Reference. 
+Fleet Management. 
+Fleet fuel consumed. 
+FB-NB-110a.1. 
+Reported Quantitative Gigajoules (GJ) Nearly 20 million GJ of fuel ESG Topics A-Z: Fleet Efficiency. 
+Percentage renewable Reported Quantitative Percentage (%) Nearly 7% of fleet fuel was from renewable sources ESG Topics A-Z: Fleet Efficiency. 
+Energy Management. 
+Operational energy consumed. 
+FB-NB-130a.1. 
+Reported Quantitative Gigajoules (GJ)
+Approximately 59 million GJ, excluding fleet per guidance from SASB’s Non-Alcoholic Beverage Standard, which differs from the Processed Food Standard in this regard.
+ESG Topics A-Z: Climate Change. 
+Percentage grid electricity Reported Quantitative Percentage (%) 92% of electricity consumed in company-owned operations was from the grid. 
+ESG Topics A-Z: Renewable Energy. 
+Percentage renewable Reported Quantitative Percentage (%)
+More than 70% of electricity consumed in company-owned operations was from renewable sources. 
+ESG Topics A-Z: Renewable Energy. 
+Water Management. 
+Total water withdrawn. 
+FB-PF-140a.1 FB-NB-140a.1. 
+Reported Quantitative Cubic meters (m3) Approximately 86 million m3 ESG Topics A-Z: Water. 
+Total water consumed Reported Quantitative Cubic meters (m3) Approximately 29 million m3 ESG Topics A-Z: Water. 
+Percentage of each in regions with High or Extremely High Baseline Water Stress. 
+Reported Quantitative Percentage (%)
+During 2021, approximately 20% of the water PepsiCo withdrew and consumed in its company-owned operations was from regions of high water-risk.
+ESG Topics A-Z: Water. 
+Number of incidents of non-compliance associated with water quality and/or quality permits, standards and regulations. 
+FB-PF-140a.2 Reported Quantitative Number. 
+In PepsiCo's 2021 CDP Water Submission (the most recent submission at the time of SASB index publication), we disclose detail on the 8 fines the company incurred during the reporting year, totaling less than USD $1,500. PepsiCo did not have any incidents that were considered significant.
+2021 PepsiCo CDP Water Submission W2.2a. 
+Description of water management risks and discussion of strategies and practices to mitigate those risks. 
+FB-PF-140a.3 FB-NB-140a.2 Reported Qualitative Discussion and analysis. 
+In PepsiCo's 2021 CDP Water Submission (the most recent submission at the time of SASB index publication), we describe in detail our process for identifying, assessing, and responding to water-related risks.
+2021 PepsiCo CDP Water Submission W3.3
+
+
+Metric Metric Code Reporting Status. 
+Type of Disclosure. 
+Unit of Measure Response Reference. 
+Health and Nutrition. 
+Revenue from zero- and low-calorie beverages. 
+FB-NB-260a.1 Alternate disclosure Quantitative. 
+SASB Metric: Reporting currency. 
+Reported: Percentage (%)
+PepsiCo has set a goal that by 2025, ≥ 67% of beverage portfolio volume in its Top 26 beverage markets will have ≤100 Calories from added sugars per 12oz. serving.
+In 2021, 53% of our global beverages volume met this goal. During the year, the Top 26 markets represented 79% of global beverage volume.
+ESG Topics A-Z: Sugar Revenue from no-added-sugar beverages. 
+Revenue from artificially sweetened beverages. 
+Revenue from products labeled and/or marketed to promote health and nutrition attributes. 
+FB-PF-260a.1 Alternate disclosure Quantitative. 
+SASB Metric: Reporting currency. 
+Reported: Percentage (%)
+PepsiCo has set goals that by 2025, ≥ 75% of convenient foods portfolio volume in its Top 23 convenient foods markets will not exceed 1.3 milligrams of sodium per Calorie, or 1.1 grams of saturated fat per 100 Calories.
+In 2021, 66%1 of convenient foods portfolio volume met the sodium goal, and 75%1 met the saturated fat goal. During the year, the Top 23 markets represented 86% of global convenient foods volume.
+ESG Topics A-Z: Sodium. 
+ESG Topics A-Z: Saturated Fat. 
+Discussion of process to identify and manage products and ingredients related to nutritional and health concerns among consumers. 
+FB-PF-260a.2 FB-NB-260a.2 Reported Qualitative Discussion and analysis. 
+To help provide nutrition guidance during the development of our beverages and foods, and diversify our product portfolio in the process, we deploy the PepsiCo Nutrition Criteria (PNC). These science-based criteria are based on recommendations for food and nutrient intake from leading global and national nutrition authorities including the World Health Organization, the U.S. Department of Agriculture, the National Academy of Medicine, and national public health authorities. The PNC set standards for nutrients to limit as well as nutrients and food groups to encourage that are based on the latest science and country specific dietary guidelines. See ESG Topics A-Z for more on how we manage nutrition and product safety and quality.
+ESG Topics A-Z: Nutrition. 
+Nutrition Governance. 
+PepsiCo Nutrition Criteria. 
+ESG Topics A-Z: Product Safety and Quality 1 Results reflect exclusion of Be & Cheery portfolio
+
+
+Metric Metric Code Reporting Status. 
+Type of Disclosure. 
+Unit of Measure Response Reference. 
+Product Marketing and Labeling. 
+Percentage of advertising impressions made on children. 
+FB-PF-270a.1 FB-NB-270a.1. 
+Alternate disclosure. 
+SASB Metric: Quantitative. 
+Reported: Qualitative. 
+SASB Metric: Percentage (%)
+Reported: Qualitative discussion. 
+PepsiCo is committed to marketing our products responsibly to all consumers, and recognizes the need for special guardrails around whether and how we market our products to children. Our marketers are bound by PepsiCo’s Global Policy on Responsible Advertising and Marketing to Children, as well as all relevant local pledge programs, laws, and regulations.
+ESG Topics A-Z: Advertising and Marketing to Children and School Sales. 
+See policy documents:
+PepsiCo Global Policy on Responsible Marketing to Children. 
+PepsiCo Ammended U.S. Pledge to Children’s Food & Beverage Advertising Initiative. 
+PepsiCo Global Policy on the Sale of Beverages to Schools. 
+Percentage of advertising impressions made on children promoting products that meet dietary guidelines. 
+Revenue from products labeled as containing genetically modified organisms (GMOs)
+FB-PF-270a.2 FB-NB-270a.2. 
+Alternate disclosure. 
+SASB Metric: Quantitative. 
+Reported: Qualitative. 
+SASB Metric: Percentage (%)
+Reported: Qualitative discussion. 
+PepsiCo ensures that products containing bioengineered materials comply with local regulations for their use, including any labeling requirements. We want consumers to have clear and helpful information about their foods and beverages and believe that any labeling standards established in this regard should be clear and consistent so that consumers can better understand the safety, prevalence, and benefits of bioengineered ingredients and can make informed choices for themselves and their families.
+We do not currently track revenue from products containing bioengineered ingredients or labeled as non-GMO.
+ESG Topics A-Z: Bioengineered Food and Ingredients. 
+Revenue from products labeled as non-GMO. 
+Number of incidents of noncompliance with industry or regulatory labeling and/or marketing codes. 
+FB-PF-270a.3 FB-NB-270a.3. 
+Alternate disclosure Quantitative. 
+SASB Metric: Number. 
+Reported: Qualitative discussion. 
+See Advertising and Marketing to Children and School Sales for detail on the marketing codes, policies, and pledges we comply with.
+ESG Topics A-Z: Advertising and Marketing to Children and School Sales. 
+Total amount of monetary losses as a result of legal proceedings associated with marketing and/or labeling practices. 
+FB-PF-270a.4 FB-NB-270a.4. 
+Not reported Quantitative Reporting currency
+
+
+Metric Metric Code Reporting Status. 
+Type of Disclosure. 
+Unit of Measure Response Reference. 
+Packaging Lifecycle Management. 
+Total weight of packaging. 
+FB-PF-410a.1 FB-NB-410a.1. 
+Alternate disclosure Quantitative. 
+SASB Metric: Metric tons packaging Reported: Metric tons plastic packaging. 
+Approximately 2.5 million metric tons of plastic packaging ESG Topics A-Z: Packaging. 
+Percentage made from recycled and/or renewable materials. 
+Alternate disclosure Quantitative Percentage (%)
+PepsiCo aims to use 50% recycled content in its plastic packaging by 2030. Across our global companyowned and franchise beverage operations in 2021, PepsiCo used 6% recycled plastic in its plastic packaging.
+ESG Topics A-Z: Packaging. 
+Percentage that is recyclable, reusable, and/or compostable Reported Quantitative Percentage (%)
+PepsiCo has set a goal to design 100% of packaging to be recyclable, compostable, biodegradable or reusable by 2025. In 2021, 87% of our packaging met this requirement.
+ESG Topics A-Z: Packaging. 
+Discussion of strategies to reduce the environmental impact of packaging throughout its lifecycle. 
+FB-PF-410a.2 FB-NB-410a.2 Reported Qualitative Discussion and analysis. 
+Our vision is A World Where Packaging Never Becomes Waste. As we pursue our ambition to build a circular economy, we are working on a broad set of initiatives to introduce more sustainable packaging, develop appropriate end-of-life solutions, improve the carbon footprint of our packaging, as well as other environmental impacts, and ensure protection of human rights especially in the informal recycling sector. For more on our efforts to reduce the impact of our packaging, see ESG Topics A-Z: Packaging.
+ESG Topics A-Z: Packaging. 
+Food Safety. 
+Global Food Safety Initiative audit non-conformance rate. 
+FB-PF-250a.1 Alternate disclosure Quantitative Percentage (%)
+As of the end of 2021, 99% of company-owned facilities achieved certification from a GFSI-recognized certification program owner such as Food Safety System Certification (FSSC) 22000. Most were to a GFSI benchmarked standard, however due to COVID-19 some were conducted remotely.
+ESG Topics A-Z: Product Safety and Quality Global Food Safety Initiative audit associated corrective action rate for (a) major and (b) minor non-conformances
+
+
+Metric Metric Code Reporting Status. 
+Type of Disclosure. 
+Unit of Measure Response Reference. 
+Food Safety (continued)
+Percentage of ingredients sourced from Tier 1 supplier facilities certified to a Global Food Safety Initiative recognized food safety certification program. 
+FB-PF-250a.2 Alternate disclosure. 
+SASB Metric: Quantitative. 
+Reported: Qualitative. 
+SASB Metric: Percentage (%)
+Reported: Discussion and analysis. 
+It is our policy for suppliers of ingredients to achieve certification to a GFSI recognized standard, including Good Agricultural Practices (GAP) for agricultural commodities, or to demonstrate equivalence through a PepsiCo pre-approval audit scheme. We continue to work with suppliers to increase the proportion of GFSI certifications worldwide.
+ESG Topics A-Z: Product Safety and Quality. 
+Total number of notices of food safety violations received. 
+FB-PF-250a.3. 
+Reported Quantitative Number In 2021, zero facilities globally had regulatory violations defined as U.S. FDA warning letter or equivalent.
+ESG Topics A-Z: Product Safety and Quality. 
+Percentage corrected Reported Quantitative Percentage (%)
+Number of recalls issued. 
+FB-PF-250a.4. 
+Alternate disclosure. 
+SASB Metric: Quantitative. 
+Reported: Qualitative. 
+SASB Metric: Number. 
+Reported: Discussion and analysis. 
+PepsiCo has strong global quality and food safety standards. We use qualified ingredients, approved suppliers and follow all applicable regulations issued by regulatory authorities. Our products are traceable, which enables us to quickly investigate and address any potential concerns in the marketplace. Our facilities conduct mock recalls on at least an annual basis to ensure readiness to respond to any incident. On the rare occasions when incidents occur, we take quick action, conduct robust investigations, implement corrective actions and share learnings across the system.
+ESG Topics A-Z: Product Safety and Quality. 
+Total amount of food product recalled Reported Quantitative Metric tons. 
+In 2021, PepsiCo produced more than 90 million metric tons of food and beverage, of which we recalled 20 metric tons, all voluntarily. None of the recalls were classified as notable as defined in the SASB Processed Food standard.
+ESG Topics A-Z: Product Safety and Quality
+
+
+Metric Metric Code Reporting Status. 
+Type of Disclosure. 
+Unit of Measure Response Reference. 
+Environmental & Social Impacts of Ingredient Supply Chain. 
+Percentage of food ingredients sourced that are certified to third-party environmental standards and percentages by standard. 
+FB-PF-430a.1 Alternate disclosure Quantitative. 
+SASB Metric: Percentage (%) by cost. 
+Reported: Percentage (%) by volume. 
+In 2021, we achieved 100% Roundtable on Sustainable Palm Oil physically-certified palm oil and 100% Bonsucro certified sustainable cane sugar globally.1. 
+Approximately 50% of our key ingredients were sustainably-sourced, including more than 90% of growersourced crops. For grower-sourced crops, sustainable sourcing refers to meeting the independently verified environmental, social and economic principles of PepsiCo’s Sustainable Farming Program (SFP). For suppliersourced crops, sustainable sourcing is achieved through a third party standard that has been benchmarked as equivalent to the SFP or, in limited regions, a continuous improvement program addressing the main environmental and social risks with growing the relevant crop.
+ESG Topics A-Z: Agriculture Sustainable Farming Program Scheme Rules. 
+Suppliers' social and environmental responsibility audit non-conformance rate. 
+FB-PF-430a.2 FB-NB-430a.1. 
+Reported Quantitative Rate. 
+In 2021, more than 900 on-site audits or virtual assessments were conducted with first-tier suppliers using the industry standard SMETA 4-Pillar Audit Protocol or an equivalent assessment. Among our Tier 1 strategic suppliers in 2021, the non-conformance rate for suppliers with highest risk — red audit results — was just over 8% of our total assessments.
+ESG Topics A-Z: Sustainable Sourcing. 
+Suppliers' social and environmental responsibility audit: associated corrective action rate for (a) major and (b) minor non-conformancies. 
+Reported Quantitative Rate. 
+At the year-end, corrective action plans had been developed for 100% of the ‘red sites’ which will be validated by an auditor at their next on-site follow-up audit.
+ESG Topics A-Z: Sustainable Sourcing 1 We increased our sourcing through the RSPO Mass Balance physically certified supply chain model and procured de minimis Independent Smallholder Credits to achieve 100% RSPO certification in 2021.
+
+
+Metric Metric Code Reporting Status. 
+Type of Disclosure. 
+Unit of Measure Response Reference. 
+Ingredient Sourcing. 
+Percentage of beverage / food ingredients sourced from regions with High or Extremely High Water Stress. 
+FB-PF-440a.1 FB-NB-440a.1. 
+Alternate disclosure Quantitative. 
+SASB Metric: Percentage (%) by cost. 
+Reported: Percentage (%) by volume. 
+At the end of 2021, we sourced approximately 40% of our direct grower-sourced key ingredients – those considered the building blocks of our convenient foods and beverages – from areas of high water-risk.
+ESG Topics A-Z: Agriculture. 
+List of priority beverage / food ingredients and description of sourcing risks due to environmental and social considerations. 
+FB-PF-440a.2 FB-NB-440a.2 Reported Qualitative Discussion and analysis. 
+Making our products requires a wide variety of crops and ingredients and we believe that regenerative agricultural practices will be pivotal in meeting the increasing demand for food, while also addressing some of the key risks that can be associated with agriculture, such as freshwater scarcity, deforestation, biodiversity loss, soil degradation, and human rights. For a list of our key ingredients, see ESG Topics A-Z: Agriculture.
+ESG Topics A-Z: Agriculture. 
+Activity Metrics. 
+Volume of products sold FB-NB-000.A Reported Quantitative Millions of hectoliters. 
+PepsiCo sold approximately 650 million hectoliters of beverages in its Top 26 markets in 2021, which collectively accounted for 79% of global beverage sales during the year.
+ESG Topics A-Z: Nutrition. 
+Weight of products sold FB-PF-000.A Reported Quantitative Metric tons. 
+PepsiCo sold more than 7 million metric tons of convenient foods product in our Top 23 markets in 2021, which collectively accounted for 86% of our global convenient foods sales during the year.
+ESG Topics A-Z: Nutrition. 
+Number of production facilities FB-PF-000.B FB-NB-000.B Reported Quantitative Number 294 company-owned manufacturing sites ESG Summary: Our Value Chain. 
+Total fleet road miles traveled FB-NB-000.C Reported Quantitative Miles In 2021, our company-owned fleet traveled approximately 1.2 billion miles. ESG Topics A-Z: Fleet Efficiency

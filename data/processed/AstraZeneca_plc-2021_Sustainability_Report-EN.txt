@@ -1,0 +1,893 @@
+Sustainability Report 2021
+
+
+Unlocking the potential of the complement system The dysregulation of the complement system, an essential part of the immune system, is a key driver of many devastating diseases. Targeting and inhibiting the complement system before it can trigger tissue damage or destruction can help restore balance. We are committed to continue unlocking the potential of the complement system, to discover new life-changing therapies for even more patients.
+Assurance. 
+We obtained external review of our sustainability performance to validate that we use the same rigour and accuracy as we do with regulated reporting. Bureau Veritas has provided independent external assurance for progress on all sustainability targets and all sustainability key performance indicators shown in the Sustainability Data Summary. Details are described in the sustainability letter of assurance. Assurance was also provided for select sustainability information in the 2021 Annual Report. Assurance is in accordance with the International Standard on Assurance Engagements 3000 (ISAE 3000), and ISAE 3410 Assurance Engagements on Greenhouse Gas Statements.
+This report:
+This is our seventh annual sustainability report and it describes our approach and progress from 1 January 2021 to 31 December 2021, unless otherwise stated. The content of this report is based on those sustainability focus areas deemed material through comprehensive stakeholder engagement and analysis. All our business operations worldwide are in scope regardless of their function, unless otherwise stated.
+Online resources:
+AstraZeneca Sustainability Data Summary: provides performance measures and targets with at least three years of data, where available, and a United Nations Sustainable Development Goals index.
+AstraZeneca Sustainability webpages: cover additional topics of interest to our stakeholders.
+Infographics: show our processes and practices.
+Policies and company standards: state our position and guidance on key topics.
+2021 Annual Report: includes how sustainability is integrated across our business model and into risk management.
+About this report Contents. 
+Notices 35. 
+Sustainability overview 2. 
+Leading in sustainability 3. 
+Sustainability at AstraZeneca 4 2021 performance highlights 5. 
+About us 6. 
+Contribution to UN SDGs 7. 
+Sustainability governance 8. 
+Stakeholder engagement 9. 
+Access to healthcare 10. 
+Overview 11. 
+Equitable access 12. 
+Affordability and pricing 14. 
+Health system resilience 16. 
+Environmental protection 18. 
+Overview 19. 
+Ambition Zero Carbon 20. 
+Product sustainability 23. 
+Natural resources 25. 
+Ethics and transparency 27. 
+Overview 28. 
+Ethical business culture 29. 
+Inclusion and diversity 31. 
+Workforce safety and health 33. 
+Sustainability overview About this report. 
+AstraZeneca Sustainability Report 2021 2. 
+Access to healthcare Environmental protection Ethics and transparency Notices
+
+
+Message from the CEO. 
+Taking action to drive sustainability is fundamental – for the health of people, society, and the planet.
+Together with others, we have a responsibility to innovate and accelerate the delivery of sustainable healthcare in order to ensure a brighter future.
+2021 was another remarkable year for AstraZeneca in delivering for patients and one in which we made a significant contribution to society. Our work to tackle the biggest public health crisis of our lifetime is a testament to this, and I could not be prouder of the efforts of our employees around the world. Together with our global partners, we supplied about 2.5 billion doses of our COVID-19 vaccine to more than 180 countries during the year. Of these, approximately two-thirds went to low- and lowermiddle-income countries, and more than 247 million were delivered to 130 countries through the COVAX Facility, underlining our commitment to equitable access to healthcare.
+While it is clear that the global pandemic has had a huge impact on human health, it is essential to recognise that the effects of the climate crisis could be even greater. That’s why we are taking bold action, driven by science, to reduce. 
+Leading in sustainability. 
+Katarina Ageborg marking the International Day of the Girl Child. 
+Message from the EVP, Sustainability. 
+Sustainability is part of our organisational DNA, embedded from the lab to the patient, and delivered thanks to the efforts of over 80,000 employees.
+We seek to create value to society beyond the impact of our medicines, and I’m therefore proud of the progress that we’ve made throughout 2021 across our three sustainability pillars: increasing access to healthcare, protecting the environment, and demonstrating our commitment to ethics and transparency. Our leadership has been recognised externally, with inclusion in Corporate Knight’s ranking of the top 100 sustainable global corporations for the fifth year running.
+Throughout 2021, advancing inclusion and diversity has been a key focus for us; it’s critical to unlocking innovation as well to nurturing an ethical business culture. Our support of the Girls Belong Here initiative demonstrates our commitment in this space. Championing integrity, transparency, and fair treatment across our organisation, as well as with suppliers and partners, is also critical.
+2022 promises to be another important year as we continue to play a leading role in building a healthy future for all and challenge ourselves to make an even bigger difference.
+— Katarina Ageborg, EVP, Sustainability and Chief Compliance Officer our greenhouse gas (GHG) emissions and have expanded our Ambition Zero Carbon strategy to include a net zero emissions target across the value chain by 2045. Importantly, this target is verified by the Science Based Targets initiative (SBTi) in line with their new Corporate Net Zero Standard.
+As you will see from this report, we’ve made solid progress in reducing our Scope 1 and 2 GHG emissions. By the end of December 2021, we had achieved a 59% reduction in GHG emissions compared to our 2015 baseline, including the full integration of Alexion’s carbon footprint just months after having welcomed our new colleagues to the Group and strengthened our expertise in rare diseases.
+As we look ahead, increased publicprivate collaboration is critical to delivering net zero, patient-centric healthcare and building stronger, more resilient health systems. In 2021, we launched the second phase of our Partnership for Health System Sustainability and Resilience with the London School of Economics, the World Economic Forum, and others, to strengthen health systems around the world. We also continue to work across the healthcare sector, including through the Sustainable Markets Initiative (SMI) Health Systems Taskforce, which I’m proud to champion, to accelerate the decarbonisation of healthcare.
+I am convinced that by continuing to take action and advancing purpose-driven partnerships in 2022 and beyond we can achieve system-wide change at scale – to benefit patients, society at large, and our planet.
+— Pascal Soriot, AstraZeneca CEO. 
+CEO Pascal Soriot signing the Terra Carta, a roadmap to 2030 for businesses to move towards an ambitious and sustainable future. 
+Leading in sustainability. 
+AstraZeneca Sustainability Report 2021 3. 
+Sustainability overview Access to healthcare Environmental protection Ethics and transparency Notices
+
+
+Sustainability at AstraZeneca is about using our capabilities to make the most meaningful impact where society needs it — health.
+Our future depends on healthy people, a healthy society, and a healthy planet. We know that these elements are interconnected. Working in partnership with all our stakeholders, we must build a sustainable future, tackling the major issues of our time.
+We are united by a desire to push the boundaries of science to deliver life-changing medicines and support sustainable healthcare in a way that is respectful of our planet. We are harnessing the power of science, innovation, partnership, and our global reach, to make a positive impact by embedding sustainability into everything we do.
+Sustainability at AstraZeneca. 
+Our sustainability strategy. 
+Our sustainability strategy is guided by a materiality assessment which we updated in 2021, inviting internal and external stakeholders to contribute their views and help us to prioritise. This assessment led to a broadening of the scope of nine material focus areas where we could make the most impact, each with their own targets and commitments.
+Our analysis also confirmed our three interconnected strategic priorities: Access to healthcare, Environmental protection, and Ethics and transparency.
+H ea lt hy p
+la ne t. 
+H ea lt hy p
+eo pl e. 
+H ea lt hy s
+oc ie ty. 
+E t
+h i
+c s
+ a
+n d
+t r
+a n
+s p
+a r
+e n
+c y. 
+A c
+c e
+s s
+t o
+ h
+e a
+lt h
+c a
+r e. 
+E n
+v ir o
+n m
+e n
+t a
+l p
+r o
+t e
+c ti o
+n. 
+Sustainability at AstraZeneca. 
+Using our capabilities to make the most meaningful impact where society needs it – health. Our sustainability approach • Systems thinking — we recognise that our globalised world binds us together in a dynamic, complex network of relationships. We look for opportunities that offer synergies and address systemic issues.
+• Long-term perspective — we acknowledge there are no quick fixes so we must think long-term. We anticipate, and avoid or address unintended impacts, monitoring changes over time and building resilience.
+• Creating the conditions for lasting sustainability — we apply science to go beyond preventing and addressing any impacts from our activities to improve the environment.
+Our ambitions. 
+Increasing access to life-saving treatments, promoting prevention, and strengthening global healthcare resilience and sustainability.
+Accelerating the delivery of net zero healthcare, proactively managing our environmental impact, and investing in nature and biodiversity.
+Ensuring ethical, open and inclusive behaviour across our organisation and value chain.
+Sustainability at AstraZeneca. 
+AstraZeneca Sustainability Report 2021 4. 
+Sustainability overview Access to healthcare Environmental protection Ethics and transparency Notices
+
+
+Sustainability strategy 2021 performance highlights 199,000+ healthcare workers and others trained1 (cumulative) 11m+ people reached though our Patient Assistance Programmes3 (cumulative) 50.9 instances of non-compliance with the Code of Ethics per thousand employees in commercial business units 59% reduction in Scope 1 and 2 greenhouse gas emissions since 2015 8% reduction in our waste since 2015 17% reduction in our water use since 2015 31m+ people reached through our access programmes1, 2 (cumulative) 48.1% women in senior middle management roles and above. 
+Access to healthcare. 
+Environmental protection. 
+Ethics and transparency 83% of employee survey respondents feel that AstraZeneca has a ‘Speak Up’ culture4 9 focus areas identified in our materiality assessment as priorities where we can make most difference 35 key performance metrics measured quarterly in the internal company scorecard 85% of employee survey respondents say that they understand their contributions to our sustainability priorities 2021 performance highlights. 
+AstraZeneca Sustainability Report 2021 5. 
+Sustainability overview. 
+See Sustainability Data Summary for full metrics and methodology. 
+Access to healthcare Environmental protection Ethics and transparency Notices
+
+
+About us. 
+Our Values Our strategic priorities. 
+We follow the science. 
+We put patients first. 
+We play to win. 
+We do the right thing. 
+We are entrepreneurial. 
+Deliver Growth and Therapy Area Leadership. 
+Accelerate Innovative Science. 
+Be a Great Place to Work. 
+Inspired by our Values and what science can do, we are focused on accelerating the delivery of life-changing medicines that create enduring value for patients and society.
+We are a global, science-led biopharmaceutical company that focuses on the discovery, development, and commercialisation of prescription medicines in Oncology, Rare Diseases, and BioPharmaceuticals, including Cardiovascular, Renal & Metabolism, and Respiratory & Immunology. Based in Cambridge, UK, AstraZeneca operates in over 100 countries and its innovative medicines are used by millions of patients worldwide.
+Our purpose:
+Our recognition 3,500 Central and South America 15,900 US 1,100 Canada 8,800 UK 6,900 Sweden 11,400 Other Europe 1,600 Russia 1,800 Middle East and Africa 20,600 China 3,400 Japan 7,100 Other Asia Pacific 1,000 Australia and New Zealand. 
+Strategic R&D centres:
+Cambridge, UK (HQ); Gaithersburg, MD, US; Gothenburg, Sweden. 
+Other R&D centres and offices:
+South San Francisco, CA, US; New York, NY, US; New Haven, CT, US; Boston, MA, US; Alderley Park and Macclesfield, UK; Shanghai, China; Osaka, Japan.
+83,100 employees worldwide. 
+World and Europe Global constituent Dow Jones Sustainability Index 100 Most Sustainable Companies Corporate Knights. 
+A List Climate Change and Water Security CDP 7th out of 20 Access to Medicines Index. 
+About us. 
+AstraZeneca Sustainability Report 2021 6. 
+Sustainability overview Access to healthcare Environmental protection Ethics and transparency Notices
+
+
+Contribution to UN SDGs. 
+The 17 interconnected United Nations Sustainable Development Goals (SDGs) are a global call to action, to address poverty, injustice, and inequality, whilst tackling climate change.
+We evaluate our contribution to the SDGs by connecting them to our targets, annual progress, material focus areas and future strategic direction.
+SDG 3 | Good health and wellbeing 3.4 Reduce premature mortality from NCDs5, 6 • 3,599 health facilities activated (cumulative) through Healthy Heart Africa and Healthy Lung programmes • NCD prevention information reaches 30 countries through our Young Health Programme 3.6 By 2030, halve the number of global deaths and injuries from road traffic accidents • 40% reduction in collision rate since 2015 3.8 Achieve universal health coverage • More than 11 million people were reached by Patient Access Programmes (cumulatively) • More than 31 million (cumulative) people reached through healthcare programmes 2, 5, 6, 7 3.c Substantially increase health workforce in developing countries • More than 124,000 healthcare workers trained (cumulatively)6. 
+SDG 5 | Gender equality 5.5 Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life9 • 48.1% of senior roles occupied by women • 38.5% of Board of Directors occupied by women. 
+SDG 6 | Clean Water and Sanitation 6.3 By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials • In 2021 100% of API discharges from AstraZeneca sites and 91% from our direct suppliers demonstrated as safe11, 12,13 6.4 By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity • 17% reduction in water use since 2015 baseline14. 
+SDG 8 | Decent work and economic growth 8.8 Protect labour rights and promote safe and secure working environments for all workers • 68% reduction in reportable injury rate since 201516. 
+SDG 12 | Responsible consumption and production 12.2 Achieve the sustainable management and efficient use of natural resources • 75% of new products have met their defined resource efficiency targets at launch since 201510 12.5 By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse • 8% decrease in total waste generation since 2015 baseline14, 15 • In 2021, avoided 999 tonnes of waste by selling it as a by-product. 
+SDG 13 | Climate action 13.2 Integrate climate change measures into national policies, strategies and planning • Reduced Scope 1 and 2 emissions by 59% since 20158 • Scope 3 emissions increased by 15% since 2019. 
+SDG 7 | Affordable and Clean Energy 7.3 By 2030, double the global rate of improvement in energy efficiency • 64% increase in EP 100: Energy productivity (USD revenue per MWh)
+SDG 17 | Partnership for the goals 17.17 Encourage and promote effective public, public–private and civil society partnerships • Launched phase two Partnership for Health System Sustainability and Resilience (PHSSR)
+SDG 15 | Life on Land • 3,430,061 trees were planted since 2020 through AZ Forest • 2022 target: Ensure 95% of paper-based product packaging materials used are supplied from sustainable sources. 
+Contribution to UN SDGs. 
+AstraZeneca Sustainability Report 2021 7. 
+Sustainability overview Access to healthcare Environmental protection Ethics and transparency Notices
+
+
+Sustainability governance. 
+Our governance organisation. 
+A number of different stakeholders provide governance over our sustainability progress, helping to ensure that we stay on track and move forward in the most impactful way.
+Leif Johansson. 
+BOD. 
+Non-Executive Chairman of the Board. 
+Pascal Soriot BOD SET. 
+CEO and Executive Director of the Board. 
+Nazneen Rahman. 
+BOD BSC. 
+Non-Executive Director of the Board and Chair of the Sustainability Committee. 
+Andreas Rummelt. 
+BOD BSC. 
+Non-Executive Director of the Board. 
+Sheri McCoy. 
+BOD BSC. 
+Non-Executive Director of the Board. 
+Marcus Wallenberg. 
+BOD BSC. 
+Non-Executive Director of the Board. 
+Katarina Ageborg. 
+SET. 
+EVP, Sustainability and Chief Compliance Officer, President AstraZeneca AB, Sweden. 
+Board of Directors. 
+The AstraZeneca Board of Directors reviews our internal sustainability scorecard each quarter. During 2021, Nazneen Rahman, Non-Executive Director, oversaw sustainability on behalf of the Board, until the creation of the Board Sustainability Committee in September 2021, which she chairs.
+Senior Executive Team (SET)
+The Senior Executive Team, made up of our CEO Pascal Soriot and company leaders who report into him, is accountable for specific sustainability initiatives and reviews our internal sustainability scorecard each quarter.
+Katarina Ageborg, EVP Sustainability and Chief Compliance Officer, is responsible for the overall sustainability strategy execution, including measuring progress on targets and working with company leadership to ensure alignment with business priorities.
+Board Sustainability Committee. 
+In 2021, the Board set up a Sustainability Committee17 to monitor the execution of our sustainability strategy, oversee communication of sustainability activities with stakeholders, and provide input to the Board and other Board Committees on sustainability matters. The Non-Executive Board members of the Committee are Nazneen Rahman (Chair), Sheri McCoy, Andreas Rummelt and Marcus Wallenberg.
+Standing attendees at Committee meetings include the EVP, Sustainability & Chief Compliance Officer, the EVP Operations & IT, and the VP Global SHE & Operations Sustainability.
+BOD Board of Directors BSC Board Sustainability Committee SET Senior Executive Team (SET)
+Sustainability governance. 
+AstraZeneca Sustainability Report 2021 8. 
+Sustainability overview Access to healthcare Environmental protection Ethics and transparency Notices
+
+
+2021 Materiality assessment focus areas. 
+Stakeholder engagement in action. 
+Our key stakeholder groups include the following:
+We value the diverse perspectives of internal and external stakeholders, which help to shape our sustainability strategy and guide its implementation.
+We welcome transparent dialogue via a range of communication channels — online, face to face and in groups. Our Code of Ethics guides our approach and you can read more about how anyone can raise concerns here.
+Materiality assessment. 
+In 2021 we refreshed our previous materiality assessment, which guides our sustainability strategy by identifying the issues that matter most to AstraZeneca and our stakeholders, and shows where we can have the most positive impact. We also assess our strategy against emerging trends and through what we learn from all our stakeholder engagements.
+In collaboration with an independent consultancy, and with the directional guidance of our Sustainability Advisory Board (SAB)18, our 2021 materiality assessment refined how we define our priorities and broadened the scope of nine focus areas. Each material focus area is detailed in this report, along with the relevant targets and goals, illustrated by examples of sustainability in action from our 2021 activities. Following this exercise, it was agreed that the SAB had fulfilled its remit.
+Stakeholder engagement. 
+Patients: We engage with patients, caregivers and patient advocacy organisations representing the diverse populations that our medicines may serve. We embed these insights to ensure that the medicines and services we develop have the greatest impact on their lives. See Access to healthcare for examples.
+Communities: We aim to make a positive impact on people in all the communities where we are present, supporting programmes to advance patient health, increase access to care, drive scientific innovation and build resiliency. In 2021, we provided $112.9m to more than 1,220 non-profit organisations across 74 countries.
+Government bodies and regulators: We partner with stakeholders on a global, regional and local level on shared objectives and health priorities. Through public-private collaboration, we are helping to address societal and health challenges – such as the pandemic response, health system resilience and climate change – and are committed to making a sustainable impact.
+Healthcare professionals (HCPs): We rely on HCP insights to improve how we develop and deliver our medicines to patients. We engage with HCPs through advisory boards, clinical trials and educational events and congresses. In 2021 we responded to 118,000 HCP enquiries and processed over 60,000 adverse event reports from HCPs.
+Suppliers: We depend on integrated supply chains and third-party providers to produce and deliver medicines to patients across the world. Our partners make a critical contribution to achieving our sustainability goals. We also partner with them to promote ethical practices and support their sustainability journey.
+Employees: We hold employee engagement events on our sustainability agenda and create opportunities for employee action, including through our Sustainability & Me global employee campaign as well as during AstraZeneca’s Patient Week, Power of Diversity Week, and on the International Day of the Girl.
+Analysts, investors, and ratings agencies: We share periodic sustainabilityrelated updates with analysts, institutional investors and rating agencies, through direct outreach and in a dedicated section within our full-year and quarterly results announcements and presentations. In 2021, we hosted 40 sustainability-focused events.
+Stakeholder engagement. 
+AstraZeneca Sustainability Report 2021 9. 
+Sustainability overview Access to healthcare Environmental protection Ethics and transparency. 
+Equitable access. 
+Affordability and pricing. 
+Ambition Zero Carbon. 
+Product sustainability. 
+Natural resources. 
+Ethical business culture. 
+Inclusion and diversity. 
+Workforce safety and health. 
+Environmental protection. 
+Ethics and transparency. 
+Health system resilience. 
+Access to healthcare. 
+Notices
+
+
+Access to healthcare. 
+Our ambition:
+Increasing access to life-saving treatments, promoting prevention, and strengthening global healthcare resilience and sustainability. 
+Connection to health:
+Innovative and sustainable healthcare solutions are essential to improving global health outcomes. 
+Health is key for people, planet and business to thrive. 
+Contributing to the Sustainable Development Goals, a universal blueprint for prosperity for people and the planet, now and into the future. SDG 3 | Good health and wellbeing SDG 17 | Partnerships for the goals 199,000+ healthcare workers and others trained1 (cumulative) 31m+ people reached through our access programmes1,2 (cumulative) 11m+ people reached though our Patient Assistance Programmes3 (cumulative) 2021 performance:
+Our material focus areas 3,500+ healthcare facilities activated1. 
+Access to healthcare. 
+AstraZeneca Sustainability Report 2021 10. 
+Access to healthcare. 
+See Sustainability Data Summary for full metrics and methodology. 
+Sustainability overview Environmental protection Ethics and transparency. 
+Equitable access Affordability and pricing Health system resilience. 
+Notices
+
+
+We want to help secure a future where all people have access to affordable, sustainable healthcare. This is critical for the prevention and early diagnosis of disease — as well as delivering life-changing treatments — for healthy people and a healthy society.
+The big picture. 
+We recognise health as a human right. Healthcare is our core business; our purpose is to push the boundaries of science to deliver life-changing medicines. The development and supply of our COVID-19 vaccine put broad and equitable access at the heart of our pandemic response. Together with our global partners, we supplied about 2.5 billion vaccine doses to more than 180 countries in 2021. Of these, approximately two-thirds went to low- and lower-middle-income countries, and more than 247 million were delivered to 130 countries through the COVAX Facility in 2021.
+Approach. 
+At AstraZeneca, we are committed to supporting society through some of its toughest healthcare challenges. We work in collaboration with governments, academia, international and local organisations, and other stakeholders and we always put patients first.
+We provide healthcare solutions across the patient care pathway — from prevention, raising awareness, diagnosis and treatment, to post-treatment. We are focused on: • Innovating to deliver life-changing medicines and future-proof global health systems • Partnering to improve health equity for patients now and in the long-term • Transforming healthcare to ensure everyone has equitable access to treatment. 
+Governance. 
+We collaborate on our Access to healthcare material focus areas on a cross-functional basis to deliver our strategy and measure progress.
+Access to healthcare overview. 
+Material focus areas. 
+Working towards a future where all people have access to sustainable healthcare solutions for life-changing treatment and prevention. 
+Innovating. 
+Transforming Partnering. 
+Patients. 
+Access to healthcare overview. 
+AstraZeneca Sustainability Report 2021 11. 
+Access to healthcare Sustainability overview Environmental protection Ethics and transparency. 
+Equitable access. 
+Affordability and pricing. 
+Health system resilience. 
+Notices
+
+
+Why it matters. 
+Your health should not be determined by who you are, where you live or where you were born. We are working to remove barriers to healthcare and give everyone the chance to be as healthy as possible. This includes supporting the development, and improving delivery of healthcare, particularly in low- and middle-income countries.
+Description. 
+Embedding practices into our product portfolio to drive equitable access to healthcare — including digital health, clinical trial diversity, patient centricity, investment in rare diseases, open innovation and IP-sharing arrangements.
+Approach. 
+AstraZeneca is committed to equitable access to healthcare for patients globally. Our approach includes adapting our programmes to integrate into local systems and delivering affordable medicines to patients. We work on a cross-functional basis to develop an innovative product portfolio that drives positive global health outcomes to: • Address unmet medical needs and barriers to access • Increase the speed and breadth of patient access • Drive excellence in product life cycle management • Understand the long-term impacts of scientific advances. 
+As a science-led, patient-focused organisation, we have an obligation to play our part in addressing health inequities and eliminating discrimination from the delivery of healthcare. This includes harnessing the power of data and analytics to transform medicines development and improve patient outcomes and experience through the use of digital technology in R&D.
+We are committed to ensuring that our clinical trials represent the diversity of the communities we serve, by embedding diversity and inclusion parameters into the entire clinical development life cycle. This includes a diverse geographical selection for clinical trial development, as well as early access and continued posttrial access for clinical trial participants.
+We collaborate to advance scientific understanding and build local capacity for R&D, as well as consider how our products will affect the populations they intend to treat within the R&D phases through our work on product safety and environmental stewardship.
+We also consider the range of ethical patient access issues that arise from biological and medical science.
+Challenges. 
+Our access programmes in low- and middle-income countries are tailored to meet the needs of the healthcare systems, patients and communities they serve. We identify barriers to care and contribute towards health system strengthening by training providers and addressing gaps in awareness, education, prevention and diagnosis. To address some of the challenges of healthcare inequity highlighted during the pandemic, we re-aligned our access initiatives to meet local needs through: • Improving diversity in clinical trials • Focusing on equitable pricing strategies to meet varying income levels • Collaborating in cross-sector partnerships to improve health outcomes. 
+Equitable access 2025 target Reach 50 million people (cumulatively) through Healthy Heart Africa, Young Health Programme (YHP), and Healthy Lung programmes. 
+Status: On Plan 2021 update More than 31 million people reached (cumulatively) through Healthy Heart Africa, Young Health Programme and Healthy Lung programmes1, 2. 
+Philanthropy 2021 update $112.9m total community investment, sponsorships, partnerships and charitable donations (not including Patient Assistance)
+Key targets and progress. 
+Equitable access. 
+AstraZeneca Sustainability Report 2021 12. 
+Access to healthcare. 
+See Sustainability Data Summary for full metrics and methodology.
+Sustainability overview Environmental protection Ethics and transparency Notices
+
+
+Highlights. 
+Accelerating Change Together (ACT) on Health Equity In 2021, AstraZeneca US launched a five-year initiative to identify and invest in solutions to advance health equity in partnership with the external community. ACT on Health Equity is a natural extension of our longstanding values to follow the science and put patients first. Living these values requires that we increase our focus on closing the gaps in health outcomes impacting historically excluded and disenfranchised populations. The initiative balances an urgency to act with the desire for long-term sustainable change. Key accomplishments in the inaugural year include: the creation of a Health Equity Advisory council to provide ongoing external expertise, more than $4m in new strategic collaborations with non-profits advancing health equity in our core therapeutic areas and at the community level, and opportunities for employees company-wide to make an impact.
+Global initiatives to better understand clinical trial diversity In 2021, we made progress in building a foundation for our commitment to clinical trial diversity: • We reviewed and updated processes and systems allowing capture and further analysis of demographic parameters such as patient race and ethnicity • We are actively contributing to industry partnerships, such as PhRMA and TransCelerate, to advance clinical trial diversity initiatives and build inclusive community-based partnerships that serve underserved communities • We were one of 23 companies that contributed to a study by the Tufts Center for the Study of Drug Development (TCSDD) on increasing diversity in clinical trials, which was delivered in October 2021. This was conducted on a global and cross-industry basis to gather baseline measurement of clinical research staff diversity at investigative sites globally, and to identify opportunities to better engage with and enable them in the successful execution of clinical trials. Over 3,462 investigative site personnel took part • We developed and tested a bespoke diversity measurement tool, built on updated data systems and infrastructure, to be implemented in all new trials by the end of 2022 • Alexion, AstraZeneca's Rare Disease Group, established an 'Innovation Pod' focused on clinical trial diversity with a cross-functional team of subject matter experts, working in partnership with R&D leadership, to embed a diverse and equitable mindset into trial design and recruitment to better address health inequities within our rare disease global patient communities. The team aspires to track diversity in all of our Phase II-III clinical studies, as well as have real-world representation in our clinical programmes. In 2021, the focus was on analysing and understanding current status, and raising awareness of why diversity in clinical trials is important, both internally and externally. 
+The home of patientenabled innovation. 
+A.Catalyst Network is a global network of more than 20 AstraZeneca health innovation hubs, made-up of physical locations and partner ecosystems. It brings together traditional (patients, healthcare practitioners, governments and policy makers, academia) and nontraditional (tech and fintech, pharma companies, ecosystem builders, founders and investors) partners to advance equitable access to affordable, high-quality and innovative solutions. Through this network, we are co-creating challenge-based solutions with, and for, patients, and are working with partners to establish integrated and strong health systems that benefit the whole patient experience.
+By the end of 2021, we had established more than 400 partnerships, over 80 of which were long-term partners, with a further seven anchor partners who helped us set up the hubs, including Slush — the world’s largest startups community. Together we have reached more than 730,000 patients, influenced more than 110 projects and partnerships aligned with our product and access strategies, and mentored more than 240 start-ups, helping to scale 11 solutions.
+In 2021, we announced a joint venture with the UK Royal Academy of Engineering to strengthen healthcare innovation, nurture local talent and boost economic progress across Africa. We also expanded our partnership with Bitgenia to cover the whole of Latin America. The ColGenBio platform aims to improve treatment outcomes by enabling the matching of life-changing medicines with the patients most likely to benefit.
+AI-powered solutions for early disease detection in emerging markets. 
+We partner with companies specialising in artificial intelligence (AI) solutions to enable early diagnosis and intervention, and improve cure rates for some of the most important disease areas — including lung cancer, chronic obstructive pulmonary disease (COPD) and congestive heart failure.
+One example is our partnership with Qure.ai, developers of deep learning algorithms for the interpretation of radiology images. We use their qXR AI-based comprehensive chest X-ray software to automatically detect clinically relevant findings. This partnership aims to integrate AI solutions for the early detection of lung cancer in patients in multiple emerging markets across Latin America, Asia, the Middle East and Africa. Results so far include lung cancer detection in 13 countries, with 2-3% of nodules detected in approximately 10,000 scans. We have similar partnerships with Predible and Botkin.AI.
+Sustainability in action. 
+Investing in supporting the rare disease community. 
+Alexion’s Diagnostic Center of Excellence works to address the unmet medical needs of the rare disease community. Most rare diseases have a genetic component and the majority of people with a rare disease remain undiagnosed — on average waiting almost five years and seeing over seven specialists3, which is unacceptable. One example of progress in this space is Wilson disease (WD) – a genetic disorder that requires life-long therapy and is often misdiagnosed until patients have significant symptoms. In partnership with our Bioinformatics and Data Science group and Genomenon, we are providing a curated database of genetic variants for the gene that is a driver for WD. This partnership will benefit patients by organising, interpreting and making broadly available genetic information on WD.
+Equitable access. 
+AstraZeneca Sustainability Report 2021 13. 
+Access to healthcare Environmental protection Ethics and transparency Sustainability overview Notices
+
+
+2021 update 1,220 non-profit organisations funded by AstraZeneca 2021 update $2,351.5m in product donation through Patient Assistance Programmes3. 
+Why it matters. 
+We want all patients who need our medicines to be able to access them without suffering financial hardship. We are constantly looking at ways to make our lifechanging medicines widely available and accessible to people around the world. There is no single solution — making progress here will require our industry, policymakers and payers to address the barriers to access and affordability together.
+Description. 
+Drive accessibility of medicines for diverse, equitable and inclusive patient groups, through company policy and programming, including core pricing principles and access programmes.
+Approach. 
+We take a broad approach to reflect the wide variation in global healthcare systems, working closely with payers, policymakers and non-governmental organisations to ensure access is both widespread and sustainable. A variety of approaches and programmes are tailored to address local needs, working together with local healthcare systems. These have the aim of both improving their resilience and supporting sustainable access to, and affordability of, healthcare.
+Our medicines help address unmet medical needs, improve health and create economic benefits. Because each healthcare system is unique, with different healthcare costs, patient populations and societal priorities, the value of medicines in a particular healthcare system is also different. We believe that the price of a medicine should reflect its value, support sustainability, maximise patient access and provide flexibility to accommodate differences in global health systems and the economic realities for patients.
+Challenges. 
+Operating in more than 100 countries worldwide means that most of our key markets have experienced the implementation of various pricing controls, reimbursement mechanisms or cost-containment measures. We expect ongoing downward pressure on prices globally, affecting the profitability levels of our medicines in various markets. Related challenges include: the frequency of regulatory changes; price controls that reduce flexibility and our ability to apply discounts; supply chain complexity adding to the cost of medicines; the impact of economic downturns on ability to pay, where applicable; and lack of health system infrastructure in low- to middle-income countries to enable tracking of outcomes for value-based agreements.
+Affordability and pricing. 
+Progress highlights. 
+Affordability and pricing. 
+AstraZeneca Sustainability Report 2021 14. 
+Access to healthcare. 
+See Sustainability Data Summary for full metrics and methodology.
+Environmental protection Ethics and transparency Sustainability overview Notices
+
+
+Highlights. 
+FazBem programme continues to grow in Brazil Our FazBem programme has been in operation since 2008, when it first offered medicines at a discounted price in Brazil. Additional services and patient communications have been added and over three million patients have been reached. In 2021 there were over 693,000 patient purchases and FazBem is present in more than 45,000 pharmacies.
+Addressing barriers for severe asthma patients in UAE This 360° Patient Support Programme addresses the main barriers and challenges facing severe asthma patients in the Gulf, and improves their patient journey by connecting them with their healthcare professionals and nurses through a digital platform. More than 85% of the United Arab Emirates population have partial or limited access to innovative products due to lack of insurance coverage or high co-payment levels. The programme offers a variable cost sharing patient assistance programme, customised based on each patient’s ability to pay, which is assessed by a deep financial evaluation implemented by a third party to determine the treatment plan. The treatment cost is shared by the patient and/or their insurance, non-governmental organisations and AstraZeneca, to ensure the sustainability of the programme.
+UHC2030 AstraZeneca has become a private sector partner of the UHC2030 global movement to build stronger health systems for Universal Health Coverage (UHC). This is in line with our commitment to work together to accelerate progress towards UHC, through building and expanding equitable, resilient and sustainable health systems, in line with the UHC2030 mission.
+Making genetic testing for ovarian cancer affordable. 
+We have entered into a partnership with a diagnostics company called AmoyDx to make genetic testing for ovarian cancer more affordable. Our goal is to improve access to testing which identifies homologous recombination deficiency (HRD), a biomarker for cancer. Building on our bridging programme for advanced ovarian cancer (AOC), patients in eight regional referral hubs in Asia (SingaporeLucense and Malaysia-Pantai and IndiaStrand Life Sciences), Latin America (Brazil-Pardini), Russia (02 Research Centres for MG) and Middle East and Africa (Egypt-Anwaa and GreeceGenotypos) in 2021. The programme supports patients until they have HRD testing reimbursement, with the company covering the cost of testing in more than 20 countries around the world.
+Outcomes in 2021 • 65% reduction in cost of HRD testing • +27% increase in tests, through eight regional referral hubs • Change of practice in AOC, allowing for the correct diagnosis and appropriate treatment of women with AOC • The project is facilitating, promoting and supporting the establishment of HRD labs at an affordable cost. 
+Sustainable innovative therapies for lung cancer. 
+The initial focus of this programme was a targeted therapy for lung cancer, with a clear objective of optimising access in low- to middle-income countries through an access-driven reimbursement programme. The initiative was based on four pillars: • Revisit pricing approach • Explore specific vehicles to accelerate implementation (financing, second brand, non-governmental organisations) • Shape policy to improve cancer coverage and drive implementation of cancer screening and diagnosis • Invest in strategic input at a global level and capability at the market level. 
+The project will initially be implemented in six markets: Mexico, Brazil, Vietnam, Malaysia, India and Egypt. In collaboration with the International Market Access Team, each market has identified local needs, including diagnostics, patient support programmes, resourcing and capability assessment. This initiative will reach more than 10,000 additional patients in the next five years, including in other International markets.
+PUMUA initiative — redefining asthma care in Africa. 
+Launched in Africa in 2020, the PUMUA Initiative is committed to redefining asthma care — PUMUA is a Swahili word that means 'breathe'. Through our partnership with governments, healthcare professionals and national respiratory societies, the initiative aims to improve paediatric and adult asthma management across public and private sectors with a focus on: • Local health system strengthening • Health worker capacity building • Awareness and education • Equitable access to our respiratory medicines. 
+As part of our commitment to improve accessibility and affordability of quality care in Africa, the PUMUA initiative makes low-cost, high quality respiratory medicines available as part of the programme at a significant discount in Kenya and Ghana. The programme also makes respiratory equipment for asthma management available in all participating countries. In 2021, the programme activated 800 nebulisation stations in Kenya, Ghana, Côte d’Ivoire, Ethiopia and Senegal.
+Sustainability in action. 
+AstraZeneca Sustainability Report 2021 15. 
+Affordability and pricing Access to healthcare Environmental protection Ethics and transparency Sustainability overview Notices
+
+
+Why it matters. 
+Sustainable healthcare for all requires investment in strengthening health systems, to deliver an infrastructure designed to be responsive to the needs of the population it serves. During the COVID-19 pandemic, we have seen the need for health systems to adapt to ever-changing societal and economic circumstances and cope with shocks and crisis situations. All while continuing to provide services and deliver improved health outcomes, particularly in low- and middle-income countries.
+Description. 
+Strengthen health systems by advocating for health system reform and policy; building capabilities to address unmet medical need, improve access to quality healthcare and provide solutions along a continuum of care - from prevention, awareness, diagnosis, treatment to posttreatment and wellness; and committing to disaster relief, grants and donations.
+Approach. 
+Even before the impact of COVID-19, many health systems had significant limitations in reaching those with unmet medical needs. The pandemic has revealed and exacerbated such preexisting weaknesses and demonstrated the urgent need to build more resilient health systems worldwide. Each of our Access to healthcare focus areas contributes to health system resilience and we are investing in ground-breaking global collaborations, local partnerships, company initiatives and fast-tracked innovation to give access to, and improve the quality of, healthcare for more people.
+Specific activities include: • Improving preparedness for future shocks and enhancing international coordination on key processes such as scenario planning, response protocols and reserve capacities • Optimising the location and focus of care on patients using digital technologies • Addressing the unsustainable social, economic and ecological costs of disease through targeted prevention measures • Improving the effectiveness of care for chronic diseases through defining, implementing and monitoring improved quality of care standards • The nature of diseases and infection and their risk factors calls for multisector involvement in prevention and control measures. We work with stakeholders to align on our shared objectives and develop interventions that are optimised to address local challenges, while leveraging our experience in health programming. 
+We aim to build the capabilities of healthcare systems to best respond to patient needs by: • Remaining culturally relevant and ensuring programming is locally appropriate • Using our global footprint to scale partnerships • Establishing mechanisms for collaboration with our partners, for example through joint coordination, planning, follow up and agreement of a set of core indicators for monitoring and evaluation. 
+Challenges. 
+COVID-19 disrupted essential health services in 90% of countries. There are some signs of recovery emerging, but disruption continued into 2021, and major efforts are still required to restore and strengthen health systems. 66% of countries reported workforce-related health reasons as the most common cause of service disruption. Our access programmes focus on strengthening healthcare systems through training of healthcare providers, a key ingredient in combating health crises and in building sustainable health systems.
+Key targets and progress. 
+Health system resilience 2025 target Train 170,000 healthcare workers (cumulatively) to strengthen health systems throughout the world through our Healthy Heart Africa and Healthy Lung programmes. 
+Status: On Plan 2021 update More than 124,000 healthcare workers trained (cumulatively)1, 2. 
+Health facilities activated1 2021 update More than 3,500 healthcare facilities (cumulatively) were activated through our Healthy Heart Africa and Healthy Lung programmes. 
+Health system resilience. 
+AstraZeneca Sustainability Report 2021 16. 
+Access to healthcare. 
+See Sustainability Data Summary for full metrics and methodology.
+Environmental protection Ethics and transparency Sustainability overview Notices
+
+
+Highlights. 
+UNGC Belt and Road Initiative We have joined the United Nations Global Compact “Sustainable Infrastructure for the Belt and Road Initiative to Accelerate the SDGs” Action Platform. Through this international cooperation we will work to improve healthcare infrastructure in ‘Belt and Road’ countries in Asia, Central and Latin America, and the Middle East and Africa. We are exploring an innovative collaboration model to drive cancer screening and diagnosis programmes, focusing on lung, breast and prostate cancer, partnering with local stakeholders and building on our existing Lung Ambition Alliance coalition and local oncology access programmes.
+i-Breathe initiative in Egypt In Egypt, we are working to improve management of pulmonary diseases including asthma and chronic obstructive pulmonary disease (COPD), and early detection of lung cancer. With the Ministry of Health and the Egyptian Scientific Society of Bronchology, we are shaping the patient journey through a digitised network referral system between chest hospitals and oncology centres. So far, 26 hospitals have been established and activated, 500 healthcare professionals trained in the updated protocols and GINA guidelines (Global Initiative for Asthma management and prevention), and we have helped to shape policy through a white paper on asthma management in Egypt.
+European expert group on Orphan Drug Incentives At the European level, in 2021 we established and co-led the European Expert Group on Orphan Drug Incentives and launched our engagement platform, Rare Conversations, to forge stakeholder dialogue on research in rare diseases.
+Sustainability in action. 
+Healthy Heart Africa (HHA)
+Launched in 2014, our HHA programme is committed to tackling hypertension and the increasing burden of cardiovascular disease, with the ambition to reach 10 million people with elevated blood pressure across Africa by 2025. HHA supports local health systems by increasing awareness of the symptoms and risks of hypertension, and by offering health education, screening, reducedcost treatment and control.
+In 2021, the HHA programme expanded into Côte d’Ivoire and Senegal, with agreement to launch in Rwanda. Since launch, HHA has conducted over 23 million blood pressure screenings, identified over four million elevated readings, activated over 950 sites, and trained over 9,000 healthcare workers. This programme is now operating in eight countries in East and West Africa.
+Young Health Programme (YHP)
+Since 2010, our YHP has empowered young people aged 10-24 to take control of their health, especially to combat non-communicable diseases (NCDs), including mental health. In partnership with UNICEF, Plan International and One Young World, we support research, advocacy, education and leadership development to help young people make better choices for healthier lives.
+In 2021, YHP reached over 1.1 million young people with health information and trained over 53,000 advocates in 30 countries. Independent three- to five-year impact assessments on programming in Brazil, Indonesia and Kenya and in India confirmed that YHP’s community-based model supports sustained behaviour change and improves access to adolescent-friendly health services.
+Our programmes delivering on the journey to our target of 50 million people reached by 2025. 
+Our programme teams work in collaboration with local and global stakeholders and implementing partners to strengthen and protect health systems. They offer training to healthcare providers, promote health education and awareness-raising activities, and facilitate access to treatment where appropriate.
+Partnership for Health System Sustainability and Resilience (PHSSR)
+Launched in 2020, the PHSSR — a collaboration between the London School of Economics, the World Economic Forum and AstraZeneca — continued its work to strengthen global health systems, through and beyond the COVID-19 pandemic. The PHSSR's interim report was published in March 2021 at a virtual summit attended by over 1,500 people from 65 countries.
+The PHSSR phase two was launched in 2021, with an expansion into 13 new countries and a regional hub in the Central, Eastern Europe and Baltics Area, bringing the total number of PHSSR member countries to over 30. The PHSSR has acted as the basis for policy improvements in many of the countries where it has been active. For example, in Germany, it underpinned the reform of screening and prevention programmes, and in Poland and Italy, the PHSSR supported these governments in designing improved chronic care models. On the global stage, the PHSSR’s recommendations contributed to a key input to the B20-G20 dialogue on health and life sciences.
+Belgium. 
+Brazil. 
+Japan Portugal. 
+Canada. 
+Egypt Greece. 
+India. 
+Ireland. 
+The Netherlands. 
+Saudi Arabia. 
+South Africa. 
+Switzerland. 
+In 2021 we launched phase two of the PHSSR, expanding into 13 new countries. 
+AstraZeneca Sustainability Report 2021 17. 
+Health system resilience Access to healthcare Environmental protection Ethics and transparency Sustainability overview Notices
+
+
+Environmental protection. 
+Our ambition:
+Accelerating the delivery of net zero healthcare, proactively managing our environmental impact, and investing in nature and biodiversity. 
+Connection to health:
+Supporting a healthy environment helps prevent the onset of certain diseases and improve health outcomes. 
+The health of the planet impacts all life worldwide. 
+Contributing to the Sustainable Development Goals, a universal blueprint for prosperity for people and the planet, now and into the future. SDG 6 | Clean water and sanitation SDG 7 | Affordable and clean energy SDG 12 | Responsible consumption and production SDG 13 | Climate action SDG 15 | Life on land SDG 17 | Partnerships for the goals 1 of 7 companies to have climate targets verified to new science-based Net Zero Corporate Standard 100% Imported renewable electricity 4 brands included in internal pilot of Product Sustainability Index (PSI) 100% safe API discharges for AstraZeneca sites and 91% for supplier sites1, 2, 3. 
+Our material focus areas 2021 performance:
+Environmental protection. 
+AstraZeneca Sustainability Report 2021 18. 
+Environmental protection. 
+See Sustainability Data Summary for full metrics and methodology. 
+Access to healthcare Ethics and transparency. 
+Ambition Zero Carbon Product sustainability Natural resources. 
+Sustainability overview Notices
+
+
+The relationship between human and planetary health is complex and interdependent, with society and nature having a significant impact on one another. The climate emergency, the loss of habitats and biodiversity, water scarcity and declining water quality, plastics pollution and dwindling finite resources all threaten public health and the environment. We have a collective responsibility to create a more sustainable world for people and the planet — together and without delay.
+The big picture. 
+The environmental challenge is multifaceted, and our material focus areas cannot be managed in isolation. Sustainable product design, sourcing and manufacture leads to lower natural resource use, reduced chemical and water demand, less waste and pollution, and can significantly reduce our carbon footprint. There is also an increased focus on the environmental footprint of goods and services and companies are under greater environmental scrutiny, reinforcing the need to have robust scientific evidence underpinning environmental targets and performance.
+Approach. 
+We are using a science-led, patientcentric approach to discover innovative solutions which will help to lower the economic and environmental burden of healthcare. This will help build more sustainable, resilient health systems. It is clear from the 2021 IPPC report that the latest science is telling us we are at a critical point, and we must all increase our efforts to limit the impacts of the climate crisis on our planet.
+A systems-level approach is needed to deliver better healthcare outcomes with a lower environmental footprint. We recognise that working in partnership is critical to achieving this, which is why we are a founding member of HRH The Prince of Wales Sustainable Markets Initiative, where Pascal Soriot our Chief Executive Officer is championing the newly launched Health Systems Taskforce. The commitment by 50 countries at the World Health Organization-led COP26 Health Programme to develop ‘climate smart’ healthcare is another strong example of the power of collaboration.
+Governance. 
+In addition to our general approach to governance, our executive-led Ambition Zero Carbon Governance Group is accountable for the delivery of our Ambition Zero Carbon strategy. This highlevel group includes our CEO, CFO, the EVP, Sustainability and Chief Compliance Officer, and the EVP, Operations and IT.
+The guide for our Environmental Management System — our global safety, health, and environment management principles — is embedded in our Code of Ethics supported by a new SHE policy standard.
+It involves key activities to manage our environmental risks, operational standard procedures, an audit programme led by an independent organisation according to ISO standards, and an annual management review process.
+• ISO 14001 (environmental management), (representing 16% of employees covered): in Shanghai, China; Milan, Italy; Macclesfield, UK; Gothenburg and Södertälje, Sweden • ISO 50001 (energy management), (representing 27% of total energy consumption): in Macclesfield, UK, and Gaithersburg, US. 
+Natural Resource Efficiency Fund. 
+To drive our natural resource and greenhouse gas (GHG) reduction initiatives at our sites to support our environmental targets, we have a dedicated fund managed by a governance group to target investments across the enterprise that maximise the resource benefits as well as financial returns. This fund has invested more than $130m in environmental efficiency innovations since 2015, including 56 new projects and $30m spent in 2021. Continued support for these efforts is ongoing, with $25m spend allocated for additional efficiency projects in 2022.
+Environmental protection overview. 
+TCFD – Task Force on Climate-Related Financial Disclosures. 
+A TCFD steering group with crossfunctional membership has oversight of the physical and transitional risks and opportunities posed to AstraZeneca by climate change. We have integrated climate risks into our overall risk management process, recognising climate risk as a stand-alone risk since we published our full TCFD statement in 2021. We are incorporating climate resilience across our operations and value chain, mitigating the risks, and exploring the opportunities that the transition to a low carbon economy presents to the healthcare sector.
+Material focus areas. 
+Environmental protection overview Environmental protection. 
+AstraZeneca Sustainability Report 2021 19. 
+Access to healthcare Ethics and transparency. 
+Ambition Zero Carbon. 
+Product sustainability. 
+Natural resources. 
+Sustainability overview Notices
+
+
+Our Scope 3 footprint is more than 20 times greater than our Scope 1 and 2 footprint and our ambitions will only be achieved through close collaboration with our supply chain partners. This is why we have set the goal to maximise the share of our spend that is with companies with verified science-based targets (SBTs), and we work closely with the SBTi and our peers to support the progression to a low carbon economy.
+Challenges. 
+Supplier maturity on climate issues varies greatly, creating challenges in effective communication of our expectations of suppliers, for example to understand the full value chain emissions associated with our share of a supplier's business. Supporting suppliers on this journey, for instance to set and achieve reductions aligned with their SBTs, is resource-intensive and it is a challenge to scale to a significant proportion of the supply chain.
+Access to renewable sources of heat, as well as electric vehicles and associated infrastructure in some developing markets, will continue to be a challenge, impacting both the environment and health in these communities.
+Why it matters. 
+We are taking bold action on climate because we recognise the connection between healthy people and a healthy planet. The COVID-19 pandemic has resulted in the greatest public health challenges of recent times, but the impact of the climate emergency has the potential to be greater still and is already changing our planet irreversibly.
+The impact of climate change includes increasing levels of ill health, including a rise in chronic conditions e.g. heart disease, stroke, lung cancer and respiratory diseases.4 All of these have detrimental impacts on people’s lives and the societies and economies in which we live. As a sector we must do more — approximately 4% of global greenhouse gas (GHG) emissions come from the healthcare sector, from pharmaceutical manufacturing to hospitals.5 So everyone involved in the delivery of healthcare has a role to play.
+Description • Achieve net zero greenhouse gas emissions by maximising our energy efficiency, shifting to renewable energy sources, and investing in nature-based removals to compensate for any residual GHG footprint • Build resilience by managing the physical (sites, supply chain) and transitional (regulatory, market and product) risks and opportunities arising from climate change in the value chain through adaptation and business continuity planning. 
+Approach. 
+We follow the science and focus our activity on delivering absolute reductions in all our direct and indirect GHG emissions sources across the value chain — Scopes 1, 2 and 3. We will reach our targets by: • Decoupling our energy consumption from business growth — achieving absolute reductions in total energy consumed and doubling energy productivity from 2015 baseline (EP100), through continued investment from the Natural Resource Efficiency Fund • Substituting 100% of site energy consumption with renewables (RE100) and maximising the share of additional sources of renewable electricity, for instance through on-site solar PV and off-site power purchase agreements (PPAs) • Transitioning 100% of self-generated and imported heating and cooling to renewables, maximising the share of additional sources of clean heating and cooling, for instance on-site technology and new off-site biomethane production • Reducing the emissions of our legacy fleet and switching to a fully electric vehicle fleet (EV100) • Transitioning to our next-generation respiratory inhalers with near-zero climate impact propellants • Engaging with our suppliers to reduce emissions in line with the science of climate change • Assess and mitigate the physical and transitional risks to our business caused by climate change, integrate these risks into overall risk management processes and report on them through our TCFD report. 
+Pursuing a science-based climate strategy. 
+Through our flagship $1 billion Ambition Zero Carbon programme we are on track to reduce greenhouse gas emissions from our global operations (Scope 1 and 2) by 98% by 2026 and halve our entire value chain footprint (from 2015 baseline) by 2030 on the way to a 90% reduction by 2045 (from 2019 baseline). Our emission reduction targets have been verified by the Science Based Targets initiative (SBTi) and we were one of the first seven companies worldwide to have our net zero, science-based Scope 1-3 targets verified under their new Net-Zero Corporate Standard. We were also an early supporter of the UN-backed Race to Zero.
+Ambition Zero Carbon 2026 target 98% absolute reduction of Scope 1 and 2 GHG emissions from 2015 base year. 
+Status: On Plan 2021 progress 59% Scope 1 and 2 GHG emissions reduction, including 9% reduction in energy consumption6 2030 target 50% absolute reduction of Scope 3 GHG emissions from 2019 base year. 
+Status: On Plan 2021 progress 15% GHG increase in total Scope 3 emissions, including a 17% decrease in Scope 3 emissions relative to revenue; 7% of spend in purchased goods and services and capital goods with companies with approved SBTs6, 7. 
+Key targets and progress. 
+Ambition Zero Carbon. 
+AstraZeneca Sustainability Report 2021 20. 
+Environmental protection. 
+See Sustainability Data Summary for full metrics and methodology. 
+Access to healthcare Ethics and transparency Sustainability overview Notices
+
+
+We will follow the science and deliver absolute reductions in all our direct and indirect sources, Scopes 1, 2 and 3, of greenhouse gas (GHG) emissions across our value chain, doing our part to limit the impacts of climate change while unlocking opportunities to deliver improved patient centric healthcare in a low carbon economy. Ambition Zero Carbon 2045 2030 2015 2019 2022 2023 2024 2025 2026 2028 2027. 
+Scope 1 & 2. 
+Emissions from our own operations (site and fleet)
+Target baseline emissions (2015): 0.65M tCO2e. 
+Scope 3. 
+All other indirect emissions that occur in our value chain. 
+Target baseline emissions (2019): 5.7M tCO2e. 
+Launched Ambition Zero Carbon. 
+First pharma to join all 3 of Climate Group’s. 
+Signed up to UN Race to Net Zero. 
+SBTi verify Scopes 1, 2, 3 and Net Zero targets. 
+Launched the Energize programme. 
+Launched the Product Sustainability Index. 
+Honeywell Partnership announced for low GWP propellants 7% of suppliers have SBTs. 
+Fuel and energy-related activities, upstream leased assets reduced by 80% 46% reduction in purchased goods and services. 
+Footprint from patient use of sold products (e.g. inhalers) reduced by 95%; end of life treatment of sold products reduced by 46%
+Reduce absolute scope 3 GHG emissions 90% by FY2045 from a FY2019 base year $ 130M invested in natural resource efficiency projects since 2015 59% reduction in GHG since 2015 100% imported renewable electricity globally 2% EV; 57% green fleet (EV, hybrid or plug-in hybrid)
+Agreement signed with Future Biogas for renewable heat in UK. 
+We follow a hierarchy to achieve our ambitions. 
+Eliminate Reduce Substitute Compensate. 
+SBTi Verified. 
+Scope 1&2 reduction targets are measured from a 2015 base year. Scope 3 reduction targets measured from 2019 base year. 
+First climate impact disclosure to TCFD. 
+ACHIEVED. 
+Reduce absolute Scope 1 and 2 GHG emissions 98% by FY2026 2026 TARGET. 
+ACHIEVED. 
+ACHIEVED ACHIEVED. 
+Scope 3 Baseline. 
+Scope 1 & 2 Baseline 2030 TARGET 2045 TARGET 2020 2029. 
+Supplier engagement to measure and report GHG footprint. 
+Reduce absolute scope 3 GHG emissions 50% by FY2030. 
+Remove more CO2 from the atmosphere than we emit from 2030, to be carbon negative. 
+Compensate for any residual Scope 1 and 2 emissions through high quality removals using BECCS. 
+Continue to decarbonise the full value stream of our business in line with the 1.5C pathway. 
+Eliminate future emissions sources from new assets. 
+Our Scope 1 & 2 priorities and actions fall into four categories:
+Fleet. 
+Heat. 
+Electricity. 
+F-gases & Other. 
+Our Scope 3 priorities cover:
+Purchased goods and services. 
+Capital Goods. 
+Upstream and downstream transportation and distribution. 
+Waste generated in operations. 
+Business travel and employee commuting. 
+Upstream and downstream leased assets. 
+Use of sold products and their end-of-life treatment 2025 TARGET. 
+SBTs covering 95% of suppliers by spend, covering purchased good and services and capital goods 50% of suppliers by spend covering transportation, distribution and business travel. 
+Launch our first next generation inhaler with low or near-zero GWP propellants by 2025. 
+END OF 2025 TARGET. 
+Substitute F-gases for low GWP alternatives. 
+Substitute natural gas consumption with renewable sources of heat and power. 
+Reduce and capture F-gas emissions from where we make respiratory medicines. 
+Transition to next generation inhalers across our portfolio 2021. 
+Invest in nature-based removals. 
+Continue to switch from air freight to sea and rail freight, minimise business air travel, and transition management cars to electric vehicles. 
+Ambition Zero Carbon Environmental protection. 
+AstraZeneca Sustainability Report 2021 21. 
+Access to healthcare Ethics and transparency. 
+See Sustainability Data Summary for full metrics and methodology. 
+Sustainability overview Notices
+
+
+Sustainability in action. 
+AZ Forest — Restoring forests and biodiversity. 
+AZ Forest is our global initiative to plant and maintain 50 million trees worldwide by the end of 2025, in partnership with local governments and non-profit organisations that are focused on global reforestation and building ecological and community resilience. Reforestation helps sequester carbon dioxide, prevent disease through combatting air pollution and supports the restoration of biodiversity. Planting trees also helps to reduce the risks of natural disasters, has social and economic benefits for communities, and promotes physical and mental wellbeing.
+Our AZ Forest programme is also part of our work to address climate change, and we support the WEF’s 1t.org – The Champions for a Trillion Trees platform.
+In 2021, AZ Forest was active in the following countries, working alongside our global partner One Tree Planted: • Indonesia, where we have committed to plant 20 million trees by 2025 • Australia, where we have pledged to plant 25 million trees, recognising the impact of the devastating bushfires in 2020 • United Kingdom, where we will plant over one million trees across England and southern Scotland by 2025. 
+Highlights. 
+Building climate resilience into our supply chain Physical risks from climate change have been screened for in more than 550 locations in our supply chain, including our own sites and those of almost 350 strategic suppliers. We conducted detailed site-level assessments in 2021. Outcomes indicate potential for a) need to maintain a controlled environment as required by Good Manufacturing Practice, b) heavy rainfall causing local flooding and/or inducing landslides, c) high wind events that can damage site structures. A full TCFD report is available with the details of our assessments.
+Scope 3 Supplier Engagement We are working to build transparent supply chains by asking our partners to assess and disclose their greenhouse gas emissions to the CDP Supply Chain Programme, recognising the value of the platform in providing comparable climate-related data, a necessary first step toward meeting our Scope 3 goals. We look for opportunities to engage with our suppliers to reduce emissions across the value chain. We invited our top 250 suppliers to participate and more than 70% of those suppliers disclosed their climate change data, including many suppliers who had never disclosed to CDP before. Membership of this programme will accelerate supplier engagement.
+Energize Programme An exciting example of collaboration is the partnership we announced at COP26 together with industry peers and Schneider Electric to help our suppliers access renewable energy. The Energize programme will support the decarbonisation of healthcare across the industry by facilitating the provision of and access to renewable power at scale for our suppliers.
+Clean Power. 
+In 2021 we transitioned to 100% imported electricity from certified renewable sources. We recognise the many benefits of self-generated renewables to site energy costs, resilience and employee engagement and have committed $20M over 2020-2023 in on-site solar PV installations at six sites in five countries. Once all these investments are completed, the total output is estimated to be 14,400 Megawatt hours (MWh), equivalent to around 2% of our imported electricity needs.
+There is a limit to the scale that can be achieved through on-site solar PV and so to deliver additional renewables we are aiming to meet the majority of our electricity needs in our primary consumption locations — Sweden, US and US — through power purchase agreements (PPAs) by the end of 2025.
+Mount Vernon, Indiana, Solar Field This project includes a $3.5M investment in 2021 in a 2MW, seven-acre solar field project at our Mount Vernon, Indiana manufacturing facility in the US. The output from the solar field meets 1015% of the site's electricity demand, displacing the cost of importing the electricity while also reducing our energy supply emissions and improving site energy resilience.
+Clean Heat. 
+Access to certified low and zero carbon fuels and imported heating and cooling sources globally is very limited, and we are striving to develop new sustainable sources in order to achieve our Ambition Zero Carbon targets.
+Partnership with Future Biogas In the UK we have partnered with Future Biogas to build a new renewable energy plant to generate biomethane as a substitute for natural gas. This initiative will add new renewable capacity to the existing UK gas grid, with the capacity to provide up to 125 Gigawatt hours (GWh) of biomethane, equivalent to the energy demand to heat over 9,000 homes. The new plant will utilise energy crops as the feedstock, grown as part of a regenerative farming rotation and not at the expense of food production. In fact, the digestate by-product of the biomethane production process is a nutrient-rich fertiliser that can be used locally to enhance soil health and displace fossil fuel-based fertilisers, supporting the circular economy in the UK.
+
+Construction will begin in 2023 and the installation will supply a significant proportion of our UK biomethane needs by 2025. Not only will this support our Scope 1 emission reductions, but the biogenic CO2 generated by the anaerobic digestion of the energy crop will be captured, compressed, and put into permanent storage in underground rock formations in the UK North Sea. This innovative process is known as BECCS — bioenergy with carbon capture and storage.
+Delivering on our renewable energy strategy. 
+Since 2015, we have invested $130M in natural resource efficiency and renewable energy at our sites through our dedicated fund. We will always need some energy and we are committed to using 100% renewable energy sources to meet all our needs by the end of 2025. In 2021, we initiated a programme of work to look at how we can maximise the positive impact of our renewable energy use, with a focus on adding new renewable energy sources to the locations that we operate in.
+AstraZeneca Sustainability Report 2021 22. 
+Environmental protection Ambition Zero Carbon Access to healthcare Ethics and transparency Sustainability overview Notices
+
+
+Product sustainability. 
+Why it matters. 
+People and the planet benefit from medicines with the smallest possible environmental impact, while maintaining medical efficacy and safety. As technologies and healthcare systems evolve, so too should solutions to reduce energy, water, material use, waste and pollution generated from designing, manufacturing, and delivering medicines to patients.
+We are responsible for our choices in raw materials sourcing, manufacture, and formulation of active pharmaceutical ingredients (APIs), as well as device and packaging selection. As we improve our processes, we can implement change ahead of evolving regulations, and reduce costs of supply. This allows us to reinvest in life-changing medicines and improve patient access to affordable healthcare solutions.
+Description. 
+We follow processes throughout the lifecycle of our products with the aim of understanding and minimising their environmental impact; from discovery through development and production, to launch of a new product and end-of-use.
+Approach. 
+To deliver medicines that improve patient outcomes with the lowest possible burden on the planet, we evaluate materials and processes used to make our products across the entire value chain and proactively investigate opportunities to reduce their impact. We also lead our industry in the management of Pharmaceuticals in the Environment (PIE) striving to address critical scientific knowledge gaps and promote responsible product stewardship.
+We have well-established programmes to embed sustainable decision-making and quantify environmental improvements across the product life cycle that include: • Integrated business processes to ensure safety, health and environmental aspects are considered by projects throughout drug development with detailed guidance for environmental assessment of API manufacturing, formulation, packaging, and devices • Maximising the resource efficiency of our API manufacturing processes • Life cycle assessment (LCA) programme to determine the type and magnitude of environmental impacts across our product value chains in line with ISO standards 14040 and 14044 • Active pharmaceutical ingredient (API) discharge programme and related targets for AstraZeneca and our external supply sites • Ongoing post-approval ecopharmacovigilance (EPV) to track the environmental risks that result from patient use of our products • Conducting research to understand the environmental impact of our products and embed the principles of green chemistry within our business • Partnering to drive thought leadership and innovation, for example leading the Innovative Medicines Initiative (IMI) PREMIER project, a public-private partnership between the European Commission and the European Federation of Pharmaceutical Industries and Associations (EFPIA), which aims to develop tools to identify potential environmental risks of APIs earlier in drug development and make these tools and data more visible and accessible to all stakeholders. 
+Challenges. 
+Pressurised metered-dose inhalers (pMDIs) rely on fluorinated gases (F-Gases) as a propellant and tighter regulation could put future revenue at risk, if the alternatives we are actively researching are not successful or cannot be substituted into the product. Loss of the medicinal quota exemption for HFA propellants, or failure to have a longterm phased transition, could prevent or limit availability of products in our inhaled medicines portfolio, should these restrictions become applicable before the transition to our next-generation low global warming potential (GWP) pMDIs.
+Complementing the European Commission’s pollution reduction strategy, proposed updates and changes to pharmaceutical and chemicals regulations could influence the way medicines are manufactured and approved in future. Monitoring these regulatory risks and proactively managing the chemicals used in our processes will help minimise the impact on access to medicines for patients.
+2025 target Ensure 90% of active pharmaceutical ingredient (API) syntheses meet resource efficiency targets at launch. 
+Status: Lagging 2021 update Since 2015, 75% of projects (three of four) have met defined resource efficiency targets.8 In 2021 a new oncology medicine met its Process Mass Intensity10 (PMI) target at launch and we achieved a PMI reduction of 14% across the late stage project portfolio 2022 target Ensure 100% of AstraZeneca owned and ≥90% of supplier site discharges are in compliance with safe API discharge concentrations. 
+Status: On Plan 2021 update 100% of API discharges from AstraZeneca sites demonstrated as safe.1 91% of API discharges from globally managed direct suppliers demonstrated as safe1, 2, 3. 
+Key targets and progress patient use packaging distribution. 
+API production and formulation device production disposal (end-of-life or reuse)
+We follow a life cycle approach that covers all stages of our products. 
+AstraZeneca Sustainability Report 2021 23. 
+Environmental protection Product sustainability. 
+See Sustainability Data Summary for full metrics and methodology. 
+Access to healthcare Ethics and transparency Sustainability overview Notices
+
+
+Sustainability in action. 
+Collaboration to accelerate development of novel next-generation therapeutics to patients. 
+In 2021, we started a Grand Challenge collaboration as part of the Medicines Manufacturing Innovation Centre where we are a founding partner. We are partnering with CPI, Exactmer, Novartis, Alnylam and UK Research & Innovation, to advance the sustainable development of new manufacturing processes for oligonucleotides: short strands of synthetic DNA or RNA. These molecules have a wide range of applications, including in genetic testing and research.
+The collaboration aims to make the production of oligonucleotide therapeutics scalable and more cost-effective, ultimately accelerating delivery of this novel next-generation therapeutic to patients. Our recent advances in genomics, and the discovery of promising new targets with detailed genomic information, are driving the design of oligonucleotides with the potential for targeted therapeutic interventions across our therapy areas. However, finding new ways of increasing production of oligonucleotides is a significant industry challenge. The collaboration will bring expertise to transform the oligonucleotide supply chain. In parallel, the collaboration partners are sharing best practice in oligonucleotide chemistry and analytics, as well as process engineering.
+Demonstrating the environmental safety of our medicines following patient use. 
+In Europe and the United States, an environmental risk assessment (ERA) is conducted when a medicinal product is ready for commercialisation. This generates environmental risk information for relevant environmental compartments (e.g. surface waters and sediment) based on a predicted environmental concentration and a ‘no effect’ or safe concentration for the active pharmaceutical ingredients (APIs) in that medicinal product.
+We have run an ecopharmacovigilance (EPV) programme since 2012, systematically searching for environmental data on our APIs in order to better understand the risk our medicines could pose to the environment from patient use. In 2021, we launched an EPV dashboard that shows the relative risks of APIs that have been shown to reach the environment – the first pharmaceutical company to share these data. Using this interactive dashboard, users can compare in excess of 25,000 individual measured environmental concentrations with known ‘no effect’ safe concentrations, helping to identify and manage any associated risk.
+Launch of a Product Sustainability Index. 
+Following work in 2020 to develop the methodology, we launched an internal Product Sustainability Index (PSI) in 2021 to advance product environmental performance and innovation across our therapy areas. An extensive pilot was conducted for four brands including one monoclonal antibody.
+To embed the PSI globally, a cross-functional product sustainability workstream has been established to ensure relevant business processes across the organisation integrate product sustainability considerations and drive improvement. Our goal is for all our products to be assessed against the PSI to track their environmental sustainability and inform environmental improvement plans for our project teams.
+Highlights. 
+Transitioning to our next-generation respiratory inhalers with near-zero climate impact propellants A key product-related element of our Ambition Zero Carbon strategy is our commitment to develop the next-generation respiratory inhalers with near zero global warming potential (GWP) propellants. In 2021 we achieved positive results from a first in human Phase I trial, and AstraZeneca will now advance a partnership with Honeywell to develop and commercialise respiratory therapies with the near-zero GWP propellant, HFO-1234ze.
+Waste stream assessment methodology in Pharmaceutical Technology and Development Life cycle assessment (LCA) has shown that solvents can be more than 70% of an API’s environmental footprint. An innovative waste stream assessment has been introduced by our development scientists to help realise the transition to circular manufacturing and reduce the environmental burden from solvent usage. The framework facilitates the assessment of waste streams for suitable technologies for recycling, reuse and reduction of solvents.
+Identifying opportunities for CO2 reduction in clinical trials We have conducted LCAs of clinical trials across therapy areas to identify CO2 hot spots and opportunities for reduction including travel, samples and waste. Learnings were incorporated into a framework for clinical trial design and in our existing governance process, in order to ensure CO2 reduction is always considered in clinical drug development. Awareness and training has been shared across R&D.
+Carbon: greenhouse gas (GHG) footprint of a product across the whole value chain, per patient, per year. 
+Power: percentage of renewable electricity, not including energy supplied for heating, used in manufacture across a product’s supply chain. 
+Water (resource): water consumption across the whole value chain, per patient, per year. 
+Water (releases): risk of API discharges to the environment resulting from patient use and manufacturing. 
+Resource use: use of raw materials in drug substance manufacture. 
+Innovation and improvement: improvements made across the five categories above, driven by innovative approaches during the product life cycle. 
+The PSI has scoring criteria across six categories:
+Environmental protection Product sustainability. 
+AstraZeneca Sustainability Report 2021 24. 
+Access to healthcare Ethics and transparency Sustainability overview Notices
+
+
+Why it matters. 
+We need to shape a resilient, sustainable and healthy future for people and the planet. We should work on the basis of harmony between society and the natural environment.
+We will only achieve sustainable wellbeing by acting to protect, sustainably manage and restore ecosystems that support a healthy and resilient society. We invest in nature and biodiversity to benefit both planetary and societal health.
+Description. 
+Natural resources are essential to produce our medicines and operate our sites. We are committed to: • Reducing our impact on the planet through the efficient, circular use of water and other natural resources across the value chain to ensure responsible sourcing, consumption, production and disposal • Protecting and restoring ecosystems to improve health outcomes and tackle environmental drivers of disease, such as water and air quality, through our focus on water stewardship and biodiversity. 
+Approach. 
+Our key targets aim to decouple water use and waste generation from business growth, supported by efficiency projects and our Product sustainability work. Integrating a circular mindset will help us to keep raw materials in use and design out waste and pollution. Minimising resource use and waste generation supports our goals to protect biodiversity and reduce Scope 3 emissions as part of Ambition Zero Carbon. As well as contributing to our work to tackle climate change, our AZ Forest commitment will bring many co-benefits, including developing more sustainable livelihoods, fostering biodiversity and building climate resilience.
+We aim to integrate a circular economy approach across our value chain. We are leveraging our experience with Lean manufacturing, which includes tools to enhance efficiency and eliminate waste, to build a framework for employees to identify and implement ideas that contribute to our environmental targets.
+Water stewardship. 
+Water is fundamental for all life and in our Water Stewardship Position Paper we outline our plans to positively contribute to water stewardship in the river basins where we operate, supported by our water stewardship partnership with the World Wide Fund for Nature (WWF) Sweden. In 2021, we introduced a water stewardship pilot to build on our experience, focusing on efficient water use within the boundaries of our sites, along with water quality and collective action opportunities in the local basin.
+We have prioritised six sites located in water scarce areas across five countries, as these face increasing water availability and quality risks as climate change impacts the global water cycle. In 2022, we will set locally-appropriate water targets for these sites and aim to have long-term contextual water targets in place by 2025, which will help mitigate site-specific risks and support shared local water challenges. This will support our transition to Science-Based targets for water once the methodology is available. The programme is supported by ongoing water audits and risk assessments, including WWF’s water risk filter tool.
+Challenges. 
+Our focus on patient centricity to deliver products to patients as quickly as possible, along with the complex regulations for our industry, can pose a challenge for us to design or redesign our processes and products for circularity. We continue to focus on targeted innovation to find solutions that support both patients and our planet in partnership with our external manufacturing suppliers.
+The pharmaceutical sector uses many materials which are hard to recycle but difficult to replace. It also generates waste streams that are difficult to reuse, recycle or repurpose as they are considered to be hazardous in nature. These factors mean cross-sectoral collaboration with regulators and the recycling industry will be needed if we are to achieve the vision of creating a "circular" business.
+Key targets and progress. 
+Natural resources 2025 target Maintain absolute water use at 2015 baseline levels. 
+Status: On Plan 2021 update Water footprint was 3.82 million m3, a 17% reduction from 201510 2025 target Reduce waste by 10% below the 2015 baseline. 
+Status: On Plan 2021 update Total waste was 28,848 tonnes, down 7% from 30,942 tonnes in 20209, representing a decrease of 8% from 2015. 
+Develop suitable metrics to monitor our progress towards a more circular economy. 
+Maximise proportion of waste recycled and aim to eliminate waste to landfill. 
+Incorporate the principles of the circular economy into the design of all our processes and products, from initial research and development through to production. 
+Increase reused or recycled content of the materials we use (both directly, and in our supply chain)
+Where possible, regenerate nature and use renewable natural resources instead of nonrenewable ones. 
+Seek to minimise the amount of materials required and waste generated during manufacture and use of our products. 
+Our circular economy approach:
+Natural resources. 
+AstraZeneca Sustainability Report 2021 25. 
+Environmental protection. 
+See Sustainability Data Summary for full metrics and methodology. 
+Access to healthcare Ethics and transparency Sustainability overview Notices
+
+
+Sustainability in action. 
+Highlights. 
+CDP A List for Climate and Water and C for Forest Our leadership in tackling climate change and protecting water security has been recognised by CDP-worldwide with a double A rating, for the sixth consecutive year.
+2021 also saw us triple-rated for the first time. We received our first published CDP Forests rating – our risk management of forest related commodities: timber, cattle and palm oil was C-rated. To improve sustainable timber product use, we have committed to achieve 95% sustainable paper in secondary and tertiary packaging by the end of 2022 and we are looking to reduced our timber requirements by shifting to reusable pallets. We use a relatively small volume of cattle and palm oil derivatives in our products. Our approach to managing risks in this area can be seen in our Forestry Statement.
+Zero Waste Certification Our R&D site in South San Francisco has achieved Platinum Level TRUE zero waste certification. The TRUE certification programme is administered by the Green Business Certification Inc. (GBCI®). It recognises effective resource management by verifying compliance with all applicable programme requirements. This is the first of our sites to achieve this certification level.
+WWF study into pharmaceutical sector water risk Arising from our water stewardship partnership, WWF conducted a case study that helped identify sectoral-level water stewardship opportunities and what potential shared water challenges may be strategically relevant in areas of concentrated pharmaceutical manufacturing. The study presents the sector with recommended next steps.
+Wastewater reuse at Wuxi. 
+During our water risk assessment process, our site in Wuxi, China, was identified as being at increasing risk of water scarcity and declining quality, between 2020 and 2030. A water audit identified a projected saving of 24,750 m3 annually — about 10% of site water usage and the equivalent of approximately ten Olympic-sized swimming pools — by installing a wastewater treatment plant on site and reusing treated wastewater for other critical operations, including in the site cooling towers. The reuse water generator and distribution equipment has been installed, with project completion expected in 2022. This project shows how working to improve circularity at our sites can reduce reliance on natural resources and improve water quality.
+Site water reduction initiative in Ireland. 
+Our Rare Disease Group's site in College Park, Ireland, a top water user in our site network, identified several water reduction opportunities: • The facility requires highly purified water. By creating new recirculation flowrate parameters that optimised the generation process, the amount of rejected Ultra Filtered Water reduced by 27%, saving up to 16,200 m3 annually • Vessel cleaning cycles were modified to remove additional steps after studies were performed to determine they provided no additional cleaning benefit. The adjusted cycles reduced the chemical cleaning agent by 83% and the water by 45%. Based on the typical production schedule this saves at least 12,500 m3 annually. By reducing the amount of purified water, and time of the cleaning cycles, there are additional energy savings. 
+Switching to paper-based trays to reduce single use plastic. 
+We are switching from plastic to paperbased trays to secure our products within cartons. By making this change in one of our respiratory products, we avoided the use of 194,832 single use plastic items in markets including the US, Central America and the Caribbean in 2021. Assuming the inserts are recycled when disposed of, this change results in a reduction of 4% in the overall greenhouse gas emissions from this product. We are working to expand this initiative into other markets, including Europe. Other products are also launching with these paper-based trays, avoiding millions of single use plastic items in our packaging, as we deliver more medicines to patients.
+Improving the environmental impact of our lab operations. 
+In 2021, our partnership with the non-profit organisation, My Green Lab, continued to inspire a reduction in the environmental impacts of our lab practices. A total of 36 laboratory functions across 31 sites are involved in the programme. 12 were certified across 11 sites: four achieved the highest Green certification level, one Platinum, six Gold and one Silver. For the second consecutive year we won the Biotech/Biopharma organisation category in the International Freezer Challenge, saving around 1858 kWh/ day across the participating sites.
+My Green Lab certification has been recognised by the pharmaceutical sector as part of the UNFCCC Race to Zero.
+My Green Lab: 36 laboratory functions across 31 sites 1 Platinum 4 attained the highest Green certification level 6 Gold 1 Silver. 
+AstraZeneca Sustainability Report 2021 26. 
+Environmental protection Natural resources Access to healthcare Ethics and transparency Sustainability overview Notices
+
+
+Ethics and transparency. 
+Equality and prosperity for all fosters healthy societies. 
+Contributing to the Sustainable Development Goals, a universal blueprint for prosperity for people and the planet, now and into the future. SDG 3 | Good health and well-being SDG 5 | Gender equality SDG 8 | Decent work and economic growth SDG 17 | Partnerships for the goals 50.9 instances of non-compliance with the Code of Ethics per thousand employees in commercial business units2 48.1% women in senior middle management roles and above3 3 countries launched new supplier diversity programmes 85% of employee survey respondents feel that AstraZeneca is a Great Place to Work 83% of employee survey respondents feel that AstraZeneca has a ‘Speak Up’1 culture. 
+Our ambition:
+Ensuring ethical, open and inclusive behaviours across our organisation and value chain. 
+Connection to health:
+Fostering a culture of doing the right thing across our value chain promotes health and wellbeing. 
+Our material focus areas 2021 performance:
+Ethics and transparency. 
+AstraZeneca Sustainability Report 2021 27. 
+Ethics and transparency. 
+See Sustainability Data Summary for full metrics and methodology. 
+Access to healthcare Environmental protection. 
+Ethical business culture Inclusion and diversity Workforce safety and health. 
+Sustainability overview Notices
+
+
+Governance. 
+Our commitment to Ethics and transparency underpins everything we do and runs through our culture and ways of working. All of our employees contribute to the delivery of our Ethics and transparency material focus areas, which are governed across several areas: Human Resources, Operations, Legal, R&D and Global Sustainability. Where these overlap, we work crossfunctionally to manage delivery of strategy and outcomes. Our unified quarterly scorecard tracks 11 Ethics and transparency metrics and communicates our performance on these to our employees.
+We seek to create positive societal impact and embed ethical behaviour in all our business activities, markets and value chain. We do this by promoting ethical, transparent, and inclusive policies and practices, both within our company as well as across all our partners and suppliers.
+The big picture. 
+There is a lack of public trust in big corporations – including towards companies in the pharmaceutical industry – which can have a negative impact on our ability to operate, innovate and bring healthcare solutions to more people. We operate in a highly regulated environment, and AstraZeneca as a company has maintained a high profile in 2021 with the COVID-19 pandemic and our work on the vaccine. We must retain and increase trust across all of our stakeholder groups, continuing to deliver life-changing medicines to patients whatever the future holds.
+Approach. 
+It’s important that we create value beyond the impact of our medicines on patients. Building trust by demonstrating integrity, transparency and fair treatment is central to everything we do. Our shared Values underpin all our activities and serve as a compass to guide us in all that we do.
+Ethics and transparency overview. 
+AstraZeneca Sustainability Report 2021 28. 
+Material focus areas. 
+We follow the science We put patients first We play to win We do the right thing We are entrepreneurial. 
+Our Values. 
+Ethics and transparency overview Ethics and transparency Access to healthcare Environmental protection. 
+Ethical business culture. 
+Inclusion and diversity. 
+Workplace safety and health. 
+Sustainability overview Notices
+
+
+Why it matters. 
+An ethical business culture is an imperative against a background of reputational, legal, regulatory and longterm sustainability risks, and we are committed to increasing public trust in our industry.
+Description. 
+Drive the highest standards of conduct and accountability beyond compliance, including, but not limited to, anti-bribery and anti-corruption, product safety, use of human tissue and animals for research, human rights, and building supplier capabilities to uphold high social standards.
+Approach. 
+The key elements of our commitment to an ethical business culture are: • Our Code of Ethics and Values, which guide everything we do and ensure that we deliver life-changing medicines in a responsible way. Additional requirements at the local and business-unit levels complement our Code • Values-based decision making. We know that setting rules is not enough — which is why we emphasise Valuesbased decision making. We encourage our workforce to adopt a sustainability mindset that embraces our core Values • Being visible and transparent about our business. In today's informationseeking society, our actions add more value by being visible. Transparency supports learning and development for our employees, suppliers and partners. It also meets expectations of patients, investors and broader society. 
+Human Rights As a healthcare company, we believe health is a human right and, therefore, enabling access to our medicines is vital. Beyond our core business of health, it is our responsibility to understand how we are contributing to or protecting human rights due to our operations. This includes taking action on issues such as modern slavery, workforce treatment, labour rights and data privacy. We aim to prevent human rights violations by proactively identifying any risks in our business and responding promptly with appropriate action. As signatories to the UN Global Compact (UNGC) for the past 11 years, we commit to the Guiding Principles to respect human rights by acting with due diligence to avoid infringing on human rights and to address negative impacts. We are also committed to the International Labour Organization (ILO) standards on child labour and minimum working age.
+Responsible Supply Chain We interact with an extensive network of suppliers globally, and this reach gives us the opportunity — and responsibility — to promote practices with our suppliers that are socially and environmentally sustainable. Our business success depends on a resilient, transparent and inclusive supply chain that supports responsible sourcing, development and manufacturing. Embedding sustainability through collaboration with our suppliers increases business value for all. Throughout the lifetime of our relationship with each supplier, we seek to ensure that their conduct matches the expectations outlined in our Global Standard Expectations of Third Parties. We aim to work only with suppliers whose values are consistent with our own and who are committed to developing inclusive, resilient and transparent businesses.
+Challenges. 
+With the speed of scientific and technological developments, it is important that we remain aligned with evolving regulations and stakeholder expectations. This is especially true in the case of Artificial Intelligence (AI), where technological progress is ahead of regulation. We encounter new ethical considerations with our growing pipeline and scope of operations, for example new privacy regulations in China and the EU.
+Key target and progress. 
+Ethical business culture 2025 target Maintain 100% of active employees trained on the Code of Ethics. 
+Status: On Plan 2021 update 100% of active employees trained on the Code of Ethics in 2021 2025 target Improve the AstraZeneca global biannual human rights survey by using Fair Wage Network data to more robustly assess our performance against local living wage data. 
+Status: Not Yet Started 2021 update The human rights survey is biennial and will be conducted next in 2022. 
+Ethical business culture. 
+AstraZeneca Sustainability Report 2021 29. 
+Ethics and transparency Access to healthcare Environmental protection. 
+See Sustainability Data Summary for full metrics and methodology.
+Sustainability overview Notices
+
+
+AstraZeneca Sustainability Report 2021 30. 
+Explainable and Transparent. 
+Fair. 
+Accountable. 
+Human-centric and socially beneficial. 
+Private and secure. 
+AstraZeneca is dedicated to providing life-changing medicines through the ethical use of AI, supported by five principles:
+Sustainability in action. 
+Animals in science. 
+The responsible use of animals is a vital part of biomedical research, development and product safety testing, where suitable non-animal alternatives are not available. We share society concern for animal welfare and are actively committed to setting high standards for animal care, upholding the principles of the ‘3Rs’ – Replacement, Reduction and Refinement of animals in research – and being open regarding our use of animals.
+The Council for Science and Animal Welfare (C-SAW) is the expert group leading this approach to animals in research and development globally, providing assurance that we meet our standards. We apply these standards consistently to all work involving animals, whether conducted ourselves or by third parties acting on our behalf. We support and encourage the right values and behaviours towards animal use through many initiatives including the annual Global C-SAW Awards, which recognise and celebrate our scientists and animal care staff for exceptional commitment to the 3Rs, achievements in openness on animal research, and efforts that promote a 'Culture of Care' around animal use.
+The ethical use of AI. 
+Artificial Intelligence (AI) applies advanced analysis and logic-based techniques, including machine learning, to interpret events, support and automate decisions, and to take action.
+We are led by science and our industry has always been data-driven. We follow scientific methods and rely heavily on statistical analysis. New connections and correlations are emerging, including from the use of algorithms, and driving decisions.
+In October 2021, we published a Responsible AI Standard Operating Procedure, to help put responsible AI principles into practice. Our work is recognised in this area: • Our Data Science and AI team won an award for AI-managed adverse event reporting from the Association for Clinical Data Management • EthicsGrade rated AstraZeneca seventh of more than 200 companies in terms of corporate AI ethics. 
+Responsible sourcing practices. 
+Our Responsible Sourcing Programme delivers value to our business and society through employing responsible sourcing practices with suppliers to support their sustainability journeys, innovating together on challenges and promoting supplier diversity. Our ambition is to achieve 100% ethical spend – ensuring that sustainability is embedded into end-to-end procurement processes.
+In 2021, we continued our partnership with EcoVadis, baselining suppliers' environmental, ethical and social performance to better understand sustainablity risks, threats and opportunities for improvement. In 2021 we assessed 36% of our suppliers' societal and environmental impacts.
+Highlights. 
+Supporting external researchers in scientific advancements Since 2013, we have shared anonymised clinical data with qualified researchers to facilitate scientific and medical research, with the valuable clinical information collected by AstraZeneca as part of our research and development. The findings have resulted in 25 scientific publications since 2013. In 2021, we received 64 new external data sharing requests. AstraZeneca recently joined the Vivli Research consortium which has provided the opportunity to normalise operations using industry-leading solutions. Our future ambition is to further increase the speed at which we deliver data to researchers, and look to enhance the way we share more complex types of data.
+Our progress towards greater payment transparency As part of AstraZeneca’s long-standing commitment to data transparency and corporate responsibility, in 2021 we created the first voluntary payment disclosure report in Mexico in support of CETIFARMA (Council of Ethics and Transparency of the Pharmaceutical Industry). This summarised transfers of value made to healthcare professionals (HCPs), patient organisations and educational institutions. This was in addition to the approximately $900m USD of spend disclosed across 174,000 unique recipients within 46 markets with existing disclosure obligations, including continued voluntary disclosure of financial support to US non-profit organisations in support of the public good (donations, sponsorships, and partnerships). AstraZeneca continues to assess additional opportunities for increased disclosure.
+Embedding patient-centricity (LEAP – Learn Evolve Activate and deliver for Patients) The LEAP simulation is a series of experiential learning sessions designed to immerse employees in the patient journey. It provides the opportunity to experience what it's like to live with a rare disease from the perspectives of patients and stakeholders, and to cultivate our commitment to patient-centricity. These sessions engage colleagues and external stakeholders through the patient healthcare experience to challenge assumptions and identify value-added solutions. In 2021, 2,130 Alexion employees participated in at least one LEAP experience.
+Ethical business culture Ethics and transparency Access to healthcare Environmental protection Sustainability overview Notices
+
+
+Why it matters. 
+We believe that inclusion is a right and diversity is a strength. Both make a fundamental contribution to the success of our company because innovation requires breakthrough ideas that only come from a diverse workforce empowered to challenge conventional thinking.
+We believe our shared creativity unlocks challenges and brings new solutions. Incorporating inclusion and diversity (I&D) across all aspects of our organisation is an imperative to innovating for patients, continuous learning, and growing as individuals and as a company. Embedding I&D into all that we do supports our purpose, bold ambition and strategy by: • Advancing societal change • Ensuring our medicines reach the diverse spectrum of patients affected by the diseases they treat • Accessing a broader patient population and accelerating clinical trial impact • Providing better consumer insight through an employee population that matches our patient population • Attracting, developing and retaining high-quality talent from a broad and diverse talent pool • Driving innovation through inclusion of diversity of thought and experience. 
+Description. 
+Create a working environment where every employee has a sense of belonging, regardless of gender, race, ethnicity, religion, age, disability status or sexual orientation. This includes equitable compensation, benefits and opportunities for development and advancement.
+Approach. 
+We focus on four areas: • Empowering inclusive leadership • Fostering an environment where we each speak our minds • Building and sustaining a diverse leadership and talent pipeline • Contributing to society, which includes our commitments to supplier diversity, clinical trial diversity and health equity. 
+We have a comprehensive plan to ensure racial equity in our workplace. Our commitments include making sure that our workforce is representative of the communities in which we operate, taking action at each stage of our talent pipeline to increase representation, and driving change beyond our company by ensuring all that we do reflects the diversity of the communities we serve.
+Tracking workforce demographics As part of our commitment to create an inclusive culture, we track employee sentiment on measures of inclusion twice a year. In 2021, 83% of employee survey respondents feel we have a 'Speak Up'1 culture. We have also launched a global voluntary disclosure campaign to better understand our workforce demographics. Tracking dimensions such as country of origin, disability status, ethnicity, race, sex, gender identity and sexual orientation, where locally permissible, provides us with a more comprehensive picture of our global workforce diversity, and is one way that we can understand where we are today and opportunities for progress in the future.
+Challenges. 
+Privacy and ethics go hand-in-hand. Focusing on transparency, integrity and trust is at the heart of both our privacy strategy and our ethical approach: an ethical company is a company that values privacy and a company that values privacy embraces ethical practices. Across the world, we are seeing new and enhanced protection for personal data, moving the balance of power over personal data away from organisations back to individuals. This means that our ability to use people’s personal data for new and innovative purposes is linked directly to their trust in us.
+Inclusion and diversity 2025 target Reach gender equality in management positions. 
+Status: On Plan 2021 update 48.1% of senior middle management roles occupied by women3 2025 target Launch supplier diversity programmes in 10 new countries (outside of the United States)
+Status: On Plan 2021 update Programmes launched in total of six countries outside of the US, with three more countries - Australia, New Zealand and Poland - launched in 2021. 
+Key targets and progress. 
+Inclusion and diversity. 
+AstraZeneca Sustainability Report 2021 31. 
+Ethics and transparency. 
+See Sustainability Data Summary for full metrics and methodology.
+Access to healthcare Environmental protection Sustainability overview Notices
+
+
+Sustainability in action. 
+Highlights. 
+Inclusion and diversity recognition: • Recognised by the Hampton-Alexander Review4 as the highest-ranking pharmaceutical company in the FTSE 100 for representation of women on the Executive Committee and their direct reports combined, gaining third place in the top 10 • Included for the fourth consecutive year in the Bloomberg LP Gender-Equality Index, which recognises companies committed to transparency in gender reporting and advancing women’s equality • Received a top score of 100 on the Human Rights Campaign Foundation's Corporate Equality Index, resulting in a designation as one of the 2021 Best Places to Work for LGBTQ+ Equality • Received a top score on the Disability Equality Index5 (DEI) Best Places to Work™ of 80%
+Partnerships: In 2021, we became a founding partner of the World Economic Forum's Partnering for Racial Justice in Business initiative.
+In the US, we supported the efforts of the Black Women’s Health Imperative and the Rare Disease Diversity Coalition to address the additional challenges faced by rare disease patients of colour.
+In 2021, we contributed to the PhRMA Equity Initiative and joined over 500 healthcare and community members from more than 150 organisations, working to improve diverse participation in clinical trials.
+In the UK, we are a member of Business in the Community (BITC) and we signed the Race at Work Charter as part of BITC's Race Equality Campaign, to show our commitment to I&D and racial equality. In 2021, we were recognised in the Times Top 50 Employers for Women, produced in partnership with the Prince's Responsible Business Network, recognising UK companies with a demonstrated commitment to gender equality in the workplace.
+We accelerated our supplier diversity impact through a number of partnerships, including WEConnect International, Minority Supplier Development UK, the National Minority Supplier Development Council in the US, and the Diversity Alliance for Science.
+In September 2021, in partnership with the Women's Business Enterprise National Council (WBENC), we launched a 'Lead in Sustainability' Accelerator programme with black women-owned businesses, with 36 participating.
+New Talent Acquisition strategies to identify and recruit diverse talent. 
+In 2021, we launched new Inclusion and Diversity (I&D) Talent Acquisition standards, which include Cultural Awareness Training for our Talent Acquisition team, to promote consistent and equitable candidate experiences across the US, UK and Sweden. These will be expanded into International markets in 2022. We have implemented a requirement for diverse candidate slates and interview panels, as well as interview skills training for hiring managers which addresses I&D. We are also enhancing our relationships with external organisations and institutions, such as Historically black colleges and universities (HBCU) and Hispanicserving institutions (HSI) in the US, to facilitate entry pathways for diverse talent by funding scholarships and/or participating in recruitment and STEM mentoring programmes.
+Activating inclusion and business impact through our Resource Groups. 
+We have many active Employee Resource Groups which play an important role in connecting our employees, furthering our mission by aligning with our organisational priorities. These voluntary, employeeled groups aim to cultivate and sustain inclusion and a sense of belonging at AstraZeneca.
+Highlights from some of our Resource Groups in 2021 include: • Our TH!NK group introduced a new initiative to support neurodiverse employees through meaningful mentoring relationships. We have a growing network of mentors across a range of countries • Our African Heritage group hosted a Career Symposium in the US with workshops, networking, panel discussions and 'Career Speed Dating'.
+• Our AZ Pride group have created a course on LGBTQIA+ Inclusion in collaboration with our Global Sustainability Education, Engagement and Policy teams, which is now available in 11 languages in our Employees and Managers Essentials resources on Degreed, our internal digital learning platform • Our Hispanic group collaborated with Corporate Affairs in the US in the development of a consumer campaign for Lupus — a disease that disproportionately affects younger women of colour • In the US, our Asian and Allies group initiated conversations on our role in combatting racial violence, discrimination and prejudice, and partnered with our mental health team on support resources in response to the rise in Asian, Asian American and Pacific Islander community hate crimes • Our Veterans and Allies group in the US partnered with our Patient Experience and Insights team in honour of Global ALS Awareness Day to explore the correlation between ALS and military service. 
+Expanding our Supplier Diversity Programme. 
+Our Supplier Diversity Programme provides opportunities for small and diverse businesses to be part of our value chain. This helps support local economies through job opportunities, enabling diverse supplier development through mentorship schemes, and making a positive socio-economic impact by supporting the growth of local businesses. In 2021, we increased our spend with diverse suppliers by 20%. We also led a number of panels and industry discussions, sharing best practices with our peers and the diverse supplier community. We started a new partnership with the US National LGBT Chamber of Commerce (NGLCC) to further promote the inclusion of diverse businesses.
+This is a significant step towards our 2025 target to expand the programme to 10 countries outside of the US. We also have an annual Supplier Mentorship Programme, which aims to help our diverse suppliers grow and develop their businesses.
+UK. 
+South Africa. 
+New Zealand. 
+Australia. 
+Poland. 
+Puerto Rico. 
+Brazil. 
+US. 
+In 2021, we expanded the programme to Australia, New Zealand and Poland, bringing us up to a total of eight countries:
+AstraZeneca Sustainability Report 2021 32. 
+Ethics and transparency Inclusion and diversity Access to healthcare Environmental protection Sustainability overview Notices
+
+
+Why it matters. 
+Promoting a safe environment, free of injuries, is not only the right thing to do, but can also have positive impacts on business productivity and costs. To continue to deliver medicines to patients, we foster an environment where people feel safe, energised and inspired. The resources we put into supporting the physical and mental health and safety of our workforce are an investment in society at large, the communities in which we operate, and the long-term health of economies.
+Description. 
+Provide a healthy and safe working environment, based on a culture of learning rather than blame. This includes human and operational performance principles, engineering and preventative maintenance, and supporting employee health through flexible ways of working, access to disease prevention and treatment, and mental health services.
+Approach. 
+We work to promote a safe, healthy and energising work environment for our employees and partners. Our standards apply globally and are stated in our Code of Ethics. We monitor safety and health targets aimed at supporting our workforce and keeping AstraZeneca among the sector leaders in performance.
+We are committed to maintaining or exceeding compliance with all legal and regulatory requirements in the locations we operate in. We work in a transparent and ethical manner to develop good relationships with regulators and ensure we contribute to the communities in which we operate. We manage Safety, Health and Environment (SHE) risks, opportunities and performance through the use of effective Management Systems utilising a 'Plan, Do, Check, Act' process to ensure continuous improvement. This requires engagement throughout the organisation, effective leadership, open communication, and a commitment from every employee to themselves, our colleagues, our workplace, our community and our environment.
+In September 2021, we reached the final deployment stage of the new reporting AZ SHE System. This will align SHE data management systems and SHE business processes across our company, in order to streamline our collection, storage, and reporting of safety, health and environmental data. This is a significant step in achieving our goal to have a single source of SHE data across our enterprise. The AZ SHE System will help us to drive innovation in the management and reporting of SHE events and sustainability metrics, whilst helping to improve workforce safety and health.
+This system has been rolled out to: 67,000 users 450 AstraZeneca locations 75 countries. 
+To date, the system has collected over 4,400 Safety and Health events, 47,000 SHE observations, and 6,500 corrective or preventive action plans.
+We launched a Serious Injury and Fatality Prevention Programme in 2021, led by our Global SHE team and guided by a senior-level steering committee. Process and Life Safety subject matter experts evaluated high-risk activities with the potential to result in a serious injury or fatality, and prioritised these against internal audit findings and past events. The result is a three year plan to address 12 high-risk areas. We have begun work in the areas of Energy Isolation, Process Safety Information, Confined Space Entry and Process Hazards Analysis. Working teams review and uplift existing standards and materials, followed by a gap assessment at site-level against the updates. Gap assessment results are reviewed by site leadership teams and the steering committee.
+Key target and progress. 
+Workforce safety and health 2025 target Workforce safety: 75% reduction in total injury rate from 2015 baseline. 
+Status: On Plan 2021 update 68% reduction in reportable injury rate since 2015 2025 target Driver safety: 55% reduction in collisions per million kilometres driven from 2015 baseline. 
+Status: On Plan 2021 update 40% reduction in collision rate since 2015. 
+Challenges. 
+Some Workforce safety and health risks are included in the 'Failure to adhere to applicable laws, rules and regulations' risk. This risk references occupational health and safety or other regulations and has the potential to have a material impact on our business or results of operations, as described in our Annual Report.
+Navigating the evolving data privacy and data security regulations and the impact they have on our ability to report, collect and manage safety and health data has also been challenging, and has impacted our ability to implement technology in some countries. New or changing regulations concerning data privacy or data security have delayed the implementation of the AZ SHE System in four locations.
+Workforce safety and health. 
+AstraZeneca Sustainability Report 2021 33. 
+Ethics and transparency. 
+See Sustainability Data Summary for full metrics and methodology.
+Access to healthcare Environmental protection Sustainability overview Notices
+
+
+Sustainability in action. 
+Highlights. 
+Connect with the Road campaign Driving is one of the highest-risk activities in our Commercial business units. Recognising that during the COVID-19 pandemic many sales meetings took place virtually and representatives may not have been practicing their driving skills as usual, the SHE Commercial Executive Committee endorsed a 'Connect with the Road' campaign. The campaign focused on safe driving behaviour and reinforces our position to strongly discourage the use of any devices that may cause distraction. It included messages from Commercial leaders, line manager coaching, communication through internal social platforms and information from our DriveSuccess programme.
+New Global SHE Standard and accompanying training: SHE: Everybody’s Business In 2021 we implemented a new Global SHE Standard, describing our commitment to, management of, and accountability for SHE. This company-wide standard sits directly below our Code of Ethics in our workplace policies. An accompanying interactive training guide, 'SHE: Everybody’s Business', was developed to ensure every employee understands their role with respect to SHE, how SHE is managed and how to report SHE events. Communications around the guide were led by senior management and more than 12,000 employees viewed the new standard and training guide on our intranet when it launched.
+Internal PCR Testing Programme This programme collected and analysed over 295,000 PCR tests in 2021 and supported 2,400 colleagues with test-to-travel certificates. Additionally, our internal lab in the UK achieved ISO 17025 accreditation, our Sweden lab was audited for accreditation, and in the US our CLIA lab was externally audited with zero findings. In 2021, testing was expanded beyond our hub locations to include Poland and our Alexion colleagues in Ireland.
+Protecting our employees at home and in the workplace from COVID-19. 
+It was important to work flexibly in 2021 during the COVID-19 pandemic. We continued to remain focused on control measures put in place in 2020, in order to keep our workforce safe and healthy. In 2021, we were able to offer vaccinations in some of our sites. Encouraging PCR testing in our hub locations was also key to ensuring these workplaces remained COVID-19 secure.
+Through careful consideration of transmission rates, hospital capacities and local or national requirements, sites opened in a careful and controlled way to welcome employees back to the workplace. This took place at different times in different locations and, in some cases, workplace returns have had to transition between welcoming back all employees and limiting the number of people on-site due to COVID-19 surges. We continue to track, report and investigate all confirmed cases of COVID-19, as well as practising control measures such as masking, distancing, temperature screening, enhanced cleaning and PCR testing. Our Human Resources teams are continuing to ensure that employees' mental wellbeing is supported throughout the pandemic and that employees are aware of the resources available to them.
+Human and Organisational Performance (HOP) in action. 
+In line with our desired leadership behaviours, we are integrating HOP — a science-based approach to understanding how and why people make mistakes and what organisational improvements can be made — into our business, specifically in our Global Lean Framework and related problem-solving tools. This is an inclusive, cross-functional effort across our Quality, Safety, Health and Environment (SHE) and Lean teams. Our current focus is on uplifting capability in human performance investigations with the rollout of Phase A training. This is targeted at those who lead and/or coach others on human performance investigations (such as a SHE incident or a quality deviation). This is supported by the release of our Human Performance Event Learning (HPEL) training aid. Key aspects include leader curiosity and creating a psychologically safe environment for learning, in order to develop a deeper understanding of the context around the event. This leads to identification of robust corrective/preventive actions and sharing across our global network.
+Safe Space for a Healthy Mind. 
+Safe Space is a global Employee Resource Group (ERG) at AstraZeneca which focuses on mental health and wellbeing. As part of its objective to signpost mental health support and make it easily accessible, Safe Space group teamed up with our Global IT function to explore a digital solution with Microsoft using its Teams platform. Microsoft were so impressed with the group's idea for the mental health app, they provided a team of developers to work on the solution. The new app, 'HealthyMind', provides live links for local mental health support in more than 70 countries. This enables employees to access links and phone numbers for immediate and local mental health support, with line managers able to share country information to direct reports in other countries. Empowering our employees to take care of their mental wellbeing is one way that we are delivering on our commitment to be a great place to work.
+'HealthyMind' provides live links for country-specific mental health support in more than 70 countries.
+70+ countries. 
+AstraZeneca Sustainability Report 2021 34. 
+Ethics and transparency Workforce safety and health Access to healthcare Environmental protection Sustainability overview Notices
+
+
+Notices. 
+Footnotes. 
+Sustainability overview 1. Includes four Access to healthcare programmes: Healthy Heart Africa, Healthy Lung, Phakamisa and Young Health Programme to end 2020; Phakamisa is no longer included from 2021 onwards.
+2. People ‘reached’ is defined per programme, depending on the operations: Healthy Heart Africa – includes the number of blood pressure screenings; Phakamisa – includes the number of women reached through early breast cancer detection and awareness; Healthy Lung Asia methodology updated from 2017 – ‘people reached’ includes only those diagnosed or educated or treated.
+3. Patient Assistance Programmes use fully donated product without expectation of payment from the patient for any portion or to access the programme.
+4. ‘Speak Up’ question is "I feel comfortable to speak my mind and express my opinion at work".
+5. Healthy Lung programmes in Gulf, Mexico and Egypt have reported no activities since 2020 due to COVID-19 related restrictions at the healthcare facilities; Healthy Lung Saudi Arabia was terminated in 2020.
+6. Healthy Lung data that contributes to: 114,709 healthcare workers trained since 2010 (92% of total being reported), 1.807 million people reached through Access to Healthcare programmes (5.6% of the total) and 2641 Health facilities activated was not signed off and that this constitutes (73% of the total) was not included in the external assurance in 2021.
+7. Phakamisa programme was included historically as a flagship programme, but changed focus in 2021 and no longer contributes to the target.
+8. Scope 1, 2 and 3 emissions from Alexion that was acquired during 2021 (reporting boundary expansion to include the acquired business, calculate the emissions across all scopes in a consistent manner, and integrate to previous years reporting).
+9. 2021 data includes Alexion data.
+10. Scope is for products launched with a new active pharmaceutical ingredient (API) and the manufacturing process developed in-house.
+11. Scope is 49 APIs for which data is available to calculate safe API discharge limits and based on 2020 manufacture and formulation activities.
+12. One of 75 API discharges exceeded the safe discharge limit (Exceeded limits at the time of reporting. The safe discharge limits for the APIs in question have been subsequently refined and demonstrate discharges were safe.) 13. Four of 75 API discharge assessments from suppliers were not submitted.
+14. Data in this section includes Alexion that was acquired during 2021 — reporting boundary expansion to include the acquired business and integrate to previous years reporting.
+15. The data coverage includes 100% of sites that are both owned and controlled globally. Waste from construction and demolition is excluded from the data reported.
+16. The inclusion criteria for injuries and occupational illnesses in the metrics reported here are aligned with the US Occupational Safety and Health Administration (OSHA) Record Keeping Rule. Employees are defined as workers employed according to AstraZeneca terms and conditions and includes temporary or contract staff/contingent workers who are supervised directly by AstraZeneca personnel. Contractors are defined as persons who provide a service to AstraZeneca and work on AstraZeneca facilities but are employed and managed by another (third party) organisation.
+17. Full details of the remit of the Sustainability. 
+Committee are contained in the 2021 Annual Report.
+18. Sustainability Advisory Board (SAB). In. 
+September, it was agreed that the SAB had met its objectives. We would like to thank the external SAB members for their contributions: • Pankaj Bhatia, Deputy Director, Climate Program and Global Director, GHG Protocol, World Resources Institute • Dame Polly Courtice, DBE, LVO Director, Cambridge Institute for Sustainability Leadership, University of Cambridge • Rain Henderson, Founder, Elementor Advisors • Louise Nicholls, Managing Director of Suseco, and Vice Chair of the Institute of Environmental Management and Assessment. 
+Access to Healthcare 1. Includes four Access to healthcare programmes: Healthy Heart Africa, Healthy Lung, Phakamisa and Young Health Programme to end 2020; Phakamisa is no longer included from 2021 onwards.
+2. People ‘reached’ is defined per programme, depending on the operations: Healthy Heart Africa – includes the number of blood pressure screenings; Phakamisa – includes the number of women reached through early breast cancer detection and awareness; Healthy Lung Asia methodology updated from 2017 – ‘people reached’ includes only those diagnosed or educated or treated.
+3. On average waiting almost five years and seeing over seven specialists.
+Environmental Protection 1. Scope is 49 APIs for which data is available to calculate safe API discharge limits and based on 2020 manufacture and formulation activities.
+2. One of 75 API discharges exceeded the safe discharge limit (Exceeded limits at the time of reporting. The safe discharge limits for the APIs in question have been subsequently refined and demonstrate discharges were safe.) 3. Four of 75 API discharge assessments from suppliers were not submitted.
+4. https://www.thelancet.com/journals/lancet/ article/PIIS0140-6736(21)01787-6/fulltext 5. https://iopscience.iop.org/ article/10.1088/1748-9326/ab19e1/ meta#erlab19e1s3 6. Scope 1, 2 and 3 emissions from Alexion that was acquired during 2021 (reporting boundary expansion to include the acquired business, calculate the emissions across all scopes in a consistent manner, and integrate to previous years reporting).
+7. Data currently covers AstraZeneca spend, Alexion spend assigned to SBTi still to be assessed.
+8. Scope is for products launched with a new active pharmaceutical ingredient (API) and the manufacturing process developed in-house.
+9. Data in this section includes Alexion that was acquired during 2021 - reporting boundary expansion to include the acquired business and integrate to previous years reporting.
+10. Process mass intensity (PMI) has been used for over 15 years to evaluate and benchmark progress towards more sustainable manufacturing and quantifies process input mass (e.g. solvent, water, reagents) per mass of output produced. Source: Metrics for Green Chemistry, Science Direct: https:// www.sciencedirect.com/science/article/pii/ S2666086521001764. 
+Ethics and Transparency 1. ‘Speak Up’ question is "I feel comfortable to speak my mind and express my opinion at work".
+2. Compliance rates were calculated based on number of employees in commercial regions as of 1st of January 2022. Commercial employees include sales & marketing, medical affairs and market access.
+3. 2021 data includes Alexion data.
+4. Hampton Alexander review is now known as FTSE Women Leaders Review.
+5. This score was achieved by Alexion, AstraZeneca's Rare Disease Group.
+We recognise that several of these measures were impacted by the pandemic and may not reflect a typical trajectory.
+Notices. 
+AstraZeneca Sustainability Report 2021 35. 
+Notices. 
+See Sustainability Data Summary for full metrics and methodology. 
+Access to healthcare Environmental protection Ethics and transparency Sustainability overview

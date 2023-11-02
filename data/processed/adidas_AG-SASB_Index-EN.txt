@@ -1,0 +1,80 @@
+1. 
+The Sustainability Accounting Standards Board (SASB) is an independent non-profit organization that sets standards to guide the disclosure of financially material sustainability information by companies to their investors. SASB Standards identify the subset of environmental, social, and governance (ESG) issues most relevant to financial performance in 77 industries. adidas reports according to the SASB Standard describing the Consumer Goods Sector / Apparel, Accessories & Footwear.
+In 2021, adidas has applied the SASB Standards for the first time. Since many years, we report our sustainability-relevant information with reference to the Global Reporting Initiative (GRI) who has developed comprehensive sustainability guidelines. This allowed us to reference mainly to our Annual Report 2020 (AR 2020) as well as to our own corporate website for the required information.
+ adidas - SASB Index Table as of April 2021. 
+Topic, Accounting Metric & Unit of Measure. 
+SASB Code Reference to adidas Annual Report 2020 / Website Comment. 
+Management of Chemicals in Products. 
+Discussion of processes to maintain compliance with restricted substances regulations. 
+CG-AA-250a.1. 
+AR 2020 - Chemical Management adidas Website - Chemical Footprint. 
+
+
+Discussion of processes to assess and manage risks and/or hazards associated with chemicals in products. 
+CG-AA-250a.2. 
+AR 2020 - Environmental Impact AR 2020 - Product Safety adidas Website - Chemical Footprint adidas Website - Product Safety. 
+
+Environmental Impacts in the Supply Chain. 
+Percentage of (1) Tier 1 supplier facilities and (2) supplier facilities beyond Tier 1 in compliance with wastewater discharge permits and/or contractual agreement. 
+CG-AA-430a.1. 
+AR 2020 - Chemical Management adidas Website - Chemical Footprint adidas Website - Supply Chain Approach. 
+
+In 2020, 52% of the direct discharge facilities met the ‘ZDHC Foundational Level’.
+
+We aim for 80% of applicable suppliers that operate on-site effluents plants to achieve a ‘ZDHC Wastewater Foundational Level’ (direct discharge) by 2025.
+
+Percentage of (1) Tier 1 supplier facilities and (2) supplier facilities beyond Tier 1 that have completed the Sustainable Apparel Coalition’s Higg Facility Environmental Module (Higg FEM) assessment or an equivalent environmental data assessment. 
+CG-AA-430a.2 adidas Website - Monitoring Supplier Performance. 
+
+We have developed and implemented our own equivalent methodology measuring supplier performance consistent with Higg FEM. We collect relevant data and set reduction targets for 100% of our Tier 1 and strategic Tier 2 suppliers accordingly. We audit the correctness of the data on a regular basis either ourselves or through third-party auditors.
+
+
+2 
+adidas - SASB Index Table as of April 2021. 
+Topic, Accounting Metric & Unit of Measure. 
+SASB Code Reference to adidas Annual Report 2020 / Website Comment. 
+Labor Conditions in the Supply Chain. 
+Percentage of (1) Tier 1 supplier facilities and (2) supplier facilities beyond Tier 1 that have been audited to a labor code of conduct, (3) percentage of total audits conducted by a third-party auditor. 
+CG-AA-430b.1. 
+AR 2020 - Working Conditions in our Supply Chain adidas Website - Code of Conduct for Suppliers 'Workplace Standards' 
+
+
+Priority nonconformance rate and associated corrective action rate for suppliers’ labor code of conduct audits. 
+CG-AA-430b.2. 
+AR 2020 - Working Conditions in our Supply Chain AR 2020 - Global Operations - Relationships with independent manufacturing partners adidas Website - Code of Conduct for Suppliers 'Workplace Standards' adidas Website - Human Rights Due Diligence 
+adidas Website - Training and Empowering Suppliers 
+adidas Website - Monitoring Supplier Performance 
+adidas Website - Enforcement Guideline. 
+
+We audit our suppliers regularly against our 'Workplace Standards' (Supplier Code of Conduct). With our eKPI and cKPI tools, we measure the environmental and social compliance of our suppliers, and assess their performance and progress towards our targets. In general, self-governance audits as well as collaboration audits are conducted. When a factory reaches a certain compliance maturity level, we empower them to conduct their own self-governance audits and develop appropriate remediation plans, which we periodically review. Collaboration audits are conducted in partnership with other brands, or as part of joint remediation exercises.
+
+Description of the greatest (1) labor and (2) environmental, health, and safety risks in the supply chain. 
+CG-AA-430b.3. 
+AR 2020 - Working Conditions in our Supply Chain adidas Website- Supply Chain Approach - Risk Mapping adidas Website – Environmental Good Practice Guide & Toolkit adidas Website – Environmental Guidelines adidas Website – Health & Safety Guidelines 
+
+
+3 
+adidas - SASB Index Table as of April 2021. 
+Topic, Accounting Metric & Unit of Measure. 
+SASB Code Reference to adidas Annual Report 2020 / Website Comment. 
+Raw Materials Sourcing. 
+Description of environmental and social risks associated with sourcing priority raw materials. 
+CG-AA-440a.1. 
+AR 2020 - Sustainable Materials and Processes AR 2020 - Human Rights 
+adidas Website - Materials 
+adidas Website - Factory Workers. 
+
+
+Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard. 
+CG-AA-440a.2. 
+AR 2020 - Sustainable Materials and Processes 
+adidas Website - Materials 
+
+ - Share of more sustainable cotton in 2020: we sourced 100% more sustainable cotton certified by the Better Cotton Initiative - Share of recycled polyester in 2020: 71% - Share of certified leather in 2020: ~ 99% of all leather is sourced from suppliers who have been assessed and certified by the Leather Working Group. 
+
+Activity Metric. 
+Number of (1) Tier 1 suppliers and (2) suppliers beyond Tier 1. 
+CG-AA-000.A. 
+AR 2020 - Factory Performance 
+adidas Website - Global Factory Lists. 
+At the end of 2020 adidas worked with 520 independent supplier facilities (Tier 1).

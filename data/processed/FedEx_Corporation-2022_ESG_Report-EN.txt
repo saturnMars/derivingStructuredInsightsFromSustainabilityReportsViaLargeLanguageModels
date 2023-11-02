@@ -1,0 +1,796 @@
+2022 ESG Report | FedEx 1 2022 ESG REPORT
+
+
+2022 ESG Report | FedEx. 
+CONTENTS. 
+INTRODUCTION. 
+OUR PRINCIPLES. 
+About this ESG Report. 
+Governance structure and ESG risk management. 
+About FedEx. 
+Corporate integrity and compliance. 
+Chairman’s letter. 
+Cybersecurity and data privacy. 
+Public policy and advocacy. 
+Our supply chain 3
+6 4
+8 5
+10 11 12 3. 
+DATA APPENDIX. 
+Environment. 
+Social. 
+Governance 35 39 41 35 6. 
+GOVERNANCE. 
+OUR PLANET. 
+Environmental governance structure. 
+Strategic approach and climate change. 
+Vehicle electrification. 
+Sustainable fuels. 
+Aircraft fuel conservation and fleet modernization. 
+Facilities. 
+Sustainable customer solutions 13 14 17 19 20 21 23 13. 
+ENVIRONMENT. 
+OUR PEOPLE. 
+Social governance structure. 
+Our culture. 
+Human resource management. 
+Diversity, equity, and inclusion. 
+Health and safety 24 25 27 30 33 24. 
+SOCIAL
+
+
+2022 ESG Report | FedEx 3. 
+INTRODUCTION. 
+About this ESG Report. 
+We are proud to present the FedEx 2022 ESG Report, which covers progress toward our environmental, social, and governance (ESG) strategies, goals, and initiatives. This report reflects our ESG progress and performance for each FedEx operating company and all geographies for our 2021 fiscal year (FY21), unless otherwise noted. FY21 ended May 31, 2021, and all references to FY denote the 12-month period ending on May 31 of the indicated year.
+Our Data appendix includes key highlights regarding our ESG performance and progress, including year-over-year performance data. Our Scope 1 and 2 greenhouse gas (GHG) emissions data were externally verified by Cventure LLC.
+This report references indicators from the Global Reporting Initiative (GRI) Standards and aligns with applicable industry standards from the Sustainability Accounting Standards Board (SASB) and recommendations from the Task Force on Climate-related Financial Disclosures (TCFD).
+OUR PLANET. 
+OUR PRINCIPLES. 
+OUR PEOPLE. 
+INTRODUCTION. 
+DATA APPENDIX. 
+Environmental, Social, & Governance reporting. 
+Reporting framework index. 
+Scope 1 & 2 GHG verification statement. 
+Corporate Social Responsibility. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 4. 
+DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PLANET OUR PEOPLE. 
+About FedEx. 
+FedEx Corporation (FedEx) provides a broad portfolio of transportation, e-commerce, and business services through our operating companies. By competing collectively, operating collaboratively, and innovating digitally, we are building the network for what’s next. We are committed to connecting people and possibilities across the world responsibly and resourcefully. Our operating principles, coupled with the size and scale of our network, allow us to remain flexible while positioning us to produce superior financial returns for our stockholders.
+Every day, FedEx serves over 220 countries and territories and works to connect 99% of global gross domestic product. Our company’s positive impact extends far beyond pallets and parcels and we play an important role in the U.S. and global economies by supporting customers, including small business customers, and team members across the world, as demonstrated in our U.S. Economic Impact Report.
+About us. 
+Investor relations webpage. 
+U.S. Economic Impact Report. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 5. 
+DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PLANET OUR PEOPLE unifying, enterprise-wide culture values to knit our entire network of nearly 600,000 team members together under shared values and behaviors. This evolution of our culture builds upon our “People-Service-Profit” philosophy and Quality Driven Management system which help FedEx prepare for what’s next.
+FedEx remains committed to compensating our team members fairly for their contributions and providing high-quality opportunities for growth. To make FedEx even more attractive to prospective team members at all levels, we have expanded learning and development programs, DEI initiatives in the workplace and the communities we serve, flexible work environments, and investments in team member safety, including free COVID-19 testing and vaccinations for all U.S. team members.
+Anchored by these three dimensions at the core of our business, we will continue to innovate for our customers, create an environment where our team members can thrive, and work toward our ambitious goals to deliver for our customers and the planet.
+FREDERICK W. SMITH Chairman and CEO. 
+Chairman’s letter. 
+Agile. Proactive. Resilient: FedEx team members have reflected these characteristics in meeting the challenges posed by the operating environment of the past year — including record e-commerce volumes and immense global supply chain challenges. And since the beginning of the pandemic, we’ve been proud to support recovery efforts, including the ongoing delivery of vaccines, therapeutics, test kits, and related supplies. This is among the most important work in our company’s history and will continue as long as needed.
+In this unique global context, FedEx plays an essential role in supporting communities and economies worldwide — a benefit we’ve called “the FedEx Effect.” Each day FedEx connects millions of individuals, businesses, and communities around the world with opportunities in a responsible and resourceful manner.
+The success of our network is built on our company’s sound environmental, social, and governance (ESG) practices, which are outlined in this report in three sections focused on our principles, our planet, and our people.
+Our principles reflect our absolute commitment to ethics, integrity, and reliability in our business practices. These commitments also extend to our approach to our supply chain, policy advocacy, data, and cybersecurity. Guided by the FedEx Code of Conduct and reporting channels, the FedEx governance structure is the bedrock of our continued success.
+Our planet looks at the work underway to address the urgent challenges of climate change by implementing our “Reduce, Replace, and Revolutionize” strategy across our operations. We continue to make progress toward our goal of achieving carbon neutral global operations by 2040, as announced last year. For example, despite continued business growth, as seen in FY21, we have reduced our emissions intensity by 45% over the last 12 years.
+In April 2021, FedEx became the first North American transportation and logistics company to issue a sustainability bond, introducing a direct way for the investor community to support our carbon neutral operations goal. We are also working with strategic partners such as the Yale Center for Natural Carbon Capture and BrightDrop, a new business from General Motors. We know this collaboration is key to identifying sustainable technologies that can be scaled for the benefit of both FedEx and the entire transportation industry.
+Our people and their commitment to delivering the Purple Promise set us apart. The distinct FedEx culture is a differentiator, and we are proud to have recently introduced a set of
+
+
+2022 ESG Report | FedEx 6. 
+Governance structure and ESG risk management. 
+Board of Directors and global ESG governance. 
+At FedEx, we focus on long-term performance, which has guided our company’s success for nearly five decades. To deliver on this forwardthinking strategy, we embed ESG throughout our culture and align our sustainability approach with our mission and values.
+OUR PLANET. 
+OUR PRINCIPLES. 
+OUR PEOPLE. 
+INTRODUCTION. 
+DATA APPENDIX. 
+OUR PRINCIPLES. 
+DELIVERING ON STAKEHOLDER EXPECTATIONS. 
+For more information on our environmental and social governance approach please visit the Our Planet and Our People chapters of this report.
+The FedEx Board of Directors has reviewed this ESG report. The Board and its committees oversee our global sustainability strategies and programs and are responsible for evaluating management’s efforts to align enterprise culture with our values and long-term strategy. We seek to maintain a Board that reflects a wide breadth of experiences, perspectives, and knowledge in addition to a diversity of gender, race, ethnicity, and age. Of the 12 members that currently comprise our Board of Directors, four are female and four are ethnically diverse.
+
+
+2022 ESG Report | FedEx 7. 
+OUR PRINCIPLES DATA APPENDIX INTRODUCTION OUR PLANET OUR PEOPLE » The Audit Committee evaluates the execution and effectiveness of our corporate integrity and compliance programs and discusses with management regularly other developments regarding ESG reporting and disclosures, as well as alignment of financial reporting and ESG disclosures and internal controls and procedures related to ESG disclosures.
+» The Cyber and Technology Oversight Committee evaluates and discusses with management the company’s cyber and technology-related risks and the mechanisms for managing and mitigating such risks in addition to overseeing emergency preparedness plans.
+In 2021, the Board oversaw planning for the announcement of our goal to achieve carbon neutral operations, the distribution of COVID-19 vaccines, and the continued rollout of safety enhancements across the enterprise, in addition to monitoring and discussing other key ESG priorities.
+The Board has four standing committees, each of which is solely comprised of independent members as determined by the Board in accordance with the independence requirements of the New York Stock Exchange and the Board’s more stringent director independence standards. Recently, the Board renamed three of the committees to better reflect their respective oversight responsibilities. The Board has delegated each committee specific aspects of our ESG oversight.
+» The Governance, Safety, and Public Policy Committee oversees our Corporate Social Responsibility (CSR) goals, strategies, and programs, including with respect to sustainability and management of sustainability and climate-related risks. The Chief Sustainability Officer (CSO) provides updates to the committee at least annually. Additionally, the committee assists the Board in overseeing our safety strategies and programs and political activities and expenditures.
+» The Compensation and Human Resources Committee oversees and discusses with management our diversity, equity, and inclusion (DEI), workforce, enterprise health care, and other key human resource management strategies and initiatives.
+Risk management. 
+We employ an Enterprise Risk Management (ERM) program that provides a common framework for identifying and evaluating top risks across our business operations. This includes ESG topics, which could create long-term risks for the company. Through our ERM programs, senior leadership teams at each major operating company submit feedback using a consultative approach. We identify and classify risks into five categories: External, Strategic, Operational, Financial, and Compliance. Risks are prioritized based on potential financial impact, likelihood of occurrence within the upcoming fiscal year, and amount of residual risk to the enterprise. Our ERM team evaluates and finalizes identified risks and shares key risks with both the Board of Directors and the Audit Committee at least once per year, with significant changes shared quarterly. We understand that risks to our business are continuously evolving and we routinely review our risk management processes to enhance our business against future risks. Additionally, we have incorporated an evaluation of ESG risks— including climate change, societal risks, and other critical risks—into our ERM process.
+To ensure we deliver value to our business and our stakeholders, we conduct regular ESG materiality assessments, most recently in 2019. Our priority topics inform our global ESG approach, help us define and prioritize risks, and enable us to set robust, but achievable, goals.
+Board of Directors. 
+Corporate governance guidelines. 
+ESG | Investor relations webpage. 
+Our 2019 materiality assessment. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 8. 
+OUR PRINCIPLES DATA APPENDIX INTRODUCTION OUR PLANET OUR PEOPLE. 
+Corporate integrity and compliance. 
+Trust and reliability are critically important to our stakeholders, and each of our team members earns this trust by delivering on the Purple Promise—to make every FedEx experience outstanding. The FedEx Board of Directors and management teams are dedicated to maintaining our strong culture of ethics, integrity, and reliability. Our Board has delegated to its Audit Committee the responsibility to oversee the company’s compliance and ethics programs, including the Code of Conduct (Code), enterprise compliance policies, and the FedEx Alert Line. Our Chief Compliance Officer leads our Corporate Integrity and Compliance department, which provides program oversight, strategic direction, and resources to team members across the enterprise. Each FedEx operating company is responsible for implementing and maintaining compliance with regional and sector-specific legal and regulatory requirements.
+Our Compliance Council—including representatives from Corporate Integrity and Compliance, Legal, Human Resources (HR), Communications, Security, Internal Audit, and Financial Compliance—enhances our governance around integrity and compliance programs. The Compliance Council meets quarterly to discuss new compliance initiatives, emerging risks, and best practices.
+In 2021, we received the Compliance Leader Verification designation from Ethisphere in recognition of our best-in-class ethics and compliance programs.
+FedEx Code of Conduct and global compliance policies. 
+The FedEx Code serves as the foundation of our corporate integrity and compliance program, and applies to every FedEx officer, director, and employee. The Code covers a breadth of topics, including workplace health, safety, and environment; international trade controls; human rights, including human trafficking; money laundering prevention; equal opportunity and anti-harassment; conflicts of interest; improper payments and bribes; fraud and insider trading; anti-trust and anti-competition; gifts and entertainment; and data security and privacy.
+We have additional policies that specify our requirements and expectations on a range of integrity and compliance matters. We routinely review and update these policies when we identify the need for employee clarification, the emergence of new laws or regulations, or other factors.
+We are also committed to protecting and advancing human rights in all of our operations around the world. We prohibit the use of child, compulsory, or forced labor and have zero tolerance for slavery and human trafficking.
+Our public-facing Corporate Integrity & Compliance website features our Code and global policies, providing employees, customers, and other stakeholders access to our key programs and policies.
+Our approach to tax. 
+Our global tax function is an integral part of our business operations. Our business choices maximize the long-term value of our company and deliver superior service to our customers. Our tax department works closely with our business groups to achieve our objectives while complying with tax obligations around the world in accordance with applicable laws and regulations. With the FedEx Code and our brand reputation at our core, our global tax function works to achieve its objectives by hiring, training, and retaining world-class tax professionals as well as consulting with outside experts. We believe in transparency in our approach to tax and seek to foster open and constructive relationships with tax authorities.
+Education and communications. 
+We provide interactive education on Code topics to new and existing team members. In FY21, 98% of employees completed assigned compliance education. Depending on their responsibilities and the associated risks they face, team members may receive more targeted and detailed education.
+We constantly reinforce our Code principles with targeted compliance communications through a variety of channels, including emails, newsletters, videos, and digital signage. We also conduct an annual survey with officers, directors, and senior managers across our enterprise to gauge awareness of, and compliance with, the Code.
+
+
+2022 ESG Report | FedEx 9. 
+OUR PRINCIPLES DATA APPENDIX INTRODUCTION OUR PLANET OUR PEOPLE. 
+Risk assessments, gauging effectiveness, and measuring ethical culture. 
+We conduct comprehensive compliance risk assessments at our operating companies, with a focus on core compliance risks. The risk assessments include extensive participation by our business partners and result in detailed mitigation plans for identified risks. The results are reported to our Audit Committee and included in our ERM process. We also regularly gauge the effectiveness of our compliance programs and measure our ethical culture through integrity surveys distributed to all team members.
+Speaking up. 
+We promote accountability by encouraging our team members to report concerns or questions to their manager, HR, Legal, Security, or the FedEx Alert Line, which is available 24/7 in more than 35 languages. FedEx prohibits retaliation against anyone who reports a known or suspected violation in good faith.
+In FY21, we received more than 14,000 reports and inquiries from team members, customers, and the general public on issues such as employee relations, safety, conflicts of interest, business ethics, and fraud. Nearly 60% of the reporters identified themselves, which is approximately 18% higher than the standard industry benchmark. We closed out more than 13,300 of the reports and resulting actions included team member discipline, coaching, training, termination, and contract termination for vendors and contractors.
+Code of Conduct. 
+Global Antitrust & Competition Law Policy. 
+Policy Prohibiting Trafficking in Persons. 
+Global Conflicts of Interest Policy. 
+Policy on Political Contributions. 
+Global Gifts and Entertainment Policy. 
+Global Anti-Corruption Policy. 
+FedEx Alert Line. 
+Global Privacy Policy. 
+Social Media Guidelines. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 10. 
+OUR PRINCIPLES DATA APPENDIX INTRODUCTION OUR PLANET OUR PEOPLE. 
+FedEx Data Privacy Day. 
+Our Corporate Integrity and Compliance department hosted our third annual FedEx Data Privacy Day in January 2022. The event was held virtually and welcomed all FedEx employees in Asia, Europe, North America, South America, Australia, and Africa to learn more about privacy and how we manage data. The event kicked off with a keynote speech from the CEO of FedEx Dataworks. In total, more than 1,800 employees attended the event.
+Cybersecurity and data privacy. 
+We recognize the importance of protecting the privacy of our customers, vendors, and team members, and we deliver on this commitment by proactively ensuring a safe and secure online environment. With the increasing presence and sophistication of online threats, we must ensure continuous improvement to protect our business and our customers.
+The Cyber and Technology Oversight Committee of the FedEx Board is responsible for reviewing the management and mitigation of our cyber and technology-related risks and discussing these initiatives with leadership. Our Global Privacy Office regularly reviews our practices and policies to ensure we maintain compliance with all relevant regulations across our operating companies. Our Internal Audit team also conducts periodic audits of our Privacy Compliance Program to ensure our controls are working effectively.
+Educating our team members is critical to our cybersecurity process, and we provide annual information security and data privacy trainings. These courses address a range of topics, including awareness regarding social engineering, cybercrimes, and data protection. We also conduct periodic phishing tests to ensure our team members are aware of and can recognize malicious phishing attempts.
+The FedEx Trust Center website provides more information on how we protect customer privacy along with resources to help our customers submit data subject access requests and identify, report, and mitigate risks in the e-commerce market.
+Global Privacy Policy. 
+FedEx Privacy Notice. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 11. 
+OUR PRINCIPLES DATA APPENDIX INTRODUCTION OUR PLANET OUR PEOPLE. 
+Public policy and advocacy. 
+We have a strong interest in public policy and issues that affect the global economy, our business, and our customers. FedEx ethically and responsibly supports policies that promote the economic future of our customers, team members, investors, and businesses. The Board has delegated responsibility to its Governance, Safety, and Public Policy Committee for reviewing and discussing with management (i) public policy, political, and legislative trends and matters that affect or may affect the company’s business, performance, strategies, or reputation; (ii) the company’s political activities and participation in the political process, including direct and indirect political spending and lobbying activities and expenditures; (iii) the company’s contributions to trade associations and other tax-exempt organizations that engage in political activities; (iv) steps management has taken to identify, assess, and manage risks relating to political activities and expenditures; and (v) the company’s reporting of its political activities and expenditures.
+We are subject to extensive regulation at the federal and state levels and enact policies to appropriately disclose our activities in accordance with these regulatory requirements.
+Around the world and within the U.S., we advocate for public policies that encourage free trade, support solutions that address trade barriers, and enable FedEx to connect the world in resourceful and responsible ways. We continue to support legislation at the state and federal levels to optimize the efficiency, sustainability, safety, and capacity of our transportation system. We also support policies regarding aviation—including Open Skies agreements— workforce development, information security, tax policy, deployment of autonomous delivery devices, modernized truck regulations and infrastructure, and increased access to alternative fuels.
+Policy perspectives. 
+Policy on Political Contributions. 
+Governance, Safety, and Public Policy Committee charter. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 12. 
+OUR PRINCIPLES DATA APPENDIX INTRODUCTION OUR PLANET OUR PEOPLE. 
+Our supply chain. 
+As the profound impacts of the COVID-19 pandemic continued through 2021, we worked with our suppliers to keep health care and industrial supply chains moving while meeting the accelerating demand of the e-commerce market. According to analysis prepared by Dun & Bradstreet, in FY20 we increased spending across our U.S. supply chain, which boosted national employment by supporting more than 400,000 jobs.
+Our FedEx Services Supplier Relationship Management (SRM) team manages and mitigates critical risks in our supply chain by implementing consolidated policies and working closely with our suppliers. The SRM team also collaborates with FedEx internal stakeholders to advance diversity and sustainability throughout the value chain. Our Sourcing Sustainability Impact Team (SIT) shares best practices and benchmarks findings to determine where we can improve. Additionally, we are founding members of the Sustainable Purchasing Leadership Council, and, as active members of their Strategic Advisory Committee, we follow International Standardization (ISO) 20400 guidance for sourcing criteria and sustainability metrics across our operating companies.
+All of our suppliers are expected to adhere to the principles set forth in our Code of Conduct and aim to meet our ESG commitments. Our requests for qualifications and proposals include sustainability-related questionnaires. In FY21, we screened 94% of potential and current Sourcing-managed suppliers. We continue to include ESG criteria in all Sourcing-managed supplier scorecards and we also include language addressing supplier performance in environmental, social, labor, and human rights areas in our supplier contract language, where appropriate.
+We strengthen and enhance our supply chain by sourcing from small and women- and minority-owned businesses. We also support the development of diverse suppliers through alliance sponsorships, participation in industry associations, and by providing equitable market access opportunities. In FY21, our U.S. operations acquired $18.7 billion in goods and services from diverse and small-business suppliers, with 10% spent with women-owned businesses, 19% with minority-owned businesses, and 71% with small businesses.
+We help women- and minority-owned businesses, including many FedEx suppliers, succeed through the Global Entrepreneurship pillar of our FedEx Cares program. Our initiatives provide diverse entrepreneurs with training, mentoring, networking, capital access, and other resources to help grow their business and navigate the challenges they face. In 2021, we launched the FedEx E-Commerce Learning Lab in collaboration with Accion Opportunity Fund to help women- and minority-owned businesses develop and grow their e-commerce operations. The program includes grants and intensive hands-on learning and coaching opportunities for 150 small-business owners as well as digital learning opportunities to support more than 2,000 small-business owners.
+U.S. Economic Impact Report. 
+Global Entrepreneurship | FedEx Cares. 
+Supplier diversity. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 13. 
+OUR PLANET. 
+Environmental governance structure. 
+The Governance, Safety, and Public Policy Committee of the FedEx Board oversees our CSR goals, strategies, and programs and manages sustainability risks with the support of the FedEx Enterprise Sustainability Council (FESC). The FESC is responsible for the development, implementation, and evaluation of our various sustainability strategies— including operations, services, marketing, and communications. Our CSO chairs the FESC, which is comprised of senior management representatives from our operating companies.
+The FESC oversees various enterprise-wide SITs to accelerate sustainability efforts across our enterprise. Through collaboration and knowledge sharing, the SITs support our environmental goals and coordinate sustainability efforts across functional areas. The SITs and senior sustainability leaders from each operating company report to the CSO.
+OUR PLANET. 
+OUR PRINCIPLES. 
+OUR PEOPLE. 
+INTRODUCTION. 
+DATA APPENDIX. 
+DELIVERING A SUSTAINABLE FUTURE. 
+Environmental Policy. 
+Sustainability website. 
+Governance, Safety, and Public Policy Committee charter. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 14. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE. 
+Strategic approach and climate change. 
+Strategic approach. 
+At FedEx, we recognize that our business has an impact on the environment and we remain committed to minimizing these impacts. Our Practical Sustainability philosophy guides our sustainability strategy through the lens of our Reduce, Replace, Revolutionize approach.
+Our Practical Sustainability philosophy highlights strategic and transformational stewardship that can lead to long-term success, innovation in products and operations, demand for solutions, and progress transparency. This philosophy, in alignment with our regularly conducted materiality assessments, directs our environmental strategy.
+Throughout FedEx, our team members help guide our strategy by applying our Reduce, Replace, Revolutionize approach to current environmental initiatives.
+REDUCE: Reduce or eliminate impacts from activities or operations. 
+REPLACE: Use the right solutions in the right applications. 
+REVOLUTIONIZE: Discover and utilize the technologies and solutions of tomorrow, today. 
+Our efforts aim to mitigate environmental impacts, increase efficiency, reduce costs, and protect against future risks. By implementing our Practical Sustainability philosophy and our Reduce, Replace, Revolutionize approach, we bring value to our organization and our stakeholders while making strategic progress against our goals.
+Around the world, FedEx is also working with the logistics industry and with the communities we serve to move goods more sustainably and design cities for a better future. We collaborate with non-profit organizations that provide innovative solutions to reduce the carbon footprint of the transportation industry through the Sustainable Logistics pillar of our FedEx Cares program.
+Climate change. 
+FedEx understands the impacts climate change poses to our business, such as intensifying weather events, emerging GHG emissions regulations, increased media and investor attention, and enhanced customer demands to address environmental challenges. While climate change poses strategic risks to our business and our stakeholders, it also presents opportunities as we advance our sustainability strategy.
+We identify and evaluate physical and transition climate-related risks through our ERM process and align our assessment and reporting approach with the recommendations from SASB and TCFD. This approach allows us to manage our risks while evaluating our progress towards our sustainability-related goals.
+Sustainability website. 
+Sustainable Logistics | FedEx Cares 2021 CDP questionnaire. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 15. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE. 
+To help achieve carbon neutral operations, we have a goal to transition the entire FedEx parcel pickup and delivery (PUD) fleet to zero emission vehicles by 2040 through a phased approach. By 2025, we intend that 50% of FedEx Express PUD fleet purchases will be electric, increasing to 100% of all purchases by 2030.
+We are accelerating our sustainable energy plan within our facilities worldwide through energy efficiency, renewable energy, and other energy management programs. Our Energy SIT is focused on developing a strategy to achieve zero Scope 2 emissions by 2040, even though we anticipate that our facility electricity use will increase as we transition to electric vehicles.
+Our path toward carbon neutral operations also requires new strategies for removing and storing Earth’s excess carbon. In 2021, we pledged $100 million to help establish the Yale Center for Natural Carbon Capture. This commitment encourages interdisciplinary research to create natural solutions for sequestering CO2 from the atmosphere. Development of these solutions falls into three major categories: biological, geological, and industrial. The Center’s initial target is to help offset GHG emissions equivalent to current airline emissions—approximately one gigaton per year—through short-term, mediumterm, and ongoing research. Once these methods are proven, the Center will broaden its scope to address additional global sources of emissions to accelerate the adoption and implementation of natural carbon capture solutions around the world.
+In April 2021 we issued the first sustainability bond by a North American transportation and logistics company to further our commitment to carbon neutrality. Our 2021 sustainability bond framework aligned with the components of the Green Bond Principles, the Social Bond Principles, and the Sustainability Bond Guidelines, and we intend to follow these principles and guidelines for any subsequent sustainability bond offerings.
+Carbon neutral operations. 
+In March 2021, we announced our ambitious goal to achieve carbon neutral operations by 2040 across our global operations’ Scope 1 and 2 emissions and our Scope 3 contracted transportation GHG emissions. To meet this goal, we are investing more than $2 billion over the next several years to support bold action in three key areas: vehicle electrification, sustainable energy, and carbon sequestration. In addition, we continue to leverage other approaches to reduce vehicle emissions, such as increased intermodal rail usage at FedEx Ground and FedEx Freight, which avoided nearly 600,000 metric tons of carbon dioxide equivalent (CO2e) in FY21 alone. Thanks to our ongoing collective emissions reduction efforts, we decreased carbon dioxide (CO2) emissions intensity—on a revenue basis— by 45% from FY09 through FY21, a period when our average daily package volumes grew by 180%. Additionally, we are continuing to invest in initiatives such as the successful FedEx Fuel Sense program, aircraft fleet modernization, and alternative fuels to avoid aircraft emissions.
+Carbon neutral operations goal announcement. 
+Sustainability bond framework. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 16. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE 2010. 
+FedEx Express introduces the first all-electric parcel delivery truck in the U.S.
+Our path to carbon neutral operations 2021 50% of the diesel FedEx Ground sold to service providers in FY21 consisted of various biodiesel blends. 
+Sustainable fuels. 
+We support policy measures and incentives to enhance the availability and affordability of low-carbon fuels.
+2030. 
+Goal: 30% of jet fuel from alternative fuels. 
+Facilities. 
+We are improving the efficiency of our facilities and reducing our Scope 2 emissions despite increased energy demand from electric vehicle charging.
+2021. 
+Generated on- and off-site solar energy at a total of 26 global locations across our operating companies 2005. 
+Activated our first on-site solar power system, a 904 kW rooftop solar array, at our Oakland, California hub. 
+Fuel conservation and aircraft modernization. 
+We continue to modernize our aircraft fleet and implement fuel-saving initiatives while facing challenges due to the COVID-19 pandemic.
+2006. 
+Started the FedEx Fuel Sense jet fuel conservation program 2022. 
+Retire MD-10 fleet and continue deploying Boeing, ATR, and Cessna SkyCourier aircraft. 
+Vehicle electrification. 
+We are leveraging various innovative technologies to transition our pickup and delivery and last-mile fleets to electric vehicles.
+2030. 
+Goal: 100% of global FedEx Express pickup and delivery vehicle purchases are zero emission electric vehicles 2025. 
+Goal: 50% of global FedEx Express pickup and delivery vehicle purchases are zero emission electric vehicles 2040. 
+Goal: 100% electric FedEx parcel pickup and delivery vehicle fleet 2040 Carbon neutral 2021. 
+Saved 146 million gallons of jet fuel from initiatives to modernize aircraft. 
+Natural carbon sequestration. 
+In 2021, FedEx pledged $100 million to help establish the Yale Center for Natural Carbon Capture, which will support and accelerate research across academic disciplines to develop natural solutions for reducing atmospheric carbon.
+
+
+2022 ESG Report | FedEx 17. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE. 
+Vehicle electrification. 
+Electrifying a large portion of our global fleet of over 200,000 motorized vehicles is a crucial component of our carbon neutral operations goal. Through our phased approach, we are revolutionizing our vehicle fleet by working to transition the entire FedEx parcel PUD fleet to zero emission vehicles by 2040.
+In 2021, FedEx Express agreed to acquire 500 electric vehicles from BrightDrop, a new business from General Motors, and in January 2022, we expanded our agreement to acquire 2,000 additional electric vans over the next several years. We are currently working on a plan to add up to 20,000 more, subject to further negotiations and execution of a definitive purchase agreement. Through our relationship with BrightDrop, we have also introduced electric pallets, which, in a pilot, allowed couriers to handle 25% more packages per day when used on routes in a high-density, vertical urban environment.
+Additionally, FedEx Office and FedEx Freight are exploring pilot programs to electrify their vehicle fleets, continuing along the path toward carbon neutral operations. FedEx Ground is developing a comprehensive strategy to facilitate the electric vehicle transition for independent service providers and is piloting the necessary infrastructure at our facilities to provide access to third-party charging solutions.
+To advance progress towards our electrification goal and enhance our intelligent logistics system, we leverage advanced technology to increase vehicle efficiency. We utilize innovative specialty delivery technologies to work within urban centers, which are increasingly implementing regulations to reduce the number of vehicles or create low-emission zones. Roxo™, the FedEx SameDay Bot®, is an autonomous delivery device designed to help retailers make on-demand same-day and last-mile deliveries to their customers and is approved for use in over a dozen states. We have entered a multi-year collaboration with Nuro to test multi-stop and appointment-based deliveries with autonomous, electric vehicles. Additionally, we announced a first-of-its-kind collaboration with Aurora and PACCAR to test autonomous driving technology within FedEx linehaul trucking operations.
+
+
+2022 ESG Report | FedEx 18. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE to reduce our last-mile emissions and in FY20, we launched the Last Mile Optimization program to deliver certain FedEx Express packages through FedEx Ground. Through FY21, FedEx Express improved vehicle fuel efficiency by 42% from a 2005 baseline and has a goal to achieve a 50% improvement by 2025. Looking forward, we are focusing on enhancing our fleet fuel efficiency and avoiding fuel use through the deployment of electric vehicles.
+strategic approaches to overcome this challenge. Learn more about our roadmap to reduce emissions given our increased electricity demand in the Facilities section of this chapter.
+Our vehicle electrification strategy builds upon FedEx Express fuel efficiency improvements achieved by optimizing driving routes and replacing vehicles within our fleet with more efficient models. We are using other approaches. 
+In Europe, through our Zero Emission City Deliveries Solutions program, we have deployed 70 solutions to increase mobility options for deliveries in urban centers including electric vehicles and cargo bicycles. In China, FedEx Express is working with Neolix to evaluate the implementation of an autonomous, electric delivery vehicle. Additionally, our growing fleet of electric bikes reduces noise levels and combustion engine exhaust compared to traditional last-mile vehicles. In some international cities, such as London and Toronto, electric bikes are directly replacing our vans.
+In addition, we continue to electrify forklifts, airport ground service equipment, and other non-road vehicles across our operating companies. Through our phased approach, we are reducing fuel and maintenance costs and anticipate improving our efficiency even further as new technology develops.
+Before our purchased electric vehicles are deployed, we must ensure the necessary vehiclecharging infrastructure and technology is in place at our facilities. Building this infrastructure requires significant time and capital, but the commitment of our team members to our innovative strategy—coupled with our collaboration with power utilities, state and local governments, and regulatory agencies—will help us stay on track to deliver on our broader lowcarbon infrastructure solutions. While our electricity usage will significantly increase due to electric vehicle charging, we are developing. 
+Roxo™, the FedEx SameDay Bot®
+Nuro collaboration. 
+Aurora and PACCAR collaboration. 
+Neolix collaboration. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 19. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE. 
+Sustainable fuels. 
+We continue to invest in, and seek the development of, viable, cost-effective alternative fuels to reduce aircraft and vehicle emissions. We collaborate with industries, government agencies, academic institutions, and alternative fuel suppliers to advance production and encourage the adoption of alternative fuels to help revolutionize the logistics and aviation industries. Our global fleet includes more than 4,100 alternative fuel vehicles, including hybrid, electric, liquefied or compressed natural gas, liquefied petroleum gas, and hydrogen fuel cell vehicles, and we will continue to grow our alternative fuel fleet in the coming years, subject to availability.
+We support alternative fuel options and in FY21, 50% of the diesel FedEx Ground sold to service providers was comprised of various biodiesel blends, resulting in almost 16,000 metric tons of CO2e avoided. We are also actively exploring alternative fuels for certain categories of vehicles that are currently not easily electrifiable, such as long-haul Class 8 trucks. We are collaborating with manufacturers to test and pilot projects, invest in research and development, and build test sites to rapidly evaluate various technologies.
+FedEx jet fuel use accounts for around 61% of our reported emission footprint and we have an established goal to obtain 30% of our jet fuel from alternative fuels by 2030. To help achieve this goal, we support responsible policies to advance alternative fuel technologies for the commercial transportation sector. This advocacy work is focused on supporting incentives that accelerate sustainable aviation fuel production and making low-carbon fuel more available and affordable for airlines, general and business aviation, and other users. Enhanced sustainable aviation fuel production and deployment would enable the aviation industry to continue its progress in improving efficiency, reducing its emissions, and supporting job growth and energy security.
+Our approach | Sustainability webpage. 
+Our approach | Vehicles. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 20. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE. 
+Aircraft fuel conservation and fleet modernization. 
+In 2008, we set an aggressive goal to reduce our aircraft emissions intensity 20% by 2020, compared to a 2005 baseline. In 2011, we stretched our 2020 target to an even more ambitious 30% reduction from our 2005 baseline.
+A global increase in shipping volume, exacerbated by the COVID-19 pandemic, delayed the retirement of certain older aircraft and led us to fall short of our goal. In 2021, we continued to experience unprecedented demand for our express delivery services due to the ongoing pandemic and increase in e-commerce volumes, rivaling our peak holiday season traffic. Our dedication to the global community never wavered and we continued to provide essential transportation of critical supplies like pharmaceuticals, personal protective equipment (PPE), and COVID-19 vaccines across the world. Due to the increased demand for essential deliveries, e-commerce, and other global shipments in 2021, our aircraft emissions increased 12% compared to our 2020 performance. However, we have reduced our overall aircraft emissions intensity by 27% since 2005, primarily because of our ongoing FedEx Fuel Sense and aircraft modernization initiatives.
+As we continue dealing with the ongoing challenges posed by the pandemic, we will remain agile and flex our networks to align with shipping volumes and other customer needs without losing sight of our long-term environmental objectives.
+FedEx Fuel Sense. 
+To help reach our goal of carbon neutral operations by 2040, we are building on the success of FedEx Fuel Sense. Despite the significant increase in shipping volume and flight activity due to the COVID-19 pandemic, our team members remained committed to improving our fuel efficiency and reducing our environmental impact, which led to 65 million gallons of jet fuel savings from our FedEx Fuel Sense program in FY21. Since the program’s founding in 2006, we have implemented 70 fuel-saving initiatives, saving 948 million gallons of jet fuel and avoiding 9.3 million metric tons of CO2e.
+Aircraft fleet modernization. 
+We maintain one of the largest, fastest, and most innovative cargo aircraft fleets in the world, comprised of almost 700 planes. We are committed to modernizing our aircraft fleet to reduce costs, enhance reliability and operational adaptability, improve fuel efficiency, and reduce emissions. The global pandemic and increase in shipping demand have prolonged our fleet modernization timeline. However, in spite of these challenges, we retired our MD-10-10 fleet at the end of FY21 and our MD-10-30 fleet is expected to retire by the end of December 2022. Our fleet modernization continues as we took delivery of four Boeing 777F aircraft in FY21, and plan to deploy an additional 12 Boeing 777F aircraft between FY22 and FY25. Similarly, we took delivery of 16 Boeing 767F aircraft in FY21, and plan to deploy an additional 50 B767F aircraft between FY22 and FY25. Delays could impact these timelines.
+In FY21, we began deploying the first of 30 new factory-built ATR 72-600F aircraft for shorter, feeder routes to replace our aging ATR-42 aircraft.
+We will also introduce 50 Cessna SkyCourier 408 cargo aircraft, the first of which we anticipate to be delivered in spring 2022, to help reduce the number of planes needed per feeder route and further improve our fuel efficiency. Through our aircraft fleet modernization efforts, we saved over 146 million gallons of jet fuel and avoided almost 1.5 million metric tons of CO2e in FY21.
+Our approach | Aircraft. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 21. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE. 
+Facilities. 
+We strive to sustainably operate our more than 5,000 air and ground hubs, local stations, freight service centers, and retail locations through continued investments in efficiency, renewable energy, and other energy management programs.
+Our facility energy management strategy is more important than ever as our energy demand increases to support electric vehicle deployment. We recognize this challenge, and our Energy SIT is developing a long-term strategy and roadmap in parallel with our electric vehicle transition plan. In alignment with our goal of attaining carbon neutral operations by 2040, this roadmap will outline an approach to reduce our Scope 2 emissions despite the increased electricity demand from vehicle charging. We are looking across our operating companies to forecast energy needs and develop a renewable energy procurement strategy using power purchase agreements, virtual power purchase agreements, and other clean energy instruments.
+We increase the efficiency of our facilities through energy management systems that monitor, control, and optimize our lighting, heating, ventilation, and air-conditioning equipment. FedEx Office utilizes energy management systems at over 1,500 stores, and we have reduced energy usage through lighting retrofits at FedEx Office, FedEx Freight, FedEx Express, and FedEx Ground. FedEx Freight has installed LED lighting in one-third of its locations and is evaluating a strategy to retrofit all remaining locations within the next five years. FedEx Office finalized its LED lighting retrofit initiative—covering 71% of stores—with the final locations completed in 2021. Overall, our energy management systems and lighting retrofits saved approximately 208 million kilowatt hours of electricity in FY21.
+We are increasing both on-site renewable energy generation and our procurement of renewable energy to further reduce carbon emissions. In FY21, we generated on- and off-site solar energy at a total of 26 global locations across our operating companies.
+FedEx Ground has 17 on-site and off-site solar installations and energized its first community solar project in November 2021. At the FedEx Ground headquarters, we installed an almost four-megawatt solar carport system that will produce about 30% of the power used on the Pittsburgh campus. Additionally, FedEx Express installed a one-megawatt community solar system in Washington, D.C. in October 2021.
+FedEx Ground has three facilities and FedEx Express has one facility using fuel cell technologies alongside on-site solar or battery storage that provide the foundation for microgrids and support resiliency and emergency preparedness. FedEx Express is also exploring similar microgrid technologies to replace traditional diesel backup energy generators. Additionally, FedEx Ground installed a solar thermal air conditioning system to maintain cooler temperatures at a sorting facility in Florida.
+Where appropriate, we adopt the Leadership in Energy and Environmental Design (LEED) standard in the U.S. and the Building Research Establishment Environmental Assessment Method (BREEAM) in Europe to guide efficient facility design. FedEx Express and FedEx Freight seek LEED certification on all new construction, and in total FedEx has 39 LEED-certified facilities and 13 BREEAM-certified facilities across our operating companies.
+
+
+2022 ESG Report | FedEx 22. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE. 
+In addition, we aim to minimize our operational waste footprint. FedEx recognizes that the long-term health of our business is directly connected to the health of the planet and local communities. Each operating company has robust programs and policies in place to help mitigate adverse impacts on the local environment from facility operations and ensure compliance with applicable laws and regulations. To further drive our environmental sustainability progress, our CSO manages our enterprise-wide Environmental Management System and reviews performance on an annual basis. We strive to enhance our environmental performance and FedEx Express facilities in 43 countries have achieved the ISO 14001 environmental management system standard as of FY21.
+In addition, we aim to minimize our operational waste footprint. In 2020, the FedEx Sourcing team began implementing a new enterprise-wide waste and recycling managed-service strategy for our U.S. operations to standardize our processes and reduce the amount of waste we send to landfills. To date, we have transitioned over 1,000 U.S. facilities to this new managed service. Overall, 67% of reported solid waste in our global facilities was sent to recyclers in FY21.
+European sustainability strategy in focus. 
+FedEx Express Europe is implementing an organized, comprehensive sustainability strategy to drive innovative solutions to address sustainability challenges in the European market. Our European Union Sustainability Committee, formed in 2021, oversees environmental sustainability for the region and is sponsored by the European regional Chief Operating Officer. Seven Impact Teams—Sustainable Fleet Solutions, Zero Emissions City Deliveries, Green Facilities & Certifications, Subcontractor Collaboration Programs, Circular Solutions & Waste Management, Customer Solutions, and Multimodal Transportation—are responsible for implementing sustainability projects across the network and supporting the UN Sustainable Development Goals. A central sustainability team supports, coordinates, and facilitates these environmental initiatives.
+In FY21, FedEx Express Europe developed GreenLab Copenhagen, a flagship sustainability concept that aims to reduce carbon emissions and accelerate progress towards our goal of carbon neutral operations by combining multiple sustainability initiatives. We are looking to expand the most effective initiatives to other locations across Europe. The idea for GreenLab Copenhagen originated from our inaugural Sustainability Challenge, which invited team members in Nordic countries to share their ideas to help us reduce the environmental impact of our business activities.
+FedEx Express Europe also joined the Capital Equipment Coalition in 2021, showcasing its commitment to increase circularity by working to reduce the use of raw materials and extending the lifespan of capital equipment. The coalition is exploring solutions and ways of defining circularity standards in connection with capital equipment. Our approach | Facilities. 
+Environmental Policy. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 23. 
+OUR PLANET DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PEOPLE. 
+Sustainable customer solutions. 
+FedEx works with customers to evaluate offering end-to-end sustainability for our supply chains through options such as carbon neutral shipping offerings and sustainable packaging solutions. We assist customers in optimizing package size and weight to minimize waste, increase shipping efficiency, and reduce emissions, as applicable. We help customers ship packages responsibly by offering free packaging options for FedEx Express shipments that are reusable, recyclable, and made from recycled content. All FedEx-branded cardboard packaging is 100% recyclable. The FedEx Sourcing team evaluates each critical packaging supplier annually on environmental management practices and sustainability program improvement. In addition, the thirdparty certified content percentage of our packaging materials was 75% during FY21.
+Furthermore, FedEx Office sources paper responsibly for commercial copy and print services by adhering to their forest-based paper product procurement policy. In FY21, 100% of all paper purchased by FedEx Office was from vendors with responsible forest-management practices.
+At several FedEx Logistics facilities that serve technology industry customers and FedEx internal operations, we receive electronic equipment returns that we work to properly dispose, which could include refurbishment or recycling. In particular, the FedEx Forward Depots division of FedEx Logistics recycled over 464 metric tons of information technology equipment on behalf of our customers throughout FY21.
+FedEx Logistics also offers a long-standing value-added service connecting customers with material recycling providers in North America. This service includes transportation, processing, and recycling of materials, with a 99% landfill diversion rate, along with 100% traceability for secure inventory management. Through this service offering, more than 1,000 metric tons of customer materials are recycled annually.
+Our approach | Packaging. 
+FedEx SupplyChain | Reverse Logistics. 
+FedEx TechConnect® Tech Repair. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 24. 
+OUR PEOPLE. 
+Social governance structure. 
+We use a multi-disciplinary governance approach to support our people. The FedEx Board of Directors is responsible for reviewing and overseeing our culture and evaluating management’s efforts to align our corporate culture with our values and long-term strategy. FedEx also incorporates social-based performance objectives, such as support of DEI initiatives and safety, into executive-level performance evaluations. The Compensation and Human Resources and Governance, Safety, and Public Policy Committees both support areas of social governance at the Board level.
+Within each operating company, HR oversees plans related to team member career development, health and wellness, and engagement. Our Corporate HR department supports the alignment of all operating team procedures and oversees team member benefits and employee development activities. Operating companies also establish their own safety policies and programs, relevant to their operations, based on our “Safety Above All” philosophy.
+We have dedicated teams supporting DEI in every FedEx operating company. Our DEI Corporate Council consists of employees from HR, Sourcing, and Communications. The Council meets every other month to foster collaboration across the enterprise and bring together representatives from each operating company to share best practices and support multicultural programs in the communities we serve. By fostering a culture of DEI throughout FedEx, the Council promotes increased business performance, innovation, and employee engagement.
+OUR PLANET. 
+OUR PRINCIPLES. 
+OUR PEOPLE. 
+INTRODUCTION. 
+DATA APPENDIX. 
+DELIVERING ON OUR CULTURE
+
+
+2022 ESG Report | FedEx 25. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+FedEx Express maintains a Global DEI Governing Board to provide oversight on DEI efforts and support our U.S. and international regional diversity councils. These councils address local DEI issues in support of our global strategy. At FedEx Services and FedEx Corporation, a DEI Executive Steering Committee develops DEI strategy, oversees initiatives, and drives engagement across the company. FedEx Ground maintains an Inclusion Leadership Council, comprised of a cross-functional group of officers and directors, which executes strategic DEI efforts. FedEx Freight established a Culture Leadership Team to provide direction and assess our culture of inclusion and corporate citizenship.
+Our culture. 
+The FedEx culture enables a resilient workforce that can respond to the challenges of today, do the right thing, and create connections across the world. Our flexible network and strong culture have positioned us to support businesses, governments, and non-profits in delivering lifesaving PPE, vaccines, and pharmaceuticals throughout the COVID-19 pandemic.
+The pandemic underscored the mission of FedEx to connect the world in good times—and more recently—in periods of great need. Our team members are united by our passion to deliver on the Purple Promise. This passion begins with our People-Service-Profit (PSP) philosophy and is driven by our Quality Driven Management (QDM) system. A successful balance of People-ServiceProfit is key to our success. FedEx was founded on the full circle philosophy that taking care of our team members results in outstanding service, which allows us to earn a fair profit and reinvest in our team members.
+Our team members are our greatest asset, and the three components of our culture—PSP, QDM, and the Purple Promise—continue to be the driving force behind how we think, how we work, and what we deliver.
+Our culture stance informs values and behaviors. 
+We are a global team of innovators and collaborators, committed to bringing our People-Service-Profit philosophy to life by: » Prioritizing safety » Taking care of our team members » Embracing DEI so everyone feels appreciated and valued » Delivering excellence and value for our customers and stockholders » Acting with integrity in all that we do » Supporting our communities » Helping shape a better world » Growing profitability to reinvest in our team members and business
+
+
+2022 ESG Report | FedEx 26. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+Culture has been a priority for FedEx since operations began nearly 50 years ago, and each operating company has demonstrated its commitment in its own unique way. As we pursue a strategy to support the operating principles of compete collectively, operate collaboratively, and innovate digitally, our culture will now reflect this same alignment over time. Based on extensive research, a global enterprise-wide culture quality action team has identified enterprise values and behaviors to evolve our culture from now to next.
+Our five culture values are grounded in everything that makes FedEx special—culture fundamentals, strategic operating principles, brand, and. 
+With one FedEx culture, we…
+Take care of each other. 
+We put safety above all. We make “safety” a place, a habit, and a mindset. We bring our whole selves to work. We value our differences and believe every voice counts.
+Commit to do good. 
+We make connections. We seeks ways to protect our planet. We do the right things the right way. We help communities thrive.
+Drive business results. 
+We know how our roles support the business. We deliver results aligned to our strategy. We invest wisely to drive profit. We create value for our stockholders.
+Own outstanding. 
+We make every experience matter. We simplify and work smarter for our customers. We find ways to stand out from the crowd. We are fast, flexible, and focused.
+Create what’s next. 
+We anticipate the future. We stay curious. We act now to stay ahead. We provide a path to growth for everyone.
+reputation—reflect who we are, align us to what’s important, help make us resilient, and empower us to deliver great results. These values apply consistently to all team members, regardless of role, region, or operating company.
+A winning culture leads to winning strategies. It sparks the development of ideas, products, and services that help better serve our customers. As we face challenges and change, our new common culture values and behaviors will provide direction and inspiration for team members and continue to differentiate us as an industry leader.
+
+
+2022 ESG Report | FedEx 27. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+Human resource management. 
+At FedEx, our people form the foundation of our strong reputation and stand at the heart of our success. We are dedicated to recruiting, retaining, and developing our team members across the enterprise.
+Talent acquisition and engagement. 
+Throughout the COVID-19 pandemic, FedEx has continued to operate in impacted areas, connecting people with goods and services and delivering critical medical supplies to health care providers and communities around the world.
+implemented automated hiring processes to simplify the application process for front-line candidates and acquisition teams. FedEx Logistics leveraged text-based recruiting to promote job opportunities to targeted groups of potential candidates and expanded virtual interviews and hiring to increase pool diversity. We continue to develop our data tracking processes to inform and enhance our recruitment and retention strategies.
+We implemented our first-ever enterprise-wide U.S. National Hiring Day in September 2021. This included nearly 70 in-person events across 20 states and a virtual career fair that attracted candidates from across the country. These events helped us make significant progress in our hiring outreach nationwide and allowed us to highlight why FedEx is a great place to work. Globally, we hired 366,973 full- and part-time team members in FY21, largely to keep up with increased shipping volumes. However, turnover for part-time team members, primarily package handlers at our sorting locations, was 136% during the fiscal year while full-time employee turnover was 17%. Turnover rates among part-time frontline workers in a number of industries are historically higher than among other employee groups, and rates have been further exacerbated by the ongoing pandemic.
+Within the ground transportation industry, many part-time workers pursue temporary employment opportunities that allow them to exit and re-enter the workforce more frequently based on their needs. At FedEx, we diligently strive to retain full- and part-time team members through high levels of engagement, competitive wages, enhanced benefits, flexible scheduling, and career development programs. For more detailed information on employee recruitment and retention, see the Data appendix.
+Team member feedback is extremely valuable, and we provide several engagement methods, such as annual surveys, employee networks, and direct feedback, which help us understand and act upon employee concerns and expectations. We conduct annual surveys to measure employee perspectives on culture, engagement, and diversity. Senior leaders review these results to inform leadership development plans.
+We are committed to compensating our employees fairly and respect the rights of team members to unionize. FedEx Express pilots are represented by the Air Line Pilots Association, International (ALPA) and are employed under a collective bargaining agreement, and a small number of our other employees are unionized. We regularly meet with union representatives to discuss and bargain, where appropriate, changes to work rules.
+While many sectors were forced to cut jobs during the early phases of the pandemic, FedEx continued to hire new team members and increase wages.
+However, we are facing industry-wide labor shortages as a result of the pandemic and other external workforce shifts. We remain committed to creating quality employment opportunities for our team members across the globe, and we encourage current team members to apply for opportunities between operating companies to further enhance their career path.
+We attract talented candidates through a number of creative strategies, such as social media platforms, structured internship programs, and talent recruitment from non-traditional pathways. FedEx Ground
+
+
+2022 ESG Report | FedEx 28. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+Quality of life. 
+We provide all eligible full- and part-time team members and their eligible dependents with a competitive benefits package comprised of holistic health care, wellness, retirement, and other offerings. Our many integrated employee benefits support team member quality of life and enable a flourishing workplace. Our benefits packages not only support team members and their families, but also contribute to stronger communities where our team members live and work.
+We cover approximately 70% of total eligible health and disability costs for approximately 227,000 participating full- and part-time team members in the U.S., as of January 2022. This collection of health benefits includes flexible options in medical, behavioral, dental, vision, and pharmacy coverage with enhanced member support services. Through our plan offerings, team members pay lower contributions than the national average.
+In FY21, we continued to focus on team member safety during the ongoing COVID-19 pandemic. We offered free on-site COVID-19 tests and vaccines to all workers and badged vendors at select locations. All U.S. team members and their eligible spouses who receive a COVID-19 vaccine can earn $100 in additional Health Reimbursement Account (HRA) credits or Health Savings Account (HSA) contributions for 2022. We also offered a one-time HRA credit of up to $500 to cover COVID-19 out-of-pocket costs incurred in 2020 or 2021. In 2022, this one-time HRA credit continues to be available for fully vaccinated team members and spouses experiencing COVID-19 breakthrough cases. To enable team members to connect virtually with medical professionals, we continued to expand our free telemedicine options, which team members used over 19,000 times in 2021. We also operated a vaccine information site and call center to provide COVID-19 resources to team members.
+We are committed to supporting the mental health and well-being of our team members. Employees and eligible dependents have access to 24/7 confidential counseling services through our Employee Assistance Program (EAP) and Mental Health/Substance Use benefits. Our WorkLife Balance Program, offered to all U.S. team members, provides guidance and personalized resources for support on life challenges, such as child care, parenting, and financial concerns. FedEx Services, FedEx Corporation, and FedEx Express hosted events in FY21 focused on team member wellness, self-care, and stress management, in addition to launching new work-life flow best practices.
+FedEx also offers Critical Incident Support, including medical, financial, and behavioral services to team members who have been impacted by a traumatic event. The FedEx Purple Ribbon program supports eligible team members and their family members affected by catastrophe, personal crisis, or tragedy by providing financial assistance. In FY21, FedEx awarded approximately $307,000 to team members through the program.
+We offer competitive retirement benefits to U.S. team members, including pension and 401(k) plans for eligible employees. U.S. employees hired on or after January 1, 2020, and certain existing employees, can participate in an all401(k)-plan, with an enhanced matching contribution of up to 8% of compensation beginning January 1, 2022. We offer pension plans to certain eligible employees in addition to a 401(k) plan with a match of up to 3.5%. FedEx also supports families with paid parental leave and financial assistance with adoptions.
+During the COVID-19 pandemic, many team members transitioned to remote work settings. FedEx Services and FedEx Corporation are creating a workplace of the future through the Purple Flex program by supporting a variety of flexible work options and leveraging talent located throughout the U.S., where appropriate. FedEx Express provides a Hybrid Workplace Guide to support managers and employees, along with virtual management upskilling tools in the Asia-Pacific (APAC) region. Additionally, the FedEx Express global Learning Innovation for Tomorrow (LiFT) program trains and upskills employees to future proof our workforce and provide them with the skills of tomorrow. FedEx Express developed LiFT based on our Future of Work survey response and LiFT centers on upskilling our team members for the next five years and beyond.
+
+
+2022 ESG Report | FedEx 29. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+Learning and development. 
+We are dedicated to providing all of our team members with learning and development opportunities to advance their careers at FedEx. All new employees complete our Core New Employee Orientation, an enterprise-wide onboarding experience that covers topics including safety, security, compliance, sustainability, and DEI. We leverage virtual and augmented reality learning tools to safely deliver interactive learning opportunities during the COVID-19 pandemic.
+The FedEx Learning Center provides all team members with access to over 25,000 online courses, enabling them to heighten their learning experience efficiently and conveniently. See the Data appendix for information on team member training hours.
+Our operating companies are continuing the transition to ongoing employee coaching and feedback instead of annual performance reviews, providing more opportunity for employees to drive their career development. FedEx Services and FedEx Corporation host educational webinars to provide leaders with skills to coach in a hybrid workplace.
+In addition to our holistic training program, each operating company offers resources and opportunities for career growth and education to all full- and part-time employees. In 2021, FedEx Express launched What’s Next, a career journey app designed to increase visibility of FedEx jobs based on employee interest, education, and goals, and to connect team members to resources to help advance their careers. In APAC, FedEx Express implemented a virtual learning academy, the Learning Arena, to enhance critical skills in addition to an internal coaching program to engage high potential managers. FedEx Freight offers a 90-day leadership intensive program, the Action Learning Process (ALP), which brings leaders together to solve real-world organizational problems, leveraging key leadership skills and concepts. ALP has led to about a 20% promotion rate for participants to date. In FY22, FedEx Logistics will launch the Building Business Leaders and Leading Leaders programs, in addition to an updated Leadership Foundations program, for high potential team members and new managers to develop their leadership skills over the course of five to six months.
+FedEx Services and FedEx Corporation led the first virtual Global Leadership Corps in FY21, where participants supported non-profits in Brazil. In Latin America, we launched the Future Leaders Program to develop high potential employees, and we anticipate expanding the program throughout the Latin America and Caribbean region.
+To help team members pursue higher education, we provided more than $17 million in tuition assistance to almost 11,000 employees in FY21. The Learning inspired by FedEx (LiFE) partnership between FedEx Express and The University of Memphis provides team members with the opportunity to earn free college degrees online. This program is now open to team members at all FedEx Express hub and airport locations in the U.S. as well as to all U.S.-based FedEx Logistics and all Memphis-based FedEx Supply Chain employees. In FY21, we expanded the LiFE program by adding a mentoring component and extending coverage to over 100 majors and concentrations, fueling a more than $500,000 year-over-year increase in direct bill tuition assistance. Upon graduation, participants are trained to serve as mentors to those beginning the program. The program currently has more than 2,000 enrolled participants across FedEx Express, FedEx Logistics, and FedEx Supply Chain.
+
+
+2022 ESG Report | FedEx 30. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+Our communities, customers, and suppliers. 
+Serve and support our communities, customers, and suppliers. 
+Our education and engagement. 
+Enrich, expand, and enhance our culture through DEI education. 
+Our people. 
+Recruit, retain, develop, and provide advancement opportunities for team members. 
+Our story. 
+Amplify the stories of our people, celebrate differences, and promote DEI efforts across the enterprise. 
+DEI. 
+Diversity, equity, and inclusion create opportunity. 
+As a global company, we see exceptional business and community value in the diversity of perspectives and experiences that our team members bring to work every day. We are committed to embracing DEI so everyone feels appreciated and valued. While we are proud of what we have achieved during our almost 50-year history, we know that DEI must always be at the forefront of our business strategy.
+In 2020, we established four consistent, strategic pillars across our enterprise to frame our DEI work and share our progress: Our People; Our Education and Engagement; Our Communities, Customers, and Suppliers; and Our Story. This year, we continued to align our strategy with these pillars by investing in programs, initiatives, and people across our workforce, culture, marketplace, and communities.
+Our people. 
+The most important outcomes of our DEI efforts have been the opportunities created for our team members to grow and advance their careers. We actively invest in recruiting, developing, and retaining a diverse workforce that reflects the communities we serve. In FY21, our operating companies collaboratively participated in five enterprise-wide recruitment events, partnering with the National Black MBA Association, the Society for Women Engineers, Hiring Our Heroes, the Society of Hispanic Professional Engineers, and the Society of Asian Scientists and Engineers to diversify our external talent pool. We are evaluating how to expand and connect with even more groups at an enterprise level.
+Our operating companies continued to advance and update their initiatives in support of our DEI strategy this year. The FedEx Ground workforce career path program, Purple Pathways, targets career growth and engagement of frontline managers and package handlers—our most diverse population. Over 11,000 team members are registered for the program, with more than 500 Purple Pathways mentors. FedEx Express launched OnDeck, a training and development program that provides front-line workers with skills to prepare for management roles.
+See the Data appendix for statistics on our workplace gender, race/ethnicity, and generational diversity. To further our transparency efforts regarding our workforce composition, in 2021 we began reporting the prior year gender, racial, and ethnic composition of our U.S. workforce by EEO-1 job category, as set forth in the consolidated EEO-1 Reports filed by FedEx and its operating subsidiaries with the Equal Employment Opportunity Commission.
+
+
+2022 ESG Report | FedEx 31. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+Our commitment to diversity starts at the top. 
+The FedEx Board of Directors includes 12 directors, four of whom are women and four of whom are ethnically diverse. In the U.S., women represent 27% of FedEx management employees, while 41% of management employees are minorities.
+Our education and engagement. 
+We strive to have a workplace where team members can bring their whole and best self to work. Through education, training, regular communications, and resources our team members are encouraged to maintain open dialogues that lead to an inclusive environment.
+Across our operating companies, our team members participate in employee-led business resource teams, employee networks, and affinity groups that help recruit, develop, and retain talent, create connections, and build community. Numerous networks are available to team members, including, but not limited to: Women in Leadership, Black Professionals Network, Hispanic Action Network, All-Generations, Multi-Ethnic Leadership Community, Asian Network, Women Leading Change, LGBT & Friends, U.S. Military Veterans, Growing Professionals, Parents Working Together, EnABLE Network, Men Leading Inclusively, Multi-Faith Network, and many others.
+We continued to increase DEI education for team members this year by providing micro-learning DEI content across our operating companies.
+The DEI Real Talk Speaker Series, for officers and directors across the enterprise, is designed to foster acceptance, promote anti-biases, and encourage a more inclusive society. FedEx Ground launched SVP Real Conversations to prepare participants for the next level of leadership through Senior Vice President-hosted forums. FedEx Ground also hosted several Courageous Conversation sessions where leaders and team members candidly discussed DEI topics. FedEx Freight launched The Culture Brief & DEI Tune-Up email and podcast to provide short content on DEI topics to leaders.
+This year, FedEx Services included five DEI questions in its engagement survey to capture team member perspectives on inclusion in the workplace. This overall inclusion index showed a 92% favorability rating and approximately 13,500 team members completed the survey. FedEx Ground also included a DEI engagement question in its annual engagement survey and added DEI as a standard goal in the FY22 team member annual performance review process. FedEx Express launched the Convene program, where a rotating group of four vice presidentlevel diversity sponsors mentor other team members through a virtual mentoring program.
+
+
+2022 ESG Report | FedEx 32. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+Our story. 
+FedEx amplifies team member stories to celebrate our differences and promote DEI efforts across the enterprise. Our DEI Depot is an enterprise-wide online platform where team members can access DEI resources, events, and team member stories. FedEx Corporate, FedEx Express, FedEx Ground, and FedEx Services circulate a quarterly DEI Download newsletter, which provides managers and leaders with useful insights and resources to promote DEI conversations within their teams. FedEx Ground also hosts a simulated talk show, Get R.E.A.L. (Revealing opportunities, Elevating equity, Activating engagement, Leading inclusively) which invites guests to courageously share their unique stories.
+Our communities, customers, and suppliers. 
+Our commitment to DEI extends beyond our business—it is an investment we make to serve and support our communities, customers, and suppliers. We are proud to have contributed more than $7 million to non-profit organizations focused on supporting DEI in FY21.
+We provide more than $1 million annually for leadership development programs in the U.S., mainly through seven scholarship funds. We also sponsor endowed scholarships at four Historically Black Colleges and Universities (HBCUs): Tennessee State University, Jackson State University, LeMoyne-Owen College, and Mississippi Valley State University. These funds provide scholarships that range from $1,000 to $25,000 annually to more than 120 college and university students across various STEM, business, and specialist disciplines.
+This year, we continued our longstanding support of HBCUs by providing $5 million to a group of HBCUs across the country to help prepare students for the workforce beyond formal education. Additionally, in 2022 we launched the FedEx-HBCU Student Ambassador Program, which will prepare students at HBCUs to be future leaders by interacting with FedEx executives and building leadership and career-ready skills.
+Across our operating companies and in cooperation with key organizations, we recruit candidates from a variety of backgrounds to build a workforce that reflects the world and communities we serve. The FedEx Services College Connections program builds relationships with college campuses in close proximity to main FedEx Services geographies to effectively compete for talent. FedEx Freight implements “The Boardroom Experience” to introduce Black, Hispanic, and other students of color to career possibilities at FedEx through a simulated board meeting. Additionally, FedEx Ground created a six-session High School Pathways program to expose high school students to various FedEx Ground careers and prepare them to transition from high school into the workforce.
+In June, our operating companies came together for Pride Month by creating a leadership-led video series showcasing our commitment to the LGBTQ+ community, designing a FedEx Cares Pride logo, and introducing pronouns into our email signature line. We also pledged $2.5 million to The Asian American Foundation to support Asian American and Pacific Islander communities across the U.S.
+We are proud to support diverse businesses and know that our suppliers enable us to better serve our customers and compete more effectively in the global marketplace. We formed our Supplier Diversity program in 1992 to formalize our commitment to a supply chain that intentionally develops small and minority-owned businesses. Furthermore, in the U.S., FedEx has hosted a Small Business Grant Contest for the past 10 years. In 2021, we gave away over $250,000 in grants and prizes to contest winners—of which 50% was given to minority-owned businesses and more than 75% was given to woman-owned businesses. To learn more about our Supplier Diversity program, please see the Our supply chain section of this report.
+FedEx Cares. 
+DEI | FedEx Cares. 
+EEO-1 Reports. 
+KEY LINKS
+
+
+2022 ESG Report | FedEx 33. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+Health and safety. 
+Our longstanding “Safety Above All” philosophy is a top priority across our enterprise and in our day-to-day work. Robust policies, continual team member education, and innovative technology investments are the foundation of our commitment to make workplaces and communities safer for our employees, customers, and the public. The Governance, Safety, and Public Policy Committee of our Board oversees our safety strategies, policies, programs, and practices.
+We constantly evaluate and strive to improve our operational safety performance by tracking key safety metrics, reviewing the effectiveness of new metrics, and working toward a holistic safety-reporting platform. In FY21, our losttime-injury rate was 3.99, an increase of 18.6% compared to FY20. See our Data appendix for more information on our FY21 and year-overyear safety performance.
+We depend on the proactive engagement and involvement of our team members to prevent accidents and injuries. Employees at FedEx Express can provide direct feedback on how to improve safety performance through the biannual Aviation Safety Culture Survey. Team member feedback has allowed us to create action programs for safety performance improvement, and we expanded this U.S.-based survey to all FedEx Express global regions in 2021.
+FedEx Express also implemented a Live Safe mobile app where all team members can submit safety reports, which are monitored 24/7 by the FedEx Security team. FedEx Express piloted an expansion of this program at the Memphis hub to provide team members with a central kiosk to report safety incidents or concerns. We continually look to increase our team members’ accessibility to reporting mechanisms and are in the process of launching the kiosk in eight more hubs across the U.S.
+FedEx Express launched Stay Sharp in 2020, an interactive program that encourages employee safety engagement and awareness and recognizes team members for working safely. Stay Sharp continued to expand in 2021 with safety teams in Canada, Latin America, Asia, and Europe embracing and modifying the program to meet their needs.
+Safety management systems. 
+We utilize safety management systems (SMS) to reduce work-related injuries and illnesses. Each operating company implements policies and procedures to adhere to international standards and manage health and safety risks.
+The FedEx SMS Accountable Executive Team meets quarterly to review safety performance, and the President and CEO of FedEx Express collaborates with the Safety and Airworthiness Vice President, among other safety staff, to evaluate progress against safety goals.
+The FedEx Express Safety Management System (FXE-SMS), implemented with guidance from the Federal Aviation Administration, provides consistent policies, processes, and procedures to limit human error in our aviation operations. The FXE-SMS supports team members in the identification and reporting of potential hazards and better enables our safety culture. In FY21, FedEx Express began developing a mitigation tracking system to centralize data collection, which helped facilitate safety performance measurement and ongoing evaluation of safety controls. FedEx Express International implements an incident management system that supports root cause analysis and enables better action planning. In 2021, we expanded this system to our operations in the Middle East, India, and South Africa.
+In FY21, FedEx Ground created an Operations Safety Specialist (OSS) position in strategic locations to drive the success of safety strategies. OSS team members create customized safety strategies within their local operating environment and are trained to identify and mitigate workplace safety hazards. Additionally, FedEx Ground offers the Leading with Safety program that prepares managers to create a safe workplace culture, enabling employees to execute safety processes, detect hazards, and stop work when necessary. As of December 2021, 877 participants in the U.S. and Canada have completed the program.
+
+
+2022 ESG Report | FedEx 34. 
+OUR PEOPLE INTRODUCTION OUR PRINCIPLES OUR PLANET DATA APPENDIX. 
+Vehicle and driver safety. 
+Driving is a key responsibility for many team members throughout our organization. We ensure the safety of our drivers, as well as the people and communities with whom we share the road, by equipping current and new vehicles with innovative road safety technologies, such as video event data recorder (VEDR) technology, advanced driver-assistance systems, audible turn-by-turn directions to prevent drivers from looking at a screen for navigation assistance, auto-docking technology, GPS tracking to improve route safety, and other collision avoidance features.
+This year, we continued to deploy VEDR technology across our operating companies. FedEx Express installed VEDR cameras in over half of its PUD vehicles and plans to cover 100% of the fleet by May 2022. This technology significantly reduces distracted driving events, and managers use the footage as a coaching tool to review near misses or incidents and facilitate continuous improvement discussions with drivers. At FedEx Ground, VEDR cameras are installed in all PUD vehicles and linehaul tractors. This has led to a 19% reduction in accidents per million miles since 2017. FedEx Ground additionally requires all linehaul tractors to be equipped with Forward Collision and Avoidance Mitigation technology, which has led to a 43% reduction for singles and a 34% reduction for teams in forward collision accidents per million miles since 2018. We are researching emerging technologies, such as mirrorless trucks and autonomous driving capabilities, to further support our longstanding commitment to safety.
+COVID-19 safety. 
+During the COVID-19 pandemic, we implemented numerous measures to keep our team members, customers, and communities safe while operating on the front lines in impacted areas and delivering critical medical supplies around the world. Our team members demonstrated incredible resiliency in the face of adversity and did not lose sight of our long-term strategy.
+We remained agile and collaborated across our operating companies to build systems from the ground up to track positive cases, oversee employees return to work, and manage countryspecific quarantine and testing regulations for team members around the world. We continue to share insights and best practices in preparation for any future public health crises.
+See our COVID-19 website to learn about our wider pandemic response and our Quality of life section for details on how we are continuing to support the well-being of our team members.
+
+
+2022 ESG Report | FedEx 35. 
+DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PLANET OUR PEOPLE. 
+Direct and indirect energy consumption (terajoules) FY19 FY20 FY21. 
+Direct energy consumption. 
+Aircraft fuel. 
+Jet fuel[1] 172,446 173,173 194,810. 
+Vehicle fuel[2]
+Diesel 43,081 40,701 38,692. 
+Renewable biodiesel (percent of total diesel) 3,975 (9.23%) 3,574 (8.78%) 3,647 (9.43%)
+Gasoline 3,517 3,032 4,034. 
+Renewable ethanol (percent of total gasoline) 2.8 (0.08%) 1.9 (0.06%) 3.9 (0.10%)
+Liquefied petroleum gas (LPG: propane) 1,030 1,116 893. 
+Liquefied natural gas (LNG) and compressed natural gas (CNG) 149 224 128. 
+Facility energy use. 
+Natural gas 7,808 7,114 8,058. 
+Heating oil 33 18 28. 
+Total direct energy consumption (terajoules) 228,064 225,378 246,643. 
+Environment DATA APPENDIX. 
+Direct and indirect energy consumption (terajoules) FY19 FY20 FY21. 
+Indirect energy consumption. 
+Facility purchased energy use. 
+Purchased electricity 8,077 8,227 8,519. 
+Purchased heating 0 63 35. 
+Purchased cooling 0.5 0.3 0.1. 
+Total indirect energy consumption (terajoules) 8,077 8,290 8,554. 
+Total direct and indirect energy consumption (terajoules) 236,142 233,668 255,197. 
+Other indirect energy consumption. 
+Contracted transportation[3] 41,969 45,777 52,984. 
+Total other indirect energy consumption (terajoules) 41,969 45,777 52,984. 
+Total energy consumption (terajoules) 278,111 279,445 308,181 1 Currently none of our jet fuel consumed is sourced from alternative or sustainable feedstocks.
+2 Includes a small amount of fuel used for emergency generators at some facilities.
+3 Includes energy from: (1) fuel sold by FedEx Ground to independent pickup and delivery and linehaul contractors through on-site fueling facilities or purchased by independent linehaul contractors through retail outlets using fleet fuel cards, (2) fuel used by FedEx Freight contractors in Canada, (3) allocated portion of fuel used by commercial interline aircraft carriers in support of FedEx Express international shipping, and (4) fuel used by FedEx Express feeder aircraft contract operators. (5) Contracted intermodal rail at FedEx Freight and FedEx Ground is not included, as our intermodal rail supplier provides estimates of GHG emissions, but not fuel consumed, from transporting our freight.
+
+
+2022 ESG Report | FedEx 36. 
+DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PLANET OUR PEOPLE. 
+Direct and indirect GHG emissions (metric tons CO2e) FY19 FY20 FY21. 
+Direct energy consumption (scope 1)
+Aircraft fuel. 
+Jet fuel 11,692,918 11,753,275 13,221,611. 
+Vehicle fuel[1]
+Diesel 3,020,199 2,851,263 2,708,355. 
+Gasoline 242,740 209,246 278,339. 
+Liquefied petroleum gas (LPG: propane) 59,850 64,775 51,885. 
+Liquefied natural gas (LNG) and compressed natural gas (CNG) 7,810 9,131 5,238. 
+Facility energy use. 
+Natural gas 379,953 346,208 392,127. 
+Heating oil 2,703 1,422 2,286. 
+Total direct emissions (scope 1) (metric tons CO2e) 15,406,173 15,235,320 16,659,841. 
+Indirect energy consumption (scope 2)
+Facility purchased energy use. 
+Purchased electricity 995,965 945,229 934,060. 
+Purchased heating 0 3,034 1,714. 
+Purchased cooling 22 17 18. 
+Total indirect energy emissions (scope 2) (metric tons CO2e) 995,988 948,280 935,792. 
+Market-based scope 2 emissions 995,988 948,280 935,792. 
+Total direct and indirect emissions (scope 1 and 2) (metric tons CO2e)[2] 16,402,161 16,183,600 17,595,633. 
+Other indirect energy consumption (scope 3)
+Contracted transportation[3] 3,020,239 3,166,191 3,807,407. 
+Team member business travel 79,054 64,380 45,345. 
+Total other indirect emissions (scope 3) (metric tons CO2e) 3,099,293 3,230,571 3,852,752. 
+Total greenhouse gas emissions (scope 1, 2, and 3) (metric tons CO2e) 19,501,454 19,414,171 21,448,385 1 Includes a small amount of fuel used for emergency generators at some facilities.
+2 Scope 1 and 2 GHG emissions data was externally verified by Cventure LLC.
+3 Includes emissions from: (1) fuel sold by FedEx Ground to independent pickup and delivery and linehaul contractors through on-site fueling facilities or purchased by independent linehaul contractors through retail outlets using fleet fuel cards, (2) fuel used by FedEx Freight contractors in Canada, (3) allocated portion of fuel used by commercial interline aircraft carriers in support of FedEx Express international shipping, (4) fuel used by FedEx Express feeder aircraft contract operators, and (5) contracted intermodal rail at FedEx Freight and FedEx Ground.
+4 FY19 data does not include vehicle CNG/LNG usage as those GHGs were not broken out separately that fiscal year.
+Direct and indirect GHG emissions: GHG equivalency breakdown (metric tons CO2e) FY19 FY20 FY21. 
+Total direct energy emissions (scope 1)[4]
+Carbon dioxide (CO2) 15,252,870 15,084,540 16,496,043. 
+Methane (CH4) 5,182 5,587 5,161. 
+Nitrous oxide (N2O) 138,380 145,191 158,638. 
+Total indirect energy emissions (scope 2)
+Carbon dioxide (CO2) 989,008 942,741 930,470. 
+Methane (CH4) 2,104 2,287 2,165. 
+Nitrous oxide (N2O) 4,876 3,254 3,157. 
+Total direct and indirect energy emissions (scope 1 and 2)
+Carbon dioxide (CO2) 16,241,878 16,027,281 17,426,513. 
+Methane (CH4) 7,286 7,874 7,326. 
+Nitrous oxide (N2O) 143,256 148,445 161,795. 
+Total CO2e (scope 1 and 2) 16,392,420 16,183,600 17,595,634
+
+
+2022 ESG Report | FedEx 37. 
+DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PLANET OUR PEOPLE. 
+Energy and emissions intensity FY19 FY20 FY21. 
+Consolidated revenue (million U.S. dollars) $69,693 $69,217 $83,959. 
+Total energy intensity (terajoules/million U.S. dollars) 3.99 4.04 3.67. 
+Total emissions intensity (scope 1 and 2) (metric tons CO2e/million U.S. dollars revenue) 235.35 233.81 209.57. 
+Total emissions intensity (scope 1, 2, and 3) (metric tons CO2e/million U.S. dollars revenue) 279.82 280.48 255.46. 
+Other significant air pollutants (metric tons)[6] FY19 FY20 FY21. 
+Nitrogen oxides (NOX) 74,526 74,550 83,429. 
+Sulfur oxides (SOX) 11,050 11,127 12,476. 
+Particulate matter (PM10) 764 736 798 1 FY21 Fuel Sense savings were impacted by the significant increase in shipping volume and flight activity due to the COVID-19 pandemic.
+2 FY21 savings includes fuel and emission savings from intermodal rail usage at FedEx Freight and FedEx Ground. Prior fiscal year data only includes usage for FedEx Freight as data was not available for FedEx Ground prior to FY21.
+3 Facility energy efficiency initiatives include building lighting retrofits and energy management systems.
+4 CO2e calculated using the U.S. Environmental Protection Agency (EPA) GHG Calculator.
+5 FY19 data includes only solar electricity generated on-site at FedEx facilities. FY20 and FY21 data includes electricity generated both on-site and at one off-site solar energy facility.
+6 NOX and PM10 data does not include vehicle fleet outside the U.S. and Canada.
+7 Does not include LPG/propane-powered forklifts.
+8 The majority of ISO 14001 certified facilities are at FedEx Express.
+9 Includes LEED-certified facilities at FedEx Express, FedEx Freight, FedEx Ground, and FedEx Office. The BREEAM-certified facilities are only at FedEx Express. FY21 data includes both LEED- and BREEAM-certified facilities. Prior fiscal year data only includes LEEDcertified facilities as BREEAM data was not available prior to FY21.
+10 FY20 and FY21 include one off-site facility.
+Fuel- and energy-saving initiatives FY19 FY20 FY21. 
+Energy saved (terajoules)
+FedEx Express aircraft fleet modernization 19,992 19,490 20,783. 
+FedEx Fuel Sense (jet fuel)[1] 15,571 16,845 9,273. 
+FedEx Express vehicle fuel efficiency initiatives 3,627 4,476 5,005. 
+Intermodal rail usage[2] 4,022 3,324 8,821. 
+Facility energy efficiency initiatives[3, 4] 918 985 748. 
+On- and off-site solar electricity generation[5] 85 88 89. 
+Total energy saved 44,214 45,209 44,719. 
+CO2e emissions avoided (metric tons)
+FedEx Express aircraft fleet modernization 1,355,852 1,321,430 1,410,430. 
+FedEx Fuel Sense (jet fuel)[1] 1,054,418 1,055,690 629,289. 
+FedEx Express vehicle fuel efficiency initiatives 255,666 315,519 352,867. 
+Intermodal rail usage[2] 281,278 232,557 598,003. 
+Facility energy efficiency initiatives[3, 4] 179,638 193,492 147,231. 
+On- and off-site solar electricity generation[5] 13,447 13,225 13,957. 
+Total emissions avoided 3,140,299 3,131,913 3,151,777. 
+Alternative fuel vehicles FY19 FY20 FY21. 
+Hybrid 350 311 294. 
+Electric 2,944 3,078 3,180. 
+Liquefied natural gas (LNG) and compressed natural gas (CNG) 217 218 217. 
+Liquefied petroleum gas (propane)[7] 515 481 462. 
+Hydrogen fuel cell 5 3 3. 
+Total alternative vehicles 4,031 4,091 4,156. 
+Facility data FY19 FY20 FY21. 
+Number of countries with ISO 14001 certified sites[8] 41 52 43. 
+Number of LEED- and BREEAM-certified buildings[9] N/R N/R 52. 
+Number of on- and off-site solar energy facilities[10] 25 26 26
+
+
+2022 ESG Report | FedEx 38. 
+DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PLANET OUR PEOPLE. 
+Materials consumption FY19 FY20 FY21. 
+Packaging materials[1]
+Total packaging (metric tons) 57,110 58,964 93,025. 
+Percent of packaging from recycled content 45% 42% 37%
+Percent of packaging from third-party certified content 68% 80% 75%
+Paper. 
+FedEx Office copy and print paper (metric tons)[2] 16,768 13,933 9,347. 
+Percent of paper from recycled content 14% 12% 10%
+Percent of paper from third-party certified content 100% 100% 100%
+Other operational materials (solids)
+Total other operational materials (solids: metric tons) 19,580 21,204 14,824. 
+Percent of other operational materials (solids) from recycled content 65% 66% 34%
+Total solid materials used (metric tons) 93,458 94,100 117,196. 
+Other operational materials (fluids: liters)[3] 6,460,394 4,105,511 6,765,879 1 In addition to cardboard, other materials used in shipping include bubble pack, plastic air pillows, chipboard, Tyvek® envelopes, and packaging tape.
+2 The vast majority of paper usage at FedEx is for commercial copy and print services at FedEx Office in the U.S. Therefore we are only reporting FedEx Office copy and print paper usage, as we consider paper usage at other operating companies to be immaterial.
+3 Includes fluids used for deicing aircraft and vehicle fleet maintenance.
+4 Defined as spills of hazardous materials like oil, fuel, and chemicals that are reportable to the appropriate environmental regulatory agency, such as the U.S. National Response Center.
+5 Waste at many of our facilities is difficult to track because it is collected by haulers contracted by a landlord or local municipality, or commingled with other tenants’ waste in shared facilities such as airports and retail malls, and as such has not been included in this data.
+6 Non-hazardous waste data includes the solid waste (non-regulated/trash) and non-hazardous regulated waste categories that were reported separately in previous reports.
+7 Hazardous waste data includes the hazardous (regulated) waste, universal waste (which encompasses certain hazardous waste items, including batteries and mercury-containing lamp bulbs, as defined by U.S. EPA regulations), and electronic waste categories that were reported separately in previous reports.
+Waste and recycling (metric tons)[5] FY19 FY20 FY21. 
+Total waste. 
+Total waste generated 433,848 361,952 519,859. 
+Sent to recyclers 255,757 251,275 346,211. 
+Percent sent to recyclers 59% 69% 67%
+Landfilled 178,091 110,677 173,647. 
+Non-hazardous waste[6]
+Total non-hazardous waste 430,939 359,381 517,050. 
+Sent to recyclers 254,422 250,260 345,543. 
+Percent sent to recyclers 59% 70% 67%
+Landfilled 176,518 109,572 171,506. 
+Hazardous waste[7]
+Total hazardous waste 2,909 2,120 2,809. 
+Sent to recyclers 1,335 1,015 668. 
+Percent sent to recyclers 46% 48% 24%
+Landfilled 1,573 1,105 2,141. 
+Environmental compliance summary FY19 FY20 FY21. 
+Number of significant spills[4] 171 133 129. 
+Number of monetary violations from external agencies 3 0 1. 
+Total amount of monetary violations $5,280 $0 $35,961
+
+
+2022 ESG Report | FedEx 39. 
+DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PLANET OUR PEOPLE. 
+Social 1 Headcount data as of the end of the fiscal years reported.
+2 Does not include TNT Express.
+3 Attrition includes high volume of temporary, non-exempt employees to support annual peak season operations. In FY21, the turnover rate for exempt employees, non-exempt hourly operations employees, and non-exempt, hourly support employees was 7.6%, 130.7%, and 9.7%, respectively.
+Headcount by global region [1] FY19 FY20 FY21. 
+Total headcount 444,770 499,718 508,650. 
+U.S. (percent) 71% 71% 70%
+Europe (percent) 11% 12% 14%
+Asia Pacific (APAC) (percent) 7% 6% 7%
+Latin America and Caribbean (LAC) (percent) 6% 5% 5%
+Canada (percent) 3% 3% 3%
+Middle East, Indian Subcontinent, and Africa (MEISA) (percent) 2% 2% 1%
+Full-time employees: U.S. workforce 181,940 188,989 218,254. 
+Part-time employees: U.S. workforce 132,501 165,209 166,075. 
+Employee hiring and turnover[2] FY19 FY20 FY21. 
+New hire data. 
+Total new hires 307,396 303,906 366,973. 
+New hire rate 69% 71% 72%
+Male percent of new hires 66% 65% 71%
+Female percent of new hires 34% 35% 29%
+Employee turnover data[3]
+Total turnover 275,006 280,543 290,777. 
+Turnover rate 62% 65% 57%
+Male percent of turnover 65% 65% 63%
+Female percent of turnover 35% 35% 37%
+Team member career development[2] FY19 FY20 FY21. 
+Total average training hours 37.51 36.70 27.84. 
+Management 45.67 39.19 48.84. 
+Non-management 36.33 36.11 24.87. 
+Global headcount by gender[2] FY19 FY20 FY21. 
+Total employees 403,631 428,936 508,650. 
+Total male employees 288,340 303,154 356,558. 
+Male percent of headcount 71% 71% 70%
+Total female employees 115,291 125,780 150,656. 
+Female percent of headcount 29% 29% 30%
+Total management employees 30,381 23,465 19,498. 
+Male percent of management employees 77% 75% 73%
+Female percent of management employees 23% 25% 27%
+Total non-management employees 373,250 405,471 489,152. 
+Male percent of non-management employees 71% 70% 70%
+Female percent of non-management employees 29% 30% 30%
+
+
+2022 ESG Report | FedEx 40. 
+DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PLANET OUR PEOPLE. 
+U.S. workforce diversity FY19 FY20 FY21. 
+Caucasian 47.7% 45.1% 43.3%
+Black/African American 29.4% 30.7% 30.2%
+Hispanic/Latin 15.9% 16.8% 17.8%
+Asian 3.9% 3.7% 3.6%
+American Indian/Alaskan Native 0.6% 0.6% 0.7%
+Native Hawaiian/Pacific Islander 0.5% 0.5% 0.6%
+Other 2.0% 2.6% N/A. 
+Two or more races N/R N/R 2.1%
+Race not identified N/R N/R 1.7%
+Minorities in U.S. management 36.6% 38.4% 41.3%
+Global workforce generational diversity[1] FY19 FY20 FY21. 
+Under 30 years of age 26% 34% 34% 30–50 years of age 61% 42% 42%
+Over 50 years of age 13% 24% 24%
+Global safety data[2] FY19 FY20 FY21. 
+Injury rates. 
+Total lost time injury rate (per 200,000 hours worked)[3, 4] 3.51 3.25 3.99. 
+North America (U.S./Canada) 4.19 3.78 4.80. 
+Rest of the world (includes TNT Express) 1.99 2.05 1.86. 
+Lost time injuries percent male[4] 66% 64% 61%
+Lost time injuries percent female[5] 34% 36% 39%
+Total number of employee fatalities (work-related)[6] 10 3 15 1 Does not include TNT Express.
+2 Does not include independent contractors working on behalf of FedEx.
+3 Per 200,000 hours worked; Lost Time Injury means a nonfatal traumatic injury that causes any loss of time from work beyond the day or shift it occurred; or a nonfatal nontraumatic illness/disease that causes disability at any time. Global lost time injury rate (LTIR) data is based on definitions from the United States Occupational Safety and Health Administration (OSHA).
+4 Restated FY20 LTIR for North America higher due to updated data collection and control processes. Restated LTIR for rest of the world slightly lower for FY20. Also restated FY19 LTIR higher due to updated data collection and control processes.
+5 For % Male and % Female breakouts, FedEx Express Europe, FedEx Express Canada, and FedEx Express MEISA numbers are not included for FY21.
+6 GRI definition: the death of a worker occurring in the current reporting period, arising from an occupational injury or disease sustained or contracted while in the organization’s employ.
+
+
+2022 ESG Report | FedEx 41. 
+DATA APPENDIX INTRODUCTION OUR PRINCIPLES OUR PLANET OUR PEOPLE 1 Does not include suppliers evaluated by Sourcing teams outside the U.S.
+2 This includes Native American, which was 5% of data reported.
+3 Includes direct cash grants, charitable shipping and Corporate Marketing and FedEx Express in-kind donations to nonprofit organizations, and team member contributions to annual United Way Campaign.
+Supply chain FY19 FY20 FY21. 
+Total number of suppliers participating in requests for qualifications and proposals (RFx) events 508 230 418. 
+Total number of suppliers asked sustainability questions in RFx event 436 213 392. 
+Percent of Sourcing-managed suppliers screened with sustainability RFx questions[1] 86% 93% 94%
+Diverse supplier spending (billion U.S. dollars) $12.3 $13.3 $18.7. 
+Minority-owned businesses (percent of total diverse supplier spend) 12% 12% 19%
+Women-owned businesses (percent of total diverse supplier spend) 8% 7% 10%
+Other small businesses (percent of total diverse supplier spend) 80% 81% 71%
+Minority-owned businesses (billion U.S. dollars) $1.50 $1.60 $3.60. 
+Minority spend by demographic (percent)
+Hispanic 28% 31% 47%
+African American 30% 29% 31%
+South Asian Indian 5% 3% 8%
+Asian 4% 4% 8%
+Other/not disclosed[2] 33% 33% 6%
+Governance Cautionary Note. 
+Certain statements in this report may be considered forward-looking statements, such as statements relating to management’s views with respect to future events and financial performance and underlying assumptions. Forward-looking statements include those preceded by, followed by, or that include the words “will,” “may,” “could,” “would,” “should,” “believes,” “expects,” “anticipates,” “plans,” “estimates,” “targets,” “projects,” “intends,” or similar expressions. Such forward-looking statements are subject to risks, uncertainties, and other factors which could cause actual results to differ materially from historical experience or from future results expressed or implied by such forward-looking statements. Potential risks and uncertainties include, but are not limited to, our ability to successfully implement our business strategy, effectively respond to changes in market dynamics and achieve the anticipated benefits and associated cost savings of such strategies and actions; our ability to meet certain goals relating to aircraft emissions, vehicle fuel efficiency, alternative fuels, and renewable energy, and aircraft and vehicle fleet modernization within the currently projected costs and the expected timeframes, including our goal of carbon neutral operations by 2040; the availability of and our ability to acquire alternative fuel vehicles, alternative fuels, fuel efficient aircraft, and other materials and components, which may be adversely affected by the ongoing crisis in Russia and Ukraine and disruptions in global supply chains; unforeseen production, design, operational, and technological difficulties; the outcome of research efforts and future technology developments, including the ability to scale projects and technologies on a commercially competitive basis such as carbon sequestration and/or other related processes; compliance with, and changes or additions to, global and regional regulations, taxes, charges, mandates, or requirements relating to greenhouse gas emissions, carbon costs, or climate-related goals; labor-related regulations and requirements that restrict or prohibit our ability to impose requirements on third parties who provide contracted transportation for our transportation networks; adapting products to customer preferences and customer acceptance of sustainable supply chain solutions; the actions of competitors and competitive pressures; and other factors which can be found in FedEx Corp.’s and its subsidiaries’ press releases and FedEx Corp.’s filings with the Securities and Exchange Commission. Any forward-looking statement speaks only as of the date on which it is made. We do not undertake or assume any obligation to update or revise any forwardlooking statement, whether because of new information, future events, or otherwise.
+Charitable contributions FY19 FY20 FY21. 
+Total charitable contributions (million U.S. dollars)[3] $73.82 $65.59 $80.83
+
+
+2022 ESG Report | FedEx 42. 
+FedEx Corporation 942 South Shady Grove Road Memphis, Tennessee 38120 Please visit fedex.com/sustainability.

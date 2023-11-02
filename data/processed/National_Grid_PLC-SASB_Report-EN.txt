@@ -1,0 +1,102 @@
+1. https://www.sasb.org/standards/download/#:~:text=SASB%20Standards%20identify%20the%20subset,material%20sustainability%20information%20to%20 investors.
+The Sustainability Accounting and Standards Board (“SASB”) voluntary reporting standards are designed to enable the disclosure of company sustainability information in a clear and consistent manner so that it can be used by investors and other stakeholders. 2020/21 is the first year National Grid have published a SASB map to demonstrate alignment to the SASB Standards.
+There are currently 77 SASB industry standards, of which 2 are considered relevant for National Grid. This SASB Index sets out our alignment with both: • Electric Utilities & Power Generators Standard • Gas Utilities and Distributors Standard. 
+SASB Standards can be downloaded from the SASB website1.
+This year we have achieved partial alignment to SASB, providing disclosures for 35/36 SASB metrics that are relevant to our business. We aim for full alignment next year (2021/22). Please view the ‘National Grid Disclosure’ column in the tables below which sets out where the relevant disclosures have been made, the majority referenced to our Responsible Business Report 2020/21 (“RBR”) and Annual Report and Accounts 2020/21 (“ARA”).
+Please note when reading our SASB disclosures we have used some acronyms which have been defined in a glossary on page 7 of this document. Also note, many of the customer and billing focused SASB metrics are not applicable to our UK business as we do not sell gas or electricity direct to consumers. These metrics are only relevant to our US business for which the necessary information and data has been provided.
+SASB Report 2020/21 1 National Grid SASB Report 2020/21
+
+
+Electric Utilities & Power Generators Standard 2. Disclosure is representative of our US business only where we sell energy direct to consumers. Disclosure is not applicable to our UK business as transmission only (not customer facing). 3. US air emissions are associated with our energy generation plants, all of which are located on Long Island and would be considered ‘near to areas of dense population’ according to the SASB definition set out on page 18 of the standard (https://www.sasb.org/wp-content/uploads/2018/11/Electric_Utilities_Power_ Generators_Standard_2018.pdf). 4. We submit CDP Climate Change and CDP Water questionnaires annually to CDP in August. Our submissions can be viewed on the CDP website: https://www.cdp.net/en/responses?utf8=%E2%9C%93&queries%5Bname%5D=national+grid.
+Code SASB Accounting Metric National Grid Disclosure. 
+Greenhouse Gas Emissions & Energy Resource Planning. 
+IF-EU-110a.1 (1) Gross global Scope 1 emissions, and percentage covered under: (2) Emissions-limiting regulations (3) Emissions-reporting regulations (1) RBR page 58 (2) 100% (3) 100%
+IF-EU-110a.2 Greenhouse gas (GHG) emissions associated with power deliveries RBR page 25. 
+IF-EU-110a.3 Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets. 
+RBR pages 18 to 25. 
+IF-EU-110a.42 (1) Number of customers served in markets subject to renewable portfolio standards (RPS) (2) Percentage fulfilment of RPS target by market (1) All our US customers are served in markets subject to RPS (2) 100% (met through the purchase of RECs)
+Air quality. 
+IF-EU-120a.1 Air emissions of the following pollutants: (1) NOx (2) SOx (3) Particulate matter (PM10) (4) Lead (Pb) (5) Mercury (Hg) and percentage of each in or near areas of dense population (%) (1) RBR page 59 (2) RBR page 59 (3) RBR page 59 (4) & (5) Not applicable. National Grid are not required by our UK or US regulators to monitor and report lead or mercury as they are not considered material to our operations.
+0% and 100%3 of our UK and US emissions respectively are within or near to areas of dense population.
+Water Management. 
+IF-EU-140a.1 (1) Total water withdrawn (2) Total water consumed percentage of each in regions with High or Extremely High baseline water stress (1) RBR page 28 (2) RBR page 28 0% water withdrawn or consumed in the UK and US is within regions of high or extremely high water stress.
+IF-EU-140a.2 Number of incidents of non-compliance associated with water quantity, quality permits, standards, and regulations RBR page 28. 
+IF-EU-140a.3 Description of water management risks and discussion of strategies and practices to mitigate those risks RBR page 28 and CDP Water4. 
+Coal Ash Management. 
+IF-EU-150a.1 Amount of coal combustion residuals (CCR) generated, percentage recycled Not applicable – no coal combustion in National Grid’s portfolio. IF-EU-150a.2 Total number of coal combustion residual (CCR) impoundments, broken down by hazard potential classification and structural integrity assessment 2 National Grid SASB Report 2020/21
+
+
+Electric Utilities & Power Generators Standard continued 5. Disclosure not applicable to our UK business (transmission only and not customer facing). National Grid publish their own UK energy affordability metrics in the RBR to disclose our contribution to consumer bills – see pages 30 to 33 and page 62. Data stated for this disclosure in this SASB Index is representative of our US business only. 6. National Grid have reported lost time injury frequency rate and number of fatalities as key safety metrics for many years. For 2020/21 we will report consistently with our historic reporting. We recognise that these metrics are not the precise SASB required disclosures, but are very similar. 7. The Revenue Decoupling Mechanism (RDM) considers changes in revenue for factors including energy efficiency (EE), the economy, weather, etc. With the introduction of RDMs, which predominantly were intended to remove the roadblock for utilities to fully promote EE but encompass all influences on sales, LRAMs no longer became necessary. All lost revenue from programs that serve to reduce customer load (EE, Distributed Generation (DG)) is recovered through RDM unless they are specifically excluded. In NE, there are no exclusions in our RDMs for EE or DG. 8. We do not currently have data available for this metric for 2020/21 reporting but aim to disclose this next year (2021/22). 9. There is not comparable data available for the UK business. Number of MWh lost, and length of interruptions is measured by the Distribution Network Operators (DNOs) to monitor performance, not by National Grid (UK business is transmission only).
+Code SASB Accounting Metric National Grid Disclosure. 
+Energy Affordability. 
+IF-EU-240a.15 Average retail electric rate for: (1) Residential (USD/kWh) (2) Commercial (USD/kWh) (3) Industrial customers (USD/kWh) (1) $0.21 (2) $0.14 (3) $0.16. 
+IF-EU-240a.22 Typical monthly electric bill for residential customers for: (1) 500 kWh ($) (2) 1,000 kWh ($), of electricity delivered per month (1) MA: $127.62; RI: $114.64, NY: $72.74 (2) MA: $248.19; RI: $220.15, NY: $127.96. 
+IF-EU-240a.32 (1) Number of residential customer electric disconnections for non-payment (2) Percentage reconnected within 30 days (1) 361 (2) 69.3%
+IF-EU-240a.45 Discussion of impact of external factors on customer affordability of electricity, including the economic conditions of the service territory RBR pages 30 to 32. 
+Workforce Health & Safety. 
+IF-EU-320a.16 (1) Total recordable incident rate (TRIR) (2) Fatality rate (3) Near miss frequency rate (NMFR)
+National Grid publish Group figures for Lost Time Injury Frequency Rate (LTIFR) and the number of fatalities within our RBR pages 45 and 46, and ARA pages 11 and 22. 
+End-Use Efficiency & Demand. 
+IF-EU-420a.12 Percentage of electric utility revenues from rate structures that: (1) Are decoupled (2) Contain a lost revenue adjustment mechanism (LRAM) (1) 100% (2) Not applicable7. 
+IF-EU-420a.2 Percentage of electric load served by smart grid technology Data unavailable for 2020/21.8. 
+IF-EU-420a.32 Customer electricity savings from efficiency measures, by market (annual MWh) MA: 497,665; RI: 154,417; NY: 558,743. 
+Nuclear Safety & Emergency Management. 
+IF-EU-540a.1 Total number of nuclear power units, broken down by U.S. Nuclear Regulatory Commission (NRC) Action Matrix Column Not applicable - no nuclear power in National Grid’s portfolio.
+IF-EU-540a.2 Description of efforts to manage nuclear safety and emergency preparedness Not applicable - no nuclear power in National Grid’s portfolio.
+Grid Resiliency. 
+IF-EU-550a.1 Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations 0. 
+IF-EU-550a.29 (1) System Average Interruption Duration Index (SAIDI) (2) System Average Interruption Frequency Index (SAIFI) (3) Customer Average Interruption Duration Index (CAIDI), inclusive of major event days (1) 126.708 minutes (2) 1.042 interruptions (3) 121.644 minutes 3 National Grid SASB Report 2020/21
+
+
+Electric Utilities & Power Generators Standard continued 10. We also publish our Group figures for electricity consumption to meet the requirements of the Streamlined Energy and Carbon Reporting (SECR) legislation and Energy Savings Opportunity Scheme (ESOS).
+Code SASB Accounting Metric National Grid Disclosure. 
+Activity Metrics. 
+IF-EU-000.A2 Number of: (1) Residential (2) Commercial (3) Industrial, customers served (1) 2,321, 847 (2) 225,841 (3) 2,990. 
+IF-EU-000.B2 Total electricity delivered to: (1) Residential (MWh) (2) Commercial (MWh) (3) Industrial (MWh) (4) All other retail customers (MWh) (5) Wholesale customers (MWh) (1) 17,372,063,202 (2) 5,725,325,028 (3) 1,189,512,443 (4) 35,407,473,093 (5) 2,958,083,000. 
+IF-EU-000.C Length of transmission and distribution lines ARA pages 2 and 3. 
+IF-EU-000.D2 Total electricity generated (MWh), percentage by major energy source, percentage in regulated markets Total electricity generated: 5,099,376. 
+Natural gas generation: 4,930,307 (97%)
+Fuel oil generation: 169,069 (3%) 100% National Grid’s generation is within the US (a regulated market).
+IF-EU-000.E Total wholesale electricity purchased10 RBR page 26 4 National Grid SASB Report 2020/21
+
+
+11. Our NE operations (Boston, Colonial and RI) have a full Revenue Decoupling Mechanism (RDM), which considers changes in revenue from all factors (energy efficiency, the economy, weather, etc.), so therefore we do not have a separate LRAM. Our NE operations are not 100% decoupled because we do not include new, large or extra large commercial and industrial (C&I) customers. We retain revenue billed to such customers, whether higher or lower than the RDM fixed revenue per customer (RPC) as determined in a rate case. 12. Massachusetts (MA) includes Boston and Colonial operating companies. We do not report customer gas savings separately for Boston and Colonial. 13. Both incidents reported were associated with the US business. In the UK there was 1 pipeline incident in 2020, however as no there was 0 leakage associated with the incident, it would therefore not be counted under the SASB definition. 14. National Grid’s UK gas business is transmission only (no distribution pipeline). This disclosure is representative of our US business only.
+Gas Utilities & Distributors Standard. 
+Code Accounting metric Additional Information. 
+Energy Affordability. 
+IF-GU-240a.12 Average retail gas rate for: (1) Residential (USD/MMBtu) (2) Commercial (USD/MMBtu) (3) Industrial customers (USD/MMBtu) (4) Transportation services only (USD/MMBtu) (1) $13.28 (2) $10.66 (3) $8.82 (4) $3.80. 
+IF-GU-240a.22 Typical monthly gas bill for residential customers for: (1) 50 MMBtu (2) 100 MMBtu of gas delivered per year (1) Boston: $64.31; Colonial: $59.64; RI: $68.49; NIMO: $47.47; KENDY: $81.38; KEDLI: $80.81 (2) Boston: $116.63; Colonial: $109.28; RI: $121.72; NIMO: $64.53; KENDY: $123.08; KEDLI: $117.00. 
+IF-GU-240a.32 (1) Number of residential customer gas disconnections for non-payment (2) Percentage reconnected within 30 days (1) 4,348 (2) 48.8%
+IF-GU-240a.42 Discussion of impact of external factors on customer affordability of gas, including the economic conditions of the service territory RBR pages 30 to 32. 
+End-Use Efficiency iF-GU-420a.1 Percentage of gas utility revenues from rate structures that: (1) Are decoupled (%) (2) Contain a lost revenue adjustment mechanism (LRAM) (%)11 (1) Boston: 96%; Colonial: 97%; RI: 87%; NIMO: 88%; KEDNY: 78%; KEDLI: 88% (2) NIMO: 5%; KEDNY: 7%; KEDLI: 5%
+IF-GU-420a.2 Customer gas savings from efficiency measures by market (Dth/MMBtu) RI: 319,384; NIMO: 930,493; KEDNY: 481,373; KEDLI: 368,456; MA12 1,431,740 (net annual MMBTU)
+Integrity of Gas Delivery Infrastructure. 
+IF-GU-540a.1 Number of: (1) Reportable pipeline incidents13 (2) Corrective Action Orders (CAO) (3) Notices of Probable Violation (NOPV) (1) 2 (2) 0 (3) 1. 
+IF-GU-540a.214 Percentage of distribution pipeline that is: (1) Cast and/or wrought iron (2) Unprotected steel (1) 11.3% (2) 12.8%
+IF-GU-540a.3 Percentage of gas: (1) Transmission (2) Distribution14, pipelines inspected (1) UK: 7.43%; US: 100% annually (2) US: 65% annually 5 National Grid SASB Report 2020/21
+
+
+15. https://www.nationalgrid.com/uk/gas-transmission/document/129016/download 16. https://www.nationalgrid.com/sites/gas/files/documents/20050-CommonMaintenanceTypes2013.pdf. 
+Gas Utilities & Distributors Standard continued. 
+Code Accounting metric Additional Information. 
+Integrity of Gas Delivery Infrastructure continued. 
+IF-GU-540a.4 Description of efforts to manage the integrity of gas delivery infrastructure, including risks related to safety and emissions For the UK business, plans to ensure we maintain and deliver a safe, resilient and environmentally sustainable network in our described in our RIIO-2 business plan (pages 56 – 62 and 113 – 137, available on our website15. Also see our published document on Common Maintenance Types on the Gas National Transmission System16.
+For our US business, we have developed and operate a Distribution Integrity Management Program (DIMP) to continuously identify integrity threats to safety and the environment, remediate, report and evaluate the progress.
+Other. 
+IF-GU-000.A2 Number of: (1) Residential (2) Commercial (3) Industrial, customers served (1) 3,189,413 (2) 196,606 (3) 8,330. 
+IF-GU-000.B2 Amount of natural gas delivered to: (1) Residential customers (DTH) (2) Commercial customers (DTH) (3) Industrial customers (DTH) (4) Transferred to a third party (DTH) (1) 257,430,266 (2) 65,699,345 (3) 8,209,932 (4) 365,765,561. 
+IF-GU-000.C Length of gas: (1) Transmission (2) Distribution, pipelines. 
+ARA pages 2 and 3 6 National Grid SASB Report 2020/21
+
+
+Term / Acronym Definition. 
+NE New England; includes RI and MA operating companies.
+RI Rhode Island. 
+MA Massachusetts; includes Boston and Colonial operating companies.
+NY New York; includes NIMO, KEDNY, KEDLI operating companies.
+NIMO Niagara Mohawk Power Corporation. 
+KEDNY Keyspan Energy Delivery New York. 
+KELDI Keyspan Energy Delivery Long Island. 
+MMBTU One Million British Thermal Units. 
+DTH Dekatherm. 
+Glossary 7 National Grid SASB Report 2020/21

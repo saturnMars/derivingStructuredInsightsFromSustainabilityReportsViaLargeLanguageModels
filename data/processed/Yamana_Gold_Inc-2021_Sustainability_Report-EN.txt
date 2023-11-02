@@ -1,0 +1,1076 @@
+SUSTAINABILITY REPORT 2021 CREATING VALUE
+
+
+Table of Contents. 
+Acronyms Used in this Report ....................................... 3. 
+About Yamana Gold .................................................... 4. 
+About This Report ....................................................... 5. 
+Message from Our Executive Chairman ........................ 10. 
+Message from Our CEO .............................................. 11 2021 at a Glance ...................................................... 12. 
+COVID-19 Response and Impact ................................. 13. 
+Governance 16 2021 Targets ........................................................... 17. 
+HSSD Governance .................................................... 19. 
+Our HSSD Management Framework, System and Certifications ........................................................... 21. 
+Social 26. 
+Our People .............................................................. 27. 
+Health and Safety ..................................................... 31. 
+Social Performance ................................................... 37. 
+Environment 45. 
+Environmental Management ....................................... 46. 
+Climate Change ........................................................ 49. 
+Water ..................................................................... 55. 
+Biodiversity ............................................................. 58. 
+Tailings Management................................................. 61. 
+Mine Closure ............................................................ 63. 
+Contact Information 65 2 Yamana’s 2021 Sustainability Report
+
+
+Acronyms Used in this Report. 
+ARO: Asset Retirement Obligations AEO: Accountable Executive Officer BMP: Biodiversity Management Plan CDA: Canadian Dam Association CDP: Organization formally known as Carbon Disclosure Project D&I: Diversity and Inclusion DSI: Dam Safety Inspection DSR: Dam Safety Reviews EIBP: Evolving International Best Practice EITI: Extractive Industries Transparency Initiative ESG: Environment, Social and Governance ESIA: Environmental and Social Impact Assessment ESTMA: Extractive Sector Transparency Measures Act (Canada) FRPs: Fatal Risk Protocols GEO: Gold Equivalent Ounces GHG: Greenhouse Gas GISTM: Global Industry Standard on Tailings Management GRI: Global Reporting Initiative H&S: Health and Safety HPIs: High Potential Incidents HSSD: Health, Safety and Sustainable Development ICAM: Incident Cause Analysis Method ICMC: International Cyanide Management Code ICMI: International Cyanide Management Institute IIRC: International Integrated Reporting Committee ILO: International Labour Organization ITRB: Independent Tailings Review Board IUCN: International Union for Conservation of Nature KPI: Key Performance Indicator LPRM: Local Procurement Reporting Mechanism LTIR: Lost Time Injury Rate MAC: Mining Association of Canada MACC: Marginal Abatement Cost Curve MSRT: Mining Safety Roundtable OMS: Operations, Maintenance and Surveillance PPA: Power Purchase Agreement PPE: Personal Protective Equipment QA/QC: Quality Assurance and Quality Control RGMPs: World Gold Council's Responsible Gold Mining Principles SASB: Sustainability Accounting Standards Board SBTi: Science Based Targets Initiative SBT: Science-based target SDG: Sustainable Development Goals SIR: Significant Incident Reports SLO: Social License to Operate SoC: Statements of Commitment TCFD: Task Force on Climate-related Financial Disclosures tCO2e: Tonnes of carbon dioxide equivalent TRIR: Total Recordable Incident Rate TSF: Tailings Storage Facility TSM: Mining Association of Canada's Towards Sustainable Mining UN: United Nations USD: United States Dollars 3 Yamana’s 2021 Sustainability Report
+
+
+About Yamana Gold. 
+Yamana Gold is a Canadian-based precious metals producer with significant gold and silver production, developmentstage properties, exploration properties, and land positions throughout the Americas, including Canada, Brazil, Chile and Argentina. Yamana plans to continue to build on this base through expansion and optimization initiatives at existing operating mines, development of new mines, the advancement of its exploration properties and, at times, by targeting other consolidation opportunities with a primary focus in the Americas. We are committed to operating responsibly and transparently to strengthen sustainable returns to shareholders and align business and societal outcomes by creating transformational impacts for all stakeholders.
+Yamana’s 2021 Sustainability Report 4
+
+
+About This Report. 
+At Yamana, the expression “environment, social and governance” (ESG) encompasses a range of material business issues, including health and safety, environmental protection, community relations and development, tailings management, human rights, government relations and security. It also includes cross-cutting corporate governance elements that apply to all aspects of our business.
+This report is intended to share information on our ESG performance with our stakeholders in a clear and transparent manner. This year, we have changed the name of our report from “Material Issues Report” to “Sustainability Report” to better reflect the range of topics covered within the report. Moreover, rather than simply report on “material issues”, the Sustainability Report seeks to present a broader context, including stories that we feel communicate our values in action.
+We have modified the convention used in our past reports by changing how we refer to the matters covered in our disclosure. We now refer to health, safety and sustainable development (HSSD) to better represent how these issues are managed at Yamana and to broaden coverage.
+All amounts in this report are expressed in United States Dollars (USD) unless otherwise specified.
+A Word About ESG. 
+Interest in environmental, social and governance (“ESG”) aspects of the Company’s business has grown exponentially over the past few years, primarily from the financial and investment communities. In Yamana’s view, this interest is long overdue, and identifying and managing ESG issues is not a new practice for the company. There is now broader recognition that, in the mining sector in particular, ESG performance and excellence are key predictors of the financial performance and growth trajectory of a business, including companies like Yamana.
+Operations Covered. 
+This report covers all of Yamana’s wholly-owned and operated mines and, where applicable, exploration properties, during their ownership period. Closed properties are covered in the Closure section and are not included in other sections within this report unless otherwise indicated.
+This report includes data pertaining to the Canadian Malartic Mine in a limited context and where explicitly stated. Additional information pertaining to Canadian Malartic, of which Yamana holds a 50% ownership interest in partnership with Agnico Eagle Mines Limited, is available in our GRI and SASB Index. Canadian Malartic prepares a standalone annual sustainability report, available at www.canadianmalartic.com.
+Report Structure. 
+Similar to previous years, our 2021 Sustainability Report is divided into sections based on topics we believe are relevant and important to our business and stakeholders alike, and which we manage on an on-going basis to deliver on our values and strategy. This report focuses on performance-based data and other information associated with each topic, highlighting new developments that occurred in the reporting year. This allows readers to assess our year-toyear progress and facilitates navigation.
+Information that remains largely unchanged year-over-year, including the governance, strategy, and risk management topics, as well as the management systems, processes and programs is available on the Responsibility section of our website.
+
+Look for these icons that indicate where more information on material topics can be found on our website. 
+Link to more information. 
+See our combined GRI and SASB Index on the Responsibility Reports page of our website for more information.
+Yamana’s 2021 Sustainability Report 5
+
+
+Determining Materiality. 
+The concept of “materiality” is founded on the identification of sustainability and ESG matters deemed to be important to both our business and our stakeholders. This is a broader concept than financial materiality. From a business perspective, we use our HSSD management systems, risk management processes, and business planning to identify material HSSD issues. Through our ongoing stakeholder dialogue and engagement activities, we regularly identify and explore a wide range of topics with each stakeholder group to understand which issues are most important to them. While formal, in-person stakeholder meetings were not always possible in 2021 due to the COVID-19 pandemic, we continued to engage with stakeholders through digital means to ensure material topics were identified and discussed.
+The following table provides a brief summary of our key stakeholder engagement mechanisms, as well as the primary takeaways from those sessions.
+Stakeholder Group Method of Engagement Key Priorities. 
+Investor Community (Including Shareholders and Shareholder Services Firms)
+Frequent engagement with the investor community through specific and targeted outreach.
+• General ESG Issues • ESG Commitments and Targets • Management Systems • Perceived Controversies • Tailings Management • Climate Action, GHG Abatement and Risk. 
+Adaptation. 
+ESG Research and Rating Agencies. 
+Targeted meetings around feedback on ratings and general meetings with key stakeholders in this space to understand and update the materiality of issues to the ESG community.
+• General ESG Issues • ESG Commitments • Management Systems • Perceived Controversies • Energy and GHG Emissions • Climate Action and Adaptation • Responsible Supply Chain. 
+Local Communities. 
+Engagement with our neighbouring communities on an ongoing basis through both formal and informal mechanisms. See the Social Performance section of this report for more information.
+• Employment Opportunities • Local Contracting Opportunities • Environmental impacts, including noise, fugitive dust and vibration • Water Quality and Supply • Tailings Management • Contributions to Community Programming • COVID-19 Management. 
+Governments (Local, Municipal and National)
+Frequent engagement with all levels of government to facilitate relationships and economic development.
+• Tax revenue and Transparency • Employment and Local Procurement • General Environmental Concerns • Economic Benefits. 
+Yamana’s 2021 Sustainability Report 6
+
+
+Stakeholder Group Method of Engagement Key Priorities. 
+Our Employees. 
+Our employees and contractors are engaged through many formal and informal methods including: meetings with management, unions and HSSD teams, as well as through employee surveys.
+• Job Security • Salary and Benefits • Health and Safety • Employee/Labour Relations • COVID-19 Management. 
+Civil Society: Development Partner Organizations. 
+Engagement with local and international development partner organizations through the design and execution of community programming.
+• Human Rights • Community Engagement and Development • General Best Practices. 
+Civil Society: Advocacy Groups. 
+Engagement on a required basis for emerging issues, when approached. In Canada and in our host countries, we look for opportunities to engage proactively on issues that have the potential to pose future risks to our organization.
+• Human Rights • Water • Environmental Management. 
+Based on our stakeholder interest and business significance, we have identified a list of material topics. These topics are also considered to be material within the GRI and SASB reporting standards.
+Determining Materiality. 
+Data Collection. 
+The information presented in this report was compiled at the operational level, and then consolidated and reviewed by. 
+Yamana’s corporate team using internal processes and controls. These controls are designed to enable us to evaluate our progress, mitigate our risks and remain accountable to our stakeholders. In addition to these controls, we undertook a series of discussions with Yamana’s management to better inform our reporting practices, ensure topics covered are properly represented and discuss what this data means for us as a company.
+We believe that responsibility for health and safety is a value that is shared at every level of the organization.
+Yamana’s 2021 Sustainability Report 7
+
+
+Other Disclosures. 
+Sustainability Frameworks. 
+GRI Standards. 
+The 2021 report is the 14th consecutive year we have disclosed information about our sustainability/ESG performance and the 4th year reporting under the Global Reporting Initiative’s (GRI) Standards (Core option) and the GRI G4 Mining and Metals Sector Disclosures.
+The GRI is an independent organization that supports transparency, reliability and accountability in the reporting of critical sustainability issues. The GRI Standards are used across industries, allowing for a universally applicable, comparable framework for analyzing and understanding ESG data and information. While this report covers much of the information required by GRI, we also publish a GRI and SASB Index report to ensure full alignment with these standards. The complete set of GRI Standards and our responses are available on the Responsibility Reports page of our website.
+CDP. 
+CDP (formerly the Carbon Disclosure Project) collects and analyzes information on the performance and practices of companies and cities regarding climate change, forests and water security. Progress in these categories is measured and publicly scored each year by CDP, with the aim of improving transparency, identifying risks and opportunities, and incentivizing action.
+Yamana has responded to the CDP Climate Change Questionnaire since 2011; our responses to the 2021 CDP Forests and Water Security questionnaires represent the third year of such disclosure.
+Sustainability Accounting Standards Board (SASB) Metals and Mining Standard. 
+SASB Standards identify the subset of environmental, social, and governance (ESG) issues most relevant to financial performance in each industry, including Metals and Mining.
+In 2020, SASB and International Integrated Reporting Committee (IIRC) announced their merger to create the Value Reporting Foundation, a global non-profit organization that offers a comprehensive suite of resources (including SASB Standards) designed to help businesses and investors develop a shared understanding of enterprise value. The Value Reporting Foundation is working towards unifying and simplifying the sustainability reporting landscape and over time will introduce new reporting standards.
+Yamana is disclosing against SASB Standards for the first time in this report, and SASB indicators are included in the 2021 GRI and SASB Index.
+Task Force on Climate-related Financial Disclosures. 
+The Task Force on Climate-related Financial Disclosures (TCFD) is an independent organization that supports market transparency regarding climate-related risks and opportunities. It has developed recommendations for more effective climaterelated disclosures to inform investment decisions, enable stakeholders to better understand climate-related risks and opportunities, and encourage companies to incorporate climate risks and opportunities into their risk management and strategic planning processes. The TCFD framework includes specific recommendations across four areas: governance, strategy, risk management, and metrics and targets.
+While our previous Material Issues Reports included information relevant to a number of the TCFD recommendations, in 2022 Yamana issued its inaugural Climate Action Report, available on the Responsibility Reports page of our website. The report is fully aligned with the TCFD recommendations on climate governance, strategy, risk management, targets, metrics and performance.
+Yamana’s 2021 Sustainability Report 8
+
+
+External Reports. 
+Extractive Sector Transparency Measures Act. 
+The Extractive Sector Transparency Measures Act (ESTMA) is Canadian federal legislation that requires businesses in the mining and oil and gas sectors to report payments made to governments in Canada and internationally. Reports are compiled annually and submitted to the Government of Canada. ESTMA requires an equivalent level of reporting as that required by the Extractive Industries Transparency Initiative (EITI) and seeks to increase transparency on payments to all levels of government. More information regarding ESTMA’s EITI equivalency is available on the EITI website.
+Mining Local Procurement. 
+Reporting Mechanism. 
+The Local Procurement Reporting Mechanism (LPRM) was created as part of the Mining Shared Value by Engineers Without Borders Canada. The LPRM is a disclosure standard that addresses the gaps in current reporting frameworks regarding mine-site-level local procurement. The LPRM seeks to increase transparency about procurement processes and facilitates comprehensive reporting on local procurement spending at the site level, as well as practical details on mining company procurement processes and programs that support and better inform stakeholders.
+Yamana adopted the LPRM as part of our reporting for the first time in 2020 to increase transparency on our procurement practices. We have integrated LPRM-aligned disclosures within our responses to the GRI Standards, available on the Responsibility Reports page of our website.
+Memberships. 
+Yamana is an active member of several industry associations supporting the development of mining-related best practices and international standards. Some of these associations include: • Mining Association of Canada (MAC) • World Gold Council (WGC) • Prospectors & Developers Association of Canada • Ontario Mining Association • Quebec Mining Association (l’Association minière de Québec)
+This list does not include professional associations, such as the Canadian Bar Association or the Chartered Institute of Management Accountants, or local mining-related organizations in our operational jurisdictions.
+Disclosure Improvement. 
+Yamana is constantly striving to improve our reporting and transparency practices. If you have comments about the information in this report or our disclosure approach, or would like further information, please contact us at: sustainability@yamana.com. 
+El Peñón panoramic view.
+Yamana’s 2021 Sustainability Report 9
+
+
+Message from Our Executive Chairman. 
+The last two years have been amongst the most challenging and remarkable in living memory. COVID-19 has tested all of us in ways that we could not have predicted, including our notions of personal and community health and safety, business resilience and supply chain reliability. Even while the pandemic gripped the world and exacted significant tolls on communities, businesses and financial markets, we have also borne witness to an unprecedented increase in investor expectations and demands related to ESG. During the past two years, ESG-related investments have grown from $285 billion to a record $649 billion globally*. Investor interest is most pronounced in the area of climate action, risk and opportunity, with TCFD becoming the gold standard for reporting on these matters. Against this backdrop, it’s important to recognise that ESG has long existed at the core of Yamana’s business: we make the health and safety of our people our number one priority. We focus on building partnerships with local communities, promote responsible environmental stewardship, maintain and enhance privilege to operate with host communities, and instill evolving international best practice in everything that we do.
+Yamana has long embraced ESG and we continued to make good progress in our journey to sustainability/ESG excellence. With this in mind, 2021 marks what is perhaps the most significant year on this journey to-date, with our Climate Change Strategy positioned at the very forefront, driven from the highest level of the Company in my role as Executive Chairman and with the support from the entire Board of Directors.
+Based on substantial analytical work, Yamana announced an ambitious target of 46% reduction in absolute Scope 1 and 2 emissions by 2030 and net-zero by 2050. The 2030 reduction target aligns with a 1.5°C science-based GHG reduction target, and we have identified clear pathways to achieve it, requiring only modest expenditures. Key to that pathway is the procurement of power purchase agreements that secure renewable electricity at three of our four wholly-owned operations.
+* https://www.reuters.com/markets/us/how-2021-became-year-esg-investing-2021-12-23/
+When the last of these agreements is activated at Minera Florida this year, we will be procuring 85% of our electricity needs from renewable sources and we will be 78% of the way to our 2030 target. This also means we will be producing 85% of our gold-equivalent ounces (GEO) with renewable electricity. We are also evaluating the implementation of wind power at Cerro Moro, our only property that is not grid connected. Converting 50% of diesel-generated electricity to wind power would allow us to fully meet our 2030 emissions reduction target while also reducing our operating costs and delivering other operational and business benefits. This exciting development could be in place as early as 2026.
+The other major strategic accomplishment of 2021 was the publication of a new Responsibility Policy and eight supporting Statements of Commitment (SoCs). While our climate-related work tends to generate more consideration amongst the stakeholders we regularly engage with, our new Responsibility Policy and SoCs are just as critical in facilitating the achievement of our overall strategy. The Responsibility Policy guides our work at all operations and the corporate office, while the Statements of Commitment outline more specific commitments within each of the functional areas of health, safety and sustainable development (HSSD). These documents are a critical update to Yamana’s governance approach and management framework to ensure we are continually striving for and aligning with evolving international best practice.
+These two strategic advances in 2021 have propelled Yamana forward in terms of ESG governance and performance in a way that is perhaps unparalleled to any other year in our history. We believe that our reputation is a product of the trust-based relationships we forge, especially locally at our operations, and our on-the-ground performance. Our sustainability strategy and approach makes good business sense and will position Yamana as a partner of choice.
+I would like to express my gratitude and appreciation to each and every Yamana employee who has, during the course of a challenging 2021, worked incredibly hard to propel our ESG performance forward in a way that positions us for future success. The resilience we have demonstrated as an organization positions us as a stronger company going forward and one with a bright future. While we are proud of our accomplishments, we are not driven by accolades or leadership status. Fundamentally, our commitment to ESG and sustainability is made with the best interests of our people, our business and all of our stakeholders in mind.
+There were many more accomplishments during the year, as well as challenges which Daniel will speak to in his letter. These efforts and advances are putting us at the forefront of the ESG discussion in the industry and will enable us to continue achieving strong results and maintaining our privilege to operate.
+Peter Marrone Executive Chairman. 
+Yamana’s 2021 Sustainability Report 10
+
+
+Message from Our CEO. 
+Welcome to our rebranded 2021 Sustainability Report. The goal of this report is to communicate our sustainability performance data and information in a clear and transparent manner to all stakeholders. Like many in the industry, we continued to feel the impacts of the COVID-19 pandemic in 2021, in ways that were both similar to and different from the ways we experienced the situation in 2020. Whilst these challenges were indeed significant, they were by no means insurmountable and I’m incredibly proud that Yamana’s strong foundation in, and commitment to, health, safety and sustainable development (HSSD) has enabled us to manage effectively throughout the crisis and remain a top performing and responsible business.
+The health and wellbeing of our employees continued to be at the core of our business strategy, with COVID-19 impacts remaining at the forefront. Throughout 2021 we prioritized COVID-19 prevention through a variety of rigorous prevention and control protocols across our operations and were successful in limiting the spread of cases and their business impact within our organizational boundaries, and more broadly within host communities.
+The industry as a whole experienced significant COVID-related fatigue across operations, and we were no exception. We saw an increase in our Total Recordable Incident Rate (TRIR) for the first time in 7 years, though we were successful in reducing our Lost Time Injury Rate (LTIR) and crucially completed our third year with zero fatalities. Thankfully, the majority of the reported injuries were low-severity incidents. Managing these impacts was a top priority for our operational teams, who completed indepth reviews and interventions at all sites to disrupt the 2021 trend.
+We also saw impacts of COVID-related fatigue on our Social License to Operate (SLO) Index scores. At the beginning of 2021, both trust and acceptance were at peak, or near peak, levels at all operations. However, as we progressed throughout the year, both trust and acceptance declined at all of the operations where we have the SLO Index in place. Throughout the pandemic in 2020, we increased both our donations and virtual community engagement processes to provide support and clear information to the host communities; however, as the need for this decreased in 2021, we began to return our engagement to pre-pandemic levels and the perception of our quantity of engagement declined. While the decline in our SLO Index results is not what we have been used to seeing, this tool provides us with data in a timely manner, allowing us to adjust our social engagement tactics and quickly address potential issues as they arise. I am optimistic that this trend will reverse, as not only do we have the tools and teams in place to achieve success, but we have invested significantly over many years developing strong and trust-based relationships with our local communities, fostering partnership and acceptance of our operations where they are located.
+While the two measurements outlined above are key performance indicators (KPIs) of our HSSD performance, they do not represent the entire picture. We continued to maintain strong governance systems, which we furthered with the release of our Responsibility Policy and SoCs. We also continued to demonstrate strong environmental performance and joined industry leaders with the release of our inaugural Climate Action Strategy, which Peter speaks to in his letter.
+Our local procurement and employment continue to be amongst the top in the industry, with levels over 93% and 99%, respectively, in our operating countries. Most importantly, we continued to support our workforce and host communities throughout the unprecedented times of COVID-19, with donations and additional support to ensure everyone was able to get home, and be at home, safely.
+I am very proud of the work our company has completed over the past two years, and I believe wholeheartedly that, as a company, we have the right values to continue driving excellence in HSSD and all other areas across the business. Most importantly, I am confident that we have the right people and programs in place to maintain our strong values and continue to be a leader in our industry. I look forward to working with my incredibly talented colleagues right across our business to ensure we remain on track to achieve this.
+Daniel Racine President and Chief Executive Officer. 
+Yamana’s 2021 Sustainability Report 11
+
+
+2021 AT A GLANCE. 
+Responsibility Policy and eight Statements of Commitment Zero fatalities Zero material spills 43% of independent directors and 35% of senior leadership positions are held by women 67 formal stakeholder consultations and open-door visits, hosting 697 citizens. 
+Over 180,000 beneficiaries from over 82 social initiatives across our operations. 
+Establishment of our 2030, 1.5°C-aligned science-based GHG reduction target. 
+Selected members of Yamana’s Independent Tailings Review Board (ITRB)
+Recycled 72% of our total water use. 
+Yamana’s 2021 Sustainability Report 12
+
+
+COVID-19 Response and Impact. 
+Much like 2020, COVID-19 continued to define 2021 globally. In 2020, we focused on operating within the “new normal” and being as proactive as possible in the ever-changing global landscape of the pandemic. In 2021, we relied on the systems and controls we implemented in 2020 to protect the safety of our employees and host communities, as well as to ensure business continuity.
+Throughout 2020 and 2021, new variants of COVID-19 emerged, with varying levels of severity and transmissibility. In the last quarter of 2021, we saw the emergence of Omicron and the accompanying elevated caseloads, although thankfully with generally lower severity.
+In 2021, we also saw the first vaccines against COVID-19 being distributed globally, with vaccination widely available in all regions where we operate by the end of 2021; this remarkably quick development of vaccines and their distribution was instrumental in limiting the spread of COVID-19 and protecting our workforce.
+Operational Impact of COVID-19 on Yamana in 2021. 
+Many of Yamana’s operations were deemed essential businesses by local regulations at the outset of the pandemic. This meant that we were able to increase our health and safety precautions at the operational level without significant production impacts, keeping our workers safe and employed. The most significant operational impacts at our sites occurred in 2020 and are explained in our 2020 Material Issues Report.
+Although we had limited additional operational impacts in 2021, we experienced larger numbers of workers being required to quarantine throughout the year, either as a result of positive test results or close contact cases due to the increased contagion of variants. This necessitated action to re-balance and reorganize shifts. We successfully managed this impact through early and diligent pre-shift screening, as well as ongoing communication with workers and organized labour organizations to coordinate shift scheduling, ensuring critical positions were filled. Overall, the number of infected persons did not have a material impact on our business operations in 2021.
+As was the case in 2020, the most significant HSSD-related impacts, outside of increased health and safety measures, were interruptions to our community engagement activities. This included postponing in-person community programs, such as community environmental participatory monitoring, Integrar. 
+Days, and in-person community meetings. Wherever possible, community engagement activities transitioned to digital means across our operations. This is described further in the Social Performance section of this report.
+Finally, our operations were challenged early in the pandemic with inconsistent supplies of goods and services, particularly in Argentina and Brazil. These challenges continued in 2021 as government-mandated lockdowns resulted in a number of our suppliers either not able to operate, unable to access their supply chain, or not permitted to transport across national and provincial borders. Globally, there were restrictions in the supply of key materials and mining operations faced increased costs and longer lag times for key supplies between deliveries. Although this was an ongoing concern for our operations, our procurement teams worked to mitigate interruptions and established a plan to protect the integrity of our business for a minimum of three months in the event that supply lines were fully disrupted. This plan included maintaining an inventory of consumables and spare parts and securing supply from other providers when regulatory restrictions or capacity constraints impeded maintaining an inventory from existing suppliers. To guarantee operational continuity, we now monitor our suppliers on a monthly basis to anticipate possible disruptions and continue to look for alternative suppliers. We have been able to continue our operations without any significant supply-related disruptions in 2021.
+Yamana’s 2021 Sustainability Report 13
+
+
+Yamana’s COVID-19 Response. 
+Yamana continued the responses developed and implemented in 2020 throughout 2021. Senior executives and operational leaders continually monitored caseloads and protocols. The COVID-19 Taskforce, which includes corporate department heads and regional leadership, continued to monitor the spread of the virus and its impacts on our workforce, operations and host communities, and deliver recommendations on mitigating the impacts to the Company and host communities. Yamana continued workrelated travel restrictions, encouraged employees to work from home wherever possible, and implemented extensive health and safety measures at our sites aligned with evolving international best practice.
+We adjusted and managed our business effectively during this period, mitigating risks and further advancing opportunities, while ensuring the health and safety of employees, contractors and host communities. As circumstances changed globally, we adjusted our company guidelines, primarily around working from home and work-related travel. When it was judged safe to do so, we encouraged employees to return to offices, based on their comfort level, in addition to recommencing work-related travel for essential business purposes.
+Our top COVID-19-related priority in 2021 remained protecting our workforce and host communities. We continually adjusted to new information about variants, vaccine availability and the efficacy of control measures throughout 2021. We continued medical pre-screening and testing of workers prior to their arrival at the mine site, and used contact tracing and quarantine measures, where necessary, to limit spread of the virus.
+As vaccinations became available, our operations implemented vaccination programs for our employees and contractors, either through on-site vaccination clinics and accommodations for vaccination appointments, or through vaccination support to local communities. We supported vaccination drives with local medical professionals to provide information on risk factors and vaccine efficacy to address concerns. As of December 31, 2021, the vaccination status of our employees was as follows:
+Operation 1st Dose 2nd Dose. 
+Jacobina 100% 100%
+El Peñón 100% 100%
+Minera Florida 98% 98%
+Cerro Moro 98% 68%
+We continued medical pre-screening and testing of workers prior to their arrival at the mine site, and used contact tracing and quarantine measures, where necessary, to limit spread of the virus.
+Yamana’s 2021 Sustainability Report 14
+
+
+Community Support. 
+Our COVID-19 related support for host communities continued during 2021, although as host governments became better organized, the need for such support was considerably less than in 2020. Our operations and offices donated medical equipment and PPE, such as face masks, hand sanitizer, gloves and face shields. We also donated various medical supplies and equipment, such as company ambulances, beds and space to set up temporary hospitals and purchased respirators, testing equipment, computers and other critical equipment. For 2020 and 2021, our COVID-19 related donations to communities totaled over $1 million dollars.
+Throughout 2021, we increasingly used local social media platforms to circulate accurate and up-to-date information about COVID-19, including building awareness of the signs and symptoms, how the virus spreads, as well as proper hygiene and sanitization measures. As availability of vaccines progressed, we used these channels to disseminate information related to vaccination, combat misinformation surrounding vaccines and provide information on locations and appointments for vaccination. In Brazil, we worked in collaboration with the Votorantim Institute and host communities to assist with access to vaccines and provide logistical support for vaccination campaigns.
+Although our stakeholder engagement activities continued to be impacted in 2021 due to the ongoing effects of COVID-19, we were able to adjust our activities to continue engaging with host communities.
+Yamana’s 2021 Sustainability Report 15
+
+
+GOVERNANCE. 
+Corporate Governance at Yamana. 
+Yamana’s overall corporate governance practices are covered broadly in this report; readers are invited to visit the Yamana website at www.yamana.com for more information on our governance structure and practices. The Company, its Executive Chairman and Board of Directors recognize the important role corporate governance plays in the effective management of the Company and in the protection of its employees and shareholders. Yamana's approach to addressing the elements of corporate governance is designed to ensure that the business and affairs of the Company are effectively managed to protect and enhance shareholder value. Yamana is committed to, and supports, ongoing reviews of its processes, policies and practices to ensure it is maintaining good stewardship of investor interests.
+The Company’s corporate governance practices are designed to comply with applicable legal requirements and best practices. Yamana continues to monitor developments in all its applicable jurisdictions with a view to keeping its governance policies and practices current.
+For an overview of corporate governance practices, please refer to the most current Yamana Management Information Circular available on SEDAR at www.sedar.com.
+16 Yamana’s 2021 Sustainability Report
+
+
+2021 Targets. 
+How we link ESG to Compensation. 
+We establish targets and objectives for key aspects of our business that drive improvement across all elements of HSSD and to help ensure our global operations are working towards the achievement of common goals. Such improvement drives operational performance. To demonstrate our commitment, our targets and objectives are directly linked to executive compensation. At the urging of the Executive Chairman, an additional amount was linked directly to our Climate Action Strategy, demonstrating the importance of this work.
+In 2021, 20% of executive annual variable compensation was linked to HSSD performance — a 5% increase over 2020, due to the addition of Climate Action objectives.
+Our performance against our 2021 HSSD targets is outlined below:
+Target Achieved. 
+Target Partially Achieved. 
+Target Not Achieved. 
+Targets Performance Comments. 
+HSSD Performance Index • 90% completion of HSSD Improvement Plans measured on an operation-by-operation basis.
+• No significant Environmental or Community Incidents at all sites*.
+• Maintain or improve the company’s Total Recordable Injury Rate (TRIR) compared to 2020 performance.
+In 2021, there were no significant environmental or community incidents across all operations. All sites also reached their HSSD Improvement Plan targets. However, we had a 51% increase in our TRIR, as described in the Health and Safety section of this report. The result was below threshold, meaning that the overall HSSD Performance Index score was zero, despite the two other elements being achieved.
+HSSD Improvement Plans. 
+Incident Cause Analysis Method (ICAM) Action Close-out Complete corrective actions identified in High Potential Incident (HPI) investigations.
+All operations met or surpassed their targets for closing out corrective actions associated with ICAM investigations.
+ICAM Analysis. 
+Responsible Gold Mining Principles Implement the Year 2 requirements of the World Gold Council’s Responsible Gold Mining Principles (RGMPs).
+In 2021, we successfully completed the Year 2 actions required to implement the RGMPs, which included an external assurance of our progress. We also completed an additional voluntary review of our self-assessments in preparation for Year 3.
+RGMPs. 
+Towards Sustainable Mining Implement the Year 2 requirements of the Mining Association of Canada’s (MAC) Towards Sustainable Mining (TSM) Initiative.
+In 2021, we successfully completed the Year 2 TSM implementation actions, including preparing self-assessments, and submission of results to MAC. We also undertook a voluntary external review of the self-assessed results.
+TSM * A significant incident is defined as a level 4 or 5 incident per the Yamana Incident Classification Matrix for environment and community, or a fatality for health and safety.
+Yamana’s 2021 Sustainability Report 17
+
+
+Targets Performance Comments. 
+SDG Framework Pilot Pilot test a Sustainable Development Goals (SDG) framework for monitoring and measuring community well-being.
+In 2021, we successfully implemented the CommWell Framework as a pilot project at our Jacobina operation. This framework, created by the Devonshire Initiative, provides a consistent monitoring and measurement approach for community well-being.
+Stakeholder Engagement Approach. 
+Public Reporting Against CDP Water and Forests Questionnaires Complete the Carbon Disclosure Project (CDP) Water and Forests disclosures.
+In 2021, we successfully completed our third public disclosure against the CDP Water and Forest protocols.
+Climate Change Achieve the seven process objectives established for 2021 in our Climate Action Strategy.
+In 2021, we successfully achieved all of the objectives of our Climate Action Strategy, and furthered this with a commitment to a 1.5°C science-based target for 2030.
+Climate Action Strategy. 
+Yamana's goal is to employ a strong and diverse workforce, that is also reflective of the communities in which we operate.
+18 Yamana’s 2021 Sustainability Report
+
+
+HSSD Governance. 
+How We Govern Health, Safety and Sustainable Development (HSSD) and Implement Our Strategy. 
+At Yamana, achieving ESG excellence is a core part of our business. We believe ESG excellence is essential to our future growth and profitability, and defines, to a significant degree, our reputation with external stakeholders.
+ESG governance is integrated into the Company’s overall structure, management systems and practices. We empower our operations to identify and reduce risks while supporting and incentivizing them to continuously incorporate and implement evolving international best practice into all aspects of HSSD. We do this to progress towards ESG excellence. We also maintain strong governance mechanisms that provide clear lines of sight on all aspects of HSSD management between the operations, senior management and the Board of Directors.
+Our vision of One Team, One Goal: Zero reflects our belief that everyone at Yamana is responsible for our health safety and sustainable development (HSSD) performance.
+Our Approach. 
+Our One Team, One Goal: Zero HSSD vision is an aspirational construct that we strive to achieve during every operational shift, each day. It means we aspire to have no impacts on the health and safety of our workforce, on the environment and on the host communities at all of our operations. It emphasizes that we are all working towards a common goal and demonstrates our ongoing commitment to improving our health and safety, environmental and social performance. We recognize that this aspirational goal will take time and effort to achieve. This vision, and our progress towards it, motivates people across the company to continue to find new and innovative ways of doing business.
+HIGHLIGHTS 2021. 
+Increased proportion of executive annual variable compensation linked to HSSD targets and performance. 
+Revised the HSSD Management. 
+Framework to continue our journey to ESG excellence. 
+Approval of the new Responsibility. 
+Policy and eight Statements of Commitment by Executive. 
+Chairman and Board of Directors. 
+Yamana’s 2021 Sustainability Report 19
+
+
+Responsibility and Accountability for HSSD. 
+Responsibility and accountability for HSSD is integrated into our overall governance structure, as shown in the figure and described below.
+Board of Directors The Executive Chairman and Board of Directors are responsible for overseeing strategy, governance, and risk, including risks and opportunities associated with all functional aspects that comprise HSSD. The Board’s Sustainability Committee oversees management’s efforts to achieve ESG excellence in health, safety, environment and community relations, tailings, human rights, management system development and implementation, compliance issues, incidents, and risk management.
+Detailed monthly, quarterly and annual reports on HSSD issues are reviewed regularly by the Board of Directors and Sustainability Committee, as well as the Executive Chairman and Senior Executive Group.
+Executive and Corporate Oversight The Executive Chairman drives and facilitates ESG policy and strategy development, and the implementation of commitments, in consultation with the Board and with the support of the President and CEO and the Senior Vice President, HSSD.
+The Senior Vice President, HSSD is responsible for the dayto-day management of the majority of ESG-related issues at Yamana, overseeing the corporate HSSD team and reporting directly to the President and CEO.
+Operational HSSD Management Corporate and Regional HSSD Directors liaise directly with our operations' teams to assist with strategy and management system implementation, and support the identification and management of operational-level risks. They also provide ongoing reports, as required, on key HSSD performance indicators to the Senior Executive Group, the President and CEO, the Executive Chairman and the Board.
+The Director, Tailings has an indirect reporting line to the Executive Chairman and President and CEO on behalf of the Board, and a direct reporting line to the Senior Vice President, HSSD.
+Mine-site HSSD management Oversight of HSSD management occurs at the operational level through our local HSSD and operational teams, with support and leadership from our General Managers. Each operation has an HSSD team led by a member of the site’s senior management team. The members of the HSSD team represent the different functional areas at the site and report regularly to the site’s General Manager, as well as the regional HSSD Director and the corporate HSSD team.
+Compensation linked to HSSD performance. 
+One of the primary ways we work towards ESG excellence is by explicitly linking HSSD performance to compensation, both at the executive and operational levels. Our HSSD Performance Index is built to drive improvement in key areas and includes leading and lagging indicators of HSSD performance, as well as site-specific improvement initiatives.
+More information on our 2021 targets and objectives and link to compensation is available in the 2021 Targets section of this report.
+HSSD governance structure. 
+BOARD OF DIRECTORS. 
+Executive Chairman. 
+Sustainability Committee of the Board of Directors. 
+Senior Executive Group. 
+Chief Executive Officer. 
+SVP Health, Safety and Sustainable Development. 
+Corporate. 
+Health & Safety. 
+Environment & Community. 
+Tailings Closure. 
+Regional. 
+HSSD Brazil, Chile & Argentina Operations. 
+Operations. 
+HSSD Teams. 
+Jacobina, Cerro Moro, Florida, and El Peñón. 
+Yamana’s 2021 Sustainability Report 20
+
+
+Our HSSD Management Framework, System and Certifications. 
+HSSD Management Framework and Reporting. 
+We have developed and implemented an internal management framework and associated system elements at the corporate level that address all HSSD functional areas. These establish a set of minimum requirements that apply across the company to drive continual HSSD performance improvements and are incorporated into operational procedures.
+HSSD Management Framework Architecture. 
+Core. 
+Values, Charter. 
+HSSD Vision. 
+Responsibility Policy. 
+Statements of Commitment. 
+Strategic Objectives and Targets. 
+Corporate Standards. 
+Business Unit Procedures. 
+Guidelines and Reference Documents. 
+Our management systems seek to ensure both compliance with all applicable legal requirements and incorporation of evolving international best practice to achieve HSSD excellence. Moreover, the majority of our operations have also sought external certification of their environmental, and health and safety management systems, providing thirdparty validation of the systems.
+Key elements of our HSSD management approach, described below, provide guidance and governance for material HSSD issues. More details on these tools and programs can be found in the Responsibility section of our website.
+Responsibility Policy and Statements of Commitment. 
+Responsibility at Yamana encompasses our commitment to respect human rights, protect the health and safety of people at work and in host communities, protection of the environment and responsible management of mining waste. This commitment extends to interactions with host communities and investments to assist communities in meeting their aspirations, our interactions with host governments, and our security arrangements and how those respect human rights. These are complex and challenging matters to assess and manage; they are subject to many internal technical factors and judgements, as well as external factors over which we do not always have control.
+In 2021, we introduced a new Responsibility Policy to guide us as we manage risk, reduce impacts, build trust-based relationships with host communities and other stakeholders, achieve optimal performance and deliver superior returns to shareholders.
+We have supplemented our Responsibility Policy with eight Statements of Commitment (SoCs) to cover each functional element comprising HSSD. The development of these SoCs was a collaboration across all functions of the HSSD team to summarize and create expectations of performance across the corporate office and all operations. The Responsibility Policy and SoCs are essential elements of our HSSD Management Framework and together incorporate the elements of external codes and standards to which Yamana has committed.
+The eight Statements of Commitment are:
+Human. 
+Rights. 
+Common. 
+Elements. 
+Environmental Protection. 
+Government Relations. 
+Health and Safety Security. 
+Social Performance. 
+Tailings Management. 
+Yamana’s 2021 Sustainability Report 21
+
+
+Development of New Yamana Standards In 2022, the corporate HSSD team began a process to develop a set of HSSD Standards to support the implementation of the SoCs outlined above. The standards will provide more definition of our company-wide HSSD expectations. The goal of these standards is to ultimately ensure a single, high level of performance across the entire organization. These standards will incorporate evolving international best practice, including TSM and the RGMPs, as well as aspects from other EIBP standards. The development of the standards is a collaborative process with operations, which has already begun. Our goal is to have them completed by the end of 2022.
+Ethical Standards. 
+Yamana has programs in place that establish actions, mechanisms and internal procedures for the promotion of integrity, supervision and control. These programs seek to prevent, detect and correct unlawful acts, including bribery, corruption and fraud.
+Code of Conduct An important, foundational component of our integrity program is our Code of Conduct, which describes the wide range of behaviours expected of Yamana employees, contractors, suppliers and other agents of the company. The Code requires, among other things, annual training and disclosure of any conflict of interest. The Code of Conduct helps us understand and apply the key compliance and integrity rules that apply to our jobs, and to know where we can go for guidance if we are unclear about the right course of action.
+The Code is global and applies to everybody at Yamana, regardless of title, stature or tenure. This includes our Board of Directors, executive officers, and every employee in every country in which Yamana does business, including temporary workers. Additionally, the Code applies to any party acting on behalf of or representing Yamana, such as contractors, agents, consultants and others.
+Human Rights Statement of Commitment This SoC deserves special mention because of its importance in all of Yamana’s business activity. Yamana’s Human Rights SoC communicates our commitment to respect the human rights of all people affected by our business and describes the high standard expected of all Yamana employees and contractors. The SoC includes commitments to EIBP, including but not limited to: • The Universal Declaration of Human Rights • The United Nations (UN) Guiding Principles on Business and Human Rights • The United Nations Declaration on the Rights of. 
+Indigenous Peoples • International Labour Organization (ILO) Conventions, including Convention 169 • The Voluntary Principles on Security and Human Rights. 
+The Human Rights SoC applies to all employees and contractors undertaking business activities on behalf of Yamana, including security contractors. Its requirements are covered in both onboarding and annual refresher training, and requires annual acknowledgement of understanding and a commitment to comply from all employees, and a sign-off from contractors.
+We have also formalized our alignment with the Voluntary Principles on Security and Human Rights and began implementing these Principles at our wholly-owned operations.
+Diversity and Inclusion at Yamana At Yamana, we value and are deeply committed to advancing diversity and inclusion throughout our organization. The Company has adopted a Diversity and Inclusion Statement that considers all forms of diversity, including the level of representation by women, Indigenous Peoples, people with disabilities, members of visible minorities, age, culture, and geographic background when assessing candidates for our board, senior management, and all other positions in the Company.
+The Company believes that diversity and inclusion promote different perspectives and ideas, encourages independent thinking, and ensures that the Company benefits from all available talent. Yamana values the benefits that diversity and inclusion bring to its Board of Directors, members of senior management, employees, consultants and partners. Ultimately, we believe our commitment to diversity and inclusion makes us a better Company and creates a more respectful and welcoming work environment.
+Yamana’s 2021 Sustainability Report 22
+
+
+Anti-Bribery and Corruption Policy Our Anti-Bribery and Anti-Corruption Policy and Code of Conduct provide detailed guidance and requirements on preventing unethical behaviour in relation to suppliers and third parties.
+Whistleblower Policy Yamana’s Whistleblower Policy allows any Yamana employee to submit a concern or complaint anonymously and confidentially through the Yamana Integrity Helpline. The Integrity Helpline is a way for anyone associated with Yamana as an employee, vendor, independent contract worker or other external stakeholder to raise any grievances they may have about our company or the way we conduct business. The Integrity Helpline provides anonymity, as well as dedicated assistance, and is administered by EthicsPoint, an external, specialist service provider. All allegations are investigated by Yamana’s Internal Audit department or by external forensic service providers.
+To use the Yamana Integrity Helpline, visit www.yamana.ethicspoint.com or call:
+Canada and USA: 1-866-842-2083 Argentina: 0-800-555-0906 Brazil: 0-800-891-1667 Chile: 1-230-020-5771. 
+Yamana’s Internal Audit department conducts independent reviews and audits to confirm compliance with the Code of Conduct and that appropriate controls are in place to minimize and prevent fraud.
+Responsible Supply Chain Policy. 
+Yamana’s Supplier Policy establishes commitments to manage risks associated with suppliers and third parties and confirm they adhere to Yamana’s Code of Conduct. The policy outlines our processes for supplier selection, due diligence, compliance and red flags. All third-party contracts include clauses that require compliance with Yamana’s Code of Conduct and disclosure to third parties about Yamana’s Helpline.
+Yamana has contracted a third-party to screen all current and potential future vendors and suppliers on a frequent basis. This includes screening and monitoring for vendors on sanctions lists, politically-exposed persons, compliance with HSSD standards, money laundering, criminal activity, or other adverse aspects.
+To better reflect Yamana’s commitment to local procurement, we have aligned our GRI and SASB Index disclosures with the Mining Local Procurement Reporting Mechanism.
+All of the policies, statements and commitments mentioned above can be found in the Ethics and Governance section of our website.
+Ethical Standards. 
+We categorize HPIs and SIRs according to our 10 Fatal Risk Protocols (FRP), one being a Lock Out Tag Out, as shown above.
+Yamana’s 2021 Sustainability Report 23
+
+
+Alignment with Evolving International Best Practice. 
+Yamana is committed to the highest standards of corporate governance and we recognize our inherent responsibility to our workers, shareholders, communities and local governments to ensure we operate ethically and responsibly.
+Together with our management approaches, we also maintain a number of external commitments and certifications. The landscape of external standards and certifications is continuously evolving; our approach to select the standards we incorporate into our management systems and apply at our sites consists of understanding the value of each standard in terms of improving our performance, managing risks and understanding stakeholder needs.
+International Standards. 
+Responsible Gold Mining Principles To demonstrate our commitment to produce gold in a responsible manner, we began implementation of the WGC’s Responsible Gold Mining Principles (RGMPs) in 2020. In 2021, we completed the Year 2 requirements, including progressing with addressing gaps and completing a self-assessment of Yamana’s policies, internal systems, processes, and controls against the Principles. We also conducted a voluntary, external review of our self-assessed results to prepare for the required assurance process in 2022. Remaining gaps will be addressed in Year 3 actions to ensure full compliance with the RGMPs by year-end 2022. Our externally-assured RGMP Reports for 2020 and 2021 are available on the Responsibility Reports page of our website.
+Towards Sustainable Mining Towards Sustainable Mining (TSM), developed by MAC, is globally recognized as an industry-leading initiative and has been adopted by various national mining associations outside of Canada. TSM is required for MAC members’ Canadian operations; however, Yamana is voluntarily implementing the TSM protocols at our international operations to demonstrate leadership and ensure a consistent, high level of performance across our business. 2020 was our first year of the 3-year implementation plan, where we completed self-assessments against the protocols and developed action plans to close identified gaps and improve performance. We continued this work in 2021, with the intention of reaching Level A in the majority of protocols by the end of 2022. At the end of the three-year schedule, an independent third-party will externally verify our self-assessed results.
+WGC Conflict-Free Gold Standard An important component of our corporate commitment to ethical business conduct is our responsibility to ensure that Yamana’s business does not contribute to violence or conflict. In 2012, the WGC launched the Conflict-Free Gold Standard for member companies to demonstrate to external stakeholders that their business activities do not contribute to violence or conflict. Yamana’s alignment with the WGC process is assessed and reported annually in our ConflictFree Gold Report.
+The Conflict-Free Gold Report includes review of international sanctions, global conflict areas, our operations’ due diligence, security teams and the chains of custody and transport routes of our gold. This report, which forms part of our membership in the WGC, is externally assured and is available on the Responsibility Reports page of our website.
+External Certifications. 
+ISO/OHSAS management system certifications Three of our four wholly-owned operations are externally certified under the ISO 14001 and OHSAS 18001/ISO 45001 management system standards. ISO 14001 is an international framework for an effective environmental management system. This framework helps our sites confirm compliance with legal requirements, improve resource efficiency, and reduce waste, environmental costs and environmental impact. OHSAS 18001 was an international framework focusing on occupational health and safety management. In 2018, OHSAS 18001 was superseded by ISO 45001. These frameworks help organizations identify, control and decrease risks associated with health and safety in the workplace.
+Certification against the International Cyanide Management Code Cyanide is a chemical product used in many of the world’s gold mines as an essential reagent to recover gold in processing operations. We use sodium cyanide (“cyanide”) at our operations in compliance with the International Cyanide Management Code (ICMC or the “Code”). This voluntary initiative from the ICMI outlines requirements for managing cyanide in the gold production chain (gold miners, producers/ handlers and cyanide transporters) and was created to minimize risks to human health and the environment.
+As signatories of the Code, all of Yamana’s operations have undergone independent audits to demonstrate the implementation of measures complying with ICMC standards, with the exception of Cerro Moro who will complete their first external audit in 2022.
+Yamana’s 2021 Sustainability Report 24
+
+
+External Recognition of Our ESG Performance. 
+In 2021, Yamana was named one of Canada’s Best 50 Corporate Citizens by Corporate Knights magazine. The award recognizes company performance against a broad set of ESG performance criteria. Yamana was the highest-ranked mining company on the list.
+Yamana was included in the Jantzi Social Index for the 13th consecutive year. The index partners with the Dow Jones Sustainability Index to include 50 Canadian companies screened against a broad set of ESG performance criteria.
+In December 2021, the MARA project was recognized at the Silver and Gold Summit in Buenos Aires for its public participation program and efforts to engage and introduce communities to mining.
+At Yamana, achieving ESG excellence is core to our business.
+25 Yamana’s 2021 Sustainability Report
+
+
+SOCIAL 26 Yamana’s 2021 Sustainability Report
+
+
+Our People. 
+How We Value, Develop and Reward Our People and Build a Diverse and Inclusive Company. 
+Achieving excellence across our company begins with creating and maintaining a workplace and culture where people feel valued, where they can develop and progress in their careers, and where they are rewarded for their contributions. We believe that employees whose needs are met and who feel supported in pursuing their goals are integral to the success and sustainability of our business. We are constantly working to improve our initiatives and programs regarding diversity, inclusion, talent development and employee benefits to invest in our employees’ unique talents and create a sense of belonging within our team.
+HIGHLIGHTS 2021 35% women in management 43% of independent board members are women. 
+Release of our Diversity and Inclusion Statement. 
+Our Approach. 
+Our approach to people and talent is underpinned by exceptionally high standards of integrity, ethics and diversity, as described in the Governance section of this report. Our operations and offices promote cross-cultural knowledge sharing, development of operational excellence and implementation of leading business practices from around the globe.
+Our people are our most valuable asset; to protect and grow this asset, we seek to create a work environment that values and cultivates employee engagement and a healthy workplace culture through a range of programs and employee initiatives.
+Our responsibility to our workforce is underpinned by the following principles: • Respecting labour rights and promoting sound labour relations; • Fostering a culture of inclusion that embraces diversity and equal opportunity; • Investing in our employees through training, career management and continual engagement; and • Protecting the health and wellbeing of our employees.
+We strive to be an equal opportunity employer and stand against discrimination based on race, gender, sexual orientation, disability, ethnicity or religion, throughout all levels of the Company, including the Board of Directors.
+Yamana’s goal is to employ a strong and diverse workforce that is also reflective of the communities in which we operate.
+In 2021, we formalized our Diversity and Inclusion Statement in support of this goal.
+Our Workforce and Working at Yamana. 
+GRI and SASB Index (Workforce Statistics)
+Yamana’s 2021 Sustainability Report 27
+
+
+Performance. 
+Diversity and Inclusion (D&I)
+As part of our commitment to diversity, we are pleased to have reached our goal of having at least 40% female membership among our independent directors, achieving 43%. We have not yet adopted formal goals for gender diversity in our senior management or within our organization more broadly; we will continue to consider systemic barriers and adopt recruitment and progression measures to improve diversity within the company.
+We believe that good data are critical to advance our understanding of diversity and are a necessary input into improving diversity within the company. We are analyzing our workforce data to develop a diversity metric framework and facilitate tracking of workforce demographics over time, including gender distribution, and representation of people with disabilities, Indigenous People, and visible minorities across the company.
+We fully comply with local regulations related to collection and management of personal information from our employees, while respecting privacy concerns. This can present a challenge in generating comparable data across operations/offices and ensuring we have an accurate representation of our workforce. We are currently working on means to address challenges in tracking ethnic origin/ distribution, as our sites include a variety of ancestries, ethnic groups, and races from the regions where we operate.
+We hope that by steadily improving our data and understanding of diversity across our organization, our inclusion practices will evolve and become more targeted, to help break down barriers experienced by disadvantaged groups across our operations.
+We are also in the process of developing diversity and inclusion goals and initiatives that we intend to implement across the organization. These are currently organized in three areas: 1. Create awareness 2. Build and maintain a diverse workforce 3. Cultivate and support an inclusive culture. 
+Employee Gender Diversity The following chart shows the change in our leadership diversity over the past three years.
+
+In an effort to increase diversity in senior leadership roles, our human resources group works diligently to produce job postings that are gender neutral. We ask our internal recruitment specialists and all third-party recruitment advisors to present a diverse list of candidates that include factors such as gender.
+We increased the percentage of female representation across our workforce to 9.4% in 2021 from 8.2% in 2020. We continue to promote awareness of diversity and inclusion and develop a diverse workforce and inclusive culture in alignment with our corporate D&I Statement.
+Diversity and Inclusion Statement. 
+Supplier Gender Diversity Yamana does not currently have a requirement for suppliers to support particular demographic groups. However, we take steps on a case-by-case basis to support particular demographic groups and are committed to supporting increased female participation in our industry, as demonstrated by our partnership with the Artemis Project, which aims to drive innovation and diversity through collaboration with female entrepreneurs in our supply chain.
+Yamana’s 2021 Sustainability Report 28
+
+
+Local D&I Initiatives and Awards Diversity and inclusion lay the foundation for employee engagement. We believe that when employees feel valued for their unique qualities, they are more likely to reach their goals and contribute to the creation of a high-performing company. In 2021, local initiatives focused on gender D&I strategies for people with disabilities.
+• In Chile, we have partnered with the Descúbreme. 
+Foundation, which focuses on training people with disabilities to improve their employability and supports organizations in fostering inclusive environments for people living with disabilities.
+• At our El Peñón mine, we participate with the Industrial. 
+Association of Antofagasta in programs that support the inclusion of women and people with disabilities in the workplace. Other committee work includes collaborations with the Ministry of Women, Ministry of Mining, and Ministry of Labor. We have also created a gender inclusion and equity committee with the unions of each Ministry to support inclusive decision-making practices. Internally, we have increased the number of women in technical and apprentice positions.
+• At our Minera Florida mine, we focus our recruitment strategy around promoting under-represented groups in the workforce. We have worked hard to recruit female employees in technical positions. Leaders are trained in diversity and inclusion awareness and on methods to reduce barriers and promote inclusion of employees with disabilities and increase gender diversity in our workforce.
+• In Argentina, at our Cerro Moro mine, we have had some success in attracting female employees to operational roles.
+We are continually identifying new opportunities to increase gender diversity at all levels of the company. For example, our Jacobina operation has launched the Women’s Sustainable Diversity Program to monitor the number of women employed at the site and identify potential career opportunities to help women advance. We will continue to proactively identify barriers and seek to address imbalances in the representation across our workforce through a variety of local initiatives.
+Investing in Our People. 
+Yamana is committed to providing the support, education and training that will enable employees to achieve their career aspirations and gain the knowledge required to perform effectively. Training and professional development are core components of our approach to business excellence. All employees are involved in creating individualized career management frameworks with the support of their manager. This provides the framework for individual assessment and performance reviews against predetermined objectives, and supports provision of continuous feedback and coaching. Career management frameworks identify relevant training opportunities, and support preparation of individual development plans in line with personal and business objectives.
+Average hours of formalized training per employee by country in 2021. 
+Canada 35 hours. 
+Brazil 67 hours. 
+Chile 34 hours Argentina 36 hours. 
+There was no difference in training hours based on gender.
+GRI and SASB Index (Training Statistics)
+Yamana’s 2021 Sustainability Report 29
+
+
+Labour Rights. 
+Yamana seeks to uphold international labour standards for its employees and contractors. Yamana's Code of Conduct, as well as its Human Rights Statement of Commitment, outline our commitment to ensure that child or forced labour is not part of Yamana's business activities. Our commitment aligns with the principles outlined in ILO Convention 105 on the Abolition of Forced Labour and ILO Convention 182 on the Worst Forms of Child Labour. We are also committed to act in compliance with applicable labour and employment laws in the jurisdictions where we operate. We are working to develop and implement due diligence processes in our procurement activities to minimize the risk of child and forced labour in our supply chain, to the extent possible.
+Relationships with Labour Unions The majority of our employees are unionized, with employment terms and conditions negotiated through collective bargaining agreements. Approximately 90% of employees at our mines in Argentina, Chile and Brazil were covered by collective bargaining agreements in 2021.
+In 2021, our Minera Florida operation in Chile had a 23-day strike as a result of contract negotiation; this situation has been resolved and no other strikes occurred in 2021.
+Our people are our most valuable asset; proper PPE is an integral way in which we protect our workforce.
+Yamana’s 2021 Sustainability Report 30
+
+
+Health and Safety. 
+Ensuring Our Workforce Returns Home Healthy and Safe. 
+Our goal at all times is to ensure the safety of our employees and contractors. We believe that our leading performance metrics, as well as our best-in-class management systems (including Responsibility Policy, Health and Safety Statement of Commitment and Fatal Risk Protocols) help ensure that we continue to protect all workers and eliminate fatalities.
+2021 was a challenging year for health and safety as we continued to experience effects of the COVID-19 pandemic. Our Total Recordable Injury Rate (TRIR) increased for the first time in five years, though our Lost. 
+Time Injury Frequency Rate (LTFIR) improved by 4%. With our vision of One Team, One Goal: Zero, our entire team is working together to achieve zero injuries at all sites. In 2021, we achieved our third consecutive year with zero fatalities.
+HIGHLIGHTS 2021. 
+Zero fatalities. 
+Release of the Health and. 
+Safety Statement of Commitment 51% increase in our TRIR. 
+LTIR decreased by 4%
+Our Approach. 
+Our approach to workplace health and safety is guided by our vision of One Team, One Goal: Zero and our newly released Health and Safety Statement of Commitment, which is derivative from and supports our new Responsibility Policy. We are committed to health and safety excellence through an operationally focused, risk-based approach that incorporates EIBP to help eliminate fatalities and reduce harm to workers.
+We seek to achieve our vision primarily through engaging all workers at our operations to understand, manage and mitigate hazards, exposures and risks. We continue to use leading indicators to drive performance improvements, including the quality of incident investigations and completion of identified corrective actions. The intent is to ensure corrective actions are robust and will prevent recurrence. All of these actions are designed to continually improve workplace safety culture.
+Highlights from our Health and Safety Statement of Commitment: • Recognize our responsibility to protect the health and safety of our employees, business partners, visitors and host communities.
+• Promote a culture of health and safety through. 
+Visible Felt Leadership practices, ensuring best-in-class management systems and focusing on effective and practical hazard identification.
+• Review and confirm our practices on a regular basis, such as the Fatal Risk Protocols and crisis management plans, to ensure they are effective and up-to-date with evolving international best practice.
+• Deliver effective, competency-based health and safety training and measurable objectives to drive continuous improvement of the business and our employees.
+We promote a health- and safety-focused culture at every level of the organization through visible felt leadership activities. These field-level activities are designed to be positive, two-way workplace conversations between workers and supervisors or managers about hazards, risks and controls, and how to improve workplace conditions. It also provides an opportunity to set expectations on how to complete work in a safe and healthy way.
+Yamana’s 2021 Sustainability Report 31
+
+
+Health and safety is a value that is shared at every level of the organization, with the expectation that every employee and contractor contributes to creating and enhancing our culture and holds an obligation to maintain a healthy and injury-free workplace.
+Health and Safety strategy, governance and risk management. 
+Performance. 
+All people (employees, contractors, suppliers and visitors) at our mine sites, development projects, exploration sites and corporate offices must adhere to the same robust health and safety standards. We do not differentiate between Yamana employees and contractors as it relates to our approach to health and safety; we consolidate performance for all of our performance metrics. Contractors are an essential and valued part of our business, and we have the same level of responsibility to our contractors as we do for our own employees. This perspective is not unique to Yamana; the great majority of companies within the mining sector have adopted this approach over the past two decades. We routinely benchmark our performance against the Mining Safety Roundtable (MSRT).
+Leading Performance. 
+In 2021, all Yamana operations successfully met or surpassed their leading indicator reporting targets for the fourth consecutive year.
+We continue to emphasize leading indicators, as they play a significant role in building our desired workplace culture, advancing the implementation of our management system elements and contributing to reductions in the number and severity of workplace incidents and injuries. In 2021, the leading indicators that were linked to compensation focused on the close-out of actions from incident investigations, as well as assessments of the quality of our incident investigations using the Incident Cause Analysis Method (ICAM). These targets focus on ensuring we properly investigate incidents and their root causes, and the implementation of appropriate controls to protect the safety of our workers and reduce repeat incidents across the organization.
+2021 Results Investigation Quality: • We use the industry-recognized ICAM Methodology to investigate high potential incidents (HPIs) and significant incident reports (SIRs) across the company.
+• To further improve our ICAM investigations, we also apply an ICAM quality assessment tool and process to evaluate the quality of our investigations. All sites achieved over 90% on these assessments.
+Corrective Action Closeout: • Part of our incident investigation process involves identifying corrective actions, which we believe will prevent future incidents from occurring. These corrective actions, or controls, are tracked and implemented at the operations to reduce the likelihood of repeat incidents.
+• All sites completed, at minimum, 90% of the corrective actions identified to reduce the risk of repeat incidents. Three out of four sites completed 100% of their planned corrective actions within the time frame identified in the investigations.
+High-Potential Incidents High-potential incidents are events that, under different circumstances, could have resulted in significant injury to an employee (Level 4 or 5) according to our incident consequence matrix. These types of events provide an opportunity to conduct ICAM investigations to better understand controls not in place where an employee was not injured, thereby ensuring controls are developed and implemented to prevent future injury. The learnings identified through investigations at one operation are shared with all Yamana operations.
+Reporting HPIs allows us to address potential risks before they result in injuries and is a key component of our efforts to build workplace culture and reduce incident and injury frequency and severity. In conjunction with HPIs, sites also complete SIRs. These reports include those events with the potential to cause harm, as well as those events that resulted in actual harm according to our consequence matrix.* * An HPI is a high-potential event without injury and/or loss. An SIR is a report required for all incidents of level 4 or 5 significance, with and without injury and/or loss.
+Yamana’s 2021 Sustainability Report 32
+
+
+We categorize HPIs and SIRs according to our 10 Fatal Risk Protocols (FRP), which assist us in determining whether the controls we have in place are adequate to manage and mitigate risk for hazards that have a high potential to result in significant injuries if not managed properly. The FRP target higher-risk activities and establish minimum performance expectations for managing these risks, helping us ensure that such hazards are managed 100 percent correctly, 100 percent of the time to protect workers.
+Incidents related to vehicles and machinery, as well as ground control, continue to be our most common incidents. As in previous years, we placed more focus on preventing ground control events through increased attention and communication from geotechnical professionals, which has resulted in some success in preventing rock falls. To reduce the occurrence of events related to vehicles and machinery, we are placing more emphasis on vehicle maintenance, operator training, operator pre-operational inspections and preventing distracted driving.
+In 2021 we experienced high numbers of lower-energy HPIs/ SIRs, such as slips, trips and falls and hand injuries (these are primarily categorized as “other” in the following chart). This is a trend similar to that experienced in 2020. These lower-energy events resulted in a number of recordable injuries across the company. We continue to share lessons learned about these incidents and work to improve our controls and risk awareness/assessment with our employees and contractors. More information about the impact of lower-energy incidents on our lagging performance, as well as information on the interventions we have taken to reverse the trend are further explained in the Lagging Performance section.
+Significant Incident Reporting and High Potential Incidents. 
+Breakdown of HPIs & SIRs (combined) by Category. 
+Vehicles and Machinery 40 Incidents. 
+Explosives and Flammable Materials 10 Incidents. 
+Ground Control 9 Incidents. 
+Work at Height 7 Incidents. 
+Hazardous Materials 3 Incidents. 
+Lockout and Tag out 2 Incidents. 
+Protective Devices 2 Incidents. 
+Other 9 Incidents. 
+Confined Spaces, Cranes and Slings, Lifting and Rigging, and Underground Fire 0 Incidents. 
+HSSD Improvement Plans HSSD Improvement Plans are a key component of our efforts to continuously improve HSSD performance. This leading indicator has been a cornerstone of how sites drive performance to achieve and maintain expectations set by EIBP since 2016. The plans cover all HSSD functions and provide concrete, measurable actions to address each operation’s unique HSSD aspects, hazards, impacts, gaps, risks and challenges. In 2021, all sites successfully achieved the Health and Safety components of their HSSD Improvement Plans.
+Information on leading Health and Safety indicators. 
+Yamana’s 2021 Sustainability Report 33
+
+
+Mining Safety Roundtable As part of our commitment to managing and mitigating safety and health risks, Yamana has been an active member of the Mining Safety Roundtable (MSRT) since 2016. The MSRT is a learning and sharing forum of mining and mining-related companies dedicated to eliminating fatal and life-altering injuries and illnesses for the member companies. The MSRT achieves its objectives through: • Sharing best practices, experiences and benchmarking; • Collective development of tools and programs; • Individual professional development for health and safety leaders; and, • Strategic focus on industry and industry-related issues.
+In 2021, Yamana’s Senior Director of Health, Safety and Emergency Preparedness served as Chair of the organization for the second consecutive year.
+Lagging Performance 2021 was a challenging year for Yamana’s lagging health and safety performance. Although we successfully completed our third consecutive year with zero fatalities at all operations and reported a 4% decrease in our LTIR, our TRIR increased by 51% from the full-year 2020 result. This was the first time our TRIR increased since 2015, and the increase and its magnitude spurred action. The operations, with the support of the corporate team, conducted a detailed analysis of injuries and root causes to reverse this trend.
+Both our LTIR and TRIR were impacted by a trend of lowenergy incidents (such as slips, trips, falls, hand injuries and pinch points) causing injuries to employees. Human factors, such as improper job hazard analysis and deviation from standard procedures, were found to have contributed to many of these incidents. In 2021, 31 of our 58 total injuries were low-energy injuries, of which 28 were hand injuries.
+Sites Interventions We held a variety of interventions across the operations to help reverse the increase in TRIR. Focused discussions with the Chief Operating Officer, Regional Vice Presidents, operations General Managers and site and corporate health and safety teams were held to determine appropriate health and safety interventions and site-level actions to facilitate injury reduction. Informed by detailed analysis, each site identified a variety of intervention activities, such as increased focus on communication, hazard awareness, improved decision-making and visible felt leadership in the field.
+Similar to 2020, Jacobina and Cerro Moro reported the highest rates of low-energy incidents. To combat this, the Health and Safety (H&S) team at Jacobina, in conjunction with the Operational Excellence team, created a project on the identification and reduction of critical risks at the operation, in addition to increasing visible felt leadership activities. At Cerro Moro, the site enlisted the support of an internal professional psychologist to conduct a formal evaluation of risk perception and risk acceptance of workers. This led to targeted training campaigns on hand injuries, as well as increased education on hazard identification and risk perception at the site. The Minera Florida and El Peñón sites conducted detailed evaluations of incidents occurring at their sites and defined focused interventions. These interventions included training on hazard awareness, increased and targeted leadership interactions and awareness campaigns.
+Finally, it is worth noting that our lagging statistics were also affected by the performance of our exploration properties. While historically we have not had high rates of injury at our exploration properties, 2021 witnessed an increase, primarily at our Wasamac project. Yamana completed the acquisition of the Wasamac property on January 21, 2021 and began assuming responsibility for the project’s health and safety management shortly thereafter. Throughout 2021, the number of workers at the site continued to grow and Yamana began implementing our health and safety management systems elements, policies and practices. We continue to see Wasamac’s health and safety management practices improve and we are confident that, as the project matures, we will see an improvement in health and safety performance.
+The decline in TRIR performance we experienced in 2021 was not unique to Yamana. Discussions with companies at the MSRT demonstrated that some of our industry peers faced similar challenges throughout the year, with the average TRIR and LTIR being 0.78 and 0.2, respectively, for MSRT companies, a decline in performance from previous years. Roundtable members believe this collective worsening of performance is largely attributable to the effects of the COVID-19 pandemic, primarily feelings of pandemic-related fatigue. While this does not excuse our 2021 performance, we believe it provides important context. Our objective has always been, and continues to be, zero injuries across all operations.
+Yamana’s 2021 Sustainability Report 34
+
+
+Fatalities. 
+Lost Time Incidents. 
+Recordable Incidents. 
+Hours Worked. 
+TRIR (200,000 Hours)
+LTIR (200,000 Hours)
+Fatality. 
+Rate. 
+Jacobina 0 6 19 4,307,322 0.88 0.28 0. 
+Minera Florida 0 3 8 3,432,200 0.47 0.17 0. 
+El Peñón 0 3 10 4,338,790 0.46 0.14 0. 
+Cerro Moro 0 7 13 2,910,809 0.89 0.48 0. 
+Exploration + Closed Properties 0 1 8 793,707 2.02 0.25 0. 
+Total Yamana Wholly Owned Properties 0 20 58 15,728,085 0.74 0.25 0. 
+Canadian Malartic* 0 9 80 4,669,961 3.43 0.39 0. 
+Total Yamana + Canadian Malartic* 0 29 138 20,398,046 1.35 0.28 0 * Canadian Malartic numbers calculated on a 100% basis and have not been adjusted to reflect percentage ownership.
+TRIR (200,000 Hours) LTIR (200,000 Hours)
+Contractor Health and Safety Performance As noted above, Yamana believes it is important to treat contractors as equivalent to employees. Contractor management is an important component of a robust health and safety management system. We track contractor lagging statistics separately to better understand trends and conduct analysis, although we consolidate our employee and contractor statistics.
+Yamana. 
+Employees* Contractors*
+Fatalities 0 0. 
+Lost Time Incidents 13 7. 
+Recordable Incidents 34 24. 
+Hours worked 8,526,007 7,202,078 * Yamana Wholly Owned Properties. 
+Employee Health and Wellbeing Along with worker safety, we are committed to ensuring the long-term health and wellbeing of our employees. We do this by identifying workplace health exposures and vectors, monitoring our workplaces and taking steps to reduce exposures that are outside of acceptable ranges. In evaluating exposures, we incorporate the regulatory thresholds applicable in our operating jurisdictions.
+We are committed to helping employees prevent and address work-related illness, such as hearing loss, physical, chemical or biological agent exposures, musculoskeletal disorders, and mental wellness or issues related to the workplace environment. We do this through implementation of engineering controls, where possible, or proper PPE and support devices. Our operations have onsite medical staff that workers can approach directly with any health issues or concerns.
+Yamana’s 2021 Sustainability Report 35
+
+
+In addition to work-related health, we seek to promote and encourage healthy lifestyles by providing onsite gym and fitness classes, as well as wellness information sessions. These sessions frequently emphasize healthy eating, stress management and common illnesses, such as diabetes and heart disease, as well as annual influenza vaccination opportunities for employees and contractors.
+COVID-19 played an important role in employee’s health and wellbeing in 2021. We continued the extensive health and safety measures at our operations to prevent the spread of the disease and keep our workers safe, in addition to our normal health and wellbeing supports.
+While much of this focused on supplying PPE, increasing hygiene measures and enforcing social distancing, our operations also led outreach campaigns that encouraged health precautions that could also be practiced at home, such as proper handwashing and physical distancing.
+Mental Health. 
+Yamana provides support to promote the mental wellbeing of our employees. All employees have access to a companywide Employee Assistance Program that offers a variety of counselling services to our employees and their families.
+In light of challenges posed by the COVID-19 pandemic, we increased our offerings of job training and educational seminars. These increased offerings focused on stress management and mental wellbeing to support our people in staying healthy and well. We also regularly hosted information sessions on the current state of the pandemic with local doctors to ensure our employees have access to clear, accurate and transparent information from medical professionals.
+More information on our response to the COVID-19 pandemic can be found in the COVID-19 Response and Impact of this report.
+We are committed to ensuring the long-term health and wellbeing of our employees. We do this by identifying workplace health exposures and taking steps to reduce this risk.
+Yamana’s 2021 Sustainability Report 36
+
+
+Social Performance. 
+Building Relationships and Creating Value for Our Stakeholders. 
+To Yamana, social performance is defined by the strength of our relationships and extent of our impacts on host and surrounding communities, both positive and negative. It is underpinned by our engagement and management of relationships and focuses on delivering measurable short- and long-term benefits to communities.
+The support of host communities is integral to our operations’ success - we call this our privilege to operate. It is our intention, at all times, to make sure that our operations make a positive contribution to the communities surrounding our sites.
+HIGHLIGHTS 2021 67 formal stakeholder consultations and open-door visits, hosting 697 citizens $273 million (USD) spent on regional procurement. 
+An overwhelming number of survey respondents believe Yamana is committed to protecting the health and safety of employees and communities throughout COVID-19. 
+Over 180,000 beneficiaries from over 82 social initiatives across our operations. 
+Over two-thirds of our employees were local and we maintained over 99% national employment. 
+Our Approach. 
+Our HSSD vision of One Team, One Goal: Zero applies equally to social performance, health and safety and environmental protection. In social performance, our approach is to go well beyond zero harm by generating a net-positive impact in host communities and surrounding regions.
+Commonly referred to as a social license to operate (SLO), we refer to this as the privilege to operate. We don’t take this privilege for granted; this is why we ask our local communities to assess our social performance through the SLO Index and other indicators. The Index, which is managed by a third-party, evaluates community trust and acceptance (i.e. social license). It is the industry’s most direct measure of social performance.
+The goal of our community relations strategy, which is a key part of our social performance, is to build durable, trust-based relationships through proactive and transparent engagement with all of our stakeholders. In this way we enhance our reputation. In 2021, we developed our Social Performance Statement of Commitment, an important element in our revised HSSD Management Framework. The Social Performance SoC provides guidance to our sites on industry best practice around inclusive stakeholder engagement, including community support and capacity development initiatives.
+Highlights from our Social Performance Statement of Commitment: • Ensure best-in-class management systems and processes support corporate and operational performance.
+• Engage, collaborate, and incorporate concerns from communities when creating social programing and operational planning.
+• Assess social risks and cumulative impacts, including those related to cultural heritage, to inform action plans and impact mitigation approaches.
+• Work collaboratively to share benefits from our presence, including equitable access to employment, training, procurement and business opportunities.
+• Avoid physical and/or economic resettlement of people.
+• Respect the unique rights of Indigenous Peoples, in alignment with the UN Declaration on Indigenous Peoples, and a commitment to the process of seeking and obtaining the free, prior and informed consent of Indigenous Peoples.
+• Establish fair, accessible, timely and culturally appropriate grievance mechanisms.
+Yamana’s 2021 Sustainability Report 37
+
+
+Social performance at Yamana involves three distinct, but inter-related, components: 1. Community engagement focuses on interactions with local and surrounding communities to understand their needs, wants, dislikes and perceptions related to our company. This can take various forms, such as direct community meetings, engagement through the SLO Index, grievance management or interactions community members have with representatives from the site. This component directly links to the objective of engaging with members of host communities and other stakeholders.
+2. Community development focuses on providing and improving resources within the community to create long-term sustainable change. This can be done though capacity development or direct and indirect economic contributions, such as local employment, community project funding or skills development programs. This stream directly links to the objective of contributing to the development of sustainable and resilient host communities and surrounding regions. We ideally rely on development plans developed and owned by host communities to guide our involvement in development.
+3. Managing impacts is about understanding and managing first-order impacts that result from our presence. Community engagement allows us to understand our impacts and we create actions to address such impacts, separate from community development-related actions.
+Social Performance and Community Relations strategy, governance and risk management. 
+Performance. 
+Stakeholder Engagement. 
+Although our stakeholder engagement activities continued to be impacted in 2021 due to the ongoing effects of COVID-19, we were able to adjust our activities to continue engaging with host communities. To keep our community engagement teams and host communities safe from the spread of the virus, our operations utilized various digital platforms in lieu of in-person events. Where Yamana hosted in-person meetings or site visits, local, regional and national health precautions were closely followed. Our operations held 62 formal stakeholder consultations, hosting 635 citizens, and 5 open door visits with 62 visitors, almost doubling our engagement reach compared to 2020. See COVID-19 Response and Impact for more information on how Yamana adjusted stakeholder engagement activities during COVID-19.
+Information on stakeholders' primary topics of interest/concern. 
+Case Study: Virtual Stakeholder Engagement. 
+Though the COVID-19 pandemic continued to impact Yamana’s ability to safely carry out in-person engagement during 2021, our teams were able to adapt quickly to continue to engage our communities through various digital and virtual platforms.
+At Cerro Moro, the “Getting to Know Cerro Moro” initiative was launched to continue to connect with our communities on material issues related to the operation. Through online platforms and social media the operation held 12 virtual sessions with community members on a variety of topics they were interested in such as; water use, environmental management and cyanide use.
+In late 2020 and ongoing through 2021, Minera Florida continued work to complete a new environmental and social impact assessment (ESIA) for an increase in production levels. To consult the community on this project, the operation used a combination of social media and video conferencing tools, such as Facebook and Zoom, to notify the community about upcoming events and inform the community of various channels to attend or submit comments, including by phone.
+Yamana’s 2021 Sustainability Report 38
+
+
+Social License to Operate Index. 
+The SLO Index is Yamana’s innovative approach to measuring privilege to operate. It was introduced to all of our operations in 2018, with the exception of El Peñón, which is a remote operation with no nearby communities. The SLO Index, which is managed by a third-party (Voconiq), measures two primary indicators: community trust and acceptance. It also provides insight to a variety of other key performance indicators.
+Since 2018, Yamana has conducted quarterly surveys which have provided us with a strong foundation of information on community interests. In 2021, we decided to reduce the frequency of SLO surveys with the community to twice a year to reduce the burden on community members. We feel that twice-annual surveys provide equal benefit and insight, while limiting the potential for engagement fatigue.
+Surveys conducted in 2021 incorporated COVID-specific questions that enabled our operations to understand the concerns that host communities had related to the pandemic and how they felt Yamana was responding to support and protect the communities. During this time, an overwhelming number of respondents either agreed or strongly agreed that Yamana is committed to protecting the health of its employees and the community, which was welcome feedback for our Management and Community Relations teams who worked diligently to support the communities in 2020 and 2021.
+In 2021, an overwhelming number of respondents felt that Yamana is committed to protecting health and safety of employees and communities (average score of 4.19/5).
+Throughout the pandemic, we saw significant fluctuations in SLO Index levels. In 2020, both trust and acceptance values grew substantially. We believe that this was primarily the result of Yamana’s strong COVID-19 response, as the company played a significant role in the provision of essential local services, while helping to ensure that the host communities’ most vulnerable populations were supported. However, in late 2021 we saw our trust and acceptance values decrease. After consulting with our third-party service provider and looking further into the detailed responses from the surveys, we believe the decline in our SLO Index results is primarily due to external factors, as a similar decrease was observed across operations of other comparable companies. There are several external factors that may have influenced the results, including “COVID fatigue” which is impacting general mental health, a decreased desire of community members to engage virtually, and a general decline in levels of trust and acceptance from communities across all institutions, including governments and corporations. In 2022, Yamana will consider these potential external factors in our stakeholder engagement activities, including in the continued use of the SLO Index surveys.
+Our community investment aims to improve the wellbeing of our surrounding communities.
+Yamana’s 2021 Sustainability Report 39
+
+
+SLO Highlights. 
+Jacobina. 
+Minera Florida. 
+Cerro Moro 5 Very High 4 High 3 Moderate 2 Very Little 1 None. 
+Acceptance Trust. 
+The risk zone is based on Voconiq research of other operating mines and estimates a threshold where the risk of active community opposition becomes likely.
+How we measure social license to operate: SLO Index. 
+Our community development activities focus on providing and improving resources within the communities to create long-term sustainable change.
+Yamana’s 2021 Sustainability Report 40
+
+
+Grievance Management. 
+How we receive, document, investigate and respond to community incidents and concerns is another important element of our social performance management and engagement strategies to build and enhance trust-based relationships. Yamana’s grievance mechanisms provide a formal process within which a concern or complaint can be registered with and addressed by the company. In understanding and responding to issues raised through the grievance mechanism, we hope to address issues before they grow into more significant issues or risks.
+In 2021, we received a total of 142 grievances, an increase of 123 percent from 2020. The majority of grievances were related to vibration concerns at Jacobina. In response to these concerns, we continue to analyze localized vibration, both independently and jointly with the community. Regional seismic activity (small earthquakes) occurred a number of times throughout the year, which were initially believed by some local residents to be mine-related, and later demonstrated to be naturally-occurring, low-level seismic activity. We remain confident in our monitoring data, which indicates that our operations are not having an impact on local infrastructure.
+The rest of Jacobina’s, Minera Florida's and Cerro Moro’s grievances were distributed amongst a variety of topics outlined in the figure below.
+During the year, we had no reported incidents or external human rights-related grievances reported to our operational grievance mechanism or internally though our Integrity Helpline. While most of our sites are not in jurisdictions where human rights would be considered at significant risk, we are working to maintain this trend by incorporating consideration for human rights into our ongoing training, and supplier assessments.
+More information on our Human Rights SoC can be found in the HSSD Governance section of this report.
+Total Grievances by Site in 2021. 
+Jacobina 125 Grievances. 
+Minera Florida 12 Grievances. 
+Cerro Moro 5 Grievances. 
+El Peñón 0 Grievances 142 Total Grievances. 
+Grievance Topics in 2021. 
+Vibration 54 Grievances. 
+Traffic and Road Conditions 30 Grievances. 
+Dust 11 Grievances. 
+Water 6 Grievances. 
+Suppliers/ Contractors 2 Grievances. 
+Noise 1 Grievances. 
+Jobs 0 Grievances. 
+Other (impact on animals, COVID-19 test results, etc. ) 38 Grievances 142 Total Grievances. 
+Yamana’s 2021 Sustainability Report 41
+
+
+Local Employment and Procurement. 
+Creating local employment and procurement opportunities is one of the most impactful ways that Yamana can contribute to the development of resilient and sustainable communities. For our sites, the definition of what is considered ‘local (host community)’ can vary by operation but is generally described as the closest communities to the mine. For our purpose, ‘local (regions)’ is considered to be within the state or province where the mine is located, and ‘national’ is within the country where the mine is located. This is particularly relevant in the case of El Peñón, where the closest community of any size is the city of Antofagasta, which is approximately 170 kilometres from the mine site. The table below summarizes the definition of local host communities, local regions and national for each of our operations:
+El Peñón Minera Florida Cerro Moro Jacobina. 
+Local (Host Communities) Antofagasta city Alhué, Talami, El Asiento, etc.
+Puerto Deseado & surrounding communities. 
+Jacobina & surrounding communities. 
+Local (Regions) Antofagasta region Metropolitan Region Santa Cruz Bahia. 
+National Chile Chile Argentina Brazil. 
+Employment. 
+Argentina. 
+Local Community 50.4%
+Local Regional 72.5%
+National 99.6%
+Chile. 
+Local Community 42.2%
+Local Regional 48.9%
+National 99.8%
+Brazil. 
+Local Community 89.5%
+Local Regional 93.7%
+National 99.9%
+All Operations. 
+Local Community 57.5%
+Local Regional 66.2%
+National 99.8%
+Procurement. 
+Argentina. 
+Local Community 32%
+Local Regional 35%
+National 92%
+Chile. 
+Local Community 9%
+Local Regional 34%
+National 93%
+Brazil. 
+Local Community 25%
+Local Regional 58%
+National 94%
+All Operations. 
+Local Community 23%
+Local Regional 47%
+National 93%
+All values (employment and procurement) have been rounded.
+Yamana’s 2021 Sustainability Report 42
+
+
+Local employment provides both primary and secondary economic benefits and contributes to building the long-term capacity of the local workforce. In 2021, over two-thirds of our employees were from the local region and we continued to maintain over 99% national employment.
+Local procurement remains a core component of our community development strategy. In 2021, 47% of purchases, or over $273 million dollars were made in the regions surrounding our sites. This supports local suppliers and provides direct economic benefit to our communities, as well as increasing employment and skills that generate long-term economic development. We also maintained a high in-country procurement level, at 93%, spending over $544 million in procurement from our operations.
+Community Investment. 
+Across all sites, Yamana’s approach to community investment is delivered through three main programs: 1. The Integrar Program focuses on helping communities address education, infrastructure and capacity gaps. The Integrar Program’s goal is to improve the quality of life of local and surrounding communities by providing support in four key areas: health, the environment, family and community involvement.
+2. The Partnership Alliance program provides a platform for company partnerships with local NGOs. The program partially funds community investment projects chosen by local citizens. Local enterprises submit applications for local and regional development projects; those selected receive 85% of their required funding directly from Yamana. Projects are chosen based on community member votes to determine which projects are the most desired and which will generate the most positive impact for the surrounding area.
+3. Direct financial contributions to new and existing community initiatives, with the goal of providing sustainable, long-term economic value.
+In 2021, we had over 180,000 beneficiaries from over 82 social initiatives across our operations. The majority of these investments focused on health and safety initiatives, followed by social assistance programs. Many of the initiatives provided support and equipment to protect local communities from the spread of COVID-19, such as PPE and food donations, testing kits, medical supplies, and donation of hospital beds. All programs were hosted in conjunction with local authorities.
+Focus of 2021 Social Investment Programs. 
+Social Assistance 31 Programs. 
+Education 16 Programs. 
+Health 14 Programs. 
+Income Generation 12 Programs. 
+Sports/Culture 4 Programs. 
+Entrepreneurship 2 Programs. 
+Environment 2 Programs. 
+Human Rights 1 Program. 
+Social Development 0 Programs 82 Total Programs. 
+Our top COVID-19-related priority for 2021 continued to be protecting our workforce and host communities. For 2020 and 2021, our COVID-19 related donations to communities totaled over $1 million dollars.
+Yamana’s 2021 Sustainability Report 43
+
+
+Direct Economic Contributions While our primary method of generating value within host communities is through local employment and procurement, we also contribute financially to host communities through direct community investment, donations and sponsorships, as well as taxes and royalties. These facilitate local and regional economic growth and create long-term prosperity, which can extend far beyond the mine life. In 2021, we provided over $119 million dollars to host communities and governments where we operate, which represents an 82% increase in the economic benefit footprint compared to that of 2020. This increase is largely attributed to increases in tax and royalty payments in 2021.
+Our direct community investment and donations and sponsorships remained comparable to those made in 2020, and mainly consisted of economic support to communities in response to COVID-19.
+In Argentina specifically, we provide direct community investment through the Acuerdo Unirse Trust Fund, which is made up of various mining companies in the region and managed by the Province of Santa Cruz. This fund aims to carry out fundamental work for the growth of the province by strengthening development, managing basic needs, promoting progress, and providing work to improve the quality of life of the residents of Santa Cruz.
+2021 Direct Economic Contributions (USD)
+Direct. 
+Community Investment. 
+Donations & Sponsorships. 
+Taxes &
+Royalties. 
+Argentina 4,372,864 232,988 13,133,872. 
+Brazil 882,418 67,100 32,760,403. 
+Canada 281,997 1,139,834 3,067,263. 
+Chile 141,681 112,203 62,783,152. 
+Other - - 114,827. 
+Total 5,678,961 1,552,125 111,859,516. 
+Employee. 
+Compensation & Benefits. 
+National. 
+Procurement. 
+Argentina 41,121,228 144,755,198. 
+Brazil 41,882,543 121,628,144. 
+Chile 122,600,450 277,780,570. 
+Total 205,604,221 544,163,912. 
+Our economic contribution extends further than direct economic contributions. As previously mentioned, we have extremely high levels of local and regional employment and procurement, with over $868 million dollars remaining in the countries where we operate.
+In 2021, we maintained a high in-country procurement level, at 93%, and almost half of purchases were made in the regions surrounding our sites.
+Yamana’s 2021 Sustainability Report 44
+
+
+ENVIRONMENT 45 Yamana’s 2021 Sustainability Report
+
+
+Environmental Management. 
+Advancing Environmental Protection at our Operations. 
+Sound environmental management ensures that we actively identify, manage, monitor and continually improve our management of significant environmental aspects. Proactive environmental management helps us to maintain environmental compliance and prevent environmental incidents.
+HIGHLIGHTS 2021. 
+Released the. 
+Environmental. 
+Protection Statement of Commitment 7th consecutive year with no material spills. 
+All operations are signatories to the International. 
+Cyanide Management Code. 
+Our Approach. 
+As stated in the Environmental Protection SoC, Yamana acknowledges its responsibility to manage and reduce, to the degree possible, its impact on the natural environment, and is committed to advancing environmental protection at its operations. This is done through proactive and operationallyfocused management. Responsible environmental management is core to the sustainability of Yamana’s business.
+Highlights from our Environmental Protection Statement of Commitment: • Ensuring best-in-class management systems and processes.
+• Identifying, understanding and managing environmental impacts.
+• Transparent communication of environmental impacts internally to senior decision-makers as well as local communities.
+• Minimizing our footprint to the extent possible.
+• Respecting local and international regulations and expectations.
+• Fostering a culture of environmental protection.
+• Communicating our environmental standards to suppliers.
+Environmental management at Yamana focuses first and foremost on understanding our impacts and working to avoid and responsibly manage them, in line with both regulatory requirements and our more stringent corporate expectations. This begins at the design stage of the mine and is ongoing throughout the life of mine and beyond closure.
+Performance. 
+Operations monitor and manage all aspects of environmental performance, with regular updates to the corporate team and site general managers. Many items related to environmental management are not a significant risk as they are either low impact, or sites have the proper controls in place due to our management systems.
+Yamana’s 2021 Sustainability Report 46
+
+
+Environmental KPIs. 
+To monitor significant environmental aspects and potential impacts in our operations, each of our sites has updated their key environmental performance indicators (KPIs) using a risk-based approach. The scope of metrics within their KPIs include environmental regulatory compliance, permitting status, environmental incidents, air quality, water quality and consumption and waste management. Environmental KPIs are established to help monitor performance against our key risks and support decision-making by providing management with information about risk exposure and improvement opportunities at site level. Each KPI has a target, as well as upper and lower limits. If either limit was exceeded, it would trigger an investigation to identify the cause(s) and whether further action is required.
+These KPIs are reported on a monthly basis to corporate management, as well as the Board of Directors, to ensure appropriate oversight and resources are given to these risks. This allows for proactive planning and management.
+Additional Environmental Management Topics. 
+Detailed information on Climate Change, Water, Biodiversity, Tailings Management, and Closed Properties can be found in the subsequent sections.
+Air Quality and Noise. 
+Air quality is an important managed environmental aspect at our operations. We are working to better control air quality in a number of ways, including by reducing airborne pollutants such as dust deposition and potential health impacts associated with PM10 and PM2.5 and chemical composition of such particles. Sites monitor fugitive dust at strategic points in the area of influence of the facilities, such as in neighbouring communities and at several locations within the facility.
+Environmental noise levels are monitored and compared against daytime and nighttime local regulatory thresholds. This ensures that nuisance type impacts - those with minor environmental consequence and short-term/localized effects - are being monitored and appropriate controls are taken when deviations occur.
+Air quality and noise monitoring results are shared with regulators according to the frequency specified in the environmental management plans, as well as to the Board of Directors where this is considered a key risk for sites.
+Vibration. 
+Addressing emerging concerns of communities where we operate is paramount, not only to maintaining our privilege to operate, but also to better understand potential environmental side effects of our activities. While vibration is a consideration at all sites as a result of natural seismicity and mine-induced effects, it is a particular concern at Jacobina due to the proximity of the community to the site.
+To address community concerns regarding vibration at Jacobina, Yamana initiated a monitoring campaign in the neighbouring communities of Itapicuru and Jaboticaba. Data is captured, analyzed and reported to the regulator to show compliance against the standards in place. So far, values reported have been within acceptable thresholds. None of the other sites have reported concerns related to vibration.
+Permitting and Compliance with Legal Requirements. 
+The Company’s operations are subject to receiving and maintaining permits from relevant governmental authorities. In 2021, Yamana successfully obtained all permits and licenses required to operate in accordance with the local permitting regimes where sites operate.
+The most relevant milestones per operation are as follows: • El Peñón: Environmental Impact Declaration for the update of resources and reserves of the El Peñón mining site, which includes the proposal to extend the lifespan until 2029.
+• Minera Florida: Submission of the Environmental Impact. 
+Assessment Minera Florida 100 to the regulator, which seeks to increase extraction and processing rate to 100,000 tons per month and expansion of facilities.
+• Cerro Moro: update of the Cerro Moro Environmental. 
+Impact Assessment, to be conducted every 2 years to maintain compliance with the environmental license of the project.
+• Jacobina: Modification of Environmental License obtained for the expansion of production capacity (10,000 tons per day) and expansion of facilities.
+Yamana’s 2021 Sustainability Report 47
+
+
+Waste Management. 
+We generate a variety of solid waste streams at our operations, development projects and exploration programs. This includes both non-hazardous and hazardous waste. Non-hazardous waste is typically domestic waste, packaging, paper, plastics and scrap metal, much of which can be recycled. Hazardous waste is identified by in-country regulations but is generally defined as waste that is harmful to human health or the environment; the distinction between non-hazardous and hazardous waste is generally based on characteristics such as toxicity, ignitability and other factors. Used oil, which is recovered during equipment maintenance activities, is an example of a hazardous waste.
+Solid waste management (which includes both hazardous and non-hazardous waste) is highly regulated in all operating jurisdictions; the rules involving the storage, transportation and ultimate disposal of hazardous wastes are detailed and prescriptive so as to make sure these materials do not inadvertently enter the environment or generate exposures to people.
+A core component of our environmental management program consists of reducing and managing risks through waste segregation at source facilities and a focus on reducing, reusing and recycling wastes. Where waste cannot be recycled or reused, waste transport and disposal are undertaken by licensed contractors and in accordance with local legislation and applicable permits. This is especially the case with hazardous waste.
+Hazardous and Non-Hazardous Waste 2019 2020 2021. 
+Total Hazardous Waste Generated (tonnes) 3,207 4,058 4,647. 
+Total Waste Generated, Hazardous and NonHazardous (tonnes) 9,756 7,065 9,348. 
+Cyanide Management. 
+Our operations use cyanide to aid in the gold extraction process; cyanide can be harmful to the environment and people not handled properly. Yamana became a signatory to the International Cyanide Management Code (ICMC) in September 2008 to ensure the safe transport and use of cyanide in the production of gold. Conformance with this code is verified by independent audits.
+In 2021, there were no significant cyanide-related incidents.
+Mining assets in Chile (El Peñón and Minera Florida) are certified in the ICMC. Cerro Moro in Argentina is currently a signatory and still in the process of certifying, which is expected to be obtained by 2023. Annual internal audits are conducted to ensure alignment with the provisions of the Code.
+Jacobina has previously been certified by the ICMI, however, was unable to complete an audit against the code in recent years due to the COVID-19 pandemic. The mine continues to be in compliance with the code and the external audit will be completed in 2022.
+Spills and Environmental Incidents 2021 was our seventh consecutive year without any material environmental incidents, including spills, across our operations. We consider a material spill to be any spill that has the potential to affect the environment and/or water quality in the areas that we operate, a level 4 or 5 based on our incident classification matrix. Should an incident occur, sites have procedures in place to immediately and effectively contain and remedy the area and undertake appropriate measures to mitigate the possibility of reoccurrence in the future. As mentioned in the Governance section of this report, these metrics are included within our HSSD targets and objectives, as well as executive and site compensation.
+We also expect sites to report all potential and actual non-compliances. No such occurrences took place during 2021.
+Yamana’s 2021 Sustainability Report 48
+
+
+Climate Change. 
+Reducing Energy Use and GHG Emissions and Increasing our Resilience to Climate Risk. 
+The potential impacts of climate change on the global environment, communities and society as a whole is one of the most important issues of our time. We recognize that business has a crucial role to play in addressing climaterelated challenges. That is why in 2021 we created our new Climate Action Strategy, as well as established a 1.5°C-aligned science-based target. While climate change is a global issue, it also creates tangible risks to our operations and host communities. Yamana accepts its responsibility to both reduce our GHG emissions and use our strengths as a business to contribute positively to a low-carbon future.
+HIGHLIGHTS 2021. 
+Launch of Yamana’s. 
+Climate Action. 
+Strategy. 
+Publication of our 2030, 1.5°C-aligned science-based target 9% reduction in GHG emissions against our 2019 baseline. 
+Our Approach. 
+Our position and approach to climate change is summarized in our Climate Action Strategy, which we adopted in early 2021, following approval by the Executive Chairman and the Board of Directors. This strategy guides our short- and longer-term decarbonization activities.
+First and foremost, our approach is designed to support achievement of our targets: a science-based target developed on a 1.5°C-aligned emissions scenario (compared to pre-industrial levels) and an aspirational target of net zero by 2050. Our Climate Action Strategy is aligned with industry-wide approaches and programs, including TSM and the RGMPs, supports our Responsibility Policy and Statement of Commitment on Environmental Protection, and is underpinned by three pillars:
+Managing Our Carbon Targets. 
+Reducing Energy Use and GHG Emissions. 
+Align compensation to achievement of our targets. 
+Site-specific pathways for emissions reduction. 
+Strategy development beyond the 2030 target. 
+Incorporate energy efficiency and emissions into procurement metrics. 
+Continue the interdisciplinary approach to managing emissions reductions. 
+Advancing Our. 
+Strategic Position. 
+Leverage Strong Industry Position. 
+Demonstrate Yamana’s advanced industry position to investors and the ESG community. 
+Innovation-oriented approach to reduce emissions and costs. 
+Position our operations to be competitive in higher carbon price environments. 
+Explore market opportunities for low-carbon gold. 
+Increasing Our. 
+Resilience to Climate Risk. 
+Mitigation, Adaptation and Preparedness. 
+Embed climate-related risk management into operational and corporate risk evaluation and management. 
+Prioritize water and biodiversity management. 
+Collaborate with communities on climate resilience. 
+Adjust emergency preparedness and response plans for potential climate change impacts. 
+More information on our approach, as well as detailed disclosures in line with the Task Force on Climate-Related Financial Disclosures can be found in our TCFD-aligned Climate Action Report.
+49 Yamana’s 2021 Sustainability Report
+
+
+Acknowledging that transparency is an important part of our climate journey to net zero, Yamana supports and seeks to continually improve its implementation of the recommendations set out by TCFD.
+Risk Management. 
+Building on the 2018 Climate Change, Water, and Biodiversity Risk Assessment, in 2021 Yamana focused on identifying and assessing the physical and transition risks which could have material financial impacts on our business in the short, medium, and long term. The physical and transition risk assessment was based on the ISO 31000 Risk Management Standard, and included a vulnerability assessment, risk characterization and classification, as well as risk mitigation and adaptation aspects. We used scenario analysis to capture a broad range of physical and transition risks relevant to Yamana.
+Our risk assessment processes were systematic and comprehensive, and were undertaken with the support of third-party risk experts. Beginning at the regional level, we identified relevant acute and chronic climate change variables (e.g., precipitation) and their risk exposures (e.g., extreme rainfall).
+We continually work to maintain preparedness for fire threats to our people and operations.
+The 2021 climate change risk assessment demonstrated that all identified physical and transition risks pose a low to medium risk, with no high risks identified.
+The following risks were identified as those requiring ongoing mitigation; the associated mitigation actions are described in the table below.
+Yamana’s 2021 Sustainability Report 50
+
+
+Potential Material Risks Risk Mitigation. 
+Relevant Operations. 
+Physical. 
+Water Management Increasing water stress, scarcity, drought, and intensity and frequency of extreme rainfall events. 
+Water management has always been a priority at Yamana. Our operations maintain water balances and engage with local stakeholders and regulatory bodies to continuously seek opportunities to improve water use efficiency and recycling. Other key mitigation measures include aligning with national water strategies, minimizing raw water intake and evaluating alternative water supplies.
+El Peñón, Minera Florida, Jacobina, Cerro Moro. 
+Surface and Storm Water Management Heavy precipitation could threaten the capacity of containment systems (e.g., tailings), disrupt or delay operations, interrupt transport of fuel/power due to road washout. 
+Our operations are responsible for confirming that storm water management infrastructure and tailing storage facilities have sufficient capacity for future scenarios. Most operations have multiple road access ways to get to site in the case of road washouts.
+Minera Florida, Cerro Moro, Jacobina. 
+Physical. 
+Energy Interruptions in supply or reliability of hydroelectric renewable power generation. 
+Over the past few years, our operations have dedicated considerable effort into implementing opportunities for energy efficiency and clean grid supply. We continue to explore all available sources of electricity, monitor our consumption, and assess supply risks and opportunities for renewables.
+Jacobina. 
+Fire threat Fire threat to assets and personnel. 
+We continually work with local authorities to monitor and confirm preparedness for fire threats to our people and operations.
+Minera Florida, Jacobina. 
+Transition. 
+Carbon Taxes We are monitoring the development of carbon tax or emissions trading schemes in our operational jurisdictions, while working toward our aspirational goal of net-zero carbon emissions by 2050 through the Climate Action Strategy.
+El Peñón, Minera Florida, Jacobina, Cerro Moro. 
+Water Management Regulatory Changes and Community Perceptions. 
+We are continually monitoring regulatory changes in our operational jurisdictions as they pertain to water quantity and quality, while prioritizing the efficient use and minimizing discharges of water in our operations. We run community water monitoring programs at multiple operations. We regularly engage on the issue of water availability and quality with our communities. Yamana is committed to water stewardship in its operational catchments.
+El Peñón, Minera Florida, Jacobina, Cerro Moro. 
+Access to Capital Our HSSD and Finance teams work together to ensure a thorough understanding of our lenders’ climate-related requirements and policies, while providing timely access to quality data. Our secure access to capital is supported by our continuous improvement of climate-related disclosures and progress on climate action.
+El Peñón, Minera Florida, Jacobina, Cerro Moro. 
+Insurance Premiums We work with our insurers to demonstrate risk management actions that are being undertaken to manage our physical assets responsibly (e.g. the 2021 climate change risk assessment that demonstrated all physical and transition risks posed a low to medium risk with no high risks identified). Developing and monitoring fire detection and suppression systems has been a key consideration for our insurers.
+El Peñón, Minera Florida, Jacobina, Cerro Moro. 
+Yamana’s 2021 Sustainability Report 51
+
+
+Targets and Metrics. 
+Through our Climate Action Strategy, Yamana is well-positioned to be a leading contributor amongst our peers in the transition to a low-carbon future. We have adopted a science-based target in accordance with the Science Based Targets Initiative (SBTi) to reduce our operational (Scope 1 and 2) emissions by 46% by 2030, which aligns with a 1.5°C-aligned pathway. We have also set an aspirational target of net-zero emissions by 2050, demonstrating our support for global initiatives, such as The Paris Agreement. To meet the 2030 reduction target, we will reduce our emissions by between 4-5% annually from our 2019 base year* to 2030. We will also continue to work to establish pathways towards our aspirational 2050 net-zero emissions goal.
+Climate Change governance, strategy, risk management and operational context * SBTi requires that the base year be as recent as possible provided the data is available and represents Yamana’s normal operating parameters. Given that the COVID-19 pandemic affected many of Yamana’s operations in 2020, we selected 2019 as a more representative base year, in alignment with guidance from SBTi. Yamana’s corporate base-year emissions and analysis considers only the currently-owned and operating mines, which is consistent with SBTi and the GHG Protocol approaches on base-year calculations for new mine acquisitions or mine divestments.
+Performance. 
+Baseline Emissions, Total Emissions and Intensity. 
+In 2021, our total GHG emissions decreased by 9% from our 2019 baseline year. Our GHG emissions were marginally higher in 2021 compared to 2020 because of COVID-19related production curtailments in response to government mandates in 2020. The overall decrease from our baseline year is primarily a result of a Power Purchase Agreement (PPA) negotiated at El Peñón halfway through 2019, resulting in zero emissions from electricity in 2020 and 2021. These results put us on track to achieve our 2030 target. In 2022, as part of our continued goal to improve understanding of our impact on climate change, we will be estimating our Scope 3 GHG emissions.
+GHG Emissions (tCO2e)
+Our GHG emissions intensity has also decreased by 11% since 2019, as seen in the figure below.
+GHG Emissions Intensity (tCO2e/GEO)
+Yamana’s 2021 Sustainability Report 52
+
+
+In a benchmarking study of gold mines by S&P Global† to Yamana’s emissions intensity in 2019, Yamana’s overall emissions intensity (converted to units of tCO2e per ounce of gold) is well below the average for underground mining.
+Emissions Intensity Benchmarking - Gold Mining (tCO2e/oz Au)
+Energy Use With two of our four operations operating under PPAs with 100% renewable energy, we have begun to decouple our energy intensity from our GHG intensity. In 2021, our calculated energy intensity was 1.14 MWh/GEO, which is a 3% increase compared to 2019. We will continue to look for opportunities to reduce our energy consumption across our operations.
+Energy Consumption (MWh) † https://www.spglobal.com/marketintelligence/en/newsinsights/blog/greenhouse-gas-and-gold-mines-nearly-1-tonof-co2-emitted-per-ounce-of-gold-produced-in-2019. 
+El Peñón uses photovoltaic panels (solar panels) in specific areas of the mine site.
+Yamana’s 2021 Sustainability Report 53
+
+
+GHG Reduction Projects. 
+Gold mining is an inherently energy-intensive business. This is why Yamana’s multistage approach to net zero begins with addressing our Scope 2 emissions that are the result of grid-related energy consumption (i.e. electricity). Since all of our operations are located in jurisdictions with plentiful and affordable renewable electricity production, we have been able to significantly reduce our Scope 2 grid-related emissions at El Peñón through a 100% renewable PPA implemented midway through 2019. We have also finalized a PPA at Minera Florida, which will begin partway through 2022. With Jacobina also operating on 100% renewable electricity, Yamana currently has 75% of our GEO production using emission-free electricity; this will rise to 85% by the end of 2022 with the initiation of the Minera Florida PPA. The combined GHG emissions reductions associated with these PPAs means that Yamana is well on its way to meeting its SBTi-aligned 1.5°C emissions reduction target by 2030.
+We have already identified numerous emissions abatement opportunities at each site that will achieve our emissions reduction target through a multi-stage process involving workshops with each of our operations and third-party experts. Some examples of GHG reduction initiatives that have been implemented at each of our sites are outlined below:
+Operation GHG Reduction Initiatives. 
+Jacobina • Energy audit conducted by a third party • Exhaust fan optimization in underground mines. 
+El Peñón • Procurement of a truck fleet that follows Euro 5 norm, which has lower emissions compared to Euro 4 norm • Continued to replace incandescent bulbs to LED lighting in the camp • Use of photovoltaic panels (solar panels) in certain areas of the operation • Began to replace the SAG mill variable frequency drive with a better consumption efficiency model. 
+Minera Florida • Installation of a telemetric ventilation and water pump system • Began the evaluation of solar panels for administration offices and a local community. 
+Cerro Moro • Battery installation to optimize generator usage. 
+A Marginal Abatement Cost Curve (MACC) is used to help identify opportunities that would help reach our 2030 climate targets while also minimizing costs. We developed a MACC as part of our 2021 Climate Action work to illustrate a variety of the emissions abatement opportunities. The schematic MACC derived from our quantitative MACC below compares the cost estimates of the opportunities (estimated over the life-ofmine and including the capital cost and operational savings or expenditures for each technology) and the GHG abatement potential of each opportunity. Yamana's MACC clearly demonstrates that deploying wind power at Cerro Moro is an attractive option: this power would replace high-cost, diesel-generated electricity. The Cerro Moro area of southern Argentina is considered one of the best on-shore locations in the world for wind energy and the opportunity has the potential to deliver meaningful cost reductions, potentially resulting in an extended mine life. Detailed evaluation of this opportunity is underway.
+TCFD-aligned Climate Action Report. 
+A Schematic MACC Derived From Our Quantitative MACC. 
+Yamana’s 2021 Sustainability Report 54
+
+
+Water. 
+Responsible Water Stewardship and Protection of Water Security and Quality. 
+Yamana recognizes that water is a shared and vital resource for our operations and our host communities. We are committed to responsibly managing water in collaboration with host communities and stakeholders, both to ensure we efficiently use this valuable resource and to maintain our privilege to operate. Changes in the availability of, or access to, reliable water sources is a key risk for Yamana, whether it is due to the effects of climate change, regulatory or policy changes or competing priorities for water. Properly managing what we have is essential to our business success.
+The goal of our water strategy is to ensure that our operational water management practices are efficient and minimize consumptive use, which means minimizing impacts on local water resources. Each of Yamana’s sites has a unique water context, with site-specific water risks and challenges that require site-specific water management strategies.
+We maximize recycled water to limit water withdrawal and to protect local water quality. We do not discharge process water.
+We manage our water use responsibly to ensure water availability for our operations and host communities.
+HIGHLIGHTS 2021. 
+Zero discharge of process water at all operations 8% decrease in total water withdrawal 42% of our water withdrawal is produced water 72% of Yamana’s total water use was recycled water. 
+Our Approach. 
+All operations seek to minimize their freshwater use to reduce the impact on local water resources. This is done by both reducing total consumption, as well as maximizing the use of recycled water. In addition, Yamana prevents the discharge of process water to the natural environment. Our water management strategy comprises four elements: 1. Efficiency: Maximize efficiency and reduce raw water consumption through tracking water use and management practices to identify water efficiency opportunities at each site.
+2. Quality: Minimize effects on human health and aquatic ecosystems through monitoring of water quality and adhering to local regulatory requirements and EIBP standards.
+3. Climate Adaptation and Preparedness: Identify and understand vulnerabilities, adjusting management plans to reflect regional weather patterns and continuously updating and testing emergency response procedures.
+4. Stakeholder Engagement: Communicate with host communities and stakeholders about key water issues at every stage of operations.
+Water risks are managed on a site-by-site basis, with strong corporate oversight. Day-to-day operational water management prioritizes maximizing recycling and ensuring zero discharges of process water to the environment.
+Our water management approach is characterized by three key actions: • Operating within our permitted water limits, for both quality and quantity; • Understanding our water needs using up-to-date site water balances; and • Understanding watershed-related risks through engagement with other water users; and assessments such as the Climate Change Water and Biodiversity Risks assessment.
+Each of our sites face unique water risks and challenges specific to their geographic location, such as resource quality, seasonal availability, and long-term sustainability of water supply. In addition to these risks, we also manage potential risks our sites could experience as a result of climate change, such as extreme weather events, including drought and floods.
+Yamana’s 2021 Sustainability Report 55
+
+
+Water scarcity is actively managed and planned for at our operations. Currently, Minera Florida is our only operation located in a highly water-stressed region as defined by the World Resources Institute. To help mitigate the risk, the site maximizes water recycling by using water pumped from within the mine, as well as water recovered from the tailings storage facility (TSF). In addition, Minera Florida has developed a Community Environmental Participatory Monitoring program that focuses on water indicators to maintain transparency with the local community. Though this program was paused in 2020 and 2021 due to the pandemic, it is planned to re-start in 2022.
+Both senior management and the Board of Directors receive regular updates on each site’s top water-related risks through an Environmental KPIs Dashboard. This information is updated monthly and describes complex water risks in a clear and concise manner to senior decision makers within the organization.
+Water governance, strategy, risk management and operational context. 
+Performance. 
+Our total water withdrawal in 2021 was 4,278 megalitres (ML), a decrease of 8% compared to 2020. Recycled water represented 72% of our total water consumption in 2021.
+Surface water and groundwater consumption remained consistent during 2021. The volume of produced water decreased by 23% during 2021 compared to the previous year, mainly due to changes in produced water at Jacobina and Minera Florida. Produced water is not water we have targeted for use nor is it related to water use permits - it is water that has come into contact with our site as a result of our operations, and most often is water that we pump from underground mine workings to facilitate safe production. The amount of produced water generated in a given year is primarily a result of depth/location of mine operations, annual precipitation and the characteristics of the naturally occurring groundwater where we operate. In line with our intention to use water as efficiently as possible, we utilize this water in the mining and mineral recovery processes to minimize our surface and groundwater withdrawal. As a result, total water withdrawal is a combined result of both production needs and the existing water conditions of the local environment.
+Water Withdrawal by Source (ML) 2021 Site Water Withdrawal by Source (ML)
+Yamana’s 2021 Sustainability Report 56
+
+
+2021 Water reused or recycled (ML)
+Minera Florida 2,400. 
+Jacobina 3,690. 
+Cerro Moro 418. 
+El Peñón 4,719. 
+Reused and recycled water as percentage of total water use. 
+Minera Florida 77%
+Jacobina 61%
+Cerro Moro 46%
+El Peñón 72%
+Many areas in Chile are experiencing significant and prolonged drought conditions. As a company, we recognize that we have a role to play in protecting the water resources surrounding our operations. Minera Florida is located in a water-stressed area in the centre of the country, within a water catchment that is identified as experiencing extremely high (>80%) water stress according to the World Resources Institute Aqueduct Water Risk Atlas*. Total water withdrawal from this location in 2021 was 714 megalitres. Minera Florida prioritizes responsible water use, including maximizing the use of produced and recycled water. The Jacobina, El Peñón, and Cerro Moro operations are located in water catchments that have baseline water stress below 40% and are therefore not considered to be water stressed; because of this, water supply at these operations is not considered to be a significant risk at present, although we nevertheless continue to assess how we can optimize water use.
+* The WRI defines baseline water stress as the ratio of total annual water withdrawals to available annual renewable surface and groundwater supplies. WRI Aqueduct 2019.
+As in previous years, our sites did not discharge process water in 2021.
+Both TSM and the RGMPs address a variety of water use and management topics and we continued working to align our management systems with EIBP and driving improved performance. In 2021, HSSD Improvement Plans incorporated gaps from self-assessments conducted against these frameworks in 2020 to ensure full alignment with the standards by 2022.
+GRI and SASB Index (water withdrawal, discharge, and consumption)
+Yamana’s 2021 Sustainability Report 57
+
+
+Biodiversity. 
+How We Contribute to the Protection and Enhancement of Biodiversity. 
+We seek to limit our impacts on the ecosystems surrounding our sites and, ideally, to create a net positive impact on biodiversity. Biodiversity management is an integral component at every stage of the operation’s lifecycle and our management programs seek to safeguard ecosystem services surrounding our operations and restore natural resources with consideration for social, environmental and cultural needs.
+HIGHLIGHTS 2021. 
+Biodiversity Management Plans in place at all sites. 
+Self-assessments against. 
+TSM Biodiversity Conservation. 
+Management Protocol. 
+No operations in areas with species listed as critically endangered IUCN Red List. 
+Our Approach. 
+In 2021, Yamana approved our Environmental Protection Statement of Commitment in which we commit to “Respect locally and internationally protected species and areas, ensuring no net loss of critical habitat and delivering, where possible, a net positive impact on biodiversity.” We further commit to prioritize water and biodiversity management in our work to increase our resilience to climate risk (as described in our Climate Action Strategy in the Climate Change section of this report).
+We recognize that our activities have the potential to impact biodiversity and to alter ecosystems in a significant way if they are not planned and executed with care and consideration for valued ecosystem components, such as biodiversity and the provision of ecosystem services that host communities rely on. Our access to land and privilege to operate depend on our ability to responsibly manage our impacts on the local environment. At Yamana, protecting biodiversity, landscapes and ecosystem services begins at the planning stage of our operations and continues through to mine closure.
+We prioritize biodiversity management first and foremost by minimizing impacts on the local environment, and strive to complete progressive reclamation wherever possible. We are fortunate that the majority of our operations are primarily underground mines, resulting in a smaller land footprint.
+Each operation maintains a Biodiversity Management Plan (BMP), which presents detailed information on the ecosystems surrounding and impacted by our operations. These plans are based on findings from biodiversity assessments and ongoing data collection. Our BMPs: • Incorporate actions to make sure we comply with local legal requirements; • Align with Yamana’s global approach to biodiversity conservation management, driven by corporate HSSD requirements and EIBP; • Ensure that our sites have accurate biodiversity characterization information; and • Inventory the ecological baselines in the areas where we operate.
+Biodiversity baseline studies and associated data facilitate a detailed understanding of our impacts on flora and fauna. They act as risk identification and mitigation plans, which inform reclamation activities and minimize the impact on the biodiversity around each site.
+Each site approaches biodiversity differently based on their local environments while applying Yamana’s global values and management approach.
+Yamana’s 2021 Sustainability Report 58
+
+
+Mitigation Hierarchy. 
+It would be impossible for us to operate and have no impact on the surrounding environment. Yamana takes responsibility for the lands under our care, and we apply the mitigation hierarchy to our identified impacts and risks. The mitigation hierarchy describes the high-level approaches, from most desired to less desired, to protect biodiversity. When planning mitigation tactics, we begin first by determining what can be avoided and then progressively work down the remaining approaches.
+Avoid. 
+Minimize. 
+Reclaim. 
+Offset. 
+Most frequently, this is achieved at the operational level through protection of and revegetation with endemic plant species, conservation of threatened and endangered species, sensitive areas and critical habitats, progressive reclamation and biodiversity offsets.
+Biodiversity governance, strategy, risk management and operational contexts. 
+GRI and SASB Index (Workforce Statistics)
+The El Peñón (pictured here) and Cerro Moro operations are located in arid desert areas with extremely low biological diversity values.
+Performance. 
+All of our sites regularly conduct biodiversity monitoring and risk assessments, with the last company-wide Biodiversity Risk Assessment completed in 2017-2018.
+To further our biodiversity protection efforts at all sites, we conduct species monitoring and compare results against IUCN Red List to determine whether any such species are in the area and then, as necessary, take action to protect those species. Currently, no critically endangered species have been identified near our operations.
+The primary work done in 2021 on biodiversity management at our operations continues to be species monitoring and tracking, in addition to monitoring site reclamation. Although we did not complete any new land reclamation in 2021, we continued to monitor previous reclamation activities conducted at our Jacobina and Minera Florida operations to ensure that previous reclamation activities continue to thrive.
+Jacobina conducted a biodiversity campaign involving a thirdparty to research the flora and fauna in the surrounding area and update the species inventory in the BMP. This resulted in an increased and improved catalogue of new species, some of which are listed on the IUCN Red List of Threatened Species, mainly under the “least concern” category.
+The El Peñón and Cerro Moro operations are located in arid desert areas with extremely low biological diversity values. These sites conduct baseline studies and regular monitoring aligned with local legal requirements to make sure we minimize the impact on the surrounding environment. Because of the low level of natural biodiversity, annual reclamation activities and species management are not required at either operation.
+Minera Florida is within a region of high biodiversity value and is the operation where our biodiversity commitments are best demonstrated. Similar to previous years, Minera Florida continued ongoing maintenance of the area and in the Fundo Membrillo, an area covering 117 hectares where the operation has completed reforestation activities over the last number of years. This reclamation work is going well, with approximately 90% of reforested land successfully regenerating.
+The findings of these assessments showed that we do not currently pose a significant risk to the biodiversity of the areas surrounding our mine sites.
+Yamana’s 2021 Sustainability Report 59
+
+
+This measure represents one of the site’s Environmental KPIs and is reported on a monthly basis to the Board of Directors. 
+Our operations also continued ongoing activities, such as maintaining up-to-date biodiversity impact matrices, surveying and mapping sensitive areas for conservation, and maintaining fire control plans.
+Spotlight on Minera Florida. 
+Minera Florida’s operations are located within part of the Priority Site for the Conservation of the Biodiversity called "Cordón de Cantillana", as identified within the operation’s social and environmental impact assessment (SEIA). Mining activity in the Pedro Valencia, the deposit which Minera Florida mines, has seen mining activity dating back to 1986, 24 years before the Cordón de Cantillana Priority Site was established.
+The Cordón de Cantillana covers a predominantly mountainous landscape, with the highest altitudes reaching over 2,000m above sea level. The mountains are dissected by boxed valleys with steep slopes, with Minera Florida located within the Alhué estuary, one the main valleys in the south section of the priority site. Administratively, the priority site also includes the community of Alhué, as well as parts of Melipilla, San Pedro, Paine and Maipo Island. The protected area covers 205,364 ha.
+The environmental value of the area is based on the presence of unique and specific ecosystems, with species of endemic flora and fauna in conservation status categories. In addition, the area serves as an important source of water resources for consumption by the local communities, as well as supporting economic activities such as agriculture and mining.
+Minera Florida’s operations exist in accordance with the zoning plan established for the area and are located within a zone called the Direct Management Zone of Resources (ZM). This zoning corresponds to sections of the priority site where there were already economic activities at the time of establishment. Minera Florida operates within the established zoning requirements and works to balance management of the priority area’s biodiversity with the sustainable use of natural resources.
+Minera Florida performs ongoing maintenance in the Fundo Membrillo, an area covering 117 hectares where the operation has completed reforestation activities over the last number of years.
+Yamana’s 2021 Sustainability Report 60
+
+
+Tailings Management. 
+Responsible Management of Mining Waste. 
+The responsible management of mining waste is a key aspect of our business and one of the most significant ways Yamana demonstrates its commitment to environmental protection; it also protects the health and safety of people, both our workforce and residents of host communities. Yamana generates different types of mining-related waste in the course of our mineral processing activities, primarily waste rock and tailings, which are distinct from the other types of solid waste (non-hazardous and hazardous) we generate in the conduct of our business.
+What does responsible management of mine waste entail and how does that demonstrate a commitment to environmental protection?
+First and foremost, it means placing a high priority on the long-term stability of the engineered facilities where we store mine waste. All of Yamana’s tailings facilities incorporate best available engineering practices and technologies for tailings management in their design, construction and operations, including filtered tailings, paste/high-density slurry, installation of double-liners and responsible approaches to water management.
+Responsible management extends beyond confirming the physical stability of our mine waste storage facilities, since mine waste materials can contribute to water and air quality impacts if not managed properly. Such impacts can, in turn, affect a range of other environmental resources and ecosystem services, including aquatic life, flora and fauna. Yamana works hard to characterize the geochemical properties of mine waste to understand whether impacts could be generated, and to monitor water and air quality to detect any such impacts so they can be addressed.
+Although mine waste materials do not have economic value, Yamana nevertheless prioritizes ongoing and proactive management of these materials to protect the environment, the health and safety of people and host communities. These measures also safeguard our business and reputation.
+HIGHLIGHTS 2021. 
+Assigned clear accountabilities and responsibilities at all levels for tailings management. 
+Completed third-party tailings storage facility (TSF) inspections at all sites. 
+Advanced improvements to the tailings management system at all sites, based on EIBP. 
+Selected members of Yamana’s Independent Tailings Review Board (ITRB), which will be convened in 2022. 
+Our Approach. 
+Yamana has been updating its tailings governance and management framework to incorporate aspects of EIBP and address tailings management activities throughout the mining life cycle. Our tailings management system and associated processes, at both at the corporate and operational levels, incorporate the actions necessary to confirm and verify that all our TSFs and associated water management facilities meet or exceed the highest standards on dam safety and tailings management. We continue to work with our operations to incorporate the most up-to-date concepts related to dam safety and tailings management, including, but not exclusively limited to, guidance provided by the Canadian Dam Association (CDA) and MAC.
+We are also advancing the incorporation of key concepts described in the Global Industry Standard on Tailings Management (GISTM) and related documentation, released in 2020 and 2021, into our management system.
+Yamana’s tailings management approach includes: • Recognizing tailings management as a critical business risk, allowing for adequate and timely resource allocation at all our operations; • Developing and implementing a best-in-class tailings management system; • Identifying an Accountable Executive Officer (AEO: the SVP, HSSD), the Director, Tailings and competent engineers and other professionals at the operations who are responsible management for all aspects of tailings operations; • Completing regular third-party expert reviews and assessments; • Implementing designs prepared by registered engineers that incorporate best available technologies, including paste, dry stacking, downstream construction methods and liner installation; • Communicating frequently and effectively at the corporate level through a variety of means, including monthly tailings reports from sites and corporate. Both the AEO and the Director, Tailings have direct access to the Company’s CEO and the Executive Chairman; • Regularly monitoring and reporting performance indicators; and • Incorporating on-going risk assessment processes as a regular element of our management including reporting.
+Tailings Management. 
+Yamana’s 2021 Sustainability Report 61
+
+
+Performance. 
+Operational and third-party professionals assess the management and performance of Yamana’s tailings facilities on a regular basis. Operations, Maintenance and Surveillance (OMS) manuals and standard operating procedures are in place for all of Yamana’s tailings facilities. OMS manuals describe the key actions required to safely manage our TSFs. Sites update these documents regularly to reflect any changes to facility conditions. Yamana’s OMS manuals were prepared by the responsible engineers for each TSF operation, incorporating the latest guidance from CDA and MAC. Surveillance activities include collection and processing of monitoring data and completion of regular visual inspections of all facilities.
+Construction of TSFs is performed according best practices and incorporates accepted quality assurance and quality control (QA/QC) procedures to verify construction activities meet design and construction specifications established by the design engineer. QA/QC activities typically require completion of field verification and inspections of the works, taking samples of construction materials and performing laboratory testing to confirm materials meet design criteria.
+Finally, our closed properties no longer have active tailings facilities. Royal Mountain King maintains a closed tailings facility that does not present any stability concerns.
+Audits and Reviews. 
+Yamana’s TSF assurance process includes completion of regular reviews by independent experts, including annual dam safety inspections (DSIs) by the Engineer of Record or Design Engineer, and other third-party expert reviews and audits, including dam safety reviews (DSRs) performed on a schedule recommended by CDA.
+Annual DSIs were completed for all operating TSFs in 2021. The outcomes of these inspections confirmed that all facilities are stable and that our systems and processes are strong.
+Tailings Management. 
+In 2021, Yamana continued to improve its tailings management systems and incorporated key elements proposed in guidance from the MAC. Yamana established an ITRB at the corporate level and selected the ITRB members. The first meeting of the ITRB will take place in 2022. Participation of the ITRB members will further enhance our assurance processes to align with evolving international best practice as represented by the MAC Tailings Guide and the GISTM.
+We undertook a variety of activities at our active and decommissioned TSFs in 2021 to continue our work to improve our tailings management systems and standards, their alignment with EIBP, and to make sure they continue to meet production needs and regulatory requirements.
+• Jacobina: We continued closure activities and stability monitoring of the decommissioned B1 TSF and reservoir. We also completed inundation studies for B2 dam and updated the TSF Emergency Plan accordingly. The site completed construction of Stage 5 of the B2 dam according to designs. The Dam Engineer completed a DSI for B1 and B2 dams, and identified no risks requiring urgent actions.
+• Minera Florida: Completed construction of Stage 2 of. 
+Phase 1 of the “Pastas” TSF. The operation completed the re-sloping of the Unificado Dry stack facility and installed surface water diversion systems. A DSI was completed for the “Pastas” TSF, identifying no significant risks requiring immediate attention.
+• Cerro Moro: Completed construction of the Phase 2 dam raise. The TSF has a downstream configuration and incorporates a low-permeability, geomembrane double-lining system. The Engineer of Record completed a DSI and no significant risks requiring immediate attention were identified.
+• El Peñón: Operations continued as normal. A third-party expert completed an inspection of the facility and confirmed the design continues to meet standards and regulatory requirements.
+Mineral Solid Waste 2019 2020 2021. 
+Total Waste Rock Generated (tonnes)* 31,501,286 6,357,162 7,133,007. 
+Total Tailings Generated (tonnes) 15,864,169 4,680,902 5,275,200. 
+Waste Rock Management. 
+Our waste rock management approach focuses on making sure waste rock storage facility slopes are stable and confirming that groundwater and surface water quality are not impacted by generation of acid drainage or metal leaching.
+Overall, we generated 13% more tailings and 12% more waste rock in 2021 compared to 2020. These increases were primarily at Jacobina, Minera Florida and Cerro Moro, and are largely a result of increased production in 2021.
+* The reduction in waste rock from 2019 to 2020 is primarily due to the sale of an asset in July 2019.
+Yamana’s 2021 Sustainability Report 62
+
+
+Mine Closure. 
+Taking Care of Our Legacies. 
+Mine closure is an inevitable step in the life cycle of all mining operations. Closure planning involves assessing all environmental and social aspects to minimize impacts and, ideally, to create long-lasting benefits. When done strategically, thoughtfully, and with the involvement of host communities and other stakeholders, mine closure provides an opportunity to help achieve productive land-use and economic development objectives, while securing the physical and chemical stability of the area and protecting the environment.
+Addressing the environmental aspects at the end of a mine’s life has been an essential component of closure planning for decades. Assessing the social impacts of mine closure and working with host communities to create lasting benefit has evolved and increased in importance over the last 20 years. Planning for the social aspects of closure is often more challenging than the physical reclamation activities (removal of buildings, re-sloping and re-vegetation, etc.) because it depends on knowing the aspirations of host communities and working together to find ways for those to be achieved in the absence of the economic engine provided by the mine. This is equivalent to a plant closing in a small community; without effective planning, people can experience significant dislocation.
+Our reputation rests, in part, on how we manage our legacies; society demands that companies take responsibility for reclaiming former mine sites. Our aim is for closed properties to have minimal environmental effects and to continue to generate value and benefits for stakeholders well after active mining has ceased. To that end, we work with governments and local stakeholders to ensure land affected by our operations is returned to a state that can support beneficial future land uses for host communities.
+HIGHLIGHTS 2021. 
+Maintained and updated, as necessary, closure plans and cost estimates at all operations. 
+Completed annual updates to Asset Retirement Obligations (ARO) at all operations; the 2021 year-end consolidated. 
+ARO on Yamana’s balance sheet is $377.2 million. 
+Our Royal Mountain King site (shown above) is in late-stage closure, with active reclamation activities required by permits complete.
+Yamana’s 2021 Sustainability Report 63
+
+
+Our Approach. 
+As part of our new Environmental Protection Statement of Commitment, we commit to; “Develop plans that sufficiently provision for land rehabilitation and closure, minimize landscape impacts, maximize post-closure benefits, and are shared with communities.”
+At Yamana, our approach to closure focuses on proactive planning, fulfilling our closure commitments to government and host communities, and ensuring, at minimum, that sites are returned to a condition that minimizes environmental impact. For us, closure planning begins at the feasibility and planning stages before a mine is built and continues through operations as an integral component in our environmental and social management strategies. We approach closure through a variety of mechanisms; • Developing closure plans and associated cost estimates for all operations which are regularly updated at pre-determined intervals or when there are significant changes to the mine’s footprint or life; • Commencing progressive reclamation wherever possible and incorporating local regulatory requirements and host community expectations; • Allocating funds for closure long before the closure of the mine in the form of balance sheet ARO provisions and, where required by in-country regulations, financial assurance (financial guarantees) to host governments; • Prioritizing creation, maintenance and enhancement of strong, trust-based relationships with host communities and stakeholders before, during and after the closure process; • Supporting participatory processes for understanding and improving community well-being through coordination and planning with stakeholders, including in planning for the social aspects of closure; and • Maintaining clear and transparent closure commitments with local governments, regulating bodies and communities.
+In 2022, we intend to support implementation of these commitments with the release of Yamana Standards, one of which will outline our expectations and commitments related to closure, closure planning, cost estimating, ARO and long-term stewardship.
+Closure governance, strategy, risk management and operational contexts. 
+Performance. 
+Operating sites. 
+In 2021, our operating sites focused on maintaining and monitoring areas reclaimed in previous years. Reclamation activities focused on planting and management of native species of flora, as well as reclamation of a decommissioned TSF at Jacobina.
+Yamana also ensures that our operations review and report their financial closure obligations on an annual basis. The annual review includes understanding all site impacts, local regulations, and changes with the surrounding environment and social context. After reviewing these factors, we allocate appropriate funds for identified closure activities through mechanisms such as local reclamation bonds, as well as recording the consolidated ARO on our balance sheet. The ARO is an estimate of the financial liability associated with decommissioning a former asset. ARO’s are developed at the mine-site level, reviewed by corporate HSSD and Finance staff, presented to executive management and the Board of Directors and then subjected to review by Yamana’s external auditors. Our total liabilities for reclamation and closure cost obligations as of December 31, 2021 were $377.2 million on a 100% consolidated basis.
+Additionally, our Cerro Moro facility in Argentina submitted its updated closure plan to the local authorities in accordance with new provincial regulations.
+Closed Sites. 
+A wholly-owned Yamana subsidiary manages our two closed mining properties located in Idaho and California: Beartrack and Royal Mountain King, respectively.
+Beartrack and Royal Mountain King are both in late-stage closure. At the Royal Mountain King site, active reclamation activities required by permits are complete and we continue to progressively reduce monitoring activities since the company and regulatory agencies agree that reclamation has demonstrated acceptable, long-term stability. Various closure activities took place at our Beartrack site in 2021, including species management, facility repairs, wetland development and water management. In 2020 and 2021 respectively, water quality monitoring requirements were reduced at Beartrack and Royal Mountain King due to long-term reclamation stability.
+Yamana’s 2021 Sustainability Report 64
+
+
+Contact Information. 
+Yamana Gold Inc. 200 Bay Street Royal Bank Plaza, North Tower Suite 2200 Toronto, Ontario M5J 2J3 Phone: 416-815-0220. 
+Craig Ford Senior Vice President, Health, Safety and Sustainable Development Phone: 416-815-0220/1-888-809-0925 Email: sustainability@yamana.com. 
+Yamana’s 2021 Sustainability Report 65

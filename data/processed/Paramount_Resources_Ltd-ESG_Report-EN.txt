@@ -1,0 +1,635 @@
+Paramount Resources Ltd. | 2022 ESG Report 2. 
+Paramount is proud of its 40+ year history of responsible energy development in Western Canada
+
+
+Performance Highlights ................................................4 Letter to Stakeholders ...................................................5 About Paramount ...........................................................6 About this Report ...........................................................7. 
+GOVERNANCE. 
+Overview ..........................................................................10. 
+ESG Role of our Board .....................................................11. 
+ESG Role of our Leadership and Employees ..................12. 
+Paramount Operations Excellence Management System (POEMS) ..............................................................13. 
+Ethical Business Conduct and Transparency .................14. 
+Climate Related Risks and Opportunities.......................15. 
+ENVIRONMENT. 
+GHG Emissions ................................................................ 19. 
+Methane Emissions and Air Quality ............................... 21. 
+Water Management ....................................................... 22. 
+Surface and Ground Water ............................................ 24. 
+Land Use, Asset Retirement and Reclamation .............. 25. 
+Biodiversity ..................................................................... 28. 
+SOCIAL. 
+Health and Safety ............................................................ 30. 
+Community Relations, Security, Human Rights and Indigenous Relations....................................................... 31. 
+ESG Performance Tables ............................................ 32 Reporting Frameworks................................................ 37 Advisories ....................................................................... 42. 
+Paramount Resources Ltd. | 2022 ESG Report 3. 
+Table of Contents
+
+
+Paramount Resources Ltd. | 2022 ESG Report 4 2021 PERFORMANCE HIGHLIGHTS 27% reduction in both absolute combined Scope 1 & 2 emissions and intensity since 2019 ~220 hectares of land area reclaimed 156 wells decommissioned 107 reclamation certificates received 54% reduction in reportable spill volumes versus 2020. 
+Participated in the 2022 CDP Climate Change Survey
+
+
+We are pleased to present Paramount’s third annual Environmental, Social and Governance ("ESG") report. Our commitment to our stakeholders on ESG matters is to strive for continuous improvement and to provide regular updates on our progress on these fundamentally important issues. In this report you will read about how we are delivering on our commitment, including: ▪ how our Board of Directors oversees ESG matters; ▪ how responsibility for ESG flows from our senior leadership to dedicated teams of employees; ▪ how we protect the health and safety of our staff and those impacted by our business; ▪ how we identify and manage climate-related risks and opportunities; ▪ our initiatives to reduce greenhouse gas emissions; ▪ the progress we are making in returning legacy sites to their natural state; ▪ our approach to air quality, water management and biodiversity; and ▪ how we interact with, and contribute to, the communities in which we live and operate.
+We have also included comprehensive data tables at the back of this report to help you better understand and assess our ESG performance over the past 3 years.
+For over 40 years, Paramount has consistently adapted to meet the challenges we faced. We know that our industry will continue to evolve as the world transitions to a lower carbon economy. We intend to evolve with it so that we can continue to meet the world’s demand for secure sources of energy from regions with the highest standards of environmental protection and human rights. The world needs more Canadian energy and Paramount plans to play a key role in providing that energy in the decades to come.
+Paramount Resources Ltd. | 2022 ESG Report 5. 
+Letter to Stakeholders. 
+J.H.T. Riddell Chairman and. 
+President and Chief. 
+Executive Officer. 
+Rodrigo R. Sousa. 
+Executive Vice. 
+President, Corporate. 
+Development and. 
+Planning. 
+D. Blake Reid Executive Vice. 
+President, Operations
+
+
+Our founder, the late Clayton Riddell, formed Paramount in 1975 and took it public in 1978. Mr. Riddell was a humble and dignified man who quietly and generously contributed to the communities where he had found so much success. Mr. Riddell played an instrumental role in bringing the Shaw Charity Classic golf tournament to Calgary, which has raised over $76 million for youth-based charities, and made charitable donations to a wide range of worthy causes through the Riddell Family Charitable Foundation and the Flames Foundation. His many business achievements and accolades included the establishment of the political management program at Carleton University, the Faculty of Environment, Earth, and Resources at the University of Manitoba, the Clay Riddell Centre for Quantum Matter at the Perimeter Institute, induction into the Canadian Business Hall of Fame and appointment as an Officer of the Order of Canada. Mr. Riddell’s integrity, work ethic and entrepreneurial spirit built Paramount and continue to form the basis of our business philosophy today.
+Paramount explores for and develops conventional and unconventional petroleum and natural gas in Western Canada, with our core properties being located in the Province of Alberta. Our assets include petroleum and natural gas processing facilities that handle a portion of our production as well as production from third parties. In addition, our wholly-owned subsidiary Fox Drilling owns and operates drilling rigs that we use in our exploration and development activities. Our head office is located in Calgary, Alberta and our class A common shares are publicly traded on the Toronto Stock Exchange (TSX: POU).
+Paramount Resources Ltd. | 2022 ESG Report 6. 
+About Paramount. 
+Karr/Wapiti Montney. 
+Kaybob Montney/ Duvernay. 
+Willesden Green Duvernay. 
+Calgary, Corporate Headquarters. 
+From humble beginnings Clayton Riddell (left) would rise to become an Officer of the Order of Canada
+
+
+Paramount has tracked and reported a range of ESG information for many years in accordance with Canadian federal and provincial regulatory requirements. We are pleased to present this ESG report which provides enhanced voluntary disclosure of our ESG approach and performance. We believe this report will help our stakeholders better understand Paramount’s ongoing commitment to responsible and sustainable energy development.
+Our Stakeholders. 
+We refer to our “stakeholders” throughout this report. Paramount’s stakeholders have been identified based on a comprehensive review of those groups that are either impacted by or that impact our operations. We consider our stakeholders to include: ▪ our investors and capital providers ▪ our employees and contractors ▪ governments and regulators ▪ Indigenous and local communities where we operate ▪ mineral and surface rights owners ▪ joint venture partners ▪ suppliers and business partners. 
+Our stakeholder engagement philosophy is set out in POEMS, our comprehensive operations management system: 
+You will read more about our approach to our stakeholders throughout this report.
+POEMS Regulatory Compliance & Community. 
+Engagement (Element E-8)
+Paramount is seen to act as a neighbour, partner, employer, and investor of choice as it delivers responsible operations, conforms to commitments, and seeks to have a positive influence on the communities in which it operates. This is achieved by complying with legal and regulatory requirements which enhances the Company's reputation by engaging stakeholders on the issues that affect them.
+
+Paramount Resources Ltd. | 2022 ESG Report 7. 
+About this Report
+
+
+Materiality. 
+This report contains the ESG information that Paramount considers most relevant to our business and to our stakeholders. In selecting the ESG topics and metrics included in this report, we have focused on matters that we believe have the potential to have a significant impact on our operations or financial results, are of most interest to our stakeholders or are particularly relevant to the Canadian upstream oil and gas sector.
+We referred to the recommendations and guidance set out in the reporting frameworks listed below in preparing this report. To promote comparability, we have also attempted to align the topics and metrics included in this report with recent ESG reports issued by our peers.
+Reporting period. 
+Performance data presented in this report is focused on 2021. Certain results from prior years are presented to provide trending information and to highlight Paramount’s progress on ESG matters. This information can also be found on our website.
+Reporting frameworks. 
+Paramount has referred to the reporting frameworks set out below to assist in determining the content and structure of this report and the methodologies that are utilized in it. However, this report is not fully compliant with these frameworks.
+Task Force on Climate-Related Financial Disclosure (“TCFD”) recommendations. 
+Sustainability Accounting Standards Board (“SASB”) (Oil & Gas – Exploration & Production – Industry Standard, Version 2018-10)
+Global Reporting Initiative Standards (“GRI”) (GRI Consolidated Standards, 2020 and G4 Sector Disclosure – Oil & Gas, 2012)
+International Petroleum Industry Environmental Conservation Association (“IPIECA”)
+For more information about Paramount’s reporting against these reporting frameworks, see the disclosure indexes beginning on page 37.
+Boundaries of reported performance. 
+Consistent with industry practice, we have reported our environmental performance data based on operational control. Accordingly, we have not adjusted this data to account for circumstances where third parties hold interests in our operated assets nor, conversely, to include assets where we hold ownership interests that are operated by third parties.
+Definitions and Advisories. 
+The terms “Paramount”, the “Company”, “we”, “us”, or “our” means Paramount Resources Ltd. and, where the context requires, also means our subsidiaries on a consolidated basis. Other terms are defined when they are first used in this report.
+Some of the information contained in this report is forward-looking and deals with future plans, trends and anticipated results or circumstances. Although we believe this forward-looking information is based on reasonable expectations and assumptions as of the date of this report, actual results may differ significantly. You should carefully read the cautions respecting forward-looking information and other matters that are contained in the Advisories section.
+Effective Date. 
+The effective date of this report is August 3, 2022. We undertake no obligation to update or revise this report for new information occurring after the effective date.
+Our Contact for Questions. 
+For questions about this report, please contact:
+Rodrigo (Rod) Sousa – Executive Vice President, Corporate Development and Planning 403.290.3600 | rod.sousa@paramountres.com. 
+Paramount Resources Ltd. | 2022 ESG Report 8. 
+ABOUT THIS REPORT
+
+
+Paramount Resources Ltd. | 2022 ESG Report 9. 
+Governance
+
+
+Paramount Resources Ltd. | 2022 ESG Report 10. 
+Governance Overview ✔ Insider ownership ✔ Independent Board of Directors ✔ Fully independent Audit, Compensation,
+Corporate Governance, and Reserves Committees ✔ Minimum shareholding requirements for directors ✔ Officers and directors prohibited from hedging Paramount securities ✔ Loans to officers and directors prohibited ✔ Code of Ethics and Code of Business Conduct ✔ Anonymous Whistleblower Policy and portal. 
+Paramount’s success depends on strong governance and effective oversight of ESG matters, with critical roles played by our Board of Directors (“Board”), our leadership team and our employees
+
+
+Our Board oversees all aspects of our business, including ESG. 
+The Environmental, Health and Safety Committee of the Board (“EHS Committee”) oversees our environmental policies and programs, including those pertaining to sustainability, emissions tracking, reduction and reporting, water use and environmental and climate-related risk assessment and management. The EHS Committee also reviews Paramount’s approach to ESG reporting and is mandated to review any ESG report prior to issuance. James H.T. Riddell, Paramount’s President and Chief Executive Officer and the Chairman of our Board, (“CEO”) serves as a member of the EHS Committee. The other members of the EHS Committee are Dirk Jungé (Chair) and Keith MacLeod, both of whom are independent directors. The EHS Committee meets and reports to the Board at least semi-annually.
+The Corporate Governance Committee of the Board, comprised entirely of independent directors, oversees our system of corporate governance, including our approach to overall risk management, ethical business practices and Board composition. The Corporate Governance Committee meets and reports to the Board at least semi-annually.
+The Audit Committee of the Board, comprised entirely of independent directors, monitors compliance with our Code of Business Conduct, Code of Ethics and Whistleblower Policy. The Audit Committee oversees the response to any complaints made under the Whistleblower Policy. The Audit Committee meets and reports to the Board at least quarterly.
+You can read more about the composition and qualifications of our Board and its committees, our corporate governance structure and practices and our key corporate governance documents in our Annual Information Form and in our Annual General Meeting information circular. The written mandates of the Board and each of its committees can be viewed on our website.
+Paramount Resources Ltd. | 2022 ESG Report 11. 
+ESG ROLE OF OUR BOARD. 
+EHS Committee. 
+Senior Leadership. 
+Board oversight. 
+Strategy. 
+Execution. 
+POEMS. 
+Feedback. 
+Practices and Procedures
+
+
+Paramount Resources Ltd. | 2022 ESG Report 12. 
+ESG ROLE OF OUR LEADERSHIP TEAM AND EMPLOYEES. 
+Our CEO, as Paramount’s highest ranking executive officer, together with Rodrigo Sousa, Executive Vice President, Corporate Development and Planning, and Blake Reid, Executive Vice President, Operations, are directly responsible for our strategic direction with respect to ESG matters. In addition to serving as a member of the EHS Committee, our CEO acts as the primary conduit for communication between the Board and the leadership team with respect to ESG matters, approves all significant ESG initiatives and leads the Company’s risk assessment and management processes.
+Paramount has an ESG Committee comprised of a multidisciplinary team, including members of senior leadership as well as subject matter experts from across our organization. The ESG Committee meets at least monthly and is responsible for preparing our ESG reporting, keeping abreast of ESG related developments and trends and considering sustainability-related opportunities, risks and initiatives. The ESG Committee has formed a GHG Task Force to assist it in developing strategies to improve GHG performance metrics, including evaluating and implementing specific projects and initiatives to reduce GHG emissions and improve GHG emissions intensity.
+Senior members of our leadership team report to the EHS Committee of the Board at each scheduled meeting with respect to ESG matters, including regulatory compliance, environmental protection, climaterelated issues and environmental and safety risk assessment and management. This reporting includes updates with respect to major initiatives undertaken on ESG matters as well as progress against key performance indicators.
+
+
+Paramount Resources Ltd. | 2022 ESG Report 13. 
+POEMS – PARAMOUNT OPERATIONS EXCELLENCE MANAGEMENT SYSTEM. 
+POEMS provides the framework under which we have developed a comprehensive operations management system. POEMS arose out of our desire to create a culture that embraces the principle that health, safety and environmental performance not only benefits our employees, communities and other stakeholders, but also drives better business results. POEMS is the result of a multi-year, collaborative effort involving Paramount employees from all departments and outside experts, who together brought a vast amount of experience and knowledge to bear in developing this framework.
+The 12 elements of POEMS cover all aspects of operations, maintenance, asset integrity, health and safety and environmental stewardship: 1 – “MOC” means management of change (1)
+
+
+Ethical Business Conduct. 
+Over our 40+ year operating history, Paramount has earned a reputation for integrity and honesty. Our Code of Business Conduct and Code of Ethics provide the framework pursuant to which we conduct our business consistent with this reputation.
+Our Code of Business Conduct applies to all our directors, officers, employees and consultants and sets out our expectations concerning the ethical conduct of our business, including the avoidance of conflicts of interest, compliance with the law, respect for co-workers, the making or acceptance of gifts or payments from third parties, political and charitable contributions, interactions with public officials, community relations and the use of confidential information. You can read our Code of Business Conduct here.
+Our Code of Ethics applies to our CEO, Chief Financial Officer, Controller and other financial supervisors. The Code of Ethics contains requirements relating to the avoidance of conflicts of interest, interactions with our auditors, the keeping of financial records, ensuring the accuracy of our public disclosure, the establishment and management of financial reporting systems, compliance with laws and the promotion of ethical conduct. You can read our Code of Ethics here.
+Paramount also has a Whistleblower Policy that facilitates the anonymous disclosure of potential breaches of our Code of Business Conduct, Code of Ethics or any other concerns relating to the conduct of our business. Our website contains directions outlining how anonymous reports may be made under the Whistleblower Policy and provides a link to a separate, stand-alone website through which anonymous reports may be made. Complaints made under the Whistleblower Policy are reviewed and addressed by the Audit Committee. You can read our Whistleblower Policy here.
+The Audit Committee receives certificates from Paramount’s officers and senior management each calendar year confirming their compliance with the Code of Business Conduct and, where applicable, the Code of Ethics. The Audit Committee reviews these certifications and reports to the Board. In addition, each employee and consultant receives an annual communication reiterating the need for them to comply with the Code of Business Conduct and reminding them of the availability of the whistleblower processes set out in the Whistleblower Policy.
+Transparency. 
+We have publicly reported payments to governments and Indigenous communities under the Extractive Sector Transparency Measures Act since 2016. You can view our latest report on our website.
+Paramount Resources Ltd. | 2022 ESG Report 14. 
+ETHICAL BUSINESS CONDUCT AND TRANSPARENCY. 
+Condensate storage tanks in lined steel secondary containment structure
+
+
+Paramount Resources Ltd. | 2022 ESG Report 15. 
+CLIMATE RELATED RISKS AND OPPORTUNITIES. 
+How We Identify and Manage Climate Related Risks and Opportunities. 
+Climate-related risks are identified through our integrated risk assessment and management processes. These include a Board reviewed risk matrix and risk assessments conducted by our leadership team and Board in conjunction with the annual budgeting process, the quarterly review of operating and financial results and our long-term strategic planning.
+We consider short-term climate-related risks to be those with a time horizon of less than one year. Short-term risks include acute physical risks to Paramount’s assets and operations, such as forest fires, flooding or drought, and risks associated with compliance with current regulatory requirements. These risks are primarily managed through specific policies and procedures implemented under POEMS and overseen by our senior management. Through such policies and procedures, these risks are assessed and ranked based on likelihood and impact.
+We consider medium-term climate-related risks to be those with a time horizon of between one and five years. This time horizon generally includes risks that have the potential to impact, or that have been factored into, our medium-term development plans and financial modelling or that are associated with potential regulatory and tax changes under consideration, or that may be reasonably anticipated to come under consideration, by applicable authorities. Medium-term climate-related risks include chronic physical risks, such as changes in precipitation patterns impacting water availability, as well as emerging regulations and policies. These risks are managed by teams of management and operating personnel, together with subject matter experts, who, under the oversight of the EHS Committee, are charged with developing strategies and polices to assess and address these risks.
+We consider long-term climate-related risks to be those with a time horizon of greater than five years. This time horizon includes risks that have the potential to impact our ability to fully develop and market our resources over the anticipated lifespan of our fields and risks that are associated with shifts in consumption patterns, investment practices and public perception. Long-term climate-related risks include market-related and reputational risks that are strategic risks which are identified and assessed by our Board in conjunction with senior management, including through an annual consideration of climate-related risks in compliance with CSA Staff Notice 51-358 – Reporting of Climate Change-related Risks and in connection with the release of our Annual Information Form.
+Climate-related opportunities are identified on both an operational and strategic level. Operational opportunities, such as the generation of carbon credits through emission reduction projects and improvements to efficiency, are primarily identified by responsible operational personnel, including the ESG Committee and GHG Task Force. Strategic opportunities, such as those associated with the potential of natural gas and liquified natural gas to act as a low emissions energy alternative, are considered by our senior management and Board as part of our overall strategic planning processes.
+Rain runoff water is collected into on-site ponds and tested for quality before being re-released into the environment
+
+
+Paramount Resources Ltd. | 2022 ESG Report 16. 
+CLIMATE RELATED RISKS AND OPPORTUNITIES. 
+Acute Physical - Weather events pose a physical risk to our assets and operations and those of third-party processors and transporters upon which we rely. Wells, facilities and pipelines may be susceptible to damage, loss or prolonged service interruptions due to extreme weather events.
+▪ Operational level policies and procedures under POEMS to reduce risk through work practices and well, pipeline and facility design ▪ Insurance coverage of certain risks. 
+Chronic Physical - We require reliable sources of water for many of our drilling and completion operations. Changes in precipitation patterns in the areas in which we operate may impact the availability of water sources.
+▪ Sustainable water management strategies developed by our water management department ▪ Increasing water use efficiency and storage opportunities. 
+Regulation and Policy - Federal and provincial laws and regulations respecting emissions, carbon pricing and carbon credits continue to evolve and there is a risk that additional laws and regulations could be implemented in the future that would have a substantial impact on Paramount.
+▪ Employing an internal price on carbon in our planning based on anticipated levies ▪ Offset generation ▪ Emissions reduction initiatives. 
+Market - Global efforts to reduce GHG emissions may reduce the demand for our products and adversely impact the prices received by producers like Paramount.
+▪ Seeking to expand markets for our natural gas as a transition fuel to displace higher emission energy sources such as coal. 
+Reputation - A negative perception of the oil and natural gas industry due to climate change could reduce public support for major infrastructure projects such as pipelines, making it more difficult for Paramount to attract employees and investors or to obtain credit or insurance and influence governments to implement restrictive measures.
+▪ Participation in industry groups that promote an enhanced public understanding of the fact that Canadian energy producers are subject to some of the most stringent environmental standards in the world ▪ ESG reporting and stakeholder engagement. 
+Risks Response. 
+Climate-Related Risks. 
+Set out below are the most significant climate-related risks that we have identified and our primary strategies for responding to them. You can read more about these and other risks in our Annual Information Form.
+Understanding the climate-related risks and opportunities that impact our business is important to our stakeholders and a key element of our strategic planning process
+
+
+Paramount Resources Ltd. | 2022 ESG Report 17. 
+CLIMATE RELATED RISKS AND OPPORTUNITIES. 
+Use of lower-emission sources of energy (short term) We have been equipping new drilling locations with natural gas infrastructure to supply fuel to power bi-fuel capable drilling rigs. Cleaner burning natural gas has replaced approximately 40% of the diesel used to drill each well in 2021. Combined with reductions in drilling time, this has resulted in an approximately 62% reduction in total diesel consumption per well since 2018. Similarly, we have worked closely with our completions vendors to use bi-fuel equipment that enabled approximately 31% of the diesel used in completions activities in 2021 to be replaced by natural gas.
+Use of more efficient production processes (medium term) We are assessing the opportunity for an ultralow emission upgrade to one of our facilities. The upgrade would utilize an oxy-combustion turbine powered by our natural gas to generate electricity for the operation of the facility and for sale onto the grid. The CO2 generated by the turbine would be captured, compressed and injected into a nearby field and excess water from condensed process steam would be reused in future developments, reducing our fresh water consumption.
+Access to new markets (long term) We are a significant producer of natural gas. Climate-related opportunities exist for Canadian natural gas to serve as a transition fuel to displace high emission energy sources such a coal fired power plants, in particular through the export of liquified natural gas (LNG) to overseas markets. Paramount, in conjunction with other producers, is actively exploring the development of additional LNG export capacity.
+Primary Driver and Time Horizon Opportunity. 
+Climate-Related Opportunities. 
+Set out below are some of the climate-related opportunities we have identified and are pursuing.
+
+
+Paramount Resources Ltd. | 2022 ESG Report 18. 
+Environment
+
+
+Paramount Resources Ltd. | 2022 ESG Report 19. 
+GHG Emissions. 
+We are committed to continuous improvement in all aspects of our operations, including reducing our. 
+GHG emissions. 
+Between 2019 and 2021, Scope 1 absolute emissions decreased 25%, Scope 2 absolute emissions decreased 36% and combined Scope 1 and Scope 2 emissions intensity decreased 27%. Although production increased in 2021 year over year, Scope 1 emissions decreased by approximately 70,000 tCO2e as a result of less throughput at operated facilities and a reduction in recorded fugitive emissions due to a greater reliance on direct measurement of emissions instead of estimates. A full breakdown of our emissions over this period can be found on page 33.
+We are striving for further emissions intensity improvements from a combination of emissions reduction initiatives and through a continued focus on operational efficiency and incorporation of low emission technologies in future development activities.
+Scope 1 emissions are direct emissions from company owned and controlled resources. These are divided into four categories: > Stationary combustion > Mobile emissions > Fugitive emissions > Process emissions. 
+Scope 2 emissions are indirect emissions from the generation of purchased electricity.
+SCOPE 1 & 2 EMISSIONS ↓27%
+Scope 1 + 2 absolute emissions ↓27%
+Scope 1 + 2 emissions intensity 0.0000 0.0100 0.0200 0.0300 -
+250,000 500,000 750,000 2019 2020 2021 tCO2e/
+Boe tCO2e. 
+Scope 1 Scope 2 Intesity
+
+
+Paramount Resources Ltd. | 2022 ESG Report 20. 
+GHG EMISSIONS. 
+D
+Bi-Fuel Drilling Rigs 40% less Diesel 31% less Diesel. 
+Bi-Fuel Completions. 
+The strategic decisions we made in 2019 to permanently shut-in the aged and inefficient Zama and Hawkeye fields acquired through the 2017 acquisition of Apache Canada Ltd. resulted in significant GHG emissions reductions. You can read more about our ongoing activities to return these fields to their natural condition on page 27 of this report.
+More recently, we have made additional significant strides in reducing our GHG emissions through a number of initiatives. New well pads are being equipped with instrument air packages, eliminating the venting of methane for routine operation. Paramount is also pursuing a multi-year program to replace a number of pneumatic chemical pumps with solar/electric alternatives.
+We are equipping new drilling locations with natural gas infrastructure to supply fuel to power the bi-fuel capable drilling rigs of our Fox Drilling subsidiary. Cleaner burning natural gas has replaced 40% of the diesel used to drill each well on average in 2021 at our Karr and Wapiti properties. Similarly, we have worked closely with our completions vendors to improve efficiencies and to use bi-fuel equipment that enabled the replacement of approximately 31% of the diesel used in completions activities with natural gas.
+Paramount’s principal properties are located in Alberta, where the Technology Innovation and Emissions Reduction Implementation Act (Alberta) as well as the Technology Innovation and Emission Reduction Regulation (“TIER”) apply. Our Alberta facilities are regulated as an aggregate facility under TIER, which means we are required to reduce the GHG emission intensity of stationary fuel combustion emissions in 2022 by 10% relative to historical baseline emissions. If we don’t meet this target, we will be required to pay $50 per tCO2e of excess emissions into the TIER Fund or use offset credits. For 2021, Paramount anticipates being issued offset credits as a result of achieving emission reductions in excess of TIER requirements.
+For our 2021 GHG emissions reporting we engaged an independent and accredited third-party evaluator to verify 100% of both our Scope 1 and Scope 2 GHG emissions.
+
+
+Paramount Resources Ltd. | 2022 ESG Report 21. 
+Methane Emissions and Air Quality. 
+Methane Emissions. 
+The Alberta government has set a target of reducing methane emissions from the oil and gas industry by 45% from 2014 levels by 2025. Under. 
+Directive 60 released by the Alberta Energy Regulator, oil and gas companies are required to address fugitive emissions and venting, the primary sources of methane emissions. The requirements also focus on improved measurement, monitoring and reporting of methane emissions.
+Our Methane Retrofit Reduction Compliance Plan provides a road map for measuring and reducing emissions from pneumatic devices, compressor seals, glycol dehydration facilities and other equipment such as tanks.
+We have implemented a Fugitive Emissions Management Plan designed to systematically detect and manage fugitive emissions. In 2021, we utilized independent third-party service providers and in-house resources to conduct a methane leak, detection and repair/fugitive emission survey/screening program covering 100% of our asset base. This led to the detection, quantification and repair of 222 leaks and the conservation of approximately 20,000 Mcf/year or 56 Mcf/day of natural gas, the equivalent of a 8,700 tCO2e annual reduction in GHG emissions.
+Low Bleed Controller – low/no bleed units have been installed across our operations resulting in lower methane emissions. 
+Air Quality. 
+Air quality can be affected by upstream oil and gas operations through the release of nitrogen oxide (“NOx”) during combustion in gas engines, the creation of sulfur dioxide (“SO2”) when hydrogen sulphide (“H2S”) is combusted, the release of volatile organic compounds (“VOCs”) during venting and the release of particulate matter from the incomplete combustion of hydrocarbons.
+We strive to limit our impact on air quality by implementing facility changes to reduce NOx and SO2 emissions from rotating equipment, reducing venting and flaring from our operations and locating, identifying and repairing vented leaks from our assets. We monitor and audit our fuel, flare and vent activities through our Enhanced Production Audit Program.
+
+
+Paramount Resources Ltd. | 2022 ESG Report 22. 
+Water Management. 
+We take pride in understanding the watersheds in which we operate. 
+This ensures we optimize water withdrawals and storage to reduce the environmental footprint of our drilling and completion operations.
+Our dedicated water management team is responsible for developing short-term water management plans and long-term strategies that are environmentally sustainable. This includes identifying water sources and opportunities for reduced usage, acquiring necessary regulatory approvals, determining storage requirements, organizing and overseeing transportation and logistics and interacting with stakeholders. Water usage data is tracked and reported to the EHS Committee.
+As a Canadian energy company, Paramount is subject to some of the most stringent regulatory requirements respecting water usage and conservation in the world. In addition to meeting or exceeding these regulatory requirements, as a member of formal operators’ groups in our key areas, we collaborate with our peers to ensure we use industry best practices and meet or exceed industry standards.
+
+
+Paramount Resources Ltd. | 2022 ESG Report 23. 
+WATER MANAGEMENT. 
+Wapiti fresh water storage – facilitates the optimization of withdrawals, minimizing our environmental footprint 0%
+Fresh water withdrawn from areas of High or Extremely High Baseline Water. 
+Stress(1) 1 – As classified by the World Resources Institute’s Water Risk Atlas tool, Aqueduct.
+We have completed trials to reuse flowback water in completions operations and continue to look for opportunities to reuse flowback and produced water. The majority of the produced water in our operations contains H2S, making reuse more hazardous and technically challenging. However, we are exploring evolving technologies to cost-effectively remove H2S to allow produced water to be safely reused. Produced water from our operations is safely disposed of in our own disposal wells or transported via pipeline or truck to regulated third party disposal facilities.
+Our geologists, geophysicists, completions engineers and reservoir engineers work collaboratively to reduce the volume of water used in our drilling and completions operations. We continually look for and evaluate new non-potable water sources, including deep groundwater formations, municipal and industrial effluent and through sharing arrangements with industry partners.
+Paramount has made significant investments in fresh water storage reservoirs with the goal of minimizing withdrawal from fresh water sources during periods of low water flow.
+
+
+Paramount Resources Ltd. | 2022 ESG Report 24. 
+SURFACE AND GROUNDWATER. 
+Stringent regulations surrounding well and facility design are intended to protect surface and groundwater from contamination from oil and gas operations.
+Prior to drilling into formations containing hydrocarbons, we are required to install a protective barrier in our wells called surface casing. Surface casing is a steel pipe which is cemented into place and extends from the surface to depths of 700 metres or more and acts as a protective shield to preserve water aquifers and soil from contamination. Surface casing integrity is monitored throughout the life of the well. As our wells are produced, oil and natural gas flows through other steel pipes, commonly referred to as tubing and production casing. The production casing is typically installed inside of intermediate casing that is yet another steel pipe that is cemented in place. This results in multiple barriers of protection for groundwater.
+Surface and groundwater at or under our processing facilities is safeguarded from contamination in accordance with provincial regulations. Rain runoff water is collected into onsite ponds at each plant and is tested for quality before being re-released into the environment.
+Paramount does not discharge any flowback, produced or otherwise contaminated water into the environment.
+Source: Technology Roadmap to Improve Wellbore Integrity SUMMARY REPORT, Natural Resources Canada, 2019.
+Capped by Wellhead
+
+
+Paramount Resources Ltd. | 2022 ESG Report 25. 
+Land Use, Asset Retirement and Reclamation. 
+This includes the proper decommissioning of wells, pipelines and facilities and the remediation and reclamation of associated lands to return them to their natural state. These activities are closely regulated and are undertaken daily by thousands of dedicated Canadians throughout the energy industry.
+The 2017 acquisition of Apache Canada Ltd. and merger with Trilogy Energy Corp. resulted in Paramount assuming responsibility for a number of inactive and uneconomic assets. Since that time, we have been proactively and effectively managing the decommissioning and reclamation obligations associated with these assets and the remainder of our portfolio. This has included the permanent shut-in of the. 
+Hawkeye field in 2018 and the Zama field in 2019.
+Canadian energy companies have a responsibility to manage their assets throughout their full life-cycle. 
+Paramount was one of the first companies to participate in a pilot program created by the Alberta Energy Regulator in 2018 called the Area Based Closure Program ("ABC"). This program allows companies to approach decommissioning and reclamation activities in an efficient and costeffective manner by targeting efforts in a concentrated area. Paramount is utilizing the advantages of the ABC to focus its decommissioning and reclamation activities in the Hawkeye and the Zama fields. This has allowed us to accelerate our work at Hawkeye to the point where over 90% of the wells and pipelines in the area were decommissioned within the first five months – a process that would have historically taken many years. At Zama, remediation work is ongoing and in 2021 activities included the decommissioning of 112 wells along with the removal of associated surface infrastructure. Also in 2021, we initiated the full-scale decommissioning of the Zama Gas Plant which included the repurposing or sale of usable assets and the recycling of over 6,000 tonnes of metals.
+When a large oil and gas field like Zama becomes uneconomic and must be shut-in, the impact to the local economy can be significant. Prior to shutting-in the Zama field, we had numerous discussions with representatives of the impacted Dene Tha' First Nation ("DTFN"), the hamlet of Zama and the municipality. Paramount has and will continue to work with these stakeholders and seek opportunities for collaboration and accommodation as we continue our decommissioning and reclamation activities over the coming years.
+Wells Decommissioned 68 104 254 156. 
+Reclamation Certificates Received 48 90 68 107. 
+Estimated Land Area Reclaimed (hectares) 57 108 177 220 2018 2019 2020 2021
+
+
+Paramount Resources Ltd. | 2022 ESG Report 26. 
+LAND USE, ASSET RETIREMENT AND RECLAMATION. 
+Decommissioning a well involves permanently and safely sealing the well and taking it out of service. The decommissioning process is commonly referred to as “abandonment”. Before this process begins, the operator of the well must inform all affected landowners about the proposed decommissioning and follow other regulatory requirements. Decommissioning involves three stages:
+Planning – A plan is implemented to identify any issues that could lead to potential leaks and to identify all oil or gas formations and groundwater zones that the well passes through. The cement that holds the well in place is evaluated to ensure that it remains strong and intact.
+Subsurface Decommissioning – The inside of the wellbore is cleaned to remove any oil or gas. Any issues identified with the wellbore during the planning phase are repaired. In addition, all oil or gas formations are isolated from one another with cement plugs and any groundwater zones are isolated from the wellbore to make sure that no oil, gas, or water can travel up the wellbore and contaminate soil or groundwater. The well is filled with fresh water or other noncorrosive fluid and assessed to ensure there are no leaks.
+Surface Decommissioning – This final step in the process is known as the “cut-and-cap” stage. The well casing is cut to a minimum of one metre below the surface and a cap is placed atop the well casing. Surface infrastructure associated with the well is removed within 12 months of completing this stage.
+BEFORE. 
+Single inactive Goose River gas well. 
+AFTER. 
+Similar Goose River well site 10 years after reclamation
+
+
+SPOTLIGHT ON AREA BASED. 
+CLOSURE. 
+PROGRAMS. 
+Paramount is working alongside community stakeholders to safely and efficiently return the lands within our former Hawkeye and Zama fields to their natural state.
+Paramount Resources Ltd. | 2022 ESG Report 27. 
+Zama. 
+Caribou Range. 
+Edmonton. 
+Hawkeye. 
+LAND USE, ASSET RETIREMENT AND RECLAMATION. 
+The Hawkeye field is located approximately 100 kilometers north of Edmonton with a footprint that includes Crown forests, private agricultural holdings and lands of the Buffalo Lake Métis Settlement ("BLMS").
+We have been working closely with BLMS since 2019 to decommission all wells, surface equipment and pipelines on the settlement and surrounding areas. In 2020, we used additional funding sourced through the Alberta Site Rehabilitation Program to accelerate the decommissioning process. While decommissioning work at Hawkeye is now substantially complete, reclamation activities, including topsoil recontouring and vegetation monitoring, will continue until the property is restored to its natural state.
+The Zama field is located within Treaty 8 in the far northwest corner of Alberta where the DTFN has communities. The Zama field is considerably larger than Hawkeye and decommissioning activities are more complex due to remoteness and seasonal access.
+Since the acquisition of the Zama field in 2017, we have been in regular contact with stakeholders, including representatives of the DTFN, to inform of upcoming plans and have contracted, where possible, with firms owned by the DTFN to conduct decommissioning work.
+Through frequent field tours with DTFN representatives we have learned of how the Dene people have and continue to use the land for hunting, trapping, fishing and other traditional activities while we have demonstrated the progress we have made towards reclaiming the land.
+A significant portion of the Zama field overlaps with the Bistcho Caribou Range. In alignment with the Provincial Caribou. 
+Recovery Strategy, our activities at Zama in 2022 have been focused on prioritizing the reclamation of areas located in the range. To date, approximately three quarters of the wells within this area have been cut and capped and their associated surface areas have been started on the path to full reclamation. We have also collaborated with the Northern Alberta Institute of Technology's Boreal Research Institute on a 5-year project to advance reclamation techniques on both upland and peatland sites in northern climates, the results of which are planned to be shared with stakeholders later in 2022.
+Decommissioning & Reclamation Expenditures (1) $106 million. 
+Wells, Facilities and Pipelines Decommissioned 638. 
+Land Area Reclaimed (hectares) 235. 
+Hawkeye and Zama Retirement Highlights (1) To December 31, 2021. Includes closure costs, area-based closure program costs and funding received under the Alberta Site Rehabilitation Program.
+
+
+Paramount Resources Ltd. | 2022 ESG Report 28. 
+Biodiversity 0
+10 20 30 40 -
+500 1,000 1,500 2,000 2,500 3,000 2018 2019 2020 2021. 
+Count. 
+Bbls. 
+Volume Number of Spills. 
+Protection of the natural environment and biodiversity in the areas in which we operate begins in the planning stages of any potential development. Even before the first regulatory applications are submitted,
+Paramount employees and technical staff, including engineers, environmental advisors and regulatory and community advisors, pour over all aspects of the proposed development. Considerations include the presence of at-risk species in or near the development area, aquatic receptors and potential air emissions.
+Paramount’s site selection and construction practices are regularly reviewed to ensure they meet all regulatory and stakeholder requirements. Well sites and roads are selected to minimize the disturbance to the environment, work with the natural topography, address stakeholder concerns and utilize existing infrastructure. Our primary focus is to avoid impacts to sensitive areas and species, including through vegetation and invasive plant management, wildlife sweeps, mitigation measures to avoid unnecessary disturbance to nests and other habitats and the implementation of erosion and sediment control measures. Paramount has participated in studies with the Northern Alberta Institute of Technology Center for Boreal Research which has led to improved construction design of our roads and wellsites resulting in lower environmental impact over the full life cycle of our assets. Preventing and limiting spills from our wells, facilities and pipelines is one of the most important factors in protecting the environment and local biodiversity. Spill prevention is primarily achieved through the utilization of the. 
+Paramount Enterprise Asset Management system to monitor, maintain and track assets and ensure that preventive and predictive maintenance is properly performed, as well as through our pipeline and pressure equipment integrity programs. We have adopted spill management and control practices that apply to all employees, contractors and other personnel on our work sites. The purpose of these practices is to reduce both the number and the potential impacts of spills through the implementation of measures relating to spill prevention, spill reporting, timely response and long-term management.
+Regulatory Reportable Spills
+
+
+Paramount Resources Ltd. | 2022 ESG Report 29. 
+Social
+
+
+Paramount Resources Ltd. | 2022 ESG Report 30. 
+Health and Safety. 
+We are committed to the prevention of incidents in all phases of our operations that could cause harm to people, property loss or have an adverse impact on the environment.
+POEMS is our comprehensive operations management system and contains specific policies and procedures to address health and safety matters associated with our operations. This management system, together with our written Health, Safety and Environment Policy, emphasizes the Company’s responsibility to make health and safety protection a consistent component of our decision-making processes and requires strict adherence by management, employees, contractors, consultants and other parties performing work on behalf of Paramount. Our managers and supervisors are required to assess the potential effects of their projects and to integrate protective measures to prevent health or safety incidents from occurring. Managers and supervisors also are expected to provide training and to be prepared to respond safely and effectively to health or safety incidents. An HSE Steering Committee, comprised of Paramount operations personnel and reporting to the Executive Vice President of Operations, has been established to ensure the proper implementation and functioning of our management system and to seek continuous improvement on health and safety matters.
+Paramount understands the potential for catastrophic and tail-end risks that reside in our industry and the need for these risks to be identified, assessed and mitigated. Accordingly, our management systems include risk assessment processes, safe work procedures, employee training, contractor engagement standards, incident management procedures, emergency response plans and preventative maintenance programs, all of which shape and define our culture as our primary means for avoiding, mitigating and managing catastrophic and tail-end risks.
+You can read more about health and safety policies and procedures in our Annual Information Form.
+Executive and Management Site/Field Visits 921 652. 
+Total Worksite Inspections 2,553 2,633. 
+Hazard Identifications 1,480 1,709. 
+Safe Worker Observations 148 450. 
+Emergency Response Drills/Exercises 59 68. 
+Proactive Activities. 
+Safety is Paramount – We are committed to a culture where prevention of incidents that may cause harm to people, property, or have an adverse impact on the environment is of the highest importance 2021 2020
+
+
+Paramount Resources Ltd. | 2022 ESG Report 31. 
+Community Relations, Security, Human Rights and Indigenous Relations. 
+Community Relations. 
+Being a respected partner and contributor to the communities where we operate and where our employees live and work is critical to Paramount’s success. Without the understanding and support of these communities, we risk damage to our reputation, regulatory and operational disruptions as well as delays that could prevent us from efficiently executing our development plans.
+We work together with communities and stakeholders through participation in local operator and community groups, open houses and individual stakeholder meetings and discussions. Paramount maintains stakeholder engagement plans for all of our core areas that are regularly updated to ensure that stakeholder concerns are addressed as our operations evolve. We register significant stakeholder concerns and track them through their lifecycle until resolution. No community disputes were experienced in the last three fiscal years that disrupted or delayed any of our operations.
+In addition to contributing to the communities where we operate by providing employment, utilizing local services and paying taxes, Paramount directly supports community not-for-profit organizations and events through donations and sponsorships.
+Security, Human Rights and Indigenous Relations. 
+All of Paramount’s assets and operations are located in Western Canada. Canada is a jurisdiction free from risk of armed conflict and subject to comprehensive laws protecting labour and employment rights and guarding against abuse of human rights.
+With the exception of a single producing well, none of Paramount’s lands that have net proved reserves attributed to them are located on either a First Nations reserve or on Métis Settlement lands.
+However, the areas of Alberta and British Columbia where Paramount has active production operations are located on the traditional territories of certain First Nations groups (as recognized under Treaty 6, 7 or 8) or on lands where Métis communities have asserted traditional use rights. Paramount proactively engages and consults with these groups in accordance with applicable legislation, regulations and policies. These communities often have their own policies regarding consultation and engagement that we also strive to respect. This engagement and consultation not only increases our understanding of the current and historical use of affected lands by these communities, but often leads to mutually beneficial collaboration on development and asset retirement and reclamation activities. These same principles apply in the Northwest Territories and the Yukon where Paramount has inactive assets that lie either within settled land claim areas or traditional territories of certain Indigenous groups.
+
+
+Paramount Resources Ltd. | 2022 ESG Report 32. 
+ESG Performance Tables
+
+
+ENVIRONMENT 2019 2020 2021. 
+GREENHOUSE GAS EMISSIONS. 
+Greenhouse gas emissions, direct (scope 1) tCO 2 e 564,225 490,454 420,877. 
+Methane emissions (CH4) as percentage of total scope 1 emissions % 57% 37% 37% % covered by emissions-limiting regulations % NR NR NR. 
+Greenhouse gas emissions, indirect (scope 2) tCO 2 e 132,751 86,744 84,942. 
+Intensity of greenhouse gas emissions, direct (scope 1) tCO 2 e/Boe 0.0188 0.0196 0.0141. 
+Intensity of greenhouse gas emissions, indirect (scope 2) tCO 2 e/Boe 0.0044 0.0035 0.0028. 
+Direct Emissions by Activity. 
+Process emissions (fuel combustion) tCO 2 e 284,777 304,999 251,324. 
+Flared tCO 2 e 17,851 16,711 29,488. 
+Vented tCO 2 e 206,791 144,458 132,889. 
+Fugitives tCO 2 e 54,806 24,286 7,176. 
+AIR QUALITY. 
+Nitrogen oxides (NOx) - excludes N2O tNO x 4,513 2,967 3,162. 
+Sulphur dioxide (SO2) tSO 2 606 184 222. 
+Volatile Organic Compounds (VOCs) tVOCs 168 1,295 1,200. 
+Particulate Matter (PM10) tPM 10 32 28 69. 
+WATER MANAGEMENT. 
+Fresh water withdrawal Thousand m3 1,380 1,473 1,786 % in regions with high or extreme high baseline water stress % 0% 0% 0%
+Fresh water consumed Thousand m3 1,380 1,473 1,786 % in regions with high or extreme high baseline water stress % 0% 0% 0%
+Produced water flowback Thousand m3 2,796 2,611 3,431. 
+Discharged % 0% 0% 0%
+Injected % 100% 100% 100%
+Recycled % 0% 0% 0%
+Hydrocarbon content in discharged water Tonnes 0 0 0. 
+Percentage of hydraulically fractured wells with public disclosure of all fracturing fluid chemicals used % 100% 100% 100%
+Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to baseline % 0% 0% 0%
+Footnotes: 1 – Regulations in the Province of Alberta where Paramount primarily operates related to GHG emissions are intended to limit all fuel combustion, flaring, venting, and fugitive emissions. In reality it is not practical to measure the smaller emitting facilities and wells and therefore not all emissions are necessarily captured by these regulations.
+2 – 2019 figures not comparable due to changes in estimation methodology.
+NR – Not Reported. 
+Paramount Resources Ltd. | 2022 ESG Report 33. 
+ESG PERFORMANCE TABLES (2) (1)
+
+
+ENVIRONMENT Cont… 2019 2020 2021. 
+BIODIVERSITY IMPACTS. 
+Releases - number of regulatory reportable spills # 21 13 9. 
+Releases - volume of regulatory reportable spills Bbl 437 165 76. 
+Volume of spills in the Arctic Bbl 0 0 0. 
+Volume of spills impacting sensitive shorelines Bbl 0 0 0. 
+Volume of spills recovered Bbl NR NR NR. 
+Percentage of net proved reserves located in sites either with protected conservation status or in areas of endangered species habitat. % NR 0.13% 0.14%
+Percentage of net probable reserves located in sites either with protected conservation status or in areas of endangered species habitat. % NR 0.08% 0.04%
+RECLAMATION. 
+Wells decommissioned # 104 254 156. 
+Well reclamation certificates received # 90 68 107. 
+Decommissioning expenditures $MM 43.4 $ 39.4 $ 35.1 $
+SOCIAL. 
+OUR PEOPLE. 
+Employees - full-time # 498 416 397. 
+Employees - part-time # 11 7 5. 
+Contractors # 130 70 85. 
+Total staff # 639 493 487. 
+Voluntary Turnover % 7% 5% 8%
+Percent of total employees covered by collective bargaining agreements % 0% 0% 0%
+DIVERSITY. 
+Women in the workforce % 36% 33% 32%
+Women in supervisory and professional positions % 33% 34% 41%
+Women in Management and Executive Team % 24% 23% 21%
+Women on Board of Directors % 11% 14% 25%
+WORKFORCE AGE CATEGORIES 30 and Under % 8% 6% 5% 31-50 % 58% 57% 55%
+Over 50 % 34% 37% 40%
+Paramount Resources Ltd. | 2022 ESG Report 34. 
+ESG PERFORMANCE TABLES. 
+Footnotes: 1 – Decommissioning expenditures include area-based closure program costs and funding received under the Alberta Site Rehabilitation Program.
+NR – Not Reported (1)
+
+
+SOCIAL Cont… 2019 2020 2021. 
+WORKFORCE DEVELOPMENT. 
+Training and education $000s 447 $ 65 $ 98 $
+Training and education per employee $/employee 900 $ 156 $ 243 $
+SECURITY, HUMAN RIGHTS & RIGHTS OF INDIGENOUS PEOPLES % of proved and probable reserves in or near areas of conflict % 0% 0% 0% % of proved and probable reserves in or near areas of Indigenous land % 0.006% 0.005% 0.008%
+HEALTH AND SAFETY. 
+Total recordable incident rate (TRIR) - employees cases per 200,000 work hours 0.36 1.12 0.00. 
+Total recordable incident rate (TRIR) - contract employees cases per 200,000 work hours 0.30 1.45 1.14. 
+Total recordable incident rate (TRIR) - short service employees cases per 200,000 work hours NR NR NR. 
+Fatality rate - employees cases per 200,000 work hours 0.00 0.00 0.00. 
+Fatality rate - contract employees cases per 200,000 work hours 0.00 0.00 0.00. 
+Fatality rate - short service employees cases per 200,000 work hours NR NR NR. 
+Near miss frequency rate (NMIR) - employees cases per 200,000 work hours 5.83 11.29 5.76. 
+Near miss frequency rate (NMIR) - contract employees cases per 200,000 work hours NR NR NR. 
+Near miss frequency rate (NMIR) - short service employees cases per 200,000 work hours NR NR NR. 
+Health and safety training - employees hours 9,455 2,018 5,606. 
+Health and safety training - employees hours/# employees 19.0 7.0 14.1. 
+Health and safety training - contract employees hours/# employees NR NR NR. 
+Health and safety training - short service employees hours/# employees NR NR NR. 
+CRITICAL INCIDENT RISK MANAGEMENT. 
+Process Safety Event (PSE) rates for Loss of Primary Containment (LOPC) of greater consequence (Tier 1) Tier 1 PSE Count per 200,000 work hours 0.09 0.14 0.00. 
+COMMUNITIES. 
+Employees - wages and benefits $MM 74.6 $ 56.7 $ 55.5 $
+Land owners - rentals and royalties $MM 5.9 $ 2.0 $ 1.7 $
+Governments - royalties, taxes, levies $MM 90.7 $ 57.4 $ 111.8 $
+Shareholders - value of share repurchases and dividends $MM 14.3 $ -$ 30.1 $
+Number and duration of non-technical delays # 0 0 0. 
+Paramount Resources Ltd. | 2022 ESG Report 35. 
+ESG PERFORMANCE TABLES. 
+Footnotes: NR – Not Reported
+
+
+GOVERNANCE 2019 2020 2021. 
+Insider ownership % 47% 46% 47%
+Independent Board of Directors % 78% 75% 75%
+Independent Lead Director P P P. 
+Fully independent Audit, Compensation, Corporate Governance and Reserves Committees P P P. 
+Minimum shareholding requirements for directors P P P. 
+Officers and directors prohibited from hedging Paramount securities P P P. 
+Loans to officers and directors prohibited P P P. 
+Code of Ethics and Code of Business Conduct P P P. 
+Anonymous Whistleblower Policy and portal P P P. 
+BUSINESS ETHICS & TRANSPARENCY. 
+Proved reserves in countries that have the 20 lowest rankings in Transparency International's Corruption Perception Index % 0% 0% 0%
+Probable reserves in countries that have the 20 lowest rankings in Transparency International's Corruption Perception Index % 0% 0% 0%
+RESERVES VALUATION & CAPITAL EXPENDITURES. 
+Sensitivity of hydrocarbon reserve levels to future price projection scenarios that account for a price on carbon emissions $MM NR NR NR. 
+Estimated carbon dioxide emissions embedded in proved hydrocarbon reserves $MM NR NR NR. 
+Amount invested in renewable energy, revenue generated by renewable energy sales $MM NR NR NR. 
+ECONOMIC. 
+Petroleum and Natural Gas Sales $MM 914.9 $ 626.0 $ 1,383.0 $
+Royalties $MM 63.3 $ 31.3 $ 127.0 $
+Operating and Transportation expenditures $MM 470.7 $ 398.4 $ 454.9 $
+Capital expenditures and land and property acquisitions $MM 404.1 $ 220.8 $ 280.0 $
+General and administrative expenses $MM 52.6 $ 32.9 $ 41.6 $
+ACTIVITY METRICS - SALES VOLUMES. 
+Natural Gas MMcf/d 303.3 248.7 275.2. 
+Condensate and oil Bbl/d 25,079 22,565 30,989. 
+Other NGLs Bbl/d 6,767 4,325 5,147. 
+Total Boe/d 82,394 68,340 82,001. 
+Paramount Resources Ltd. | 2022 ESG Report 36. 
+ESG PERFORMANCE TABLES. 
+Footnotes: NR – Not Reported
+
+
+Accounting Metric Code Page Reference. 
+Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations EM-EP-110a.1 19, 33. 
+GHG Equivalent air emissions of the following pollutants: NOx (excluding N2O), SOx, volatile organic compounds (VOCs), and particulate matter (PM10) EM-EP-110a.2 33. 
+Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets EM-EP-110a.3 15-17, 19-21. 
+Air emissions of the following pollutants: NOx (excluding N2O), SOx, volatile organic compounds (VOCs), and particulate matter (PM10) EM-EP-120a.1 33. 
+Total fresh water withdrawn, total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress EM-EP-140a.1 33. 
+Volume of produced water and flowback generated; percentage discharged, injected, recycled; hydrocarbon content in discharged water EM-EP-140a.2 33. 
+Percentage of hydraulically fractured wells for which there is public disclosure of all fracturing fluid chemicals used EM-EP-140a.3 33. 
+Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline EM-EP-140a.4 33. 
+Note to EM-EP-140a.4 – The entity shall disclose its policies and practices related to ground and surface water quality management. 24. 
+Description of environmental management policies and practices for active sites EM-EP-160a.1 28. 
+Number and aggregate volume of hydrocarbon spills, volume in Arctic, volume impacting shorelines with ESI rankings 8-10, and volume recovered EM-EP-160a.2 34. 
+Percentage of proved and probable reserves in or near areas of conflict EM-EP-210a.1 35. 
+Percentage of proved and probable reserves in or near indigenous land EM-EP-210a.2 35. 
+Discussion of engagement processes and due diligence practices with respect to human rights, indigenous rights, and operation in areas of conflict EM-EP-210a.3 31. 
+Discussion of process to manage risks and opportunities associated with community rights and interests EM-EP-210b.1 31. 
+Number and duration of non-technical delays EM-EP-210b.2 35. 
+Total recordable incident rate (TRIR), fatality rate, near miss frequency rate (NMFR), and average hours of health, safety, and emergency response training for full-time employees, contract employees, and short-service employees EM-EP-320a.1 35. 
+Discussion of management systems used to integrate a culture of safety throughout the exploration and production lifecycle EM-EP-320a.2 30. 
+Percentage of proved and probable reserves in countries that have the 20 lowest rankings in Transparency International’s Corruption Perception Index EM-EP-510a.1 36. 
+Description of the management system for prevention of corruption and bribery throughout the value chain EM-EP-510a.2 14. 
+Discussion of corporate positions related to government regulations and/or policy proposals that address environmental and social factors affecting the industry EM-EP-530a.1 11-13. 
+Process Safety Event (PSE) rates for Loss of Primary Containment (LOPC) of greater consequence (Tier 1) EM-EP-540a.1 35. 
+Description of management systems used to identify and mitigate catastrophic and tail-end risks EM-EP-540a.2 15, 30. 
+Production of: oil, natural gas, synthetic oil, and synthetic gas EM-EP-000.A 36. 
+Paramount Resources Ltd. | 2022 ESG Report 37. 
+SASB CONTENT INDEX
+
+
+Category Disclosure Page Reference. 
+Governance (a) Board oversight 11. 
+Governance (b) Management’s role 12. 
+Strategy (a) Identification of climate-related risks and opportunities 15-17. 
+Strategy (b) Impact of climate-related risks and opportunities 15-17. 
+Risk Management (a) Risk identification and assessment process 11, 15. 
+Risk Management (b) Risk management process 11, 12. 
+Risk Management (c) Risk integration 13. 
+Metrics and Targets (a) Metrics 32-36. 
+Metrics and Targets (b) GHG emissions 33. 
+Paramount Resources Ltd. | 2022 ESG Report 38. 
+TCFD CONTENT INDEX
+
+
+GRI Description GRI Reference Page Reference. 
+Name of the Organization 102-1 1. 
+Activities, brands, products, and services 102-2 6. 
+Location of headquarters 102-3 6. 
+Location of operations 102-4 6. 
+Ownership and Legal Form 102-5 6. 
+Markets Served 102-6 6. 
+Scale of the organization 102-7 34, 36. 
+Information on employees and other workers 102-8 34. 
+Membership of associations 102-13 16. 
+Statement from senior decision-maker 102-14 5. 
+Key impacts, risks, and opportunities 102-15 16-17. 
+Values, principles, standards, and norms of behaviour 102-16 14. 
+Mechanisms for advice and concerns about ethics 102-17 14. 
+Governance structure 102-18 11. 
+Delegating authority 102-19 12. 
+Executive-level responsibility for economic, environmental, and social topics 102-20 12. 
+Consulting stakeholders on economic, environmental, and social topics 102-21 31. 
+Composition of the highest governance body and its committees 102-22 11. 
+Chair of the highest governance body 102-23 11. 
+Nominating and selecting the highest governance body 102-24 11. 
+Conflicts of interest 102-25 14. 
+Role of the highest governance body in setting purpose, values, and strategy 102-26 11. 
+Collective knowledge of highest governance body 102-27 11. 
+Evaluating the highest governance body’s performance 102-28 11. 
+Identifying and managing economic, environmental, and social impacts 102-29 15-17. 
+Effectiveness of risk management processes 102-30 15-16. 
+Review of economic, environmental, and social topics 102-31 11. 
+Highest governance body’s role in sustainability reporting 102-32 11. 
+Communicating critical concerns 102-33 12. 
+Paramount Resources Ltd. | 2022 ESG Report 39. 
+GRI CONTENT INDEX
+
+
+GRI Description GRI Reference Page Reference. 
+List of stakeholder groups 102-40 7. 
+Collective bargaining agreements 102-41 34. 
+Identifying and selecting stakeholders 102-42 7. 
+Approach to stakeholder engagement 102-43 7. 
+Entities included in the consolidated financial statements 102-45 Please see our Audited Financial. 
+Statements. 
+Defining report content and topic Boundaries 102-46 8. 
+List of material topics 102-47 8. 
+Restatements of information 102-48 na. 
+Reporting period 102-50 8. 
+Date of most recent report 102-51 August 2021. 
+Contact point for questions regarding the report 102-53 8. 
+Claims of reporting in accordance with the GRI Standards 102-54 8. 
+GRI content index 102-55 39-41. 
+Direct economic value generated and distributed 201-1 35. 
+Financial implications and other risks and opportunities due to climate change 201-2 15-17. 
+Financial assistance received from government 201-4 14. 
+Communication and training about anti-corruption policies and procedures 205-2 14. 
+Energy consumption within the organization 302-1 NR. 
+Interactions with water as a shared resource 303-1 22-24. 
+Water withdrawal 303-3 33. 
+Water discharge 303-4 33. 
+Water consumption 303-5 33. 
+Significant impacts of activities, products, and services on biodiversity 304-2 34. 
+Habitats protected or restored 304-3 34. 
+Direct (Scope 1) GHG emissions 305-1 33. 
+Energy indirect (Scope 2) GHG emissions 305-2 33. 
+GHG emissions intensity 305-4 33. 
+Reduction of GHG emissions 305-5 19-20. 
+Nitrogen oxides (NOX), sulphur oxides (SOX), and other significant air emissions 305-7 33. 
+Paramount Resources Ltd. | 2022 ESG Report 40. 
+GRI CONTENT INDEX CONT…
+
+
+GRI Description GRI Reference Page Reference. 
+Water discharge by quality and destination 306-1 33. 
+Significant spills 306-3 34. 
+New employee hires and employee turnover 401-1 34. 
+Occupational health and safety management system 403-1 30. 
+Hazard identification, risk assessment, and incident investigation 403-2 30. 
+Occupational health services 403-3 30. 
+Worker participation, consultation, and communication on occupational health and safety 403-4 30. 
+Worker training on occupational health and safety 403-5 30. 
+Prevention and mitigation of occupational health and safety impacts directly linked by business relationships 403-7 30. 
+Work-related injuries 403-9 35. 
+Average hours of training per year per employee 404-1 35. 
+Diversity of governance bodies and employees 405-1 34. 
+Incidents of violations involving rights of indigenous peoples 411-1 31. 
+Operations with local community engagement, impact assessments, and development programs 413-1 NR. 
+Paramount Resources Ltd. | 2022 ESG Report 41. 
+GRI CONTENT INDEX CONT…
+
+
+Paramount Resources Ltd. | 2022 ESG Report 42. 
+ADVISORIES. 
+This report is intended to voluntarily provide certain information that we have determined might be of interest to our stakeholders. This report should be read in conjunction with the disclosure contained in the filings we have made under Canadian securities laws, including our press releases, annual and interim financial statements and management’s discussion and analysis, Annual Information Form and Annual General Meeting information circular. Nothing in this report should be read as in any way qualifying, amending, modifying or superseding any of the disclosure contained in the filings we have made under Canadian securities laws. In addition, the inclusion of any information in this report should not be construed as an indication that we consider this information to be material or required to be disclosed for the purposes of Canadian securities laws. We may change the information we determine to provide in future ESG reports without prior notice. This report does not provide investment advice and readers are responsible for making their own financial and investment decisions.
+There is no single standard system that applies across companies for compiling and calculating GHG emissions and other ESG metrics attributable to our operations. Accordingly, such information may not be comparable with similar information reported by other companies. We may change our policies for compiling and calculating GHG emissions and other ESG metrics in the future without prior notice and without restating prior periods. The compilation and calculation of GHG emissions often involves the making of certain estimates and assumptions that may change over time and any such changes may result in significant changes to reported emissions.
+Certain statements in this report constitute forward-looking information under applicable securities legislation, including expected reductions in GHG emissions from various initiatives, anticipated ESG initiatives and opportunities and the anticipated focus of future decommissioning and reclamation activities. Such forward-looking information is based on a number of assumptions and expectations, including the future performance of GHG reduction initiatives and planned ESG, decommissioning and reclamation activities and expenditures. Although we believe that these assumptions and expectations are reasonable based on the information available at the time of this report, undue reliance should not be placed on the forward-looking information as we can give no assurance that such assumptions and expectations will prove to be correct. Forward-looking information is based on expectations, estimates and projections that involve a number of risks and uncertainties which could cause actual results to differ materially from those anticipated by us and described in the forward-looking information. These include, but are not limited to, changes to plans and initiatives and changes to applicable laws and regulations. For more information relating to risks, see the sections titled "Risk Factors" in our Annual Information Form and in our management’s discussion and analysis for the three and six months ended June 30, 2022, which are available on our website and on SEDAR at www.sedar.com. The forward-looking information contained in this report is made as of August 3, 2022 and, except as required by applicable securities law, Paramount undertakes no obligation to update publicly or revise any forward-looking statements or information, whether as a result of new information, future events or otherwise.
+We use the term "Boe" in this report, which means a barrel of oil equivalent derived using the ratio of six thousand cubic feet of natural gas to one barrel of oil when converting natural gas to Boe. Equivalency measures may be misleading, particularly if used in isolation. A conversion ratio of six thousand cubic feet of natural gas to one barrel of oil is based on an energy equivalency conversion method primarily applicable at the burner tip and does not represent a value equivalency at the well head. For the six months ended June 30, 2022, the value ratio between crude oil and natural gas was approximately 25:1. This value ratio is significantly different from the energy equivalency ratio of 6:1. Using a 6:1 ratio would be misleading as an indication of value.
+
+
+Paramount Resources Ltd. | 2020 ESG Report. 
+For questions about this report, please contact :
+Rodrigo (Rod) Sousa – Executive Vice President, Corporate Development and Planning 403.290.3600 | rod.sousa@paramountres.com

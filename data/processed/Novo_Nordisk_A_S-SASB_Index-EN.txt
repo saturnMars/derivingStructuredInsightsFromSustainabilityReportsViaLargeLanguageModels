@@ -1,0 +1,111 @@
+1. 
+Value Reporting Foundation (VRF)/ Sustainability Accounting Standards Board (SASB)
+Health Care Sector & Biotechnology and Pharmaceuticals Industry. 
+At Novo Nordisk, we strive to adhere to the disclosures of the VRF/ SASB standards that apply to our industry. We do this to demonstrate our commitment to being transparent and accountable for how we operate. We are fully or partially aligned with 23 of 25 indicators.
+Data and information disclosed are sourced from Novo Nordisk’s integrated Annual Report/Form 20-F, our ESG Portal and publicly available information at novonordisk.com. Further ESG-related disclosures are available at novonordisk.com, e.g., the Remuneration Report, Corporate Governance Report and CDP report as well as Novo Nordisk’s public policies and positions.
+ 
+Overview of our assessment of Novo Nordisk’s alignment with VRF/ SASB (updated February 2022)
+SASB indicator. 
+Safety of Clinical Trial Participants. 
+Novo Nordisk references. 
+HC-BP210a.1. 
+Discussion, by world region, of management process for ensuring quality and patient safety during clinical trials. 
+We report on how we ensure quality and patient safety. See the ‘Patient safety & product quality’ section on our ESG Portal. https://www.novonordisk.com/sustainable-business/esg-portal.html. 
+HC-BP210a.2. 
+Number of FDA Sponsor Inspections related to clinical trial management and pharmacovigilanc e that resulted in: (1) Voluntary Action Indicated (VAI) and (2) Official Action Indicated (OAI)
+We report on the aggregated total number of failed inspections with a breakdown of the status of the failed inspections as a combination of USFDA, EMA and TÜV SÜD in our Annual Report (note 9.4, p. 91). https://annualreport.novonordisk.com/ We do not report separately on the number of FDA Sponsor Inspections related to clinical trial management that resulted in VAI and OAI.
+HC-BP210a.3. 
+Total amount of monetary losses as a result of legal proceedings associated with clinical trials in developing countries. 
+We report on material settlements in note 3.4 (p. 66) in the financial statements in our Annual Report. https://annualreport.novonordisk.com/
+
+
+2. 
+Access to Medicines. 
+HC-BP240a.1. 
+Description of actions and initiatives to promote access to health care products for priority diseases and in priority countries as defined by the Access to Medicine Index. 
+We report on our actions in the Social performance article in our Annual Report (pp. 15-19) and at novonordisk.com. https://annualreport.novonordisk.com/ https://www.novonordisk.com/sustainable-business/access-andaffordability.html. 
+HC-BP240a.2. 
+List of products on the WHO List of Prequalified Medicinal Products as part of its Prequalification of Medicines Programme (PQP)
+We do not report, since Novo Nordisk products are currently not in scope for the WHO list.
+Affordability & Pricing. 
+HC-BP240b.1. 
+Number of settlements of Abbreviated New Drug Application (ANDA) litigation that involved payments and/or provisions to delay bringing an authorized generic product to market for a defined time period. 
+We report on material settlements in note 3.4 (p. 66) in the financial statements in our Annual Report. https://annualreport.novonordisk.com/
+HC-BP240b.2. 
+Percentage change in: (1) average list price and (2) average net price across U.S. product portfolio compared to previous year. 
+We report on year-on-year average list and average net price changes across our US product portfolio in the Social performance article on p. 16 in our Annual Report. https://annualreport.novonordisk.com/
+
+
+3. 
+HC-BP240b.3. 
+Percentage change in: (1) list price and (2) net price of product with largest increase compared to previous year. 
+We report on year-on-year average list and average net price changes across our total US insulin portfolio in the Social performance article on p. 16 in our Annual Report. https://annualreport.novonordisk.com/
+Drug Safety. 
+HC-BP250a.1. 
+List of products listed in the Food and Drug Administration’s (FDA) MedWatch Safety Alerts for Human Medical Products database. 
+The data is publicly available at the USFDA website. In 2018, Novo Nordisk had one product listed in the FDA's MedWatch Safety Alerts, Cartridge holders in certain NovoPen Echo® Insulin Delivery Devices. We disclose all product recalls in our Annual Report (note 9.3, p. 91) and at novonordisk.com. https://annualreport.novonordisk.com/ https://www.novonordisk.com/news-and-media/news-and-irmaterials.html. 
+HC-BP250a.2. 
+Number of fatalities associated with products as reported in the FDA Adverse Event Reporting System. 
+We report to the US FDA Adverse Event Reporting and the EU’s EudraVigilance systems.
+HC-BP250a.3. 
+Number of recalls issued, total units recalled. 
+We disclose the information in our Annual Report (note 9.3, p. 91). Whenever there are instances of recalls, local health authorities are informed to ensure that distributors, pharmacies, doctors and patients received appropriate information, if applicable. https://annualreport.novonordisk.com/ https://www.novonordisk.com/news-and-media/news-and-irmaterials.html. 
+HC-BP250a.4. 
+Total amount of product accepted for takeback, reuse, or disposal. 
+In 2020, Novo Nordisk initiated the "Take-back Programme" in order to address the end-of-life challenge. Initially, we focused on disposable devices with a pilot project in Denmark, which showed that it was possible to reclaim and reuse the plastic that makes up three-quarters of these devices. Over the next three years, we also aim to roll out pen recycling pilots in other markets, starting with the UK, France and Brazil. Read more in our Annual Report (p. 14) and at novonordisk.com. https://annualreport.novonordisk.com/ https://www.novonordisk.com/sustainable-business/zeroenvironmental-impact.html. 
+HC-BP250a.5. 
+Number of FDA enforcement actions taken in. 
+We report on the number of failed inspections in our Annual Report (note 9.4, p. 91). The number of failed inspections is measured in
+
+
+4 
+response to violations of current Good Manufacturing Practices (cGMP), by type relation to USFDA, EMA, TÜV SÜD and domestic authorities for strategic manufacturing sites. https://annualreport.novonordisk.com/
+Counterfeit Drugs. 
+HC-BP260a.1. 
+Description of methods used to maintain traceability of products throughout the supply chain & prevent counterfeiting. 
+We have been implementing a comprehensive anti-counterfeit programme to ensure patient safety. A cross-functional AntiCounterfeit Working Group, chaired by the Head of our Customer Complaint Centre, ensures vigilant risk assessment and implementation of an Anti-Counterfeit Product strategy. We have an ongoing international collaboration with regulatory bodies, scientific and trade organisations, law enforcement agencies and other stakeholders to investigate counterfeit products and to influence legislation regarding new anti-counterfeit measures. We are a member of the Pharmaceutical Security Institute (PSI), which on behalf of the approximately 30 largest pharmaceutical companies, collects information and coordinates investigations into counterfeit products worldwide. Please find further information on our ESG Portal in the ‘Patient safety & product quality’ section, ‘Counterfeit products’. https://www.novonordisk.com/sustainable-business/esg-portal.html. 
+HC-BP260a.2. 
+Discussion of process for alerting customers and business partners of potential or known risks associated with counterfeit products. 
+We conduct regular reviews of risks through information exchange with external collaborators. The investigation of suspected counterfeit cases is reported via our affiliates or authorities. Monthly internal counterfeit surveillance reports are reviewed by key specialists and management. Our Quality Management System identifies and investigates alleged occurrences of counterfeited Novo Nordisk products. In China, we work with local investigation firms to perform market searches to help health authorities track down and seize counterfeit products. Outside of China, we conduct investigations of suspected counterfeit products based on risk analysis and take legal action against those involved in the counterfeiting of our products. Please find further information on our ESG Portal in the ‘Patient safety & product quality’ section, ‘Counterfeit products’. https://www.novonordisk.com/sustainable-business/esg-portal.html. 
+HC-BP260a.3. 
+Number of actions that led to raids, seizure, arrests, and/or filing of criminal charges related to counterfeit products. 
+We report to the Pharmaceutical Security Institute (“PSI”) of which we are a member. The PSI is a not-for-profit organisation dedicated to protecting public health, sharing information on the counterfeiting of pharmaceuticals and initiating enforcement actions through the appropriate authorities. Further information can be found on our ESG Portal in the ‘Patient safety & product quality’ section. PSI are producing an annual rapport on all reported counterfeit cases and developments over time. https://www.novonordisk.com/sustainable-business/esg-portal.html. 
+Ethical Marketing
+
+
+5. 
+HC-BP270a.1. 
+Total amount of monetary losses as a result of legal proceedings associated with false marketing claims. 
+We have included a description of our approach to marketing in our Business Ethics Code of Conduct. https://www.novonordisk.com/content/dam/nncorp/global/en/contac t/pdfs/external-support/business-ethics-code-of-conduct.pdf We disclose the type and number of false marketing claims in our Annual Report (note 3.4, p. 66). We report on material settlements in note 3.4 in the financial statements in our Annual Report. https://annualreport.novonordisk.com/
+HC-BP270a.2. 
+Description of code of ethics governing promotion of offlabel use of products. 
+A description of our code of ethics governing promotion of off-label use of products is included in our Business Ethics Code of Conduct. https://www.novonordisk.com/content/dam/nncorp/global/en/contac t/pdfs/external-support/business-ethics-code-of-conduct.pdf. 
+Employee Recruitment, Development & Retention. 
+HC-BP330a.1. 
+Discussion of talent recruitment and retention efforts for scientists and research and development personnel. 
+We have our "Pharmaceutical medicine programme (PMP)" in place, which offers a broad introduction to the pharmaceutical industry. The PMP aims to develop medical doctors, who have 2-5 years of clinical experience, within various functions where strong medical competencies are needed. https://www.novonordisk.com/careers/early-career-programmes.html. 
+HC-BP330a.2 (1) Voluntary and (2) involuntary turnover rate for: (a) executives/senior managers, (b) midlevel managers, (c) professionals, and (d) all others. 
+We report on turnover in note 8.2 of our Annual Report (p. 89). https://annualreport.novonordisk.com/
+Supply Chain Management. 
+HC-BP430a.1. 
+Percentage of (1) entity's facilities and (2) Tier I suppliers' facilities participating in the Rx-360 International Pharmaceutical. 
+We do not report. We retain the oversight of our supply chain (and, hence, the carrying out of supplier audits) internally, instead of using external joint auditing approaches, such as the one offered by the Rx360 International Pharmaceutical Supply Chain Consortium audit program. In addition, we commission external service providers from time to time to undertake quality-focused audits of our supply chain. Any findings are dealt with according to our internal audit process procedures.
+
+
+6. 
+Supply Chain Consortium audit program or equivalent third party audit programs for integrity of supply chain and ingredients. 
+All our production facilities are certified according to ISO 14001, environmental management. The ISO 14001 certified Environmental Management system ensures continuous improvements through a systematic approach. The production of active pharmaceutical ingredients (“API”) in Kalundborg, Denmark, is also certified according to ISO 50001, energy management. https://www.novonordisk.com/sustainable-business/zeroenvironmental-impact/environmental-policy.html. 
+Business Ethics. 
+HC-BP510a.1. 
+Total amount of monetary losses as a result of legal proceedings associated with corruption and bribery. 
+We report on material settlements in note 3.4 (p. 66) in our Annual Report. https://annualreport.novonordisk.com/
+HC-BP510a.2. 
+Description of code of ethics governing interactions with health care professionals. 
+We provide a description of our code governing interactions with healthcare professionals in our Business Ethics Code of Conduct. https://www.novonordisk.com/content/dam/nncorp/global/en/contac t/pdfs/external-support/business-ethics-code-of-conduct.pdf. 
+Activity metrics. 
+HC-BP000.A. 
+Number of patients treated. 
+We report on the total number of patients treated in the ESG statement in our Annual Report (see Section 8). https://annualreport.novonordisk.com/
+HC-BP000.B. 
+Number of drugs (1) in portfolio and (2) in research and development (Phases 1-3)
+We report on the number of drugs in our marketed portfolio and in R&D development in our Annual Report via our product (p. 97) and pipeline (p. 27) overviews, respectively. https://annualreport.novonordisk.com

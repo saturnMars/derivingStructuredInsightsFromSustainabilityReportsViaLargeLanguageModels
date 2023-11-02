@@ -1,0 +1,1873 @@
+2021 Sustainability Report. 
+For a Better Reality.
+Photo courtesy of Ørsted
+
+
+03 Leadership Messages 
+09 About 20 Our Sustainability Vision 24 2021 Highlights 30 How We Operate. 
+Responsible Supply Chain. 
+Workplaces. 
+Data Centers. 
+Circularity. 
+Greenhouse Gas Emissions. 
+Energy. 
+Water. 
+Biodiversity 64 What We Create. 
+Raising Awareness. 
+Tackling Climate Misinformation. 
+Building the Metaverse 72 How We Collaborate. 
+Internal Engagement. 
+External Partnerships. 
+Advancing Industry Change 83 Governance 85 Looking Ahead 86 Data Index. 
+Table of Contents 216 million people could be forced to migrate within their own countries by 2050 because of climate change.
+2021 Meta Sustainability Report 2
+
+
+“The possibilities our technology will unlock for people only matter if we have a safe and thriving planet.”
+Leadership Messages — Mark Zuckerberg. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 3
+
+
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision. 
+A Message from Nick Clegg & President of Global Affairs. 
+Mark Zuckerberg Founder, Chairman, and Chief Executive Officer. 
+We’re optimistic about the role technology will play in helping us address the climate crisis. But the task ahead is massive. As both a company and a platform for social connection, we take our responsibility seriously.
+We’ll continue our sustainability work across our business and products—and will share our progress through reports like this one.
+At Meta, we’re building technology that will help shape the next chapter of the internet and the future of social connection. These long-term investments are in service of a vision for the future where everyone can be present with each other, create new opportunities, and experience new things.
+We view our sustainability work with this same eye to the future.
+After all, the possibilities that our technology will unlock for people only matter if we have a safe and thriving planet.
+We think about our work here in three areas: limiting the environmental footprint of our operations and devices; driving climate action with our products; and forming partnerships to scale our impact.
+On our operations, thanks to innovations in our data center and office designs, we’ve driven up efficiency and driven down our environmental footprint. But we have more work to do. We’ve achieved net zero emissions in our global operations and set a goal to reach net zero emissions across our value chain in 2030.
+We’ve also set an ambitious goal for our global operations to be water positive by 2030, meaning we’ll restore more water than we consume.
+On driving climate action, we’ve expanded our Climate Science. 
+Center to reach millions of people around the world with authoritative information about climate change. And we’re working closely with experts to combat false or misleading information.
+On partnerships to scale our impact, we recently announced a joint $925 million commitment alongside Stripe, Shopify,
+McKinsey, and Alphabet to accelerate the development of carbon removal technologies over the next 9 years. This is just one of many ways we’re collaborating with others across industry, nonprofit, academia, and government to combine forces for greater impact.
+Our 2021 Sustainability Report dives deep on the progress we’re making across these areas.
+As we work to provide people around the world with equitable access to opportunities, we’ve also committed to upholding the UN Global Compact’s Ten. 
+Principles and to advancing the Sustainable Development. 
+Goals. We’re committed to the UN Guiding Principles on. 
+Business and Human Rights too.
+Sustainability, human rights, economic opportunity—these are all interconnected and we’re taking a holistic approach to make sure we’re driving positive change globally.
+
+The defining quality of the metaverse will be a feeling of presence—like you are right there with another person or in another place. That feeling of presence is an incredibly powerful tool to build empathy, understanding, and collaboration. Students will be able to take field trips to the melting ice caps or a wind farm, without leaving their classroom.
+Journalists will be able to tell immersive, first-person stories of climate refugees that help their audience feel the impact on people’s lives. Experts from around the world can get together around a virtual table to discuss solutions and advance climate action.
+2021 Meta Sustainability Report 4
+
+
+Our mission is to give people the power to build community and bring the world closer together. The surge in traffic we observed on our platforms when the COVID-19 pandemic began demonstrated the ever-growing role Meta plays in keeping people connected across the world. Meaningful connections are not possible without a safe and healthy world—one in which diverse experiences are respected, accurate information is amplified over the noise, and bold climate action is truly making a difference.
+We can all agree that changes to global temperature and climate present overwhelming challenges—both environmental and social. We take our role, and the responsibility that comes with it, seriously.
+At our core, we strive to protect both people and the planet through responsible operations.
+For the last decade, we have invested in ways to make our own operations more water-and energy-efficient with a focus on sustainable solutions for the resources we do use. Put simply, we aim to use less—less water and less energy—and to reduce unnecessary waste.
+As of 2020, our global operations reached net zero emissions and are supported by 100% renewable energy. We are now reaching toward the goals of net zero emissions across our value chain and becoming water positive throughout our operations, aiming to achieve both of these milestones in 2030.
+Although this report looks back on 2021 and all the progress we have made, I cannot help looking forward and thinking about all the questions yet to be answered and the work yet to be done.
+One thing that became clear in 2021 as we mapped out our net zero strategy was the difficulty in driving pathways for consistent reductions across our operations for a rapidly growing business.
+We know our Scope 3 emissions are increasing—and will continue to increase in the near term—as we grow to support the global demand for the services we provide. For example, to support the infrastructure necessary to connect people around the world, we are building more data centers and networks that will provide capacity and reliability on our platforms, and will enable our transition to the metaverse. We will work to address our Scope 3 emissions by optimizing for low carbon in our business decisions, collaborating with our suppliers to reduce emissions and exploring interventions that decarbonize our broader value chain, both upstream and downstream.
+In addition to focusing on carbon reductions, we realize the need to be innovative and push for new ways to collaborate with others. After all, the challenge of reaching net zero is an industry- wide problem, and as an industry, we will need to collectively realize our goals for the climate by working together.
+A Message from Rachel Peterson Vice President of Infrastructure. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 5
+
+
+Our recent investment in Frontier. 
+AMC↗ is just one example of our belief that we can do far more for the climate through industry collaborations—and the ways we are working with corporate partners to push for faster advancement of technological carbon removals. We continue to partner with leading thinkers to develop new ways to accelerate adoption of sustainable materials and fuels for construction, hardware and transportation.
+Industry leaders, governments and other stakeholders know that. 
+Scope 3 emissions are difficult to measure and reduce. We remain committed to leading internal and external discussions and partnerships to drive industry standards and reductions throughout our value chain.
+Finally, as we look forward, we believe that we must build on achieving our 100% renewable energy goals by optimizing our energy strategy to drive emissions reductions at a grid-scale. We will do this by maintaining our commitment to 100% renewable energy; creating innovative approaches to drive emissions out of the sector while improving reliability; and collaborating with peers, grid operators, utilities and other stakeholders to advance the zero emissions, reliable grid of the future.
+Despite the unknowns, from the planning and analysis we completed in 2021, we know our ambitious 2030 targets will require significant shifts in how we build infrastructure, increase operational discipline and invest in existing and emerging nature- based and technological solutions to reduce and remove emissions.
+We will work to do all of this while growing our business to meet the demands of tomorrow.
+We are humbled by these challenges and grateful to be part of a community of climate leaders, sustainability-focused organizations, government leaders and committed corporations all coming together to allow us to scale our efforts and enable bold climate action.
+This is hard and very important work. It is how we will bring the world closer together—and together, how we will help the world move closer to better.
+Switching to a clean economy could raise $2.8 trillion through carbon price revenues and the redirection of fossil fuel subsidies to public investments.
+A MESSAGE FROM RACHEL PETERSON. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 6
+
+
+What is your vision for the future of Meta’s sustainability strategy? 
+We have made a lot of progress over the past decade—driving up efficiency and driving down our environmental footprint, especially in how we design, build and operate our global offices and data centers. But, we have so much more important work to do.
+For example, we have worked for years to drive sustainability into our value chain through our responsible supply chain program. Meta’s sustainability strategy in the coming years will be to expand our value chain and partnership programs to. 
+Q&A with Edward Palmieri Director of Global Sustainability. 
+Edward Palmieri joined Meta in 2010 and served as a member of the company’s legal team for many years, while nurturing his passion for environmental justice and sustainability. As a new parent,
+Palmieri decided it was time for a shift in career focus. He joined Meta’s Global. 
+Sustainability team as Director, allowing him to merge his work with his passion.
+include working with internal. 
+Meta teams and our global partners to fight climate change through emissions reductions and removals, water stewardship and biodiversity projects, and meaningful collaborations to invest in new solutions and scale our work.
+Our strategy comes to life through three pillars: 1. How We Operate—protecting the well-being of people and our planet through our processes, operations and global supply chain 2. What We Create—amplifying scientists and climate leaders through our products and platforms 3. How We Collaborate—engaging with experts and supporting established initiatives in the climate space. 
+How is Meta approaching its journey to net zero value chain emissions? 
+We embrace our responsibility as a global company to address the climate challenge that impacts us all. On our journey to reach net zero emissions across our value chain, we will lead by example while following what science tells us must be done to align with the. 
+Paris Agreement.
+We are focusing on reducing our. 
+Scope 3 emissions, which means radically changing the way we operate and helping our suppliers to set their own climate targets.
+This work to use less, choose better, embrace low-carbon technology and collaborate with our suppliers will be a very long and complex journey. For us, our net zero goal is more than an announcement; it is a program designed to drive real emissions reductions and lasting changes to our infrastructure and supply chain.
+How will the metaverse impact sustainability? 
+At Meta, we are committed to building tools that make choosing to connect virtually easier than ever. And while we are at the beginning of what will be a long and constantly changing journey, we are excited about giving people the ability to choose options that have a smaller environmental impact.
+Still, the metaverse is new and the growth of our business to support the creation of these new tools presents challenges.
+The expansion of hardware, construction and operation of new data centers and other capital goods means that we must continue to drive toward more sustainable construction and operational business practices.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 7
+
+
+We are now beginning to investigate how we can support our business growth while integrating with low-carbon technology, renewable energy, hardware circularity, reduced water usage and other climate- conscious initiatives included in this report.
+Despite all the progress we are making and our plans for the future, the path to a sustainable metaverse will not always be easy. For example, at first, we expect to see an increase in our emissions. But, ultimately, the work we are doing during these foundational years will drive the innovation and collaboration across our business that enables us to grow sustainably.
+How are the sustainability and human rights agendas connected at Meta? 
+The shared values and aspirations of the human rights and environmental movements are increasingly apparent. The primary victims of environmental harm are often marginalized communities where people cannot claim their rights to live in a healthy environment.
+Linking our sustainability and. 
+Q&A WITH EDWARD PALMIERI human rights agendas at Meta is an important step forward— whether that means taking into consideration the populations most impacted by transitioning to a zero-carbon economy or investing in the well-being of workers across our supply chain.
+Not only is this the right thing to do but also it signals to our employees and stakeholders that we are committed to protecting the rights we all deserve.
+What gives you confidence that Meta can be a driving force for industry change? 
+Our people and our commitment to real impact at scale give me confidence. With the technical and professional talent we have assembled, our team is poised to evolve the way Meta and the technology industry approach sustainability. Our employees truly care about this.
+Sustainability is not an add-on for us. It is a driving force in itself that motivates innovation in what we do and how we do it.
+Our scale also gives me confidence. We have the global reach, expertise and platforms to make a meaningful difference in markets. We are working to support lower-emissions solutions across our business, which we believe will translate to market availability for others as well. We are doing this through our own direct investments (like with our renewable energy projects) and through partnerships (like our investments in carbon removal and reduction solutions and technologies). In fact, one of the most wonderful things about working in the sustainability field is how collaborative it is. When we look at the Open Compute Project↗, for example, we have seen the power of collaboration. I know we can do even more to set an example for better technologies and capacity-building in our supply chain.
+At Meta, we are building tools that make choosing to connect virtually easier than ever.
+1,200+ companies have set science-based targets in line with net zero emissions.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 8
+
+
+Give people the power to build community and bring the world closer together.
+Our Mission. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 9
+
+
+Note: On October 28, 2021, Facebook, Inc. changed its name to Meta. To maintain consistency, we will be referring to Meta throughout this report by its present name, even with regard to events that took place prior to the name change.
+OUR VALUES. 
+We updated our company values to reflect who Meta is as a global community with a wide-reaching impact. These values capture how we must work to bring our vision to life.
+Move Fast helps us build and learn faster than anyone else. This means acting with urgency and not waiting until next week to do something you could do today.
+At our scale, this also means continuously working to increase the velocity of our highest priority initiatives by methodically removing barriers that get in the way. It is about moving fast together—in one direction as a company, not just as individuals.
+Focus on Long-Term Impact emphasizes long-term thinking and encourages us to extend the timeline for the impact we have, rather than optimizing for near-term wins. We should take on the challenges that will be the most impactful, even if the full results will not be seen for years.
+Build Awesome Things pushes us to ship things that are not just good but also awe-inspiring. We have already built products that are useful to billions of people, but in our next chapter, we will focus more on inspiring people as well.
+This quality bar should apply to everything we do.
+Live in the Future guides us to build the future of distributed work that we want, where opportunity is not limited by geography. This means operating as a distributed-first company and being the early adopters of the future products we are building to help people feel present together, no matter where they are.
+Be Direct and Respect Your Colleagues is about creating a culture where we are straightforward and willing to have hard conversations with each other. At the same time, we are respectful, and when we share feedback, we recognize that many of the world’s leading experts work here.
+Meta, Metamates, Me is about being good stewards of our company and mission. It is about the sense of responsibility we have for our collective success and to each other as teammates.
+It is about taking care of our company and each other.
+Our four-point company plan drives the way we approach business strategy and our sustainability strategy: 1. Continue making progress on the major social issues facing the internet and our company 2. Build new experiences that meaningfully improve people’s lives 3. Grow the business by supporting millions of small businesses 4. Communicate more transparently what we stand for. 
+ABOUT META. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 10
+
+
+META AT A GLANCE*
+Meta builds technologies that help people connect, find communities and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and. 
+WhatsApp further empowered billions around the world.
+Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. Our products connect more than three billion people around the world.
+ABOUT META. 
+Headquarters: Menlo Park, CA. 
+Employees: 71,970. 
+Revenue: $117 billion. 
+Offices in 80+ cities worldwide 18 data centers globally powered by 100% renewable energy. 
+Map Key:
+Workplaces. 
+Data Centers *As of December 31, 2021. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 11
+
+
+ABOUT THIS REPORT 2021 Environmental Sustainability Progress. 
+Meta’s Sustainability Report reflects our sustainability progress during the 2021 fiscal year (January 1–December 31, 2021). Understanding our impacts on society and the environment is core to how Meta operates. We continue building transparency into the way we report on our strategy to minimize our impact.
+In preparing this report, Meta referenced guidance from the. 
+Global Reporting Initiative (GRI); Sustainability Accounting. 
+Standards Board (SASB),
+Internet and Media Services. 
+Industry Standards; Task Force for Climate-Related Financial. 
+Disclosures (TCFD); and the. 
+United Nations Global Compact.
+In 2021, external auditor, Apex. 
+Companies, LLC, audited our environmental data. You can access audit certifications here↗.
+Meta first reported its Scope 1 and 2 greenhouse gas (GHG) emissions in 2011 and began reporting Scope 3 emissions in 2019.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 12
+
+
+Stakeholder Identification and Engagement. 
+Whether we are building new products or processes, we have to involve affected communities, particularly those whose perspectives have been historically overlooked or who might be disproportionately impacted by the use or even the existence of a given technology.
+We believe the best way to ensure our efforts are focused on the right priorities is through open dialogue and a combination of formal and informal meetings with stakeholders, including end users, colleagues, communities, suppliers, industry peers, nongovernmental organizations (NGOs), policymakers and investors. These conversations help inform our sustainability programs and advance our work.
+ABOUT THIS REPORT. 
+The 100 least-emitting countries generate 3% of total emissions. The 10 largest emitters contribute 68%.
+Environmental, Social and Governance (ESG) Priority Topics. 
+We conduct regular assessments to understand the ESG topics that are most important to our stakeholders and our business over the short, medium and long term.
+This helps ensure that Meta’s. 
+ESG topics are identified, prioritized, addressed and reported in an inclusive, robust and effective manner.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 13
+
+
+Critical Impact on Meta’s Business Risks & Opportunities. 
+Environmental Social Governance. 
+Critical Importance to Stakeholders. 
+Climate Change. 
+Social and Environmental Justice. 
+Public Policy and Advocacy. 
+Competitive Behavior. 
+Small Business Support. 
+ESG Product Solutions. 
+Operational Waste. 
+Data Center Efficiency. 
+Waste and Water Stewardship. 
+Net Zero Commitment. 
+Transparent Reporting. 
+Diversity, Equity and Inclusion. 
+Data Privacy and Security. 
+Accessibility. 
+Access to the Internet. 
+Employee Engagement. 
+Fair and Responsible Tax Practices. 
+Community Engagement. 
+Human Rights. 
+Minimizing Spread of False Information. 
+Human Capital/Employee Relations Talent Development. 
+Stakeholder Engagement. 
+Responsible Product Design. 
+Content Governance. 
+Corporate Governance. 
+Trust and Integrity. 
+Risk Management. 
+Supplier Engagement and Responsible Sourcing. 
+Important Very Important Critical. 
+Meta’s Priority ESG Topics. 
+While Meta works to address all the topics outlined in our priority topics map, this report focuses on the key environmental topics, as well as the connected social and governance areas. Definitions for our priority topics covered in this report can be found in the data index. Please visit our Environmental, Social and. 
+Governance Resource hub↗ for information on how we address other priority topics. We value and welcome feedback from all stakeholders.
+1 Refers to material environmental, social and governance topics that have or can potentially have a direct impact on Meta or its stakeholders; Does not refer to materiality as defined under Federal Securities Law.
+ABOUT THIS REPORT. 
+To avert the worst impacts of climate change, global temperature increase must be limited to 1.5°C above pre-industrial levels. Global temperatures are already 1.1°C warmer.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 14
+
+
+United Nations SUSTAINABLE DEVELOPMENT GOALS. 
+The United Nations Sustainable Development Goals (SDGs) call upon business, government and civil society to address social, environmental and economic challenges and to drive progress for humanity to build a more sustainable world for all in 2030.
+Our sustainability and broader corporate initiatives can be tied to each of the 17 SDGs, and we plan to continue mapping our progress against the goals to transparently communicate our efforts. At this time, we are reporting on the areas in which we see the biggest potential for impact↗.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 15
+
+
+UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS. 
+Facebook users reached through two global surveys on Gender Equality at Home↗ in more than 200 countries. 
+Equipped with training and mentorship to grow their business on the Facebook platform through our #SheMeansBusiness program↗
+Nonprofit leaders, activists and academic experts in Meta’s Global Women’s Safety Expert Advisors group↗ to help inform the new Women’s Safety Hub↗
+UNSDG #5 Gender Equality. 
+Million Women in 28 Countries 1 12 600,000. 
+UNSDG #3 Good Health & Well-Being. 
+People connected to accurate COVID-19 and vaccine information through Facebook’s COVID-19 Information Center↗
+Pages and groups removed for repeatedly violating our rules against spreading COVID-19 misinformation. 
+Pieces of misleading COVID-19 information removed from Facebook. 
+Raised for COVID-19-related fundraisers globally on Facebook and Instagram. 
+Billion+ 2 Million 12 Million+ 3,000 $175. 
+Across the world, women are more likely than men to be affected by climate-related food insecurity.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 16
+
+
+UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS. 
+UNSDG #8 Decent Work and Economic Growth. 
+Committed to diverse suppliers annually. 
+Will be from underrepresented communities by 2024. 
+In grant funding to Black businesses most impacted by COVID-19. 
+Included in a survey of small businesses to understand views on climate change and priorities↗ for investments in water infrastructure. 
+Billion $1 Million $40 Countries of Our Workforce 50% 31. 
+To the Facebook Social Media Marketing Professional Certificate landing page. 
+Unique Visitors to the Facebook Marketing Analytics Professional Certificate landing page. 
+Million Unique Visitors 2.38 368,000. 
+Submitted for 280 jobs offered by 211 companies in the hiring consortium. 
+Of those who completed one of the marketing professional certification programs, 18% got a new job, 25% got a salary increase, 15% got a promotion, 9% started a business, 32% grew a business, and 70% feel more confident in their marketing abilities after certification 1,870 63%
+Across Meta’s educational programs. 
+Users 234,000. 
+Job Applications Career Success Rate. 
+Achieving 50%-70% renewable energy could generate up to 600,000 jobs in wind, solar and battery storage.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 17
+
+
+UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS. 
+UNSDG #9 Industry, Innovation and Infrastructure. 
+UNSDG #13 Climate Action. 
+Provided with fast, reliable internet access thanks to collaboration between our Connectivity team and partners. 
+Global subscribers to the Climate Science Center. 
+In economic growth for sub-Saharan Africa, the Association of Southeast Asian Nations (ASEAN) and Latin America over the next five years through Meta partnerships and digital access infrastructure. 
+Donated by 3.5 million Facebook and Instagram users to combat climate change. 
+Renewable energy for our global operations. 
+Million People 300 Billion $200 Million 3.8 $130 100%
+UNSDG #13 Climate Action. 
+Greenhouse gas emissions for our global operations. 
+Across our value chain in 2030 Facebook users reached with the Climate Change Opinion Survey to provide insights into public views on climate change across 31 countries. 
+Megawatts of new solar and wind projects enabled by Meta’s renewable energy commitment. 
+Net Zero Net Zero 76,328 7,500. 
+Meta employees working on safety and security on our global content review teams. 
+UN SDG #16 Peace, Justice and Strong Institutions 40,000. 
+Million. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 18
+
+
+UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS. 
+UN SDG #17 Climate Action. 
+Data for Good partners equipped with insights needed to make decisions to advance humanitarian response and the SDGs. 
+Project 17 Partners 580+ Net Zero. 
+UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS. 
+UN SDG #17 Climate Action. 
+Project 17 Partners 580+ Net Zero. 
+UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS. 
+UNSDG #17 Partnerships for the Goals 4 Partnerships 580+ 50. 
+To advance progress on the SDGs through Project 17↗
+People will be impacted by water and sanitation interventions over the next five years because international nonprofit World Vision recently leveraged Facebook’s high-resolution population density maps↗ to develop their strategic plan for water and sanitation. 
+Nearly Million. 
+Net Positive Water Impact is a cornerstone concept for accelerating progress on UNSDG #6-Clean Water and Sanitation for all.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 19
+
+
+We envision a just and equitable transition to a zero-carbon economy.
+Our Sustainability Vision. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 20
+
+
+OUR VISION. 
+We envision a just and equitable transition to a zero-carbon economy, and we are working with others to scale inclusive solutions that help create a healthier planet for all, ensuring that no one is left behind.
+We will not realize this vision on our own. We see our role as protecting people and the planet through responsible operations—minimizing our energy, emissions and water impact, while protecting workers and the environment in our supply chain.
+At the same time, we collaborate with community members, climate action leaders and scientists to innovate beyond what is possible today. We are leveraging our core products and services to enable access to climate science information and to accelerate action-oriented resources for tomorrow.
+Our strategy is anchored by three components—How We Operate,
+What We Create and How We. 
+Collaborate—and supported by science-based targets to help drive change across the many communities in which we operate.
+OUR APPROACH TO SUSTAINABILITY. 
+We are in the business of building better realities—and not just virtual ones.
+We are making rapid progress in many areas associated with each component. In other areas, we know we have further to go, and we intend to get there. We are committed to making a difference for our product users and workers throughout our supply chain.
+More than 130 countries and 400 of the largest companies have net zero targets aimed for 2050 or earlier.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 21
+
+
+OUR APPROACH TO SUSTAINABILITY. 
+For a Better Reality. 
+How We Operate We are committed to protecting what is truly important: The well-being of people and our planet.
+What We Create We push the boundaries of what is possible, creating solutions where none existed and building products that enable change.
+• Take bold climate action by minimizing our footprint, championing renewable energy, restoring water resources, engaging our suppliers and supporting climate justice • Respect human, labor and civil rights in our operations and supply chain • Cultivate diversity and inclusion in our operations • Boost energy and water efficiency in our data centers • Provide access to new ideas, accurate information and ways to take action via content on our platforms • Amplify content from scientists and climate action leaders • Design new products with diverse needs and values in mind • Elevate small businesses and spur economic growth • Integrate circular practices in our facilities and hardware • Engage experts to guide our sustainability and social impact initiatives • Connect researchers with insights • Join forces with NGOs and community organizations to create and implement locally beneficial environmental initiatives • Work with local power utilities to enable our facilities and local businesses to procure renewable energy • Share our environmental learnings and practices throughout the tech industry and beyond. 
+How We Collaborate We tackle the important issues by creating partnerships and joining established initiatives.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 22
+
+
+2030 2017 2018 2019 2020 2021 2022. 
+Net Zero Value Chain Emissions in 2030 2017 Committed to Reducing GHG Emissions by 75% and Powering Global Operations with 100% Renewable Energy by the End of 2020 2018 Began Working with The Audubon Society to Address Shared Water Challenges in the Rio Grande Watershed 2022 Joined the Frontier Advance Market Commitment to Accelerate Development of Carbon Removal Technologies 2021 Purchased More Renewable Energy Than We Used Across All Facilities 2021 Began Engaging Suppliers to Drive Toward Net Zero Value Chain Goal 2021 Launched $1 Million Climate Misinformation Grant 2021 Contracted 1 Billion Gallons of Water for Restoration 2020 Launched the Climate Science Center 2020 100% Renewable Energy Supporting Global Operations 2020 Achieved Net Zero for Global Operations 2019 Began Reporting Scope 3 Emissions. 
+PROGRESS AND GOALS. 
+Water Positive in 2030. 
+OUR APPROACH TO SUSTAINABILITY. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 23
+
+
+2021 Highlights. 
+Celebrating today. Working toward tomorrow.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 24
+
+
+Through operational improvements and product innovations, we made significant progress toward a better reality in 2021. We are proud of how far we have come—and we are ready to go so much further.
+2021 HIGHLIGHTS 2018 2019 2020 2021 0
+3 Million 1 Million 2 Million 200k 400k 600k 800k 2.3 Million. 
+Meta restored 2.3 million cubic meters of water in 2021. Throughout our operations, we consumed 2.6 million cubic meters.
+38%
+Meta offices opened in 2021 were 38% more water efficient than LEED baseline.
+3. 
+The six new data center buildings we opened in 2021 were awarded LEED Gold certification, totaling 3 million square feet.
+7,500 MW. 
+As of 2021, we had contracts in place for more than 7,500 megawatts (MW) of renewable energy.
+Million SQ FT LEED Gold. 
+Progress on Net Positive Water Goal. 
+Water Consumed. 
+Water Restored. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 25
+
+
+Protecting People and Planet Through Responsible Operations. 
+Thanks to our sustainability- focused real estate development teams, the 21 Meta offices that earned Leadership in Energy and. 
+Environmental Design (LEED)↗ certifications in 2021: • Were 38% more water efficient than LEED baseline↗, avoiding 10.5 million gallons of water annually • Recycled 86% of construction waste, saving 32,000 tons of waste from going to landfill or incineration. 
+Through our innovative server cooling process, data centers operating in 2021 were at least 80%1 more water efficient than the average data center. Our six data center buildings that received LEED Gold certification in 2021 recycled over 50,000 tons (82%) of construction waste.
+2021 HIGHLIGHTS 1 According to Berkeley National Laboratory’s United States Data Center Energy Usage Report↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 26
+
+
+Tackling Climate Misinformation. 
+Climate misinformation on our platforms tends to spike periodically when climate change conversations are elevated, such as during extreme weather events. That is why we work with a global network of over 80 independent fact-checking organizations to review and rate content in more than 60 languages.
+To supplement that program, in 2021, we launched the $1 million. 
+Climate Misinformation Grant in partnership with the International. 
+Fact-Checking Network↗.
+Through this program, we will fund partnerships and proposals from fact-checkers, climate organizations and solution providers working to combat false and misleading information about climate change.
+Accelerating Access to Accurate Information via the Climate Science Center. 
+In 2020, we started working with the Intergovernmental Panel on. 
+Climate Change (IPCC)↗ to provide access to science-based and dynamic climate information via the. 
+Climate Science Center (CSC)↗.
+In 2021, Meta expanded the CSC to more than 150 countries, attracting more than 3.8 million followers. The CSC provided more than 100,000 daily visitors with data from the IPCC and other organizations active in climate science.
+2021 HIGHLIGHTS. 
+We launched the $1 million Climate Misinformation Grant in partnership with the International Fact-Checking Network.
+Get more information on climate change. 
+Get the facts. 
+Indonesia and the U.S. are the countries with the highest shares of climate change deniers.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 27
+
+
+Expanding Net Zero from our Operations to our Value Chain. 
+On our path to net zero value chain emissions in 2030, we are committed to an approach that prioritizes emissions reductions.
+Key strategies to reduce emissions include using fewer new materials by reusing server hardware components and choosing construction materials with a smaller emissions footprint, such as low-carbon concrete.
+We began working with a select group of our suppliers in 2021 to calculate and report their greenhouse gas (GHG) emissions.
+In 2022, we will provide capacity- building training to our top 100 suppliers on measuring their GHG impact, setting reduction goals and identifying ways to reduce their emissions.
+To address any emissions we cannot reduce, we will remove an equivalent amount of GHG emissions through verified carbon removal projects that prioritize social and environmental benefits.
+2021 HIGHLIGHTS. 
+Scope 1 covers direct emissions that come from sources that are owned or controlled by Meta.
+Scope 2 covers indirect emissions from the purchased or acquired energy consumed by Meta.
+Scope 3 includes all other indirect emissions that occur in Meta’s value chain, including supply chain operations and end-product usage by customers. 1 2 3. 
+Our emissions footprint includes our business operations and data centers, as well as the indirect emissions upstream and downstream.
+Scope 3 emissions fall within 15 categories, though not every category will be relevant to all organizations.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 28
+
+
+Becoming Water Positive. 
+We follow a water stewardship strategy that focuses on sourcing water responsibly, driving water efficiency across our facilities and operations, and investing in critical water restoration projects in the same watersheds where our facilities are located.
+In 2021, we added seven new water restoration projects in Arizona,
+New Mexico, and Texas, totaling approximately 377 million gallons of water per year.
+
+We announced our goal to be water positive in 2030, and in 2021, we reached the milestone of contracting 1 billion gallons of water per year for restoration.
+2021 HIGHLIGHTS. 
+Though they cover only around 6% of the earth’s land surface, 40% of all plant and animal species live or breed in wetlands.
+Photo courtesy of TNC. 
+Photos courtesy of Craig Sponholtz, Watershed Artisans Inc.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 29
+
+
+To create a better reality, we must start by improving our own practices, processes and culture.
+How We Operate. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 30
+
+
+Because climate-related issues are inherently uncertain, assessing risks and evaluating actions is an ongoing process.
+For the last decade, we have invested in ways to minimize our footprint, champion renewable energy, restore water supplies and support climate justice. As of 2020, our global operations have reached net zero emissions and are supported by 100% renewable energy2.
+To maintain forward progress as our business grows and evolves, we regularly conduct climate-related risk and opportunity assessments to better understand and manage future transitional and physical risks associated with climate change. This helps us take the right measures that contribute to our company’s and our world’s resilience.
+To guide our work, in 2021, we incorporated recommendations of the Task Force on Climate-
+Related Financial Disclosures.
+This process helps provide a view into how we understand and manage the risks and opportunities associated with climate change, and it informs how we prepare to navigate the evolving disclosure landscape (including potential U.S. and EU regulations and requirements).
+We are committed to completing a full TCFD scenario planning in 2022.
+Transitional risks can occur as businesses recalibrate to a cleaner, green economy. To assess our transitional climate risks, we consider potential changes to climate policies as well as technological, market and reputational risks. We believe we are better positioned for the transition to a greener future through our efforts to support our operations with 100% renewable energy and our goal to reach net zero emissions across our value chain in 2030.
+HOW WE OPERATE. 
+Assessing and addressing climate risks.
+Early warning systems for disasters can deliver benefits up to 10 times the initial cost.
+2 By reducing emissions by 94% from a 2017 baseline and supporting carbon removal projects. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 31
+
+
+HOW WE OPERATE. 
+Our climate resilience toolkit provides checklists and key questions for each type of physical risk to help develop resiliency plans.
+To address our physical climate-related risks, we execute assessments using models and potential risk scenarios. We use the intermediate and business-as-usual scenarios based on IPCC Representative. 
+Concentration Pathways 4.5↗ and 8.5↗ to better understand how acute and chronic physical risks may impact our global facilities, data centers and supply chain.
+We have assessed physical risks, such as wildfires, sea-level rise, water stress, floods, hurricanes and heat stress, completing climate risk assessments for over 500 priority sites. Insights from these assessments help inform our operational strategy and identify key opportunities to weave climate-related considerations into our long-term resiliency strategy.
+We strengthen our climate resilience when we incorporate the results of these assessments into key business decisions. Our climate resilience toolkit provides checklists and key questions for each type of physical risk to help develop resiliency plans.
+Teams also conduct tabletop exercises to practice responses to disruptive extreme weather events.
+67% of Americans perceive a rise in extreme weather.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 32
+
+
+as noted in our Anti-Slavery and. 
+Human Trafficking statement.
+Our statement includes information on preventing forced labor risks in our supply chain, including risk assessment and due diligence processes. In support of these human rights commitments, our suppliers are also expected to follow Meta’s policy requirements in creating and ensuring a respectful workplace↗. Additionally, we expect our suppliers to understand and conform with our. 
+Corporate Human Rights Policy↗.
+RESPONSIBLE SUPPLY CHAIN Meta is part of a complex value chain that touches lives and communities around the globe. Our Responsible Supply. 
+Chain (RSC) program strives to empower workers and protect the environment—through open and frequent communication with our suppliers, deep understanding of core sustainability issues and initiatives that support safe, healthy and fair working conditions.
+Our approach begins with establishing clear expectations with our suppliers through our standards and policies, including the Responsible Business Alliance (RBA) Code of Conduct↗.
+The RBA Code of Conduct,
+Meta’s Anti-Slavery and Human. 
+Trafficking statement↗ and. 
+Meta’s Conflict Minerals Policy↗ serve as some of the RSC program’s core tenets and are a guidepost for the expectations we set with our suppliers.
+Meta is opposed to all forms of human trafficking, slavery, servitude, forced labor and all other trafficking-related activities. 
+Sustainability across our value chain.
+Supply chains generate around 60% of all carbon emissions globally.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 33
+
+
+Evaluating and Addressing Risk. 
+We extend our approach to risk assessment to our global supply chain, working closely with suppliers to help them understand, prevent and mitigate risks in and to their business. Assessments come in multifaceted forms that include independent audits, supplier questionnaires, on-site visits or conversations.
+In 2021, we continued to identify meaningful areas of improvement by engaging with workers directly through mobile surveys that provided key worker sentiment.
+Surveys have led to improvements in worker satisfaction through focus group discussions, stronger new employee onboarding and improved grievance mechanisms and analysis. We have taken a more holistic approach to worker well-being thanks to survey feedback that includes physical and emotional health and ideas for managing stress.
+Meta experts address identified issues with direct supplier engagement and corrective action. When needed, we also look to external partners for support in the areas of labor, health and safety to help suppliers identify areas for improvement and create structured action plans with measurable outcomes.
+Net Zero Supplier Engagement “For a Better Reality” is about building a better future. Business as usual must fundamentally change to move away from what is obviously an unsustainable path. This shift is an enormous undertaking affecting all levels of the supply chain, an undertaking even a company the size of. 
+Meta cannot tackle alone. What we can control right now is how we operate, what we create and how we collaborate to collectively solve this giant challenge.
+We have developed a supplier engagement program to help us reach net zero emissions across. 
+RESPONSIBLE SUPPLY CHAIN our value chain in 2030. We focus on working together with vendors to determine their Scope 1, 2 and 3 emissions, training them to set reduction targets and to take the actions to achieve those targets.
+Flooding is the No. 1 form of natural disaster.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 34
+
+
+RESPONSIBLE SUPPLY CHAIN Happiness Series. 
+Meta’s value chain spans the globe, relying on technology, innovation and, most importantly, people from all cultures and walks of life.
+Our Happiness Series is an initiative launched in 2020 that strives to increase supply chain worker morale and sense of belonging. In 2021, our team worked to deepen their understanding of what workers want from their jobs and their lives and what they are passionate about.
+After spending time at a supplier factory in China, our team was inspired by the employees’ vast interest in education for personal growth and investment in their families. To honor the workers’ commitment to their families and to encourage them to focus on enriching their own lives, we installed a “smart” library at the factory. More than 11,000 workers can access nearly 2,000 books—books that empower women to take control of their own destiny and books workers can share with their children.
+We engaged with 40 suppliers in 2021 to identify GHG reduction opportunities within their operations. For example, we conducted an energy-efficiency assessment for a data center hardware supplier in 2021. We identified nearly 9,000 megawatt hours (MWh) of potential annual energy savings within the supplier’s mechanical and electrical facility-level equipment.
+Potential projects include installing higher efficiency equipment, replacing valves and damaged insulation, and implementing automatic variable operation controls for chilled water pumps and air handling units.
+The facility will be able to save not only energy (and related indirect emissions) but also energy costs, with payback periods ranging from less than one year to up to four years.
+Assessing resilience to climate change is crucial to ensuring our supply chain is prepared for climate risks.
+We are also working with suppliers to ensure they understand the climate risks they may face, including floods, heat stress, typhoons, hurricanes, water stress and sea-level rise.
+Assessing resilience to climate change is crucial to guiding our efforts to ensure the people and communities within our supply chain are prepared for climate risks.
+“The Happiness Series extends beyond code compliance,” explained Leslie. 
+Collins, Head of Responsible Supply Chain Sustainability for Meta. “It’s about wanting to do good and working to elevate joy in the lives of workers.”
+Supply chain emissions are, on average, 11.4 times higher than operational emissions.
+Photos courtesy of Meta Supplier. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 35
+
+
+WORKPLACES With nearly 72,000 employees across 80 cities, providing workplaces that are healthy, safe and sustainable exemplifies our commitment to building a better reality—and directly engages our employees in our vision.
+We focus equally on what “better” means for the people inside our workplaces and the natural environment around them. Our approach is driven by climate action, supporting biodiversity, practicing circularity and promoting well-being.
+In 2021, the majority of our workforce continued to work from home due to the COVID-19 pandemic. In alignment with our 100% renewable energy commitment, we purchased renewable energy to cover the electricity used by Meta employees working from home.
+As we reopen our offices globally, we are following best practices to ensure our facilities remain not only energy and water efficient but also safe for re-entry.
+The majority of our global offices are WELL Health-Safety Rated↗.
+This third-party rating assesses our operational policies, maintenance protocols and emergency planning related to. 
+COVID-19 response. Through this effort, we enhanced our policies and procedures targeted at cleaning and sanitization, emergency preparedness, health service resources, air and water quality management and health-safety communication.
+Healthy, safe and sustainable workplaces.
+The construction and operation of buildings account for nearly 40% of CO2 emissions.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 36
+
+
+Healthy and Sustainable Workplaces. 
+Expanding our Healthy and. 
+Sustainable Materials. 
+Program—which focuses on reducing embodied carbon and avoiding chemicals of concern—to address product. 
+Global Warming Potential↗ is a critical step in reaching our goal to reduce the embodied carbon of facility building materials by 40% in 2030 from a 2019 baseline.
+Embodied carbon refers to the. 
+CO2 emissions generated by the manufacturing and transporting of building materials as well as the construction process. The plan imposes limits on carbon- intensive construction materials, such as concrete, steel, drywall, carpet and furniture.
+Many of our offices are certified by LEED—a globally recognized third-party verification standard for sustainable buildings developed by the U.S. Green Building Council (USGBC)↗. All of our new offices over 100,000 square feet pursue LEED Gold Certification or higher. To date, we have 50 offices globally that are LEED certified.
+In 2021: • 21 offices received LEED. 
+Gold certification (Dublin,
+Seattle, Denver, Chicago,
+Los Angeles, and multiple cities in the San Francisco. 
+Bay Area) • Sydney, Australia office received Green Star. 
+Certification↗ (6-Star Level) 
+
+• Fremont, California, campus earned Fitwel↗
+Certification (2-Star Level) • Hong Kong office achieved. 
+World Green Organisation’s. 
+Green Office & Eco-Healthy. 
+Workplace Award↗ • Dublin and London offices were re-certified under ISO 50001 Energy Management. 
+Certification↗
+WORKPLACES 85% of employees working in LEED-certified buildings say access to outdoor views and natural light boosts their productivity and happiness.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 37
+
+
+Office Spotlight. 
+Our new Dumbarton campus in Fremont, California, is LEED. 
+Gold and Fitwel Certified. The campus buildings are clustered around a central courtyard that extends to a variety of outdoor spaces, providing opportunities for communal and restorative activities. Within the buildings, office neighborhoods are located along the perimeter to maximize views to the landscaped areas.
+Ample sunlight penetrates deep into floor plates through the use of skylights and clerestories.
+
+The buildings will use 25% less energy and 45% less water than the LEED baseline.
+We align construction material procurement with our. 
+Healthy and Sustainable. 
+Materials Program.
+Culinary Sustainability. 
+Our Culinary team nourishes the Meta community through responsibility, culture and hospitality.
+We operate more than 60 cafes and 700 microkitchens globally, where we serve our employees and visitors healthy, delicious snacks and meals. Before the. 
+COVID-19 pandemic, 110,000 meals were served daily, and we expect this to continue. To help ensure this offering aligns with our climate commitments, in 2021, we launched our first Culinary Sustainability. 
+Program focused on embedding environmental and social responsibility into culinary operations.
+As part of this program, we aim to: • Reduce food waste through innovative food preparation and serving practices, as well as waste tracking and sorting technology • Reduce packaging waste by integrating circular economic practices into our culinary offering and reducing single use—we have eliminated plastic water bottles for our facilities globally • Reduce the carbon intensity of our ingredients through creative plant-forward menus and supporting regenerative food systems • Reduce the carbon impact of cooking through increasing our use of all-electric kitchens. 
+WORKPLACES. 
+The food system accounts for roughly 30% of global energy use.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 38
+
+
+Data centers are at the heart of the connections we enable. They power the internet and make digital communication possible. Data centers also account for the highest percentage of Meta’s energy use, water use and GHG emissions.
+We can have the largest impact on overall emissions reductions by designing, building and operating some of the most sustainable data centers in the world. Data center buildings we completed in 2021 exhibit a Power Usage Effectiveness (PUE) of 1.09 and Water Usage Effectiveness (WUE) of 0.26.
+Our Odense data center earned Green Data Center of the Year honors for Special Contribution to improving Energy Efficiency at the Data Center World Awards. The site also earned the Sustainable Data Center Award at the Data Cloud Global Awards.
+DATA CENTERS. 
+Building and operating sustainable data centers.
+2017. 
+Annual Data Center Power Usage Effectiveness (PUE) 1.10 1.11 1.09 1.11 1.10 2018 2019 2020 2021 1.50 1.40 1.30 1.20 1.10 1.00. 
+Meta. 
+Industry Average. 
+PUE (kw/kw of IT power) 2017. 
+Annual Data Center Water Usage Effectiveness (WUE) 0.24 0.27 0.26 0.27 0.30 2018 2019 2020 2021 2.00 1.50 1.00 0.50 0. 
+Meta. 
+Industry Average. 
+WUE (kw/kw of IT power) 1.80 2017. 
+Annual Data Center Power Usage Effectiveness (PUE) 1.10 1.11 1.09 1.11 1.10 2018 2019 2020 2021 1.50 1.40 1.30 1.20 1.10 1.00. 
+Meta. 
+Industry Average. 
+PUE (kw/kw of IT power) 2017. 
+Annual Data Center Water Usage Effectiveness (WUE) 0.24 0.27 0.26 0.27 0.30 2018 2019 2020 2021 2.00 1.50 1.00 0.50 0. 
+Meta. 
+Industry Average. 
+WUE (kw/kw of IT power) 1.80. 
+Data centers consume 10-50 times the energy per floor space of a typical commercial office building.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 39
+
+
+As a leader in efficiency and renewable energy, we are a. 
+Platinum member of the U.S.
+Green Building Council and active on the LEED Advisory and. 
+Technical committees to help shape the future of its green rating system for data centers.
+For the Earth. 
+For Meta, efficiency and renewable energy are key components of our approach to designing, building and operating sustainable data centers. We focus on eliminating waste, boosting wellness, incorporating sustainable products and being a good neighbor in the communities where we have operations.
+Since our first Prineville data center building earned the LEED. 
+Gold certification in 2011, we have continued to achieve Gold certification levels, or higher, for all data center buildings. To date, we have certified 28 LEED Gold data center buildings, totaling nearly 17 million square feet. In 2021, six of our new construction data center buildings, in the following locations, were awarded. 
+LEED Gold certification, totaling over 3 million square feet: • One in Los Lunas, New Mexico • One in New Albany, Ohio • Two in Prineville, Oregon • Two in Henrico County, Virginia. 
+DATA CENTERS. 
+Each site is designed to promote biodiversity, plant native and adaptive landscape, mimic the natural hydrology of the site and reduce urban heat island effect. As of 2021, we have protected more than 1,000 acres of open space on our data center campuses. We choose plant species, efficient irrigation, alternative water sources when available, and smart scheduling technologies that together save 80% more water using the. 
+EPA’s WaterSense Water Budget. 
+Tool↗, saving more than 80,000 kilogallons (kGal) of water per year.
+Each data center site is equipped with electric vehicle charging stations and the electrical infrastructure for future expansion.
+We work to keep construction and demolition waste out of landfills and incineration facilities by recovering, reusing and recycling materials. Building projects completed in 2021 recycled over 50,000 tons of construction waste.
+We source only Forestry. 
+Stewardship Council (FSC) certified new wood products.
+FSC certification confirms environmental protections for responsible forest management, protects customary rights of indigenous people and prohibits the use of highly hazardous chemicals.
+Urban heat islands occur when natural land cover is replaced with pavement, buildings and other surfaces that absorb and retain heat.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 40
+
+
+For Our People. 
+Meta’s data centers are designed by engaging multidisciplinary teams of designers and innovators. Dedicated to the highest design standards, we create spaces that are sustainable, inclusive and focused on how employees feel and perform at work. We design our sites and buildings with features intended specifically for human delight and the celebration of culture, spirit and place.
+Data center workspaces maximize natural light, provide views to outdoor landscaping, include artworks from local artists, and mimic local geographic features via biophilic building and landscape architectural designs.
+In 2021, we adopted strategies into our data center design to improve interior acoustics for better privacy and concentration, as well as lighting quality to better simulate natural light and improve visibility.
+Following LEED guidelines, we design our data centers to increase fresh air in our office spaces by 30% to improve cognition. Each data center building completed in 2021 passed rigorous indoor air quality testing, confirming we have reduced indoor air contaminants, which is proven to improve occupants’ comfort, lower absenteeism and increase productivity.
+Health transparency goals for material ingredients are achieved through certifications, including. 
+Health Product Declaration↗,
+Cradle to Cradle certification↗ and the Declare label↗.
+DATA CENTERS. 
+The concentration of indoor air pollutants can be 2-5 times higher than typical outdoor concentrations.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 41
+
+
+In Altoona, Iowa, we are testing low-emission construction equipment, including solar hybrid lighting towers, temporary power generators with battery backup and electric heaters.
+We are partnering with general contractors and equipment suppliers to thoroughly evaluate the performance of this equipment using a triple bottom-line approach with the hope that we can eventually scale the use of this equipment across our construction sites globally.
+In collaboration with our construction partners, Hardhat in Hand↗, our premier construction training program and workforce development initiative, launched across data center sites.
+We work with Hardhat in Hand to expand the local skilled trades talent pipeline, increase diversity in the construction industry and provide a path to reliable, well-paid job opportunities in a growing industry.
+Efficient Construction. 
+Construction has traditionally been an industry that generates a lot of waste. Typically, raw materials are shipped to the site and then skillfully crafted to construct spaces to meet societal needs. Through building strategies like prefabrication, manufacturing, industrialization, and Design for Safe Manufacturing and. 
+Assembly (DfSMA), the Infra. 
+Construction Management team can reduce the volume of raw materials brought to site and construction waste generated, thereby reducing the overall carbon footprint. This not only enables the teams to work within available labor resources to build more and faster, but also has the added benefit of reducing waste generation on site while maintaining our high quality and safety standards.
+We have seen that virtual reality increases engagement, helps with education, reduces surprises and increases transparency. We use 3D Terrestrial Laser Scanners to create point-cloud to compare the installation to the model.
+At each stage, we capture 360-degree progression photos to document building installation and take remote field site walks.
+We use drones to track construction progression, site logistics and volume calculations to right-size materials to the site’s conditions.
+DATA CENTERS. 
+We have seen that virtual reality increases engagement, helps with education, reduces surprises and increases transparency.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 42
+
+
+Data Center Water Efficiency. 
+Because data centers rely on water to cool servers and maintain humidity levels, our teams are always looking for ways to reduce our water use. One method we use to conserve water is through direct evaporative cooling, which relies on outside air.
+Traditional technologies, like chilled water plants and cooling towers, rely on water to reject heat. In areas facing specific environmental challenges, such as high levels of dust, extreme humidity or elevated salinity, using direct cooling could severely impact IT equipment.
+In these cases, we use indirect cooling systems to minimize the risk to our buildings and the servers housed within. In partnership with Nortek Air. 
+Solutions, we have developed an indirect cooling technology called the StatePoint Liquid. 
+Cooling (SPLC) system↗. The first of its kind to be deployed to data centers, SPLC produces cold water instead of cold air.
+The system uses less water than a typical indirect cooling system because it uses air to cool water instead of using water to cool air.
+Based on evaluation of our current water use, we have identified winter humidification needs as an area of opportunity to further improve our operating efficiency by optimizing our relative humidity (RH).
+We piloted the RH adjustment↗ at our data center in Los Lunas,
+New Mexico, and found by lowering our current 20% minimum RH to 13% minimum. 
+RH, we were able to reduce water use by 40% over nine months.
+We have rolled out the RH minimum changes across our existing data centers and updated design standards for new construction. We expect this change will allow us to reduce water use 10% to 65% annually.
+DATA CENTERS One method we use to conserve water is direct evaporative cooling.
+Oceans absorb more than 90% of the heat that reaches Earth’s surface.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 43
+
+
+CIRCULARITY. 
+We see circularity as key for the essential evolution from a linear system that is extractive, polluting and finite to a circular one that is sustainable. We also see it as our responsibility to use our products, family of apps and knowledge to catalyze circularity in our industry and beyond.
+To help ensure alignment across all of Meta’s program pillars, team leads meet quarterly in a cross-functional working group to share program updates, identify potential new project collaborations and learn from their peers about this rapidly evolving field.
+Our approach to circularity.
+The quantity of raw materials extracted from the earth has more than doubled over the past three decades.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 44
+
+
+CIRCULARITY. 
+Data Center Design Circularity. 
+Embedding circularity principles into how we design, build and operate our data centers helps us elevate resource efficiency to reduce water and waste.
+Our circularity principles also extend to the kinds of materials we use. To lower the carbon impact of concrete—a large source of global GHG emissions—we expanded our partnership with researchers from the University of Illinois at Urbana-Champaign’s civil engineering and computer science departments to use an artificial intelligence (AI) model to generate low-carbon mix designs↗. These alternatives use high amounts of byproducts from other industries, such as fly ash and slag, as a replacement for cement. We incorporated lessons learned from the first pilot phase to train the model’s AI to identify concrete mixes that optimize for early strength gain while lowering the carbon footprint.
+We also piloted the use of recycled ground glass as a substitute for cement in various concrete applications in our data center locations in northern. 
+Huntsville, Alabama, and Gallatin,
+Tennessee. These pilots explored the feasibility of replacing cement with powdered glass from products such as bottles or window-panes that would otherwise end up in landfills. If successful, these efforts have the potential not only to lower the carbon footprint of the concrete we use but also to create a market demand for discarded glass products.
+GLOBAL COMMUNITY. 
+META COMMUNITY. 
+Our Hardware Make hardware reuse, refurbishment and recycling the norm. 
+Our Data Centers Build and run data centers with optimal resource efficiency. 
+Our Workplaces Shape and operate healthy, waste-free workplaces. 
+Our Products and Partnerships Empower people everywhere to live a more circular life. 
+Our Industry Advance circularity through collaboration and open-sourcing. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 45
+
+
+CIRCULARITY and safely identify and resolve issues, thereby extending the lifespan of our hardware.
+
+To continue to improve resource efficiency, we are exploring ways to extend the life of racks and components used in our data centers. We shared an example of this thinking in 2020 with battery backup units↗, and we are continuing to drive toward our goal of enabling a circular supply chain. By conducting internal reliability studies, configuring the logistics and developing necessary financial and asset tracking systems, we have extended the life of certain racks within our data centers. We are working toward harvesting and redeploying components and systems at scale that continue to meet our reliability standards for both critical spares and for integration into new racks.
+In 2021, after many months of planning and conducting internal reliability studies, we focused our attention on the opportunity to extend the lifetime use of memory within our racks. Critically, memory is a carbon-intensive component within our infrastructure, and the opportunity to use this resource to its fullest extent is a key net zero strategy to “use less” and avoid emissions in our upstream supply chain.
+Beyond circularity efforts within our data centers, we also work closely with our downstream partners to find a second life for parts outside of our data centers through secondary markets and to ensure all residual materials are responsibly managed.
+We understand that most of the embedded emissions↗ from our data center infrastructure come from manufacturing, and circularity will be key to improving resource efficiency.
+
+Starting with design and material selection, we are prioritizing the use of recycled materials in new system designs, in addition to our continued focus↗ on ensuring hardware is easy to disassemble and reuse.
+In 2021, Meta’s Sustainability team partnered closely with. 
+Quality and Engineering teams to co-create an internal Design for Circularity guide to integrate principles of design for reuse and design for end of life into the product development process.
+We are also focused on Design for Serviceability, making our equipment easy to repair in the field so our data center technicians are able to quickly. 
+We are prioritizing the use of recycled materials in new system designs, in addition to our continued focus on ensuring hardware is easy to disassemble and reuse.
+Plastic pollution has increased tenfold since 1980.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 46
+
+
+Driving toward a net zero value chain.
+GREENHOUSE GAS EMISSIONS. 
+Meta is committed to addressing. 
+GHG emissions across our global operations, value chain and beyond. This is the most direct way we can tackle climate change—the single largest threat to the well-being of people, the environment and businesses alike. A better reality will not truly be possible unless we, our partners and our suppliers work together to strategically reduce. 
+GHG emissions.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 47
+
+
+In 2020, we announced our goal to expand our net zero goal to include our value chain in 2030.
+We have laid the foundation to reach our 2030 climate target: • Our climate program is aligned with the Science. 
+Based Targets initiative (SBTi)↗ and is guided by the latest science on what is necessary to transition to a zero-carbon future.
+• In 2020, we achieved net zero GHG emissions in our direct operations (Scopes 1 and 2) by reducing our emissions by 94% compared to 2017 levels.
+The rapid expansion of hardware, data centers and offices to support our business means we must boldly innovate and optimize for efficiency. Early on in this decade, we do not expect decarbonization and growth to be in harmony. In fact, our emissions increased 11% from 2020 to 2021, and as we return to our offices, that number will remain high. This reality is clear and underscores the need for us to drive collaborative and innovative solutions across our business and with our suppliers today so that growth can happen sustainably.
+GREENHOUSE GAS EMISSIONS • As we focus our attention on decarbonizing our Scope 3 emissions, we are working now to identify solutions that can scale as our business grows.
+The climate impact associated with building the metaverse is something we are spending a lot of time thinking about and analyzing. New tools, products and facilities to support this growth will be a major challenge on the road to meet our already ambitious target.
+We are actively building highly efficient data centers to offset the carbon footprint of building the metaverse.
+CO2 emissions are increasing more than 250 times faster from human activity than from natural sources after the last Ice Age.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 48
+
+
+Our strategy to reach net zero in our value chain entails three steps:
+We will engage with our suppliers. Helping our suppliers set their own climate targets will reduce their emissions associated with our footprint while hopefully spurring decarbonization beyond Meta.
+2.
+Finally, we will support carbon removal projects of the highest standards to address the residual emissions that we cannot reduce.
+3. We will focus on decarbonizing where we have the most direct control in the choices we make.
+Principles such as hardware circularity and integrating low-carbon technologies will be vital to reduce the emissions of our new and existing facilities.
+1.
+GREENHOUSE GAS EMISSIONS. 
+Shifting to a green economy could produce over 65 million new low-carbon jobs.
+As we build the metaverse and the technology that comes with it, we will continue to focus on hardware circularity and efficiency to minimize our emissions as we grow. Because much of our emissions footprint is outside of our operational control, assisting our suppliers and vendors to set reduction targets through our supplier engagement program is critical to cutting our total emissions.
+Cutting Workplace Emissions in Half. 
+We are targeting a 50% reduction in the carbon impact of our workplace operations in 2030 on a per headcount basis. To achieve this goal, we are focused on achieving the following reductions from a 2019 baseline per capita: • 40% energy use reduction • 50% waste reduction • 100% sustainable employee commuter shuttle fleet • 40% reduction in drive alone commuter trips • 40% reduction in embodied carbon of building materials • 60% reduction in carbon intensity of culinary offerings. 
+Reducing Our GHG Emissions. 
+Reducing GHG emissions across our global operations and value chain is our top priority and the most effective strategy to reach net zero. We will do this by: 1. Using less and opting for what makes sense to do our work 2. Choosing better and prioritizing efficiency in our supply chain, construction and other purchases 3. Selecting alternatives, such as materials with low-carbon impact, that are easily recyclable. 
+Photo courtesy of TIST. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 49
+
+
+GREENHOUSE GAS EMISSIONS. 
+GHG Accounting. 
+We disclose our GHG emissions annually based on the. 
+Greenhouse Gas Protocol↗.
+Our GHG footprint includes the emissions associated with running our business and data centers, as well as the indirect emissions created upstream from our operations and downstream in our products.
+We quantify our emissions via activity data, life cycle assessments (LCAs) and financial data.
+We prioritize calculating our emissions through activity data that directly measures an activity that results in GHG emissions, such as kilowatt hours (kWh) of electricity. Due to the complex nature of our business and value chain, we use proxy methods to help calculate our emissions when activity data is not available.
+We are focused on increasing granularity and using the most accurate methods available to calculate our emissions. Our emissions are verified by a third party↗ and we invite you to learn more about our methodology here↗.
+Scope 3 emissions usually account for more than 70% of a business’s carbon footprint.
+1% 1% 5.7M metric tons of CO2e. 
+These market-based emissions were 43% smaller than our location-based emissions (9.9 M mt CO2e). Our market-based emissions adjust for emissions reductions from purchasing decisions we have made. This includes our contracting of over 7,500 MW of renewable energy and purchase of over 700,000 gallons of sustainable aviation fuel for business travel, which has an up to 80% lower carbon footprint than traditional jet fuel.
+mt CO2e. 
+We removed 90,000 tons of CO2 through carbon removal projects to cover our Scope 1 and 2 emissions.
+Scope 1 55,000. 
+Scope 2 2,000. 
+Scope 3 5,651,000. 
+Capital Goods 2,410,000. 
+Purchased Goods & Services 2,371,000. 
+Use of Sold Products 558,000. 
+Upstream Transportation & Distribution 180,000. 
+Fuel & Energy Related Activities 75,000. 
+Other 29,000. 
+Employee Commuting includes work from home emissions 22,000. 
+Business Travel 5,000 1% <1% 99% 42% 42% 10% 3% <1% <1%
+META’S 2021 NET CARBON FOOTPRINT. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 50
+
+
+Supporting Carbon Removal Projects. 
+Our commitment to net zero means that for any emissions we cannot eliminate, we will purchase carbon removal credits to sequester an equivalent amount of CO2 from the atmosphere.
+In 2021, we supported carbon removal projects in Kenya and Mexico that represent over 200,000 tons of carbon sequestration via forests and soil. We partner with nonprofits, peers and other experts to inform the composition of our project portfolio and ensure that our due diligence process is rigorous.
+The projects we select reflect our responsibility to address the social and environmental impacts of our emissions. We prioritize carbon removal projects that: • Are designed to be a reliable and additional source of carbon sequestration • Are quantified using existing standards and verified by a third party • Do not create adverse impacts elsewhere • Prioritize climate justice and equity. 
+Technological carbon removals are a small but important component of our net zero strategy. Because technological carbon removals are in their infancy and not yet available at a meaningful scale, forward-looking companies like Meta must invest today to ensure removals are viable and available in the future.
+Among the ways we are helping to drive development in the sector are collaborative actions that will aggregate the resources of multiple companies to create rapid change at a large scale.
+Driving Demand for Sustainable Aviation Fuel. 
+As a founding member of the. 
+Sustainable Aviation Buyers. 
+Alliance (SABA)↗, we are supporting efforts to drive market demand for sustainable aviation fuel. Spearheaded by RMI↗ and. 
+Environmental Defense Fund (EDF)↗ and supported by their founding companies, SABA aims to accelerate the path to net zero aviation by driving investment in and adoption of sustainable aviation fuel, which could substantially reduce emissions from air travel.
+Photo courtesy of The Northern Rangelands Trust/Paul Wambugu. 
+GREENHOUSE GAS EMISSIONS. 
+In 2022, our contribution to the Frontier advance market commitment↗ will help catalyze a market for technological carbon removal credits and unlock the opportunity to learn from global scientific leaders on emerging carbon removal technologies.
+CO2 remains in the atmosphere for up to 1,000 years, nitrous oxide for up to 120 years and methane for up to 10 years.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 51
+
+
+ENERGY We are driving the transition to renewable energy in our communities by selecting projects that are on the same electricity grids as our data centers.
+At the end of 2021, Meta had contracts in place for more than 7,500 megawatts (MW) of solar and wind energy across our global portfolio. Of that, over 4,900 MW of new renewable energy is now operating. Meta is one of the largest corporate buyers of renewable energy.
+4,900 MW is enough to power 3.6 million U.S. homes.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 52
+
+
+Enabling the Transition to Renewable Energy. 
+Transitioning to renewable energy at the scale our world needs requires systems-level changes. So when we switch to renewables, we are not creating sustainable solutions only for ourselves. We help lead the changes that make clean energy solutions more accessible to other companies.
+Not all utilities offer electric rates (or “tariffs,” as utilities call them) that allow customers to support their facilities with renewable energy. When this is the case, we work with utility partners to create new green tariffs or pursue other new renewable energy arrangements to maintain our goal of supporting our global operations with 100% renewable energy.
+ENERGY. 
+We help lead the changes that make clean energy solutions more accessible to other companies.
+These utility offerings allow large energy customers to purchase renewable energy and renewable energy credits via their retail electricity service and address their sustainability goals.
+The green tariffs and renewable energy arrangements we have supported account for over 4,000. 
+MW of new wind and solar capacity.
+In 2021, we worked with the local utility, Salt River Project (SRP), to establish a new renewable energy supply agreement to support our Mesa, Arizona, data center. Of the 500 MW of solar that will be added in the next few years, 450 MW will support our 960,000-square-foot Mesa data center with 100% renewable energy, leaving 50 MW for SRP to offer residential and small business customers, supporting broader customer access to renewable energy.
+Renewable Energy Progress 2016 1.83 2.46 7.17 3.42 5.14 2017 2018 2019 2020 2021 10 9
+8 7
+6 5
+4 3
+2 1
+0. 
+Total Electricity Used (million MWh) 44% 51% 100% 9.42 100% 75% 86%
+Nonrenewable Renewable. 
+Wind power, sold at a fixed price over a long period of time, mitigates the price uncertainty associated with traditional energy sources.
+Photo courtesy of Apex Clean Energy. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 53
+
+
+Economic Impact. 
+To fully understand the impact of. 
+Meta’s renewable energy projects on jobs and the economy, we released a study↗ in May 2021 that looked at the economic impact of 55 solar and wind projects that support our U.S.
+data centers. The projects studied total 5,763 MW—some of which are operating today and others that will come online over the next three years—and represent an estimated $7.4 billion in investment. During construction, these renewable energy projects have supported or will support over 42,000 jobs across the country and contribute more than $4.3 billion in U.S.
+gross domestic product (GDP).
+Our portfolio of solar and wind projects spans 18 states and 46 counties, and many of these projects have benefited under- resourced communities. Of the 55 U.S. solar and wind projects in our portfolio studied, 96%
+Energy Storage. 
+Demand for electricity varies significantly throughout the day.
+Fossil fuel generators can be quickly activated or deactivated to account for these variations.
+Renewable energy technology, like wind and solar, are weather-dependent, so they do not necessarily match the variations in electricity demand on their own. However, energy storage can help to smooth the small deviations in energy production on the system to help integrate greater volumes of renewable energy.
+Additionally, to prevent wasted energy when demand is low on sunny or windy days, and to support grid reliability on cloudy, calm days, large-scale storage is critical. Adding energy storage to the grid is an important tool that enables utilities to move the electricity produced from a solar project, for instance, into times of the day when sunshine is not available. This provides greater reliability and flexibility to the utility system and enables a much lower carbon footprint, as utilities integrate even more renewable energy on their grids.
+Meta is also providing funding for added storage to local utilities, allowing them to prepare for and transition to the zero-carbon grid of tomorrow.
+Near our Los Lunas data center in Valencia County, New Mexico, we partnered with our local utility, Public Service Company of New Mexico (PNM), to add 50 MW of battery storage alongside the addition of 240 MW of solar through our innovative green tariff. This unique commercial structure allows customers like us to directly pay for capacity resources like energy storage to offset the need to add nonrenewable energy resources to the system.
+In total, Meta has worked with utility partners, PNM and Tennessee Valley Authority, to add 130 MW of battery energy storage to the grid in New Mexico,
+Kentucky, and Mississippi.
+ENERGY. 
+Our portfolio of solar and wind projects spans 18 states and 46 counties.
+are located outside of major metropolitan areas and 82% are located in counties with poverty rates above the national average.
+The analysis showed that construction of these renewable energy projects have generated or will generate $2.6 billion of labor income for workers, and project operations will generate $70 million in annual employee compensation.
+The amount of sunshine that continuously strikes the earth equates to more than 10,000 times the world’s total energy use.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 54
+
+
+In 2021, we announced our goal to become water positive in 2030.
+WATER. 
+All living things rely on water. Without it, ecosystems dwindle and communities suffer. So when it comes to this precious resource, using less is not enough.
+Rising temperatures can lead to deadly pathogens in freshwater sources, making the water dangerous for people to drink.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 55
+
+
+WATER. 
+To achieve this goal, Meta will restore 200% of the water we consume in high water stress areas, and 100% of the water we consume in medium water stress areas. Our water restoration projects always have a hydrological connection to the source water consumed in our operations and are verified by independent third-party verifiers.
+Since 2017, we have supported a total of 18 water restoration projects in six watersheds.
+Together, these projects are expected to restore more than one billion gallons of water annually. In regions experiencing high levels of water stress, these projects have already restored about 617 million gallons of water as of 2021.
+Often the most impactful contributions to the sustainability of a watershed go beyond projects that return volumetric benefits. That is why we are also supporting capacity-building projects that might have a catalytic effect in watersheds around the world. These projects could include supporting local environmental nonprofits, governance, research and other non-volume-generating activities.
+We also strive to be good water stewards by working with others to advance industry 2021 Water Data Unit: Cubic Meters 2017 2018 2019 2020 2021. 
+Water Withdrawal 1,609,000 2,367,000 3,430,000 3,726,000 5,043,000. 
+Water Consumption 838,000 1,279,000 1,971,000 2,202,000 2,569,000. 
+Water Restoration — 132,000 145,000 2,250,000 2,336,000 *Reported volumes represent total volume restored through water restoration projects for each year, not including contracted projects not yet implemented.
+understanding and practices. In 2021, we joined the Rio Grande. 
+Water Fund↗ and the Texas. 
+Water Action Collaborative↗ to support collective action initiatives in these important regions. We are also members of the World Resources Institute’s. 
+Aqueduct Alliance↗ and sponsors of the Swedish International. 
+Water Institute’s World Water. 
+Week conference.
+2.3 billion people live in water-stressed countries.
+Photo courtesy of Craig Sponholtz, Watershed Artisans Inc.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 56
+
+
+Water quality and quantity are often very local issues, so we have joined forces with nonprofit and community partners to create and implement water restoration initiatives that benefit the areas in which we operate.
+In 2021, Meta partnered with. 
+DigDeep↗ to fund water systems for Navajo families that lack access to water in Dilkon,
+Arizona. Each system includes a 1,200-gallon water tank, indoor plumbing, power connections to provide running water, and recurring water delivery to refill the water tank (managed by. 
+Navajo community partners). The water is supplied from existing, deep groundwater wells. Meta’s contribution will install tanks at 14 households, providing approximately 300,000 gallons of water per year to families.
+Here are a few of the projects we supported in 2021:
+Navajo Community Water Supply. 
+Jadito Wash Watershed, Arizona. 
+The Navajo Nation is the largest contiguous Native American reservation in the continental. 
+U.S. Located within the Four. 
+Corners region of the American. 
+Southwest, its borders span 71,000 square kilometers.
+One-third of the Navajo Nation population lacks access to running water. Navajo households pay 70 times more for the water they must haul into their homes compared to water users in typical urban areas.
+WATER. 
+Meta partnered with DigDeep to fund water systems for Navajo families.
+“Throughout the pandemic,
+DigDeep’s Navajo Water Project team members have shown great tenacity and innovation in their efforts to expand clean water access on the Navajo. 
+Nation. With the lessening of. 
+COVID-19 restrictions, we are thrilled to share that we have finally been able to resume the in-home installations of our. 
+Home Water Systems. Meta’s continued support of DigDeep’s. 
+Navajo Water Project has been instrumental to helping us get tapped water into more homes during this crucial time.” —BJ Davis, Chief Relationship. 
+Officer at DigDeep. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 57
+
+
+Restoring Wetlands Richland Creek Wildlife Management Area, Texas. 
+Texas’s Richland Chambers. 
+Reservoir has been addressing the growing water supply needs of the Dallas-Fort Worth region since the 1980s. Construction of the 40,000-acre reservoir resulted in the loss of substantial floodplain, riparian hardwood forest and wetland habitat within the Richland and Chambers. 
+Creeks watersheds.
+The Richland Creek Wildlife. 
+Management Area (WMA) was created to help offset habitat loss. An extensive wetland treatment system covers over 5,000 acres of the WMA and helps treat raw Trinity River. 
+Water before it is delivered to municipal and industrial water users in Dallas-Fort Worth.
+Ducks Unlimited↗ has been working to build wetland habitat at WMA since 1987, constructing over 5,000 acres of wetland so far. In 2021, Meta partnered with. 
+Ducks Unlimited to fund a new wetland habitat in the Upper. 
+Trinity River basin.
+Water from the Trinity River floods this newly created wetland complex during the winter season, providing habitat for a diverse array of shorebirds, waterfowl and raptors. The wetlands naturally treat the surface water by filtering out sediment, nitrogen and phosphorus from the water, which flows back into the Trinity. 
+River in spring. This project will restore over 200 million gallons of water annually.
+Mason Lane Ditch Piping Verde River Watershed, Arizona. 
+Oak Creek, one of the few remaining perennial streams in. 
+Northern Arizona, is a tributary of the Verde River. It runs through high desert canyons and the famous red rocks of. 
+Sedona before joining with the. 
+Verde River. Oak Creek provides recreation and supports a vibrant ecosystem of mammals, birds and aquatic species, including the endangered Gila. 
+Chub and Gila Topminnow.
+Along Oak Creek, 19 separate ditches divert irrigation water to residents. Although the ditches are important contributors to the local economy, most are more than 150 years old and limited capital exists to invest in infrastructure upgrades to meet the needs of water users and aquatic habitat.
+The Mason Lane Ditch provides water to over 220 acres of irrigated land along its five-mile path. Degradation throughout the canal resulted in leakage and seepage, threatening its ability to meet agricultural water needs.
+Erosion in one particular section of the canal formed several large leaks, spilling seven cubic feet of water per second from the ditch and reducing Oak Creek’s flow by 15%.
+Meta provided support to. 
+Bonneville Environmental. 
+Foundation↗, which allowed for a partnership between The Nature. 
+Conservancy and the Mason Lane. 
+Water Users Association to install 5,280 feet of piping to reduce transmission losses and reduce the volume of water diverted from Oak Creek. This project will restore over 180 million gallons of water to Oak Creek per year.
+In addition to projects that return volumes, we are investing in projects that have catalytic impacts on watersheds. In 2022, we will continue to support new water restoration projects in the watersheds where we operate, collaborate with other stakeholders in collective action to address shared water challenges, and invest in technologies to improve our water efficiency.
+WATER The Trinity River wetland will restore over 200 million gallons of water annually.
+Photo courtesy of Michael Matosich/TNC. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 58
+
+
+For Stefanie Woodward, her role is more than a job—it’s personal. Having grown up in Arizona, she understands the impact of water stress on local watersheds and has spent her career focused on water conservation in both the nonprofit and private sectors.
+Stefanie’s hope is a world in which future generations can continue to enjoy the natural wonders in her home state and many others around the world.
+How did your passion for water conservation and resource preservation lead you to Meta?
+My education focused on climate resilience, corporate sustainability and water. After grad school,
+I worked in the nonprofit sector developing guidance on corporate water stewardship and helping companies establish water stewardship programs as a consultant. My role with. 
+Meta gives me the opportunity to synthesize all of these experiences, and I am really excited about where our program is headed.
+How can a company like Meta address environmental issues?
+We all have to do our part to ensure a safe, clean water supply.
+Private companies like Meta can work in collaboration with environmental nonprofits, utilities and the public sector to address shared water challenges on a broader scale.
+Why is becoming water positive a priority for Meta?
+Water is an essential element in operating a tech company, and data centers can have a big water footprint. While we have some of the most water efficient data centers in the world, we also recognize that to be good water stewards, we need to collaborate with stakeholders beyond our own operations.
+Since 2017, we have partnered with environmental organizations and water utilities to restore water in the watersheds where we operate. In 2021, we announced our commitment to becoming water positive in 2030, and the program has since grown to 18 projects in six watersheds.
+How do you explain to your family and friends what you do at Meta, and what do they think?
+At first, I got a lot of questions about how exactly a tech company uses water. Now they understand and love hearing about the wide variety of water projects we support—from restoring wetlands to providing clean water to those without access to working with farmers or restoring landscapes with beaver dams. Some of the most gratifying projects to me are the ones benefiting communities and ecosystems in my home state of. 
+Arizona—especially those in the same creeks where I love to hike with friends and family.
+Q&A with Stefanie Woodward Sustainability Program Manager for Water. 
+WATER 40% of the global population lacks access to clean and safe drinking water.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 59
+
+
+Below is Morning Glory Pool in Yellowstone National Park. Pigments from microbes in this thermal pool create the various vibrant colors.
+BIODIVERSITY. 
+Biodiversity is critical to ecosystem health.
+The loss of biodiversity—the rich assortment of living organisms that includes plants, bacteria, animals, insects; every living thing—has critical implications for humanity, from the collapse of food chains and health systems to the disruption of entire supply chains. According to the World. 
+Economic Forum’s 2022 Global. 
+Risks Report↗, biodiversity loss is listed as the third most severe risk on a global scale over the next 10 years.
+In the last hundred years, more than 90% of crop varieties have disappeared from farmers’ fields.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 60
+
+
+Protecting Our Pollinators. 
+Pollinators play a key role in supporting ecosystems, ensuring food security and providing ecosystem services such as clean air and soil stability. Given their critical importance, we aim to support pollinators where possible. In 2021, we installed beehives at our Seattle, Dublin and New York offices, housing over 180,000 bees, and continue to support pollinators where we operate: • We are providing nearly 30 acres of improved pollinator habitat at our data center site in Gallatin, Tennessee • At our data center in. 
+Clonee, Meath, Ireland, we implemented a beekeeping program to help cultivate beehives and planted a variety of native plants on site to provide resources for over 500,000 bees. 
+BIODIVERSITY. 
+In 2021, we installed beehives at our Seattle, Dublin and New York offices, housing over 180,000 bees.
+• We partnered with the. 
+London Beekeepers. 
+Association to provide habitat on our terraces that support nearly 500 species of insects native to the U.K.
+We continuously take steps to both mitigate impacts from our offices and data centers and seek opportunities to protect and promote biodiversity where we operate facilities.
+Of the 100 crop species that provide 90% of the world’s food, over 70 are pollinated by bees.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 61
+
+
+Green Roof. 
+Our Menlo Park headquarters features a 12.5-acre green roof that provides a diverse landscape for local species, offering habitats ranging from grasslands to oak savannas and meadows. The roof serves as a home to over 600 trees and, to date, 5,300 birds representing 50 avian species have been found foraging and nesting on the roof by the Santa. 
+Clara Valley Audubon Society during monthly surveys.
+In 2021, we continued to develop our 80-acre Bayfront Campus in. 
+Menlo Park, California, by creating an 11-acre park. We focused on diversifying tree species, particularly oaks (Quercus), both to avoid monoculture and to transition to species adapted to our changing climate, which is getting warmer and dryer. Over the past eight years, we have planted 2,650 new trees.
+We also partner with a number of local nonprofits striving to promote biodiversity and improve habitats near our Menlo. 
+Park headquarters, including. 
+Canopy↗, whom we partnered with to plant trees in the Belle. 
+Haven neighborhood of Menlo. 
+Park; Save The Bay↗, which focuses on restoring and protecting wetlands in the Bay. 
+Area; and the San Francisco. 
+Bay Bird Observatory↗, which restores habitat for endangered bird species, such as the snowy plover and burrowing owl.
+BIODIVERSITY. 
+Photo courtesy of Marion Brenner Photography. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 62
+
+
+Leveraging Our Platforms to Protect Wildlife. 
+Meta has strong standards and policies in place to help prevent illegal wildlife trafficking from happening on our platforms.
+For example, our Community. 
+Standards prohibit the sale of live animals between private individuals (i.e., non-brick-and- mortar stores) on our platform and the publishing of content that coordinates or supports the poaching or selling of endangered. 
+Partnerships Reduce Illegal Trading. 
+Cross-sector collaboration and industry partnerships are crucial in scaling impact in this area. In 2018, in partnership with the World. 
+Wildlife Fund (WWF)↗, the International Fund for. 
+Animal Welfare (IFAW)↗,
+TRAFFIC, and other leading businesses, we launched the Coalition to End. 
+Wildlife Trafficking Online↗, aiming to reduce the illegal trade in ivory and other wildlife products by 80%.
+BIODIVERSITY. 
+Our teams completed a project that permanently blocked 25 hashtags related to endangered species across four markets.
+species and their parts. Meta’s. 
+Commerce Policies↗ are even stricter, prohibiting the sale of any live animals, pets, livestock or animal parts.
+Content reviewers are trained on these topics, including modules on ivory and specific species known to commonly surface.
+These policies align with the. 
+Convention on International Trade in Endangered Species (CITES)↗
+Appendix I.
+Educational alert features on. 
+Facebook and Instagram are designed to prevent wildlife trafficking↗ online and inform people about the harmful impact of wildlife exploitation.
+When an Instagram user searches a hashtag associated with harmful behavior to animals, such as #tigerselfie or #elephantivory, or a Facebook user searches linked terms such as “buy antique ivory,” an advisory will warn about these dangers and provide an opportunity to learn more.
+We also took proactive measures to prevent the creation and searchability of violating content by blocking specific hashtags on Instagram known to be associated with the sale of endangered species across different geographies.
+As a result, in 2021, our teams completed a project that permanently blocked 25 hashtags related to endangered species across four markets to prevent users from searching for or creating them on the platform.
+In 2022, we plan to expand this effort to further limit the creation or sharing of this type of content and raise further awareness on protecting endangered species.
+Snow Leopards are among the top 10 endangered species.
+Learn more. 
+To protect just one tiger, we have to conserve an estimated 10,000 hectares of forest.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 63
+
+
+Driving climate action with our platforms and products.
+What We Create. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 64
+
+
+Meta was born to innovate, ask questions and build products that enable people to change and grow.
+So, in conjunction with our efforts to operate for a better reality, we leverage the capabilities. 
+WHAT WE CREATE. 
+Our world is facing challenges that no one has faced before, with climate change topping the list.
+of our platforms to drive climate action through our core products. We create solutions that connect people not only with each other but also with resources, information, tools and opportunities.
+On the current path of CO2 emissions, temperature could increase by as much as 4.4°C by the end of the century.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 65
+
+
+WHAT WE CREATE. 
+Peace of Mind. 
+When a natural disaster or other crisis strikes, it is not only those on the frontlines who are affected. Our. 
+Crisis Response↗ product allows individuals to mark themselves safe and give their loved ones peace of mind. In 2021, 12 million people marked themselves safe in 70 countries.
+The tool also connects people who want to help with ways to help. More than 73 million people visited the. 
+Crisis Response page, while about 227,000 community help posts were generated and about $2.2 million was raised through the product.
+At the same time, misinformation about climate change continues to spread both online and offline.
+This reality led to the creation of the Climate Science Center (CSC). The CSC increases access to science-based and dynamic climate information to drive awareness and inspire more people to take action.
+Sit de sunt volor apel enda vellatem faccab iumquis et quam di.
+Safety check has been activated in your area. 
+Mark yourself safe. 
+We work with the world’s leading climate science organizations, including the IPCC↗, the. 
+UN Environment Programme (UNEP)↗, The National Oceanic and Atmospheric Administration (NOAA)↗, World Meteorological. 
+Organization (WMO)↗ and others, to ensure that the information we feature is timely and accurate.
+It is estimated that nearly two billion adults know little to nothing about climate change.3 3 Facts about climate change↗
+There were 20 separate billion-dollar weather and climate disasters in 2021 in the U.S. alone.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 66
+
+
+Sustainable Opportunity. 
+In 2021, we introduced our first program for small and medium- sized enterprises (SMEs) in Europe, the Middle East and Africa (EMEA).
+Working with the SME Climate. 
+Hub↗ and our partners across. 
+Europe, Meta Boost Guide to. 
+Green↗ provides training and resources to help users grow their businesses sustainably.
+RAISING AWARENESS 2021 Climate Science Center Updates. 
+Meta expanded the CSC’s reach to more than 100 countries, attracted more than 3.8 million followers, and served more than 100,000 daily visitors.
+We also partnered with experts from Monash, Yale and. 
+Cambridge to directly address climate myths. The Facts About. 
+Climate Change↗ section includes misconceptions about the existence and causes of global warming, as well as the impact it has on humans and other life on Earth.
+In collaboration with the UN. 
+Foundation, we featured their four-part Say it with Science series on the CSC, which features conversations between IPCC scientists and youth climate advocates from around the world, exploring the links between climate change and food, oceans, health and resilience.
+The goal of Say it with Science is to make climate science more accessible and engaging for younger audiences and to elevate the voices of young climate advocates.
+Data for Good partnered with the. 
+Yale Program on Climate Change. 
+Communication to conduct a global Climate Change Opinion. 
+Survey↗ across 31 countries and territories on Facebook.
+The survey provided new insights↗ about public knowledge, attitudes, policy preferences and behaviors about climate change. For example, we found that more than six in 10 respondents across countries surveyed say they want more information about climate change, highlighting a global gap in knowledge about the subject and underscoring why Meta continues to provide authoritative information through tools such as the CSC.
+Worldwide, just 38% of small businesses have invested in adapting to environmental risks, compared to 60% of large ones.
+Climate Talks. 
+A six-episode podcast series,
+Climate Talks↗, features. 
+Meta team members, partners, scientists, activists and influencers. Hosted by Sophia Li, each episode allowed us to facilitate conversations examining various sustainability topics from multiple angles.
+The Future of Business Is Green. 
+Over 200 million businesses use. 
+Meta’s platforms to support their businesses. Our Sustainability for Business↗ site provides resources for advertisers to find ways to decarbonize.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 67
+
+
+people who do see them, try to share them or already have shared them. Accounts that post misinformation repeatedly, including climate misinformation, will see their overall distribution reduced and may lose the ability to advertise or monetize.
+Climate Misinformation Grant. 
+In partnership with the IFCN and an independent six-member judging panel of climate domain experts, we launched the $1 million. 
+Climate Misinformation Grant↗
+TACKLING CLIMATE MISINFORMATION. 
+We are committed to fighting the spread of climate misinformation on our platforms. We partner with more than 80 independent, third-party fact-checking organizations who are certified through the nonpartisan. 
+International Fact-Checking. 
+Network (IFCN)↗ to identify, review and take action on this content.
+As with all types of claims rated false by our partners, we reduce the distribution of these posts in Feed so fewer people see them, and we show warning labels with more context for to fund partnerships and proposals from fact-checkers, climate organizations and solution providers working to combat false and misleading information about climate change.
+We received applications from around the world. Of the 30 global semifinalists, representing 71 entities, nine grantees were selected.
+The grant was structured to encourage collaborative partnerships among applicants with diverse backgrounds, supported by the IFCN’s fact-checkers. The proposals we have received include innovative approaches to fact-checking, media literacy, capacity-building and awareness raising and cover the full spectrum of climate information—authoritative content, debunking of misinformation and inoculation approaches.
+Encouraging collaboration to combat false and misleading information.
+INDIA 23%
+EMEA 10% APAC 7%
+EUR 33%
+LATAM 10%
+NORAM 17%
+Geographic Distribution of Global Applicants “Greenwashing” refers to when companies misrepresent the sustainability of their products, services or operations.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 68
+
+
+TACKLING CLIMATE MISINFORMATION “Misinformation about climate change is a huge, interconnected problem, and solutions need to be equally large and interconnected.
+Adding capacity to the fact-checking community to skillfully and promptly respond to climate misinformation is a crucial part of the puzzle. In particular, we need stronger links between fact-checkers and experts in climate science and solutions. This grant program will lay the foundation for important future work in fighting back against misinformation that confuses the public about climate change and delays desperately needed climate action.” —John Cook, research fellow at the Climate Change. 
+Communication Research Hub at Monash University. 
+Large-scale decrease in the social salience of climate change during the COVID-19 pandemic↗
+There are concerns that climate change attention is waning as competing global threats intensify. To investigate this possibility, we analyzed all link shares and reshares on Meta’s Facebook platform (e.g., shares and reshares of news articles) in the United. 
+States from August 2019 to. 
+December 2020 (containing billions of aggregated and de- identified shares and reshares).
+We then identified all link shares and reshares on “climate change” and “global warming” from this repository to develop a social media salience index—the. 
+Climate SMSI score—and found an 80% decrease in climate change content sharing and resharing as COVID-19 spread during the spring of 2020.
+Climate change salience then briefly rebounded in the autumn of 2020 during a period of record-setting wildfires and droughts in the. 
+United States before returning to low content sharing and resharing levels. This fluctuating pattern suggests new climate communication strategies—focused on “systemic sustainability”—are necessary. Read more in journals.plos.org↗.
+Date. 
+Region Northeast South North Central West. 
+Number of Link Shares and Reshares About Climate Change 100,000 50,000 2019-07-01 2019-10-01 2020-01-01 2020-04-01 2020-07-01 2020-10-01 2021-01-01. 
+COVID-19 Cases in the U.S.
+20,000,000 15,000,000 10,000,000 5,000,000. 
+Does climate change interest wane as other global threats capture attention?
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 69
+
+
+TACKLING CLIMATE MISINFORMATION. 
+Sit de sunt volor apel enda vellatem faccab iumquis et quam di.
+Subdivider intro-headline will kickoff new sub-topic.
+TACKLING CLIMATE MISINFORMATION. 
+Sit de sunt volor apel enda vellatem faccab iumquis et quam di.
+Subdivider intro-headline will kickoff new sub-topic.
+BUILDING THE METAVERSE. 
+We are committed to building the metaverse sustainably.
+At Connect 2021↗, our CEO Mark. 
+Zuckerberg introduced Meta↗, which brings together our apps and technologies under one new company brand. The metaverse is an immersive, embodied successor to the mobile internet.
+Our focus will be to bring the metaverse to life, helping people connect, build communities, grow businesses and unlock new ways they can participate in the transition to a just, low-carbon economy.
+We are already developing exciting new technologies that will help people connect and explore in the metaverse, including our virtual reality (VR), augmented reality (AR) and wearable hardware technologies and devices. Our net zero commitment↗ is inclusive of these products, and we are committed to building the metaverse sustainably.
+
+In 2021, we began conducting. 
+LCAs of our Reality Labs products, including Quest 2, to better understand the environmental impacts associated with each phase in the product life cycle—materials, transportation, use phase and end of life. These LCAs enable teams to identify opportunities to incorporate circularity and reduce. 
+GHG emissions in our product development process.
+Augmented reality uses a real-world setting while virtual reality is completely virtual.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 70
+
+
+BUILDING THE METAVERSE. 
+The Reality Labs team has already started on our journey to move the needle toward reducing the carbon footprint of our products, including: • Evaluating opportunities to incorporate plastics and metals with recycled content into products as these materials are available • Prioritizing the use of. 
+FSC↗ or Programme for the Endorsement of Forest. 
+Certification↗ certified fibers in our consumer packaging • Transitioning segments of our logistics network to lower-carbon modes of transit, such as leveraging ocean freight instead of air freight • Educating product development teams on hardware circularity principles through release of our internal Design for. 
+Circularity guide, with the intent of continuing to reduce waste, enable disassembly and improve material recovery. 
+Meta is committed to doing our part to extend the life of our products. In 2021, we launched our Meta Quest “As. 
+Good As New↗” program, enabling customers to purchase refurbished products for our flagship devices, including Quest 1 and Quest 2. These devices have all the same features, performance and quality, while also giving our gently used products new life.
+Allowing customers to purchase refurbished products for our devices delivers the same user experience while giving gently used products new life.
+The impact from refurbishing a device is, on average, three times less than that of producing a new device.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 71
+
+
+Partnerships enable us to scale positive impact.
+How We Collaborate. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 72
+
+
+We must work together to realize systems-level change.
+HOW WE COLLABORATE. 
+Collaboration is core to everything we do. Throughout this report, we have shared example after example of how partnerships enable us to use our size and scale to make a lasting positive impact.
+It will take everyone to make the systems-level changes required for a better reality: world-class experts in sustainability and social issues, climate leaders, academic researchers, local utilities, community nonprofits, suppliers and every one of our thousands of employees.
+Here is a closer look at how we build new collaborations and support established initiatives, inside and outside of Meta.
+Almost 90% of employees engaged in their company’s sustainability work say it enhances their job satisfaction.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 73
+
+
+We empower employees to see themselves as part of the climate solution.
+Meta’s employees are integral to the success of our company’s bottom line and to championing our company’s culture, so the success of our sustainability program depends on having employee voices at the table.
+We invite all employees to join our efforts by participating in executive Q&A sessions, educational training, local. 
+Green@ chapters or climate-focused hackathons.
+No matter their role at Meta, we empower employees to see themselves as part of the climate solution through year-round programming. In 2021, we offered several powerful new initiatives to engage and activate employees in fresh ways.
+INTERNAL ENGAGEMENT “To me, sustainability is the lens through which we need to view our future,” said Christian. 
+Monzon, Technical Program. 
+Manager for Meta. “I feel a responsibility to do my part in addressing climate change and promoting sustainable solutions where I can.
+Meta’s core sustainability department is driving tremendously impactful work, but we would be significantly limiting our impact potential if we didn’t also create advocates and champions among our 70,000+ employees.
+I help lead 12 Green@ chapters based in the Americas with the goal of fostering Meta’s sustainability culture by introducing and encouraging sustainable choices and behaviors for all Metamates on and off our campuses,”
+Christian continued.
+Corporate collaborations are most effective when they resolve an issue that is seen as critical to business continuity.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 74
+
+
+INTERNAL ENGAGEMENT. 
+SustainabiliTEA Talks. 
+In 2021, we launched. 
+SustainabiliTEA Talks, a new live executive Q&A series on our internal communications platform, where Meta sustainability leaders engage in a dialogue about their personal passions, program work and ways for employees to get involved.
+Through this interactive forum, driven by employee questions, the broader community gets to see an honest portrayal of the challenges and opportunities in this space. Our first session featured Meta’s net zero 2030 program and ways employees can contribute to reducing company emissions. Our second session highlighted Meta’s participation in COP26 with policy leaders in the U.S. and Europe.
+Earth Week, Climate Week and Sustainability Summit. 
+In April 2021, we organized our third annual Earth Week. 
+Celebration, held live on our internal communications platform. Over five days, we hosted 12 live events, expanded global content across Europe and Asia, and initiated a virtual marketplace with 50 global vendors and the first #MyCarbonCounts employee action campaign to help individuals identify their biggest carbon usage categories and reduce their footprint.
+In September 2021, we held our second Climate and Sustainability. 
+Summit, in alignment with. 
+Meta’s Climate Week activations.
+This one-day virtual conference highlighted programming across. 
+Meta and celebrated the cross-functional teams that make this work a reality.
+Climate Reality Project Leadership Corps. 
+It is critical not only to connect employees with Meta’s sustainability strategy and programming but also to provide access to the best-in-class educational resources. In 2021, we partnered with Climate. 
+Reality Project Leadership. 
+Corps↗, Al Gore’s premiere training organization, to promote five different global week-long trainings and give our employees the opportunity to view their work and personal activities through the lens of climate justice.
+Hackathons. 
+At Meta, many of our best and brightest ideas are born from company hackathons—these events are a core part of our culture that feed innovation into our sustainability programs as well. For the past five years, we have been working alongside a community of 500+
+Sustainability Hackers to apply their technical expertise to product ideas for rapid iteration and fast feedback. In 2021, we co-sponsored the Fall Hackathon for a second year. We had a total of eight projects put forth across the U.S. and EMEA, with 85 hackers participating.
+We also centralized all employee resources (for learning, action and engagement) into a single, internal wiki page. In 2022, we look forward to expanding education opportunities for employees hoping to level up their climate action, climate science literacy and understanding of Meta’s climate goals.
+Employee Activation. 
+Across Meta, employees are integrating climate action into daily activities. Employees focused on local community action continued to grow our global Green@ chapters.
+Employee activation and discussion on Workplace led to expansion of major activations for Earth Day, Climate Week and executive Q&As. Employee advocacy inspired many to promote and enroll in the Climate. 
+Reality Project education series.
+And employees leveraged their technical expertise to sponsor the Fall Hackathon for the second year in a row.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 75
+
+
+EXTERNAL PARTNERSHIPS. 
+Supporting established partnerships and initiatives.
+Photo courtesy of The Northern Rangelands Trust/Kieran Avery. 
+Unlike many materials, aluminum can be recycled infinitely.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 76
+
+
+Sometimes, that means joining regional collective action organizations. In 2021, we joined the Rio Grande Water. 
+Fund↗ and the Texas Water. 
+Action Collaborative↗, both of which bring together nonprofit organizations, companies and other stakeholders to address shared water challenges.
+We also committed to funding the African Forest Landscape. 
+Restoration Initiative (AFR100)↗, a country-led effort to bring 100 million hectares of land in. 
+Africa into restoration by 2030.
+Instagram partnered, through providing ad credit, with the. 
+London School of Hygiene &
+Tropical Medicine (LSHTM)↗ to support Children, Cities and. 
+Climate↗, a study focusing on the intersection of climate change, cities, health and young people. LSHTM researchers carried out a global survey of over 3,000 young people and their parents to understand their views on the cities they live in and the. 
+EXTERNAL PARTNERSHIPS air they breathe, using promoted social media advertisements on Facebook and Instagram to recruit participants. The research also included an analysis of the child health benefits of improving air quality in 16 global cities, and a literature review of the child health benefits of decarbonization.
+Climate change is a challenge too great for any of us to solve alone. But, by coming together, we have the power to make sustainable change.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 77
+
+
+We also worked with The Recycling. 
+Partnership↗ to create Communities for Recycling↗, a personalized. 
+Messenger experience↗ that provides recycling information based on where a person lives—and to intuitively improve recycling accuracy.
+Following are additional organizations that Meta partners with or is a member of, focused on various aspects of sustainability and climate action.
+Aqueduct Alliance. 
+We are members of the World. 
+Resources Institute (WRI)’s. 
+Aqueduct Alliance↗, a group of leading companies, governments and foundations, to gain strategic guidance and industry insight from the WRI’s Aqueduct Water. 
+Risk Atlas team and water stewardship activities.
+Business Alliance to Scale Climate Solutions. 
+In 2021, we joined the Business. 
+Alliance to Scale Climate Solutions (BASCS)↗, a business-driven collaboration for climate solutions that generate results at the scale our world needs. This group provides a central, neutral platform for businesses and experts to meet, learn, discuss and act together as a “community of practice.”
+Open Compute Project. 
+The Open Compute Project (OCP)↗ is a collaborative community focused on redesigning hardware technology to efficiently support the growing demands on compute infrastructure. Sustainability and circularity were identified as 2021 strategic initiatives for. 
+OCP. Recognizing the role we can play in galvanizing collaboration within the information and communication technology (ICT) sector, Meta helped lead the scoping and definition of the strategic initiative, helping co-author the community’s first white paper↗ dedicated to a call to action on climate change.
+Responsible Business Alliance. 
+Founded in 2004 by a group of leading electronics companies, the RBA↗ is a nonprofit comprising electronics, retail, auto and toy companies committed to supporting the rights and well-being of workers and communities worldwide affected by the global supply chain. RBA members commit and are held accountable to a common Code of Conduct and use a range of RBA training and assessment tools to support continual improvement in the social, environmental and ethical responsibility of their supply chains.
+EXTERNAL PARTNERSHIPS. 
+Leadership About Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Appendix Vision. 
+The Environmental Sustainability. 
+Workgroup (ESWG)↗ within the RBA convenes members to identify pressing environmental issues in climate change, water and waste, and collaborate on solutions that drive improvement not only within their organizations but also throughout their supply chains.
+In 2021, we provided a case study to a Chatham House. 
+Rules discussion with members to share our approach to both reporting and calculation of. 
+Scope 3 emissions. We were also actively involved in the. 
+Circular Materials Taskforce↗, which aims to help members adapt their business models and products to the circular economy by supporting integrated, international supply chains that further circular material use and protect human rights and the environment.
+The Open Compute Project is a collaborative community focused on sharing solutions to efficiently support the growing demands on infrastructure.
+“Conflict minerals” include the metals tantalum, tin, tungsten and gold, which are often collectively referred to as “3TG”.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 78
+
+
+Responsible Minerals Initiative. 
+The Responsible Minerals. 
+Initiative (RMI)↗ is one of the most used and respected resources for companies addressing issues related to the responsible sourcing of minerals in their supply chains. RMI is a multi-industry initiative that promotes an understanding of and commitment to mitigating the impacts of extracting and processing raw materials.
+We maintain a Conflict Minerals. 
+Policy↗ and expect our suppliers to conduct their operations pursuant to this policy.
+EXTERNAL PARTNERSHIPS. 
+Other Key Memberships. 
+We are also proud to be members of other environmental nonprofit trade organizations, supporting their work to advance clean technologies and climate action policies that support economy- wide decarbonization and climate resiliency, including: • Clean Energy Buyers. 
+Association (CEBA)↗ • American Council on. 
+Renewable Energy↗ • Advanced Energy. 
+Economy↗
+Responsible Labor Initiative. 
+The Responsible Labor Initiative (RLI)↗ is a multi-industry, multi-stakeholder initiative focused on ensuring that the rights of workers vulnerable to forced labor in global supply chains are consistently respected and promoted.
+The UN Climate Change Conference in Glasgow (COP26) brought together 120 world leaders and over 40,000 registered participants.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 79
+
+
+ADVANCING INDUSTRY CHANGE. 
+Comprehensive climate and clean energy policy is central to avoiding the impacts of climate change.
+Climate action is critical to achieving a sustainable economy and protecting our planet. We are working internally to decarbonize our operations and supply chain and to reduce our overall environmental footprint. Beyond our operations, we engage with climate-focused stakeholders, organizations and policymakers to advance stewardship, climate science and policies that will help move us all closer to a cleaner and decarbonized world.
+We know that industry, regulatory and stakeholder engagement are critical to realizing our own net zero goals and the progress the world needs to achieve in the coming years. Comprehensive and well-designed climate and clean energy policy is central to transitioning to a future that avoids the worst impacts of climate change.
+In 2021, Meta showed support for key policies in the U.S. and. 
+Europe to advance sustainable policies and climate action.
+In the U.S., we actively participate in organizations that advocate for policies that will spur further clean energy deployment and decarbonize the electric sector as a whole. Meta endorsed the Climate. 
+Action Now Act (HR 9)↗ in the 116th United States Congress.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 80
+
+
+Our goal is not just to be one of the most sustainable companies but also to make it easier for our users and employees to live more sustainably.
+ADVANCING INDUSTRY CHANGE. 
+In January 2021, we supported the call to the federal government↗ to prioritize transitioning to a zero-carbon energy economy led by CEBA. And, in October 2021, we released a public statement↗ where we called on Congress to support the climate and clean energy provisions within the. 
+Build Back Better Act↗ and. 
+Infrastructure Investment and. 
+Jobs Act↗.
+Meta is also fully committed to supporting the European. 
+Green Deal↗, which provides the framework toward a more sustainable and climate-neutral. 
+Europe by 2050. We are partnering with the European. 
+Union and the governments across the EU in making the ambitions of the Green Deal a reality. In 2021, Meta joined the. 
+EU’s European Climate Pact↗, which aims to engage European citizens on climate action, and we supported the Corporate Leaders. 
+Group↗ sign-on letter in support of the EU Nationally Determined. 
+Contribution.
+Being a leader in the fight against climate change means bringing our industry forward with us by actively sharing strategies and ideas with the broader technology industry, as well as across other industries that face similar challenges.
+Enabling Climate Change Conversations. 
+From official events to tackling misinformation on a daily basis, we are using our platforms to enable crucial conversations about climate change. Our goal is not just to be one of the most sustainable companies but also to make it easier for our users and employees to live more sustainably.
+
+Our work in the lead-up to and during the United Nations. 
+Framework Convention on. 
+Climate Change (UNFCCC)↗ demonstrates the way our platforms can serve as powerful tools to generate support for climate action.
+During COP26, we featured experts and scientists in new content designed to inform and inspire action. We hosted a Facebook and Instagram. 
+Live studio at the UNFCCC pavilion, which included over 90 conversations with leading voices on climate change.
+We featured the Say it with. 
+Science conversation series on the Climate Science Center on. 
+Facebook covering health and climate change. On Instagram, we launched the editorial series. 
+Our Planet in Crisis, which features the stories of activists and organizers who are dedicated to spreading awareness and empowering others to take action in their local communities.
+We also debuted a new video series in Asia focused on climate change, called Forward Together, which shared new Data for. 
+Good tools and research on climate change and stories from community leaders in sustainability.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 81
+
+
+Climate Week. 
+We continue to do our part to support The Paris. 
+Climate Agreement through our ongoing involvement with organizations like. 
+The Climate Group. During. 
+Climate Week and the UN. 
+General Assembly (UNGA) in 2021, we were able to connect thought leaders for a series of side events↗.
+During these sessions, we discussed some of the world’s most pressing issues, including communicating climate change, vaccine equity and the role of tech and open data flows in economic prosperity.
+ADVANCING INDUSTRY CHANGE. 
+COP26. 
+In 2021, Meta delivered our biggest activation at COP yet. At the core of our activation was our presence at the UNFCCC pavilion.
+Now in our sixth year, we ran a. 
+Facebook and Instagram Live. 
+Studio—a space for policymakers, advocates, businesses and nonprofits to broadcast progress, challenges and reflections on the urgency of climate change to audiences around the world. We had 90+ high-level visitors.
+At COP26, we executed over 40 initiatives. In addition to a massive expansion of the. 
+CSC, we supported the UN in mobilizing action against climate change and encouraging conversations around this important topic.
+
+The UN’s ActNow chatbot was updated with 10 new actions for people to tackle climate change and was made available on Messenger and Instagram.
+In support of this important moment, Meta developed new camera stickers to help people strike up a conversation by visually showing their support for climate action in their Story or group chat on Messenger and Instagram.
+Our Meta delegation on the ground included team members from across the company and hosted: • “Bridging the Gap between. 
+Climate Information and Action” in the Business Pavilion • “How can ICT companies help enable Europe’s transition to net zero emissions by 2050” in the EU Pavilion • A Reuters event on authoritative climate information • Roundtables with youth. 
+Ahead of COP26, Meta’s Chief. 
+Operating Officer, Sheryl. 
+Sandberg, signed a Glasgow. 
+Is Our Business↗ open letter that urged governments and companies to join in signatories in making meaningful emissions commitments ahead of COP26.
+It ran as a full-page ad in The. 
+New York Times. Meta also joined the Clean Energy Demand. 
+Initiative (CEDI)↗, led by the. 
+U.S. Department of State and. 
+CEBA, which was launched at. 
+COP26. CEDI is intended to signal corporate clean energy demand in constrained regions for renewable procurement, such as Asia-Pacific.
+As key climate policy issues continue to be widely debated by governments around the world, our increased and continuously evolving focus on sustainability and climate policy (including but not limited to the activities described in this report) represents our heightened level of engagement in and attention to these important topics. We are looking forward to participating in COP27.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 82
+
+
+Our Board of Directors, its committees and our management provide oversight around our ESG and sustainability efforts.
+Governance. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 83
+
+
+Environmental Data Governance. 
+The environmental data found within this report is used for three main reasons: 1. Measure performance on issues that matter to Meta 2. Analyze performance over time against targets and standards 3. Inform stakeholders about. 
+Meta’s sustainability performance. 
+Before our data is published externally, we undergo a robust review process to ensure that the data is accurate.
+1. Data Collection: Data is collected from third-party providers and cross-functional teams at Meta.
+4. Legal Review: Once data is verified, it then gets placed in the annual sustainability report. Our legal team reviews the data and narrative context to ensure disclosures are appropriately stated and in line with relevant standards.
+3. Third-Party Verification: Data is sent to our third-party verifier with supporting documents such as invoices, renewable energy certificates and carbon offset retirements.
+2. Internal Quality Assurance and Quality Control: Data is compared to previous years, and questionable data is flagged for further investigation.
+The Audit and Risk Oversight. 
+Committee of our Board of. 
+Directors is updated on climate, supply chain and overall program strategy annually. Meta leadership and senior management are engaged in assessing and managing sustainability risks and opportunities.
+GOVERNANCE. 
+Utility-scale solar power declined in cost by 90% between 2009 and 2021. The cost of onshore wind power declined by 70% over the same period.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 84
+
+
+Leadership About Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Appendix Vision. 
+With greater transparency and our vision to guide us, we will do even more to keep bringing the world closer together—and closer to a better reality for all. To learn more, visit our sustainability page↗.
+LOOKING AHEAD. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 85
+
+
+Data Index. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 86
+
+
+Topic Meaning Link to Resource. 
+Environmental Topics. 
+Net Zero Commitment • Manage operational energy and emissions • Invest in energy-saving and renewable energy projects to support our supply chain • Invest in renewable energy, carbon abatement and carbon removal projects throughout our operations and supply chain. 
+Page 47. 
+Data Center Efficiency • Create the most efficient data centers possible by prioritizing energy efficiency; renewable energy; water efficiency and sustainable materials during design, construction and operation. 
+Page 39. 
+Water Stewardship • Reduce workplace and data center water use and improve the quality of discharged water • Invest in water restoration projects in the watersheds where we operate • Support industry-wide initiatives and provide guidance to advance the field of water stewardship. 
+Page 55. 
+Climate Change • Manage short-, medium- and long-term climate risks and opportunities that could significantly impact Meta’s organizational goals and society • Implement board and management oversight of climate risks and opportunities. 
+Page 34. 
+Operational Waste • Minimize waste generated in our facilities and workplaces • Manage the treatment and disposal of waste • Expand beneficial reuse • Repair and reuse data center components • Design products and packaging with renewable materials and with end of life in mind • Equip people with offerings that promote reuse such as Facebook Marketplace and community groups. 
+Page 36. 
+PRIORITY TOPICS. 
+Our 2021 Sustainability Report focuses on the key environmental issues identified throughout our stakeholder engagement process.
+Descriptions and links to additional information on the full list of priority topics Meta woks to address can be found in the Priority Topics table.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 87
+
+
+PRIORITY TOPICS. 
+Social Topics. 
+Community Investment and Engagement • Leverage Meta’s scale, people and technology to partner with communities on initiatives that create lasting positive impacts • Invest to address immediate needs such as hunger and natural disasters, as well as longer-term commitments to support education, economic opportunity and environmental progress. 
+Page 77. 
+Community Stories at Meta↗
+Accessibility • Design technologies and features that help people with disabilities get the most out of Meta’s products and services. 
+Facebook Help Center↗
+Access to Internet • Partner to close the gap in access to reliable internet • Devote resources to digital literacy, education and skills development • Promote access to culture and scientific advancement. 
+Technology and Innovation News↗
+Data Privacy and Security • Treat data responsibly and adhere to stringent industry standards for privacy and data protection • Invest in data protection training • Build the tools to help users secure their personal information and make the right privacy choices. 
+Privacy Tools and Information Security↗
+Small Business Support • Enable small and medium-sized businesses to grow by providing targeted product and service offerings, training and resources. 
+Support Small Business Hub↗
+Meta Boost Guide to Green↗
+Minimizing Spread of False Information • Prevent and address misinformation on Meta platforms • Promote access to educational materials • Amplify reliable content • Improve access to data about the way our platforms are used. 
+Page 66. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 88
+
+
+PRIORITY TOPICS. 
+Social Topics (Continued)
+Human Rights • Assess supply chain for violations to human rights standards and providing mechanisms to redress violations • Implement clear policies on labor rights, including child labor, forced labor and the right to collective bargaining • Maintain a safe and healthy work environment for employees • Protect freedom of expression and privacy for people using our platforms • Protect the safety and dignity of people using our platforms • Uphold a commitment to nondiscrimination. 
+Page 33. 
+Corporate Human Rights Policy↗
+Promoting Safety and Expression↗
+Human Capital/ Employee Relations/ Talent Development • Invest in employee skill development and create paths to upward mobility • Offer meaningful retention programs and the ability to work flexibly • Commit to reporting on, and striving for, pay equity across groups, access to health care, mental wellbeing and responsive policies during crises. 
+Meta Employee Benefits↗
+Employee Engagement • Support an inclusive and welcoming work environment by providing employees with opportunities to contribute to and shape Meta’s ESG strategies • Regularly solicit employee feedback and report on the outcomes of these engagements. 
+Page 74. 
+Diversity, Equity and Inclusion (DEI) • Build a diverse, inclusive labor force • Support programs that promote underrepresented groups in tech, provide equitable access to digital skills, and promote economic equity in under served communities • Report on DEI metrics • Assess any uses of our platforms that prevent DEI outcomes from being achieved • Grow Meta’s business in a way that promotes social and economic benefits throughout the value chain • Offer Meta’s products and services in a nondiscriminatory manner. 
+Diversity and Inclusion↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 89
+
+
+PRIORITY TOPICS. 
+Social Topics (Continued)
+Social and Environmental Justice • Track Meta’s impacts on community projects and promote social justice more broadly on the platform • Implement accountability measures to mitigate barriers to social and environmental justice and freedom of expression. 
+Promoting Safety and Expression↗
+Governance Topics. 
+Transparent Reporting • Issue reports on business activities and government data requests • Link to relevant standards and reporting data that is comparable, accurate and timely. 
+Transparency Center↗
+Fair and Responsible Tax Practices • Practice corporate income tax responsibility and pay taxes in a fair and transparent manner • Respond to global taxes on energy use, carbon and other issues related to environmental and health damage. 
+Tax Policy↗
+Corporate Governance • Ensure board and management oversight and prioritization of risks and opportunities, including those related to sustainability • Establish and enforce transparent policies to meet stakeholder expectations. 
+Page 84. 
+Governance Documents↗
+Trust and Integrity • Conduct business with integrity • Maintain compliance with legal and environmental policies • Promote ethical behavior from the top down • Offer training on ethical business, nondiscrimination and privacy and data protection • Enhance transparency, risk management and communication. 
+Page 80. 
+Investor Relations Website↗
+Competitive Behavior • Monitor and comply with antitrust laws Code of Conduct↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 90
+
+
+PRIORITY TOPICS. 
+Governance Topics (Continued)
+Public Policy Engagement and Advocacy • Engage with governments and other stakeholders to promote a transparent business environment that enables sustainable growth • Participate in public policy dialogues on issues that support our business and sustainability strategies, and where we can contribute expertise to solve policy issues.
+• Support organizations that advocate for policies that spur clean energy deployment and decarbonization. 
+Page 80. 
+Stakeholder Engagement • Monitor and respond to feedback from corporate stakeholders, including critics • Collaborate with governments, NGOs, United Nations (UN) actors and other companies on shared priorities. 
+Page 13. 
+Supplier Engagement and Responsible Sourcing • Work with suppliers whose policies on social and environmental impact and DEI align with Meta’s • Enforce and track supplier adherence to code of conduct • Minimize environmental and social impacts of sourcing materials for our products and operations • Work with suppliers that adhere to human rights and environmental standards • Choose to support small and diverse businesses when possible. 
+Page 33. 
+Conflict Minerals Policy↗
+ESG Product Solutions • Create and invest in products and features that deliver positive outcomes for societal and environmental health and well-being and empower users to track and reduce their environmental impact • Collaborate with industry peers and other knowledgeable parties to develop and fund innovative solutions to address environmental and social challenges • Minimize the environmental impacts of our physical products throughout the product life cycle. 
+Page 64. 
+ESG Resources ↗
+Content Governance • Developing controls to govern the inclusion, visibility and distribution of content on Meta platforms, and to prevent dehumanizing content and online abuse • Enforce content policies with moderation and removal • Track and report the outcomes of content governance efforts. 
+Community Standards↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 91
+
+
+PRIORITY TOPICS. 
+Governance Topics (Continued)
+Risk Management • Identify, assess and control threats to the organization • Embed risk management throughout the governance structure • Manage connectivity interruptions and protect communication during crises. 
+Leadership and Governance↗
+Responsible Product Design • Design Meta’s core products and algorithms in a responsible manner • Consider the social and human rights impacts, including mental health, of social media use and product design • Select appropriate and ethical advertising content • Incorporate policies that prohibit advertisers from targeting protected classes of users • Prioritize advertising that creates a positive social or environmental impact • Develop socially responsible artificial intelligence • Commit to sharing knowledge and resources with the tech community. 
+Page 64. 
+Advertising Policies↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 92
+
+
+1.1 GHG Emissions 3,4,5,6. 
+Total GHG Emissions. 
+Market-Based (In Metric Tons CO2e) 2017 2018 2019 2020 2021. 
+Net Total 1,096,000 1,008,000 4,330,000 4,984,000 5,619,000. 
+Carbon Removal (Carbon Credits Retired) 7 -145,000 90,000. 
+Total 1,096,000 1,008,000 4,330,000 5,129,000 5,709,000. 
+Scope 1 25,000 42,000 44,000 29,000 55,000. 
+Percent of Total GHG Emissions (Scopes 1-3) 2% 4% 1% 1% 1%
+Scope 2 591,000 314,000 208,000 9,000 2,000. 
+Percent of Total GHG Emissions (Scopes 1-3) 54% 31% 5% <1% <1%
+Scope 3 480,000 652,000 4,078,000 5,091,000 5,651,000. 
+Percent of Total GHG Emissions (Scopes 1-3) 44% 65% 94% 99% 99%
+Location-Based (In Metric Tons CO2e) 2017 2018 2019 2020 2021. 
+Total 1,387,000 1,983,000 6,295,000 8,559,000 9,994,000. 
+Greenhouse Gas Intensity. 
+Market-Based Scope 1 & 2 (In Metric Tons CO2e / Monthly Active Person) 2017 2018 2019 2020 2021. 
+Annual GHG Intensity 0.00029 0.00015 0.00008 0.00001 0.00002. 
+ENVIRONMENTAL FOOTPRINT 1,2. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 93
+
+
+Operational GHG Emissions. 
+Market-Based Scope 1 & 2 (In Metric Tons CO2e) 8 2017 2018 2019 2020 2021. 
+Total Operational GHG Emissions 616,000 356,000 252,000 38,000 58,000. 
+Data Centers Total 568,000 314,000 207,000 14,000 25,000. 
+Altoona, IA 1,000 1,000 2,000 1,000 2,000. 
+Clonee, Ireland <500 <500 <500 1,000 1,000. 
+Eagle Mountain, UT - - - - 3,000. 
+Forest City, NC 136,000 53,000 9,000 <500 1,000. 
+Fort Worth, TX 1,000 1,000 1,000 <500 1,000. 
+Henrico, VA - - <500 <500 5,000. 
+Huntsville, AL - - - - <500. 
+Los Lunas, NM - 1,000 1,000 <500 1,000. 
+Luleå, Sweden <500 <500 <500 <500 <500. 
+New Albany, OH - - <500 2,000 <500. 
+Newton County, GA - - - - <500. 
+Odense, Denmark - - <500 <500 3,000. 
+Papillion, NE - <500 <500 3,000 2,000. 
+Prineville, OR 239,000 137,000 1,000 3,000 4,000. 
+East Coast Leased Data Center Facilities 98,000 102,000 188,000 - <500. 
+Other Data Center-Related Facilities 40,000 17,000 4,000 2,000 <500. 
+Offices Total 48,000 42,000 44,000 24,000 32,000. 
+ENVIRONMENTAL FOOTPRINT. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 94
+
+
+Market-Based vs. Location-Based. 
+Scope 2 Emissions (In Metric Tons CO2e) 2018 2019 2020 2021. 
+Market-Based LocationBased Market-Based LocationBased Market-Based LocationBased Market-Based LocationBased. 
+Total Facilities GHG Emissions 314,000 1,241,000 205,000 1,885,000 9,000 2,718,000 2,000 3,080,000. 
+Data Centers Total 308,000 1,181,000 197,000 1,813,000 2,000 2,650,000 2,000 2,989,000. 
+Altoona, IA - 346,000 - 483,000 - 555,000 - 425,000. 
+Clonee, Ireland - 82,000 - 143,000 - 159,000 - 187,000. 
+Eagle Mountain, UT - - - - - - - 63,000. 
+Forest City, NC 52,000 201,000 8,000 208,000 - 202,000 - 165,000. 
+Fort Worth, TX - 212,000 - 295,000 - 399,000 - 378,000. 
+Henrico, VA 137,000 - - 3,000 - 69,000 - 146,000. 
+Huntsville, AL - - - - - - - 32,000. 
+Los Lunas, NM - 12,000 - 135,000 - 266,000 - 277,000. 
+Luleå, Sweden - 7,000 - 6,000 - 7,000 - 4,000. 
+New Albany, OH - - - 20,000 - 157,000 - 230,000. 
+Newton County, GA - - - - - - - 84,000. 
+Odense, Denmark - 1,000 <500 18,000 - 57,000 2,000 51,000. 
+Papillion, NE - 3,000 - 101,000 - 294,000 - 330,000. 
+Prineville, OR - 145,000 - 167,000 - 200,000 - 246,000. 
+East Coast Leased Data Center Facilities 102,000 128,000 188,000 193,000 - 223,000 - 267,000. 
+Other Data Center-Related Facilities 17,000 44,000 1,000 41,000 2,000 62,000 - 101,000. 
+Offices Total 6,000 60,000 8,000 72,000 7,000 68,000 - 92,000. 
+ENVIRONMENTAL FOOTPRINT. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 95
+
+
+ENVIRONMENTAL FOOTPRINT. 
+Value Chain GHG Emissions. 
+Scope 3 Emissions (In Metric Tons CO2e) 9,10,11,12 2017 2018 2019 2020 2021. 
+Total 480,000 652,000 4,078,000 5,091,000 5,651,000. 
+Category 1: Purchased Goods and Services 9 -1,428,000 1,846,000 2,371,000. 
+Of Total (in %) -35% 36% 42%
+Category 2: Capital Goods 9 -1,671,000 2,516,000 2,410,000. 
+Of Total (in %) -41% 49% 42%
+Category 3: Fuel and Energy-Related Activities -264,000 56,000 75,000. 
+Of Total (in %) -6% 1% 1%
+Category 4: Upstream Transportation and Distribution -49,000 180,000. 
+Of Total (in %) -1% 3%
+Category 6: Business Travel 10,11 246,000 397,000 529,000 129,000 5,000. 
+Of Total (in %) -13% 3% <1%
+Category 7: Employee Commuting 12 43,000 71,000 90,000 61,000 22,000. 
+Of Total (in %) -2% 1% <1%
+Category 11: Use of Sold Products -390,000 558,000. 
+Of Total (in %) -8% 10%
+Other Applicable Categories 9,12 -96,000 44,000 29,000. 
+Of Total (in %) -2% 1% 1%
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 96
+
+
+ENVIRONMENTAL FOOTPRINT 2.1 Electricity. 
+Electricity Consumption by Facility (In MWh) 2017 2018 2019 2020 2021. 
+Total Electricity Consumption 2,462,000 3,427,000 5,140,000 7,170,000 9,421,000. 
+Electricity from Grid (%) 100% 100% 100% 100% 100%
+Data Centers Total 2,360,000 3,245,000 4,918,000 6,966,000 9,117,000. 
+Altoona, IA 500,000 612,000 853,000 980,000 951,000. 
+Clonee, Ireland 1,000 200,000 382,000 487,000 635,000. 
+Eagle Mountain, UT - - - - 230,000. 
+Forest City, NC 433,000 547,000 614,000 595,000 581,000. 
+Fort Worth, TX 189,000 461,000 695,000 941,000 1,014,000. 
+Henrico, VA -10,000 204,000 515,000. 
+Huntsville, AL - - - - 85,000. 
+Los Lunas, NM -26,000 289,000 571,000 718,000. 
+Luleå, Sweden 301,000 337,000 373,000 369,000 306,000. 
+New Albany, OH -38,000 270,000 511,000. 
+Newton County, GA - - - - 215,000. 
+Odense, Denmark -4,000 128,000 343,000 501,000. 
+Papillion, NE -5,000 178,000 519,000 737,000. 
+Prineville, OR 426,000 488,000 573,000 686,000 898,000. 
+East Coast Leased Data Center Facilities 359,000 432,000 647,000 795,000 940,000. 
+Other Data Center-Related Facilities 135,000 133,000 113,000 206,000 279,000. 
+Offices Total 102,000 181,000 222,000 204,000 304,000. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 97
+
+
+ENVIRONMENTAL FOOTPRINT. 
+Electricity Mix (In % of Total Electricity Used) 13 2017 2018 2019 2020 2021. 
+Renewable 51% 75% 86% 100% 100%
+Nonrenewable 49% 25% 14% 0% 0% 2.2 Total Energy Consumed. 
+Energy Consumption. 
+Total Energy Consumed (In GJ) 2017 2018 2019 2020 2021. 
+Total Energy Consumption -27,075,000 36,993,000. 
+Direct Energy Consumption -438,000 833,000. 
+Indirect Energy Consumption -26,638,000 36,160,000 2.3 Fuels. 
+Fuel Consumption 2017 2018 2019 2020 2021. 
+Natural Gas -6,305,000 therms. 
+Diesel — Diesel Fuel -363,000 gal. 
+Diesel — Distillate Fuel Oil No.4 -6,023,000 gal. 
+Gasoline -1,078,000 gal. 
+Propane -659,000 gal. 
+Renewable Fuels. 
+Hydrotreated Vegetable Oil -6,000 gal. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 98
+
+
+ENVIRONMENTAL FOOTPRINT 2.4 Data Center Operations and Design. 
+Power Usage Effectiveness 14. 
+Annual Data Center PUE 2017 2018 2019 2020 2021. 
+PUE (Data Center Energy Efficiency) 1.10 1.11 1.11 1.10 1.09. 
+Sustainable Design. 
+Green Building Standards for Data Centers and Offices (% of sq ft Covered by Green Building Standards and/or EnMS) 2017 2018 2019 2020 2021. 
+Total -98%
+Data Centers (LEED Gold or Above, or ISO 50001) -100%
+Offices (LEED Gold or Above, or ISO 50001) -97% 3.1 Water Withdrawal 15. 
+Water Withdrawal by Facility (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Withdrawal 1,609,000 2,367,000 3,430,000 3,726,000 5,043,000. 
+Data Centers Total 1,139,000 1,730,000 2,731,000 3,000,000 3,418,000. 
+Altoona, IA 106,000 139,000 145,000 151,000 140,000. 
+Clonee, Ireland 10,000 188,000 395,000 615,000 928,000. 
+Eagle Mountain, UT - - - - 58,000. 
+Forest City, NC 129,000 99,000 85,000 68,000 64,000. 
+Fort Worth, TX 98,000 269,000 322,000 300,000 254,000. 
+Henrico, VA - - -42,000 80,000. 
+Huntsville, AL - - - - 39,000. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 99
+
+
+ENVIRONMENTAL FOOTPRINT. 
+Water Withdrawal by Facility (In Cubic Meters) (Continued) 2017 2018 2019 2020 2021. 
+Los Lunas, NM - 25,000 92,000 140,000 153,000. 
+Luleå, Sweden 66,000 53,000 58,000 49,000 39,000. 
+New Albany, OH - - 33,000 35,000 121,000. 
+Newton County, GA - - - - 105,000. 
+Odense, Denmark - - 266,000 360,000 373,000. 
+Papillion, NE - -62,000 108,000 106,000. 
+Prineville, OR 172,000 160,000 208,000 445,000 354,000. 
+East Coast Leased Data Center Facilities 473,000 533,000 1,011,000 645,000 558,000. 
+Other Data Center-Related Facilities 85,000 264,000 54,000 42,000 45,000. 
+Offices Total 470,000 631,000 699,000 726,000 1,625,000. 
+Water Withdrawal by Source (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Withdrawal 1,609,000 2,367,000 3,430,000 3,726,000 5,043,000. 
+From Surface Water --
+From Groundwater -37,000 33,000. 
+From Seawater --
+From Produced Water --
+From Third-Party Water (e.g. Municipal Water Supply) -3,689,000 5,009,000. 
+Water Usage Effectiveness 14 2017 2018 2019 2020 2021. 
+Annual Data Center WUE 0.24 0.27 0.27 0.30 0.26. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 100
+
+
+ENVIRONMENTAL FOOTPRINT. 
+Water Withdrawal Intensity (In Cubic Meters / Monthly Active Person) 2017 2018 2019 2020 2021. 
+Annual Water Intensity 0.000755 0.001020 0.001200 0.001130 0.001405. 
+Water Withdrawal from Areas with Water Stress (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Withdrawal 1,609,000 2,367,000 3,430,000 3,726,000 5,043,000. 
+From Areas with High or Extremely High Baseline Water Stress -1,390,000. 
+From Areas without Water Stress -3,652,000. 
+Recycled Water (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Recycled 469,000 673,000 854,000 643,000 580,000 3.2 Water Consumption. 
+Water Consumption (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Consumption 838,000 1,279,000 1,971,000 2,202,000 2,569,000. 
+Data Centers Total -2,197,000 2,406,000. 
+Offices Total -73,000 162,000. 
+Water Consumption from Areas with Water Stress (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Consumption 838,000 1,279,000 1,971,000 2,202,000 2,569,000. 
+From Areas with High or Extremely High Baseline Water Stress -526,000. 
+From Areas without Water Stress -2,043,000. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 101
+
+
+ENVIRONMENTAL FOOTPRINT 3.3 Water Discharge. 
+Water Discharge by Facility (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Discharge -1,524,000 2,474,000. 
+Water Discharge by Source (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Discharge -1,524,000 2,474,000. 
+To Surface Water --
+To Groundwater --
+To Seawater --
+To Third-Party Water (e.g. Municipal Sewers) -1,524,000 2,474,000. 
+Water Discharge to Areas with Water Stress (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Discharge -1,524,000 2,474,000. 
+To Areas with Water Stress -864,000. 
+To Areas without Water Stress -1,609,000. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 102
+
+
+ENVIRONMENTAL FOOTPRINT 3.4 Water Stewardship. 
+Water Restoration (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Volumetric Water Restoration Benefits -132,000 145,000 2,250,000 2,336,000. 
+Progress on 2030 Net Positive Water Goal (In Cubic Meters) 2017 2018 2019 2020 2021. 
+Total Water Consumption 838,000 1,279,000 1,971,000 2,202,000 2,569,000. 
+Total Water Restored -132,000 145,000 2,250,000 2,336,000. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 103
+
+
+FOOTNOTES 1. Values are rounded and totals are calculated before rounding throughout this report.
+2. “Other data center-related facilities” includes facilities where Meta used less than 100,000 MWh of electricity in the reporting year, such as warehouses or colocation facilities. Owned, online data centers are always reported by site, even if they were below this threshold.
+3. Meta’s methodology for calculating greenhouse gas emissions can be found here↗.
+4. Scope 1, 2 and 3 greenhouse gas emissions are calculated annually based on the WRI/WBCSD Greenhouse Gas Protocol↗.
+5. (a) Scope 1 includes emissions from diesel, natural gas and refrigerants from offices and data centers and from diesel and gasoline in the transportation fleet owned and controlled by Meta.
+(b) Scope 2 includes emissions from electricity of offices and warehouses leased, controlled and owned by Meta; electricity of data centers owned and leased (IT load) by Meta; natural gas of offices and warehouses leased and serviced by Meta; and purchased heat. Because Meta does not control building operations in leased data center facilities, as of 2017, only emissions associated with its IT load electricity are included in Scope 2 emissions.
+(c) Scope 3 emissions are indirect emissions throughout Meta’s value chain. Starting in 2019, Meta included emissions from all relevant categories in Scope 3. Scope 3 emissions for 2015 to 2018 include business travel, employee commute and construction.
+6. In the 2021 reporting year, two updates to reporting were applied to 2020 and later inventories: (a) Data from life cycle assessments for our hardware and sold products were used to calculate our Scope 3 emissions.
+(b) 2020 use of sold product numbers were recalculated to improve accuracy.
+7. Prior to 2020, Meta invested in avoided emissions offsets which are not considered carbon removal.
+8. In the 2019 reporting year, three updates to reporting were applied to 2017 (baseline year) and later inventories: (a) Vehicles operated by the Transportation team in support of commuting and inter-campus travel were previously counted in Scope 3 – Employee commute. After re-visiting Meta’s operational control of these vehicles, it was determined that they should be accounted for in Scope 1.
+(b) It was determined that Meta overestimated natural gas emissions by including estimates for offices which do not in fact use natural gas. Recalculations have been applied to the inventory to remove these inaccuracies.
+(c) Fugitive emissions from refrigerant losses at offices not under Meta operational control were moved from Scope 2 to Scope 3.
+9. In the 2020 reporting year, two emission factors updates significantly impacted the GHG inventory: (a) Economic-Environmental Input-Output emission factors were updated and applied to relevant categories. 2019 numbers were updated to reflect these new emission factors.
+(b) Waste emission factors were updated and applied starting in 2020.
+10. In the 2020 reporting year, two updates to the methodology were applied: (a) A new business travel methodology was developed, which was applied to 2019 and updated. Air travel still includes radiative forcing starting from 2017.
+(b) Employee commuting now includes telecommuting, or work-from-home, emissions starting in 2020, for which the electricity portion is matched with renewable energy.
+11. Sustainable Aviation Fuel was purchased in 2021 and associated emissions reductions are reflected in the inventory.
+12. This includes the following categories in Scope 3: downstream transportation and distribution, waste generated in operations, upstream leased assets, and end-of-life treatment of sold products. Prior to 2020, emissions from use of sold products and upstream transportation and distribution are included in this category.
+13. In owned and leased data center facilities included in Scope 2 and 3 emissions, Meta has matched building operations with renewable energy.
+14. Power Use Effectiveness (PUE) and Water Use Effectiveness (WUE) is calculated based on best available data, including internal meters, design estimates and utility bills where applicable.
+15. Not included in Meta’s 2021 water withdrawal numbers are an additional 827,289 cubic meters of water withdrawn for the construction of Meta data centers.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 104
+
+
+GRI100 - Universal. 
+GRI 102 General Disclosures 102-1 Name of the organization Meta Platforms, Inc.
+102-2 Activities, brands, products, and services Page 10 102-3 Location of headquarters Menlo Park, California 102-4 Location of operations Offices in 80+ cities worldwide and 18 data centers globally 102-5 Ownership and legal form Meta Platforms, Inc. is a publicly held holding company, listed as META 102-6 Markets served Markets served can be found in the Form 10-K↗ 102-7 Scale of the organization The scale of the organization can be found in the Form 10-K↗ 102-9 Supply chain Page 32 102-10 Significant changes to the organization and its supply chain In October 2021, we changed our corporate name from Facebook, Inc. to Meta Platforms 102-13 Membership of associations Page 76 102-14 Statement from senior decision-maker Page 4 102-16 Values, principles, standards, and norms of behavior Page 10 102-18 Governance structure Page 83 and on the Investor Relations website ↗ 102-43 Approach to stakeholder engagement Page 12 102-44 Key topics and concerns raised Page 86 102-45 Entities included in the consolidated financial statements Entities included in the report can be found in the Form 10-K↗ 102-46 Defining report content and topic Boundaries Page 13 102-47 List of material topics Page 86 102-49 Changes in reporting This is Meta’s first GRI index 102-50 Reporting period January 1, 2021 to December 31, 2021 102-51 Date of most recent report 2020 102-52 Reporting cycle Annual 102-54 Claims of reporting in accordance with the GRI Standards Meta is reporting in reference to the GRI standards listed within this index 102-55 GRI content index Pages 103-106 102-56 External assurance Meta’s greenhouse gas emissions are verified externally↗
+GRI INDEX. 
+Meta’s 2021 Sustainability Report has been prepared with reference to the Global Reporting Initiative (GRI) Standards.
+GRI is an independent international organization that helps businesses, governments, and other organizations understand and communicate sustainability impacts.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 105
+
+
+GRI INDEX. 
+GRI200 - Economic. 
+GRI 204 - Procurement Practices. 
+GRI 103 Management Approach 103-1 Explanation of the material topic and its Boundary Page 34 103-2 The management approach and its components Page 34 103-3 Evaluation of the management approach Page 34. 
+GRI 207 – Tax 2019. 
+GRI 103 Management Approach 103-1 Explanation of the material topic and its Boundary Tax Policy↗ 103-2 The management approach and its components Tax Policy↗ 103-3 Evaluation of the management approach Tax Policy↗
+GRI 207 Tax 2019 207-1 Approach to tax Tax Policy↗ 207-2 Tax governance, control and risk management Tax Policy↗ 207-3 Stakeholder engagement and management of concerns related to tax Tax Policy↗
+GRI300 - Environmental. 
+GRI 302 - Energy. 
+GRI 103 Management Approach 103-1 Explanation of the material topic and its Boundary Pages 52-54 103-2 The management approach and its components Pages 52-54 103-3 Evaluation of the management approach Pages 52-54. 
+GRI 302 Energy 302-1 Energy consumption within the organization Page 97 302-3 Energy intensity Page 98 302-4 Reduction of energy consumption Pages 53, 98. 
+GRI 303 - Water and Effluents. 
+GRI 103 Management Approach 103-1 Explanation of the material topic and its Boundary Pages 55-59 103-2 The management approach and its components Pages 55-59 103-3 Evaluation of the management approach Pages 55-59. 
+GRI 303 Water 303-1 Interactions with water as a shared resource Pages 100-102 303-3 Water withdrawal Pages 98-100 303-4 Water discharge Page 100 303-5 Water consumption Page 101. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 106
+
+
+GRI INDEX. 
+GRI 304 - Biodiversity. 
+GRI 103 Management Approach 103-1 Explanation of the material topic and its Boundary Pages 60-63 103-2 The management approach and its components Pages 60-63. 
+GRI 304 Biodiversity 304-2 Significant impacts of activities, products and services on biodiversity Pages 60-63 304-3 Habitats protected or restored Pages 60-63. 
+GRI 305 - Emissions. 
+GRI 103 Management Approach 103-1 Explanation of the material topic and its Boundary Pages 47-51 103-2 The management approach and its components Pages 47-51 103-3 Evaluation of the management approach Pages 47-51. 
+GRI 305 Emissions 305-1 Direct (Scope 1) GHG emissions Pages 50, 91 305-2 Energy indirect (Scope 2) GHG emissions Pages 50, 94 305-3 Other indirect (Scope 3) GHG emissions Pages 50, 95 305-4 GHG emissions intensity Page 92. 
+GRI400 - Social. 
+GRI 401 - Employment. 
+GRI 401 Employment 401-1 New employee hires and employee turnover Human Capital section of the Form 10-K↗ 401-2 Benefits provided to full-time employees that are not provided to temporary or parttime employees Benefits website↗ 401-3 Parental leave Maternity Benefits and Paid Parental Leave website↗
+GRI 405 - Diversity and Equal Opportunity (U.S. ONLY)
+GRI 103 Management Approach 103-1 Explanation of the material topic and its Boundary Diversity and Inclusion website↗ 103-2 The management approach and its components Diversity and Inclusion website↗
+GRI 405 Diversity and Equal Opportunity 405-1 Diversity of governance bodies and employees Diversity, Equity and Inclusion section of the Form 10-K↗
+GRI 415 - Public Policy. 
+GRI 103 Management Approach 103-1 Explanation of the material topic and its Boundary Page 80 and Transparency Report↗ 103-2 The management approach and its components Page 80 and Transparency Report↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 107
+
+
+GRI INDEX. 
+GRI 415 - Customer Privacy. 
+GRI 103 Management Approach 103-1 Explanation of the material topic and its Boundary Transparency Report↗ 103-2 The management approach and its components Transparency Report↗
+GRI 415 Customer Privacy 418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data Transparency Report↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 108
+
+
+Disclosure Number Description Unit of Measurement Location / Response / Comments. 
+Environmental Footprint of Hardware Infrastructure. 
+TC-IM-130a.1 (1) Total energy consumed Gigajoules (GJ) Pages 96-97 (2) percentage grid electricity Percentage (%) Pages 53, 97 (3) percentage renewable Percentage (%) Pages 53, 97. 
+TC-IM-130a.2 (1) Total water withdrawn Thousand cubic meters (m3), Percentage (%) Pages 56, 98-100 (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress Thousand cubic meters (m3), Percentage (%) Pages 56, 98-100. 
+TC-IM-130a.3 Discussion of the integration of environmental considerations into strategic planning for data center needs Discussion and Analysis Pages 39-43. 
+Data Privacy, Advertising Standards and Freedom of Expression. 
+TC-IM-220a.1 Description of policies and practices relating to behavioral advertising and user privacy Discussion and Analysis Policies↗
+TC-IM220a.4 (1) Number of law enforcement requests for user information Number Transparency Center at Government Requests for User Data↗ (2) number of users whose information was requested Number Transparency Center at Government Requests for User Data↗ (3) percentage resulting in disclosure Percentage (%) Transparency Center at Government Requests for User Data↗
+TC-IM220a.5 List of countries where core products or services are subject to government-required monitoring, blocking, content filtering, or censoring Discussion and Analysis Content Restrictions Based on Local Law↗
+TC-IM220a.6 Number of government requests to remove content, percentage compliance with requests Number, Percentage (%) Government Requests for User Data↗
+Data Security. 
+TC-IM230a.2 Substantiated complaints concerning breaches of customer privacy and losses of customer data Discussion and Analysis Protecting Privacy and Security↗
+SASB INDEX – INTERNET AND MEDIA SERVICES. 
+Meta’s 2021 SASB disclosures respond to metrics listed for the Internet and Media Services industry within the Technology and Communications sector.
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 109
+
+
+Employee Recruitment, Inclusion and Performance. 
+TC-IM330a.3. 
+Percentage of gender and racial/ethnic group representation for (1) management Percentage (%) Annual Diversity Report↗ (2) technical staff Percentage (%) Annual Diversity Report↗ (3) all other employees Percentage (%) Annual Diversity Report↗
+Intellectual Property Protection and Competitive Behavior. 
+TC-IM-520a.1 Total amount of monetary losses as a result of legal proceedings associated with anticompetitive behavior regulations Reporting currency When relevant, see Part I, Item 3 and Part II, Item 8 in Note 10 in our annual report on Form 10-K↗.
+SASB INDEX – INTERNET AND MEDIA SERVICES. 
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 110
+
+
+PUSHPIN FACTS. 
+FACT SOURCE LINK 216 million people could be forced to migrate within their own countries by 2050 because of climate change.
+https://www.mghihp.edu/academics-schools-departments-school-nursing/statisticsclimate-change↗
+Switching to a clean economy could raise $2.8 trillion through carbon price revenues and the redirection of fossil fuel subsidies to public investments. https://www.un.org/en/climatechange/science/key-findings↗ 1,200+ companies have set science-based targets in line with net zero emissions. https://www.un.org/en/climatechange/net-zero-coalition↗
+Meta first reported its Scope 1 and 2 GHG emissions in 2011 and began reporting Scope 3 emissions in 2019. Pages 93-96. 
+The 100 least-emitting countries generate 3% of total emissions. The 10 largest emitters contribute 68%. https://www.un.org/en/climatechange/science/key-findings↗
+To avert the worst impacts of climate change, global temperature increase must be limited to 1.5°C above pre-industrial levels. Global temperatures are already 1.1°C warmer.
+https://www.un.org/en/climatechange/net-zero-coalition↗
+Across the world, women are more likely than men to be affected by climate-related food insecurity.
+https://www.carbonbrief.org/mapped-how-climate-change-disproportionatelyaffects-womens-health/↗
+Achieving 50%-70% renewable energy could generate up to 600,000 jobs in wind, solar and battery storage. https://www.eesi.org/papers/view/fact-sheet-climate-jobs↗
+Net Positive Water Impact is a cornerstone concept for accelerating progress on UNSDG #6-Clean Water and Sanitation for all. https://ceowatermandate.org/resilience/net-positive-water-impact/↗
+More than 130 countries and 400 of the largest companies have net zero targets aimed for 2050 or earlier.
+https://www.forbes.com/sites/siemens-smart-infrastructure/2021/12/09/net-zerosupply-chains-will-decarbonize-industry/↗
+Indonesia and the U.S. are the countries with the highest shares of climate change deniers.
+https://www.statista.com/chart/19449/countries-with-biggest-share-of-climatechange-deniers/↗
+Scope 3 emissions fall within 15 categories, though not every category will be relevant to all organizations. https://ghgprotocol.org/standards/scope-3-standard↗
+Though they cover only around 6% of the earth’s land surface, 40% of all plant and animal species live or breed in wetlands. https://www.un.org/en/observances/world-wetlands-day↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 111
+
+
+PUSHPIN FACTS. 
+FACT SOURCE LINK. 
+Early warning systems for disasters can deliver benefits up to 10 times the initial cost. https://www.un.org/en/climatechange/science/key-findings↗ 67% of Americans perceive a rise in extreme weather. https://www.pewresearch.org/fact-tank/2021/10/14/67-of-americans-perceive-a-risein-extreme-weather-but-partisans-differ-over-government-efforts-to-address-it/↗
+Supply chains generate around 60% of all carbon emissions globally. https://www.accenture.com/us-en/insights/supply-chain-operations/supply-chainskey-unlocking-net-zero-emissions↗
+Flooding is the No. 1 form of natural disaster. https://www.undrr.org/media/48008/download↗
+Supply chain emissions are, on average, 11.4 times higher than operational emissions. https://www.epa.gov/climateleadership/supply-chain-guidance↗
+The construction and operation of buildings account for nearly 40% of CO2 emissions. https://architecture2030.org/why-the-building-sector/↗ 85% of employees working in LEED-certified buildings say access to outdoor views and natural light boosts their productivity and happiness.
+https://www.usgbc.org/articles/employees-are-happier-healthier-and-moreproductive-leed-green-buildings↗
+The food system accounts for roughly 30% of global energy use. https://www.energypolicy.columbia.edu/sites/default/files/pictures/FoodandClimateInfoguide-CGEP_v2G.pdf↗
+Data centers consume 10-50 times the energy per floor space of a typical commercial office building. https://www.energy.gov/eere/buildings/data-centers-and-servers↗
+Urban heat islands occur when natural land cover is replaced with pavement, buildings, and other surfaces that absorb and retain heat. https://www.epa.gov/green-infrastructure/reduce-urban-heat-island-effect↗
+The concentration of indoor air pollutants can be 2-5 times higher than typical outdoor concentrations. https://www.epa.gov/report-environment/indoor-air-quality↗
+Oceans absorb more than 90% of the heat that reaches Earth’s surface. https://www.carbonbrief.org/scientists-clarify-starting-point-for-human-causedclimate-change/↗
+Quantity of raw materials extracted from the earth has more than doubled over the past three decades. https://news.un.org/en/story/2021/06/1093802↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 112
+
+
+PUSHPIN FACTS. 
+FACT SOURCE LINK. 
+Plastic pollution has increased tenfold since 1980. https://www.un.org/sustainabledevelopment/blog/2019/05/nature-declineunprecedented-report/↗
+CO2 emissions are increasing more than 250 times faster from human activity than from natural sources after the last Ice Age. https://climate.nasa.gov/evidence/↗
+Shifting to a green economy could produce over 65 million new low-carbon jobs. https://www.un.org/en/climatechange/science/key-findings↗
+Scope 3 emissions usually account for more than 70 percent of a business’s carbon footprint. https://www.unglobalcompact.org.uk/scope-3-emissions/↗
+CO2 remains in the atmosphere for up to 1,000 years, nitrous oxide for up to 120 years and methane for up to 10 years. https://news.un.org/en/story/2022/01/1109322↗ 4,900 MW is enough to power 3.6 million U.S. homes.
+Wind power, sold at a fixed price over a long period of time, mitigates the price uncertainty associated with traditional energy sources. https://www.energy.gov/eere/wind/advantages-and-challenges-wind-energy↗
+The amount of sunshine that continuously strikes the earth equates to more than 10,000 times the world’s total energy use. https://www.energy.gov/articles/top-6-things-you-didnt-know-about-solar-energy↗
+Rising temperatures can lead to deadly pathogens in freshwater sources, making the water dangerous for people to drink.
+https://www.unicef.org/stories/water-and-climate-change-10-things-you-shouldknow↗ 2.3 billion people live in water-stressed countries. https://www.unwater.org/app/uploads/2021/12/SDG-6-Summary-ProgressUpdate-2021_Version-July-2021a.pdf↗ 40% of the global population lacks access to clean and safe drinking water. https://www.un.org/sustainabledevelopment/blog/2019/05/nature-declineunprecedented-report/↗
+In the last hundred years, more than 90% of crop varieties have disappeared from farmers’ fields.
+https://www.unep.org/news-and-stories/story/species-extinction-not-just-curiosityour-food-security-and-health-are-stake↗
+Of the 100 crop species that provide 90% of the world’s food, over 70 are pollinated by bees. https://bees.undp.org/↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 113
+
+
+PUSHPIN FACTS. 
+FACT SOURCE LINK. 
+To protect just one tiger, we have to conserve an estimated 10,000 hectares of forest. https://www.worldwildlife.org/species/tiger↗
+On the current path of CO2 emissions, temperature could increase by as much as 4.4°C by the end of the century. https://www.un.org/en/climatechange/science/key-findings↗
+There were 20 separate billion-dollar weather and climate disasters in 2021 in the U.S. alone. https://www.ncei.noaa.gov/access/billions/↗
+Worldwide, just 38% of small businesses have invested in adapting to environmental risks, compared to 60% of large ones. https://www.un.org/en/climatechange/science/key-findings↗ “Greenwashing” refers to when companies misrepresent the sustainability of their products, services or operations.
+https://www.globalcitizen.org/en/content/greenwashing-what-is-it-and-how-to-avoidit/↗
+Augmented reality uses a real-world setting while virtual reality is completely virtual. https://sopa.tulane.edu/blog/whats-difference-between-ar-and-vr↗
+The impact from refurbishing a device is, on average, three times less than that of producing a new device.
+https://www.backmarket.com/content/event/new-vs-refursbished-environmentalimpact/68↗
+Almost 90% of employees engaged in their company’s sustainability work say it enhances their job satisfaction. https://www.neefusa.org/resource/winning-marketplace-and-workplace↗
+Corporate collaborations are most effective when they resolve an issue that is seen as critical to business continuity.
+https://www.bsr.org/en/our-insights/report-view/private-sector-collaboration-forsustainable-development↗
+Unlike many materials, aluminum can be recycled infinitely. https://www.rts.com/blog/recycling-facts-statistics/↗ “Conflict minerals” include the metals tantalum, tin, tungsten and gold, which are often collectively referred to as “3TG”.
+https://www.responsiblemineralsinitiative.org/about/faq/general-questions/what-areconflict-minerals/↗
+The UN Climate Change Conference in Glasgow (COP26) brought together 120 world leaders and over 40,000 registered participants. https://www.un.org/en/climatechange/cop26↗
+Utility-scale solar power declined in cost by 90% between 2009 and 2021. The cost of onshore wind power declined by 70% over the same period.
+https://www.washingtonpost.com/business/energy/three-reasons-for-optimismabout-climate-change/2021/11/02/a458cd70-3bc8-11ec-bd6f-da376f47304e_story. html↗
+About Leadership Highlights How We Operate What We Create How We Collaborate Governance Looking Ahead Data Index Vision 2021 Meta Sustainability Report 114

@@ -1,0 +1,14 @@
+pandas
+more_itertools
+tqdm
+psutil
+ujson
+dirtyjson
+sentence_transformers
+accelerate
+InstructorEmbedding
+torch 
+torchvision
+langchain
+kor 
+pysbd

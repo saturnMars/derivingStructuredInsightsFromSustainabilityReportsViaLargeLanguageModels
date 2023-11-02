@@ -1,0 +1,170 @@
+{
+    "params": {
+        "test_name": "test01",
+        "document_languages": ["en"],
+        "sentence_filtering": {
+            "topk": 30,
+            "sim_threshold": 0.6
+        },
+        "sentence_minWords": 10,
+        "sentences_per_input": 1,
+        "select_most_recent_companyDoc": true,
+        "batch_dim": 64,
+        "debug": true
+    },
+
+    "companies_setE": [
+        "National Grid PLC",
+        "Uniper SE",
+        "Edison International",
+        "Tokyo Gas Co Ltd",
+
+        "Johnson Johnson",
+        "AstraZeneca PLC",
+        "Vertex Pharmaceuticals Inc",
+        "Moderna Inc",
+
+        "CF Industries Holdings Inc",
+        "Aluminum Corporation of China Limited",
+        "United States Steel Corp",
+        "Air Liquide SA",
+
+        "Prologis Inc",
+        "Simon Property Group Inc",
+        "China Vanke Co Ltd",
+        "Deutsche Wohnen",
+
+        "Walmart Inc",
+        "Nestle SA",
+        "Philip Morris International",
+        "Monster Beverage Corp",
+        "Sligro Food Group NV",
+
+        "Meta Platforms Inc",
+        "Broadcom Inc",
+        "Mastercard Inc",
+
+        "Bank of America Corp BofA",
+        "Netflix Inc",
+
+        "TotalEnergies",
+
+        "Intuitive Surgical Inc",
+        "Deutsche Telekom AG",
+        "Petroleo Brasileiro SA Petrobras",
+
+        "Baidu Inc",
+        "Alcon Inc",
+        "Adidas AG",
+
+        "Assicurazioni Generali SpA",
+        "Swisscom AG",
+        "Vodafone Group plc",
+        "Tesco PLC",
+        "Deutsche Lufthansa AG",
+        "Croda International plc",
+        "Leonardo SpA",
+        "BPER Banca SpA"
+    ],
+    "companies":[
+        "Uber Technologies Inc",
+
+        "Commonwealth Bank of Australia",
+        "Banco Santander SA",
+        "Goldman Sachs Group Inc The",
+        "First Republic Bank CA",
+        "Royal Bank of Canada",
+
+        "Geely Automobile Holdings Ltd",
+        "Iveco Group NV",
+        "Kia Corp",
+        "General Motors Co GM",
+        "Toyota Motor Corp",
+        "Lockheed Martin Corp",
+
+        "Campbell Soup Company",
+        "Kraft Heinz Co The",
+        "Coca Cola",
+        "Pepsico Inc",
+        "British American Tobacco PLC",
+
+        "Canadian Pacific Railway Limited",
+        "British Land Co PLC The",
+        "Builders FirstSource Inc",
+        "Daikin Industries Ltd",
+        "Franklin Electric Co Inc",
+
+        "China Petroleum Chemical Corporation"
+    ],
+    "companies_setC": [
+        "Eni SpA",
+        "Royal Dutch Shell PLC",
+        "Imperial Oil Ltd",
+        "Saipem SpA",
+        "Paramount Resources Ltd",
+        "DuPont",
+        "Enel SpA",
+        "Snam SpA",
+        "Novo Nordisk A S", 
+        "Bayer AG", 
+        "Humana Inc",
+        "China Evergrande Group",
+        "Sun Communities", 
+        "Park Hotels Resorts Inc",
+        "ArcelorMittal SA", 
+        "PPG Industries", 
+        "Yamana Gold Inc",
+        "Telecom Italia SpA",
+        "SkyWest Inc",
+        "Delta Air Lines Inc",
+        "Airbus SE",
+        "Virgin Atlantic Ltd"
+    ],
+
+    "companies_setB": [
+        "Saudi aramco",
+        "Amplifon",
+        "Air Canada",
+        "Activision Blizzard Inc",
+        "3i Group plc",
+        "Alibaba Group Holding Limited",
+        "American Electric Power Company Inc",
+        "Canon Inc",
+        "CarMax Inc",
+        "Tesla Inc",
+        "Deutsche Bank AG",
+        "FedEx Corporation",
+        "GlobalFoundries",
+        "Home Depot Inc The",
+        "Hyundai Motor Co",
+        "Korean Air Lines Co Ltd",
+        "Sony Corporation",
+        "STMicroelectronics",
+        "VMware Inc",
+        "WESCO International Inc"
+    ],
+
+    "companies_setA": [
+        "NVIDIA Corp",
+        "Microsoft Corporation",
+        "Intel Corp", 
+        "Texas Instruments Inc", 
+        "Apple Inc", 
+        "Oracle Corporation", 
+        "Alphabet Inc", 
+        "Cisco Systems Inc",
+
+        "unicredit spa", 
+        "poste italiane", 
+        "toshiba corp", 
+        "3m corporation", 
+        "visa inc",
+        "washington real estate investment trust", 
+        "samsung electronics co ltd", 
+        "walt disney co", 
+        "adecco group ag", 
+        "amazoncom inc",
+        "Fox Corporation",
+        "LG Display Co Ltd"
+    ]
+}

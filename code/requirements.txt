@@ -10,5 +10,5 @@ InstructorEmbedding
 torch 
 torchvision
 langchain
-kor 
+kor==1.0.0
 pysbd

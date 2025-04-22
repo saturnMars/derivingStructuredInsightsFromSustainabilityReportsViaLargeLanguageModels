@@ -26,4 +26,10 @@ This folder includes the minimal code to extract structured data from textual do
 and conduct the analyses reported in the paper.
 
 ### Output
-Here the triples extracted using our methodology represent the ESG-related actions disclosed by the selected companies. 
+Here the triples extracted using our methodology represent the ESG-related actions disclosed by the selected companies.
+
+## Availability of ESG data
+Unfortunately, due to copyright and licence issues, I cannot disclose any data related to companies' ESG scores, extracted from the [Refinitiv platform](https://www.lseg.com/en/data-analytics/products/workspace).
+Accessing such a platform requires a costly subscription and its terms & conditions forbid the re-distribution. Conversely, I understand the importance of ESG-related data and apologise for not helping your research.
+
+Some universities or research institutes (especially those focus on economics) might have a licence for research only purposes, providing researchers with such valuable data sources. On the other hand, independent researchers could have serious difficulties to gain access to it. I would however suggest exploring further data sources such as those listed [here](https://sustainablefinancedaily.com/sustainable-finance-insights/esg-data-and-analytics/10-free-esg-data-sources-and-scores).

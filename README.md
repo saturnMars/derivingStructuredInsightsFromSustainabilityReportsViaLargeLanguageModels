@@ -33,3 +33,26 @@ Unfortunately, due to copyright and licence issues, I cannot disclose any data r
 Accessing such a platform requires a costly subscription and its terms & conditions forbid the re-distribution. Conversely, I understand the importance of ESG-related data and apologise for not helping your research.
 
 Some universities or research institutes (especially those focus on economics) might have a licence for research only purposes, providing researchers with such valuable data sources. On the other hand, independent researchers could have serious difficulties to gain access to it. I would however suggest exploring further data sources such as those listed [here](https://sustainablefinancedaily.com/sustainable-finance-insights/esg-data-and-analytics/10-free-esg-data-sources-and-scores).
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Citation
+If you use this repository or its code in your research, please cite the following work:
+
+```bibtex
+@article{bronzini2024glitter,
+  title={Glitter or gold? Deriving structured insights from sustainability reports via large language models},
+  author={Bronzini, Marco and Nicolini, Carlo and Lepri, Bruno and Passerini, Andrea and Staiano, Jacopo},
+  journal={EPJ Data Science},
+  volume={13},
+  number={1},
+  pages={41},
+  year={2024},
+  publisher={Springer Berlin Heidelberg}
+}
+```
+## License
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0).
+
+![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
